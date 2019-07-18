@@ -3,6 +3,7 @@
 经济学人MarkDown版文章
 
 欢迎关注公众号：
+
 ![image](images/qrcode.png) 
 
 本仓库文件来源于俄罗斯公益团体open_digital_library 若该仓库无法顺利使用，可以转到这个仓库：https://getmyte.com/
