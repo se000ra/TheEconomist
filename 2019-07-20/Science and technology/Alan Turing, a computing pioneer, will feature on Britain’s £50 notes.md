@@ -3,6 +3,7 @@
 ![image](images/20190720_STP002_0.jpg) 
 > print-edition iconPrint edition | Science and technology | Jul 20th 2019 
 AT THE MOMENT, Bank of England £50 notes feature James Watt, whose steam engines powered the Industrial Revolution, and his business partner Matthew Boulton. On July 15th, however, the bank announced that from 2021 fifties will instead depict Alan Turing, the man who built Colossus, the world’s first programmable, electronic, digital computer and who also developed much of the theory of computer science, especially the idea of algorithms. Colossus was used to break German codes during the second world war, shortening hostilities considerably. That won Turing scant recognition though, partly because of the project’s secrecy and partly because he was gay, and homosexual activity was then illegal in Britain. Which changed the world more, steam engines or computers, is debatable. But Watt died in his 80s, rich and lauded by his fellows. Turing died of cyanide poisoning, possibly self-inflicted, at the age of 41. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.alan['ælәn]:n. 艾伦（男子名） 
@@ -26,4 +27,6 @@
 19.debatable[di'beitәbl]:a. 可争论的, 成问题的, 未决定的 
 20.laud[lɒ:d]:n. 赞美, 称赞 vt. 赞美, 称赞 
 21.cyanide['saiәnaid]:n. 氰化物 vt. 用氰化物处理 [计] 氰化物 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -12,6 +12,7 @@
 He also wrote the script for “Harry Potter and the Cursed Child”, based on an original tale by J.K. Rowling. The play won more Olivier awards (Britain’s most prestigious theatrical gongs) than any previous West End production. He wanted it to capture the predicament of outsiders; it follows Albus Severus Potter, Harry’s son, as he is bullied at Hogwarts and struggles to live up to his father’s legacy. And he has adapted Philip Pullman’s “His Dark Materials” for a forthcoming serialisation. Lyra, the protagonist, struggles to assert her free will in the face of unpleasant parents, while trying to set the world to rights. 
 Perhaps inevitably, details from Mr Thorne’s own life have found their way into his locations, scenes and characters. For “the end of history...”, his most personal piece of writing to date, he mined his childhood in a politically active household where—like some of his creations—he felt he was constantly falling short of his parents’ ideals and expectations. His father, a union representative, took him and his siblings to rallies and protests from an early age; Mr Thorne has been a member of the Labour Party since he was 16. 
 “My politics are very important to me,” he acknowledges. He resists the seepage of those views into his work, but all the same they “infect the stories I tell”. He dislikes speechifying, but says that, as he writes, he constantly questions “what right we have to try and change the world and how we can, if indeed we can”. A motto is tattooed on the inside of his wrist: “Be good”. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bard[bɑ:d]:n. 吟游诗人, 诗人 
@@ -130,4 +131,6 @@
 114.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
 115.seepage['si:pidʒ]:n. 渗漏, 渗出物 [化] 渗流 
 116.speechifying[ˈspi:tʃɪfaɪɪŋ]:v. 演说, 演说似地说个不完( speechify的现在分词 ) 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

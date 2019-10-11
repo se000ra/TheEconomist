@@ -9,6 +9,7 @@
 This is an expensive waste. Some governments see it as a security risk, too. The region is a net food importer. In the weeks before Ramadan, state-run media admonish their citizens to be less wasteful. On social media diners now swap recommendations not on lavish buffets but on à la carte options. Autocratic regimes that frown on civil society are happy for their citizens to take up the cause of food waste. Wahab, a Qatari startup, sends volunteers to collect leftovers from hotels and restaurants. 
 A few hotels in Dubai have installed cameras and scales to track what winds up in the bin. Chefs use the data to cook less of the unpopular dishes. One Hilton property says the system cut buffet waste by 70%. Others are doing away with the buffet altogether—if not for iftar then for suhour, the pre-dawn “dinner”. A growing number of restaurants advertise prix fixe menus as a waste-free way to break fasts. These meals are also cheaper. A lavish hotel buffet might cost 200 dirhams ($54). Set menus are about half that. 
 Egypt’s national food bank feeds about 1.8m families during Ramadan. Some of the food is sourced from hotels that package leftovers. For health reasons, though, uneaten food from a customer’s plate must be thrown away. After 15 hours of fasting, eyes are bigger than stomachs. Cameras will not help. So one Cairo hotel found a low-tech solution for its buffet: it made the plates smaller. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bin[bin]:n. (贮存谷物等的)容器, 箱子 [计] 二进制, 商业信息网 
@@ -59,4 +60,6 @@
 46.hilton['hiltәn]:n. 希尔顿（姓氏）；希尔顿集团（主营酒店和香烟等） 
 47.dirham[diә'hæm]:n. 迪拉姆(摩洛哥、阿联酋、埃及等国之货币单位) 
 48.uneaten[ʌnˈi:tn]:a. 没吃的, 剩下的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

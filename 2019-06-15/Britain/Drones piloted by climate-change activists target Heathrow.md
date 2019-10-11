@@ -9,6 +9,7 @@
 And that is just the tip of the autonomous iceberg. Modern drones are not just “low and slow devices”, says Anna Jackman of Royal Holloway, University of London, but are capable of speeds up to 160mph. Moreover they can be adapted by hobbyists both benign and malicious. Examples of DIYmodifications include graffiti sprays, grabbing claws, firework launchers, flame-throwers, tasers, handguns and chainsaws. James Rogers of the University of Southern Denmark points to an environmental activist who landed a drone carrying radioactive material on the Japanese prime minister’s residence. It sat there for nearly two weeks before it was discovered. 
 Even unmodified, drones can be made harder to tackle with the application of a little imagination. Modern drones can fly pre-set paths, obviating the need to communicate with an operator. Moreover, if taking out a single drone is hard, taking out a dozen—or a hundred—could be near-impossible. “You only need to have a few more drones than you have counter-measures and the drones have won the battle,” says Mr Michel. 
 If technological measures do not present an obvious solution to the problem, legal ones might. Experts advocate harsher punishments for drone operators who intrude on sensitive sites such as airports, arguing that a catastrophic accident is a matter of “when, not if”. If the threat of long prison terms and large fines does not deter protesters who believe they are saving the planet, the danger of unwittingly killing a few hundred people might. The risk, like the equipment, is sky-high. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.drone[drәun]:n. 雄蜂, 懒惰者, 嗡嗡的声音, 无人驾驶飞机(或船) vi. 嗡嗡作声, 混日子 vt. 低沉地说 
@@ -66,4 +67,6 @@
 53.deter[di'tә:]:vt. 制止, 吓住, 威慑 
 54.protester[]:n. 抗议者, 持异议者, 拒付者 [经] 反对者 
 55.unwittingly[]:adv. 不知情地；不知不觉地；不经意地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

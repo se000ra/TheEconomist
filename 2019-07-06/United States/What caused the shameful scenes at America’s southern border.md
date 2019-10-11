@@ -13,6 +13,7 @@
 Embarrassing as this was for Ms Pelosi, the emergency funding is a temporary reprieve for a recurring problem. Mr Trump’s administration has tried various methods to quell the influx. First, the short-lived practice of deterring family migration by separating children from their parents; now other tactics designed to scare off potential migrants and the strong-arming of the Mexican government into detaining many more central Americans on their way to the United States. 
 At the same time, prospective challengers vying to be the Democratic presidential nominee are adopting ever-leftier ideas. Several Democratic contenders have recently embraced decriminalising border crossing, a position held by Julián Castro, a former federal housing secretary and primary candidate. Cory Booker, a senator from New Jersey, says he would like to “virtually eliminate” immigrant detention and wrote that America must guarantee hormone therapy for detained transgender migrants who seek asylum. 
 As Mr Trump’s election showed, sympathy for migrants at the southern border ebbs and flows, but there is always demand for draconian border enforcement. Democrats need to tread carefully. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.shameful['ʃeimful]:a. 可耻的, 丢脸的, 不道德的, 淫猥的, 猥亵的, 不体面的 
@@ -108,4 +109,6 @@
 91.enforcement[in'fɒ:smәnt]:n. 执行, 强制 [法] 实施, 加强, 厉行 
 92.tread[tred]:n. 踏, 步态, 梯级, 交尾, 鞋底 vi. 踏, 行走, 交尾 vt. 踩, 踏, 践踏, 跳(舞) 
 93.carefully['kєәfuli]:adv. 小心地, 谨慎地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

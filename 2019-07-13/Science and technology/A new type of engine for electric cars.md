@@ -12,6 +12,7 @@
 All this frees up space elsewhere in the vehicle, allowing an electric car to be designed from scratch to be more efficient and therefore cheaper to run. Other benefits also come from lightness. A smaller battery can be topped up more effectively by the regenerative braking built into the module, as well as being faster to recharge when plugged into the mains. Indigo has tried the T1 out on prototype cars redesigned to be more aerodynamic. It reckons these prototypes need only a tenth of the power required by a combustion-engined vehicle, even at highway speeds. 
 A combination of a lighter vehicle and lighter components in the T1 modules also reduces the amount of unsprung weight. As for ride and comfort, the active suspension and the ability to control separately the power applied to each wheel permit better grip and increased stability during braking and cornering. 
 Indigo is talking to carmakers and components firms and hopes, by the end of the year, to land its first production contract. Dr Hemond expects particular interest from firms developing ride-sharing and autonomous vehicles. The sort of small, sleek vehicles or personal-mobility pods which such in-wheel drive systems might inspire would be a world away from the perambulatory Lohner-Porsche. But they would have made Porsche himself wonder what might have been had he stuck with the electric motor. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.automotive[.ɒ:tәu'mәutiv]:a. 汽车的 
@@ -67,4 +68,6 @@
 51.sleek[sli:k]:a. 光滑的, 油嘴滑舌的, 线条明快的, 圆滑的, 时髦的 vt. 使光滑, 掩盖 vi. 打扮漂亮, 滑动 
 52.pod[pɒd]:n. 豆荚, (豆荚状的)保护性外壳, 扁豆形矿体 vt. 从豆荚中剥出 vi. 结豆荚 
 53.perambulatory[pә'ræmbjulәtәri]:a. 巡视的, 巡行的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

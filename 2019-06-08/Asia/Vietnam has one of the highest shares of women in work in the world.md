@@ -11,6 +11,7 @@
 Businesses owned by women tend to be informal. Women make up 55% of the self-employed. They typically start a business just to make ends meet. Nguyen Thi Hong chops up and sells chickens for ten hours a day in a sweltering market in Hanoi. Along with her husband, she supports three children, her parents-in-law and her husband’s brother. As she puts it, if she did not work, “How else could we live?” 
 Even in the formal sector, work is not always smooth. Misogyny is rife. Many women complain about the glass ceiling, even though young Vietnamese women are now better educated than men. Wives still do the bulk of the housekeeping, too. 
 But as the economy shifts from farming to manufacturing, working women are becoming more independent. A recent report from the Mekong Development Research Institute, a think-tank, finds that new roads in the Mekong Delta over the past decade have made it easier for women to work in nearby textile and packaging factories, while their husbands stay at home and tend the family farm. Women in the region now earn more than men, and the balance of power between them and their husbands has shifted. Divorces have become more common and reported rates of domestic violence have fallen. Vietnamese women’s labour may at last be beginning to work for them. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Vietnam[.vjet'næm]:n. 越南 
@@ -68,4 +69,6 @@
 53.Mekong['mei'kɒŋ]:n. 湄公河 
 54.delta['deltә]:n. 三角洲, 希腊字母的第四个字 [医] δ(希腊文的第四个字母), 丁种, 三角, 三角形区 
 55.packaging['pækidʒiŋ]:n. 包装, 包装业, 包装术 [计] 组装; 封装 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

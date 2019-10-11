@@ -17,6 +17,7 @@
 Not everyone accepts this view. Morgan Stanley expects profits across the metals and mining industries to decline, for example. The bank is also bearish on tech, where the “breadth of the expected negative results is stunning”. Mr Wilson, who was among the first to foresee the current decline in profits, believes that earnings have not yet hit the bottom. “The picture is getting worse, not better,” he warns. 
 Unless America’s expansion enters Australia’s territory of 20-plus years of continuous GDP growth, the boost to profits from Mr Trump’s tax cuts came nearer the end than the beginning. That may have created excesses. As a share of GDP, corporate debt is nearly where it was before the subprime bubble burst in 2008. Inventories are building up across the economy. Firms must absorb higher depreciation costs from a tax-fuelled splurge of capital spending. All this can weigh on profitability. 
 The quarterly financial results unveiled this week by several big banks bolster the case for cautious optimism. A boom in credit cards and mortgages pushed profits up at JPMorgan Chase, Citigroup and Wells Fargo. This implies that, as Mr Dimon also said this week, “the consumer in the United States is doing fine.” This will be cold comfort to industrial firms and other business-facing companies whose margins are shrinking. Given the sheer length of America’s record economic expansion, however, it really is not that bad.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.earning['ә:niŋ]:n. 收入（earn的现在分词） 
@@ -128,4 +129,6 @@
 107.citigroup[]:n. 花旗集团1998年4月6日; 花旗公司与旅行者集团宣布合并; 合并组成的新公司称为“花旗集团”; 其商标为旅行者集团的红雨伞和花旗银行的兰色字标。 
 108.fargo['fɑ:ɡəu]:n. 法戈（美国北达科他州东南部城市） 
 109.sheer[ʃiә]:a. 绝对的, 全然的, 纯粹的, 透明的, 峻峭的 vi. 偏转, 偏航 vt. 使急转向, 使偏航 adv. 完全, 全然, 峻峭 n. 偏航 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

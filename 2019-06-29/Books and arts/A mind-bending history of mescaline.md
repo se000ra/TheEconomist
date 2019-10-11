@@ -10,6 +10,7 @@
 Mr Jay takes seriously mescaline’s ability to produce such visual and emotional revelations. But he also wants to demystify the heroic accounts of some of its evangelists, who have imagined it as a delivery system for their own aesthetic or spiritual obsessions. Genteel Edwardian experimenters like Havelock Ellis and W.B. Yeats saw it as a pathway to the symbolist worlds of that period’s art. Jazz-age eccentrics like Aleister Crowley took it as a direct line to the occult. Antonin Artaud worked mescaline’s effects into surrealism, Jean-Paul Sartre into existentialism. Huxley, who had studied with a Hindu swami, thought it promised mystical experiences for all. In a darker vein, Hunter Thompson turned a mescaline trip into the lunatic climax of “Fear and Loathing in Las Vegas”. For Mr Jay, this marks a moment when the drug culture was “leaving the utopian dreams of the Sixties in its dust”. 
 Doctors’ hopes for mescaline have foundered too—a fact worth remembering as hallucinogens draw renewed medical interest. Some 20th-century psychiatrists thought mescaline might unlock the mechanism of schizophrenia. It didn’t. Its effects are too unpredictable for clinical applications: it can produce elation or paranoia, elaborate visions or none. The let-down spurred a search for related compounds such as LSD and ecstasy, which have more reliable effects at lower doses. 
 For Mr Jay, the most rewarding way to take the drug remains the Native American “half moon” peyote ceremony, guided by an experienced shaman and surrounded by fellow travellers on their own spiritual roads. When consuming mescaline, as with many things in life, it is a mistake to focus too much on the commodity, and too little on the company. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.cactus['kæktәs]:n. 仙人掌 [医] 仙人掌属 
@@ -130,4 +131,6 @@
 116.shaman['ʃæmәn]:n. 萨满教巫医 [法] 巫师 
 117.traveller['trævlә]:n. 旅行者 [经] 旅行商 
 118.commodity[kә'mɒditi]:n. 农产品, 商品, 有用的物品 [经] 商品, 货物, 日用品 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

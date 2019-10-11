@@ -16,6 +16,7 @@
 The markets, at least, are taking seriously the government’s apparent determination to leave with or without a deal. In Mr Johnson’s first week as prime minister the pound fell by 3% on a trade-weighted basis. It is nearing $1.20 against the dollar, its lowest level since the referendum. 
 The government hopes that talk of a big fiscal boost will counterbalance the gloom. It is said to be planning an autumn budget that would get the economy “going gangbusters” by exit day. Mr Johnson has floated various giveaways, including raising the thresholds at which people start to pay the higher rate of income tax and more money for the NHS and police. At the poultry farm he promised to compensate farmers who lose out from any no-deal disruption. 
 Yet Britain will not be able to spend its away out of no-deal chaos. In such an event, annual borrowing would anyway rise by some £30bn (1.4% of GDP) as the economy slowed, official estimates suggest. A government which promised lots of extra spending and tax cuts on top of that would test the confidence of investors. And a no-deal Brexit is likely to be primarily a shock to the supply side of the economy. Fiscal stimulus aimed at supporting demand would do nothing to help bottlenecks at Dover or firms that were no longer legally allowed to sell into the EU market. Not all types of chicken come cheap.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.fowl[faul]:n. 鸟, 飞禽, 家禽 vi. 打鸟 
@@ -103,4 +104,6 @@
 83.stimulus['stimjulәs]:n. 刺激, 激励, 刺激品 [医] 刺激特, 刺激 
 84.bottleneck['bɒtlnek]:n. 瓶颈 [经] 瓶颈, 增产障碍 
 85.legally['li:gәli]:adv. 法律上, 合法地 [法] 法律上, 合法地, 法定地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

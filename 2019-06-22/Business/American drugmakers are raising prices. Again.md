@@ -10,6 +10,7 @@
 Drug firms retort that the returns on that R&D investment will not be as good as they used to be. They have to spend ever more prospecting for blockbuster molecules. The alternative is to pay top dollar to acquire biotechnology firms which have already identified them. On June 17th Pfizer said it would pay $11.4bn for Array BioPharma, which has developed therapies for cancer. In April Bristol-Myers Squibb approved a $74bn purchase of Celgene. 
 Whatever the true level of pharmaceutical firms’ financial returns, they could become juicier again. Although in the past four years spending on drugs by patients and private insurers has barely budged, an annual report published on June 20th by PwC, a consultancy, forecasts that it is about to rise again. Most of the increase will be the result of higher prices. 
 Peter Bach of Memorial Sloan Kettering, a leading cancer hospital in New York, thinks the million-dollar price tags are unjustified. Novartis, he argues, cherry-picked health-economic studies that supported its pricing. In 2012, his hospital refused to offer patients a new cancer drug from Sanofi after his analysis showed its high price was not justified by better outcomes. The French firm reduced it—just as Mr Azar would counsel. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.drugmaker['drʌ^,meikә(r)]:制药者 
@@ -68,4 +69,6 @@
 54.unjustified[]:[计] 未经调整的, 未对齐的 
 55.sanofi[]:[网络] 赛诺菲；赛诺菲集团；法国赛诺菲 
 56.counsel['kaunsәl]:n. 商议, 忠告, 法律顾问 v. 商议, 劝告 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

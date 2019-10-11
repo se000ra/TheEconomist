@@ -10,6 +10,7 @@
 Despite their different styles, the presentation of the two prime ministers is oddly familiar. Mr Johnson, who prides himself on his campaigning skills, shuffles between photo opportunities, agreeing only to carefully staged pool interviews, as was Mrs May’s wont. Although Mr Johnson looks comfortable chatting to farmers or petting their livestock in a way that Mrs May never could, the strategy is the same: keep the prime minister away from the press. This should be little surprise. Staffers from CTF Partners, a political consultancy that oversaw Mrs May’s bungled 2017 election, have taken roles in Mr Johnson’s operation. 
 That a strategy failed once does not mean it will always fail. Mrs May’s former aides moan that figures such as Philip Hammond, her chancellor, hamstrung the prime minister by refusing to play along with her pantomime preparations for a no-deal Brexit. Mr Johnson’s team has seen off this problem by selecting a cabinet of true Brexit believers and a few former Remainers who have kissed the ring. Labour gained 20 points during the course of the 2017 election campaign, a feat it may struggle to repeat. In calling her snap election, Mrs May looked opportunistic—an ugly trait for a politician whose selling point was a sense of duty. Mr Johnson may be forced into one, or at least look as if he was. Grand political realignments also take time. The 2017 election was called only ten months after the Brexit referendum. Now, after three years of incessant argument, people identify more strongly with their vote in the referendum than with a political party. It may be that the authors of Mrs May’s strategy were merely ahead of their time. 
 Yet the May-Johnson approach still suffers from gaping flaws. An election cannot be won with the votes of Leavers alone. Nabbing seats from Labour in pro-Brexit areas is pointless if Remainer seats in London suburbs and university towns are lost. Mr Johnson may frame an election as a plebiscite on Brexit, but it will be voters who decide which topics matter. Mrs May, astonishing as it may now seem, was once wildly popular, entering office with an approval rating of 35. Mr Johnson’s is -7. And whereas Mrs May had options when she became prime minister—a majority, a malleable mandate from the referendum and a public less divided than today—Mr Johnson has none of these. The new prime minister has taken the path of May Mark 2. It is a treacherous one. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Bagehot[ˈbædʒət]:白芝浩；巴杰特（人名） 
@@ -123,4 +124,6 @@
 109.malleable['mæliәbl]:a. 有延展性的, 可锻的 [医] 可展的, 易适应的 
 110.mandate['mændeit]:n. 命令, 指令, 要求 vt. 委任统治 
 111.treacherous['tretʃәrәs]:a. 不可信任的, 危险的, 背叛的, 不可靠的 [法] 奸诈的, 背叛的, 背信弃义的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

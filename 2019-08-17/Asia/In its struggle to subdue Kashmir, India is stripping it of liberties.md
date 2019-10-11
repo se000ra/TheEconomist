@@ -8,6 +8,7 @@
 The government has also failed to explain its legal basis for locking up many Kashmiri politicians, including ones who are relatively moderate, during the clampdown. Reports by Indian and foreign media say that between 200 and 500 people are being held in makeshift detention facilities in Srinagar, the main city in Kashmir. A senior official was asked by reporters whether there was a legal justification. “Yes,” he said simply, “but I cannot say what.” Shah Faesal, a civil servant-turned-politician, tweeted on August 12th that Kashmir needed a “non-violent political mass movement” to restore citizens’ rights. On August 14th he was detained at Delhi’s airport and put under house arrest. 
 Mr Faesal is being held under the Public Safety Act. This gives police the discretion to place almost anyone under administrative detention for up to two years. It is one of many such laws that have long been in force—the Armed Forces Special Powers Act being the most notorious. They give the authorities sweeping rights to imprison or even shoot people they regard as troublemakers. The Supreme Court has taken an indulgent line on the curfew. “When the situation is such, we must have a real picture before we take a call on this,” said Arun Mishra, one of its judges. 
 The prime minister, Narendra Modi, is crowing. In an interview with IANS, an Indian news agency, he said revoking Kashmir’s special status would “only empower democracy even more”. That sounds implausible. For now, the academic in Delhi fears for his family’s safety. He hopes to hear news from a friend who has just flown to Srinagar (if he can leave again). “Darkness is not a happy situation,” he says. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.subdue[sәb'dju:]:vt. 使服从, 压制, 减弱, 抑制, 克制 
@@ -60,4 +61,6 @@
 48.revoke[ri'vәuk]:vt. 撤回, 废除 vi. 藏牌 n. 藏牌 [计] 取消权限程序 
 49.empower[im'pauә]:vt. 授予权力, 允许, 使能够 [法] 授权, 准许, 转委 
 50.implausible[im'plɒ:zәbl]:a. 难以置信的, 不象真实的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

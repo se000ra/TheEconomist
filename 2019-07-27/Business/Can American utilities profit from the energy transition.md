@@ -20,6 +20,7 @@
 Despite Xcel’s clean-power plans, which include nuclear energy on top of renewables, even Mr Fowkes says that eschewing gas altogether would be “a little short-sighted”. His firm’s plan for the upper Midwest is for gas to generate a quarter of electricity by the mid-2030s. 
 But big investments in gas—such as Duke’s plan for it to account for two-thirds of the Carolinas’ new generating capacity—carry risks. The first is that some gas plants, like coal ones before them, become uneconomic as renewables keep getting cheaper. In April, Indiana’s utility commission rejected a proposal for a gas plant by Vectren, another utility, for just that reason. If America one day sets a price on carbon emissions, customers could be left paying for utilities’ bad bets on fossil fuels. 
 The second risk is that if utilities do not offer enough clean power, customers may get it elsewhere. Homeowners are installing solar panels on their roofs. Big corporate buyers of electricity, including Google and General Motors, this year launched a campaign to ensure an affordable supply of clean power. Such challenges make life for utilities less boring. Tackling them head on could make it more lucrative.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.windfall['windfɒ:l]:n. 被风吹落的果子, 横财 [经] 意外损失 
@@ -127,4 +128,6 @@
 103.google[]:谷歌；搜索引擎技术；谷歌公司 
 104.affordable[]:[计] 普及型 
 105.tackle['tækl]:n. 工具, 复滑车, 滑车, 装备, 扭倒 vt. 固定, 处理, 抓住 vi. 扭倒 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

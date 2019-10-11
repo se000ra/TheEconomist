@@ -12,6 +12,7 @@
 Lebanese officials push the idea that Syria is now safe. “That is stupid, stupid, stupid,” says an aid worker. Dozens of civilians have been killed recently, as the Syrian government tries to retake the last major rebel stronghold, in and around Idlib province. The risk of arbitrary detention and disappearance remain high. Young men who return face military conscription. Others are exposed to revenge attacks from embittered neighbours or Syria’s many unruly militias. 
 The authorities in Lebanon appear undeterred by the principle of non-refoulement, which prohibits sending people back to countries where they will face persecution. Other governments in the Middle East and elsewhere are considering similar actions—and taking them. Turkey, which has 3.6m Syrian refugees, stands accused of deporting some of them to Idlib. 
 Many Lebanese think Mr Bassil is whipping up nativist fervour to further his own presidential ambitions. “In a way, he is our Trump,” says Ahmad Fatfat, a former lawmaker with the Future Movement, a Sunni party. The response from other politicians has been muted. Most seem content to scapegoat Syrian refugees, instead of taking responsibility for their own failures. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.stoke[stәuk]:v. 司炉, (使)大吃 
@@ -88,4 +89,6 @@
 72.lawmaker[lɒ:'meikә]:n. 立法者 
 73.Sunni['suni:]:n. 〈伊斯兰〉逊尼派教徒 
 74.scapegoat['skeipgәut]:n. 替罪羔羊, 替人顶罪者, 替身 [法] 替罪羊, 代人受过者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

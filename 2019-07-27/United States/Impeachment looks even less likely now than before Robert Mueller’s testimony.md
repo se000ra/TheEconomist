@@ -8,6 +8,7 @@
 For House Democrats this was deflating. An impeachment effort last week, called by Representative Al Green over the president’s racist remarks, died after being turned back by a majority of Democrats. It also comes after months of oversight authority—and the subpoena authority that comes with leadership of the House—have failed to turn up as much scandal as was expected at the start of the year. Jerrold Nadler, the chairman of one of the committees, already has a primary challenger who charges that he has been too tame in his oversight of the administration. 
 The Republicans were almost uniformly in Trump-defence mode. Though they took nearly every speaking opportunity to assail Mr Mueller’s credibility and impartiality they did gleefully accept the conclusion that “the investigation did not establish that members of the Trump campaign conspired or coordinated with the Russian government in its election interference activities” without question. Several, including Devin Nunes, the senior Republican on the intelligence committee, advanced the conspiracy theory that the entire affair had been a hoax concocted by Democrats and Russia. If an aim of congressional Democrats had been to present the public with a clear and convincing view of presidential misconduct, this seesawing from one sympathetic Democrat to the next Republican inquisitor will not have helped. 
 Stuck at the epicentre of a political storm, Mr Mueller sought to extricate himself as painlessly as possible. It was an understandable strategy. Political showmanship reigned in this congressional hearing, as it does in many. His few flashes of emotion came when discussing the prospect of recurring electoral interference. “Over the course of my career, I’ve seen a number of challenges to our democracy. The Russian government’s efforts to interfere in our election is among the most serious,” he said in his opening remarks. Later on, he remarked that “It wasn’t a single attempt. They’re doing it as we sit here. And they expect to do it during the next campaign”. Nor did he sound hopeful that Congress would heed the warning. Asked whether the meddling of foreign governments in elections was a permanent feature of American politics, he answered: “I hope this is not the new normal, but I fear it is.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.spake[speik]:vbl.speak的过去式 
@@ -93,4 +94,6 @@
 81.electoral[i'lektәrәl]:a. 选举人的, 选举的, (有关)选举的 [法] 选举的, 选举人的, 由选举人组成的 
 82.heed[hi:d]:n. 注意, 留心 v. 注意, 留心 
 83.meddle['medl]:vi. 干涉, 干预, 擅自摸弄 [法] 干预, 插手, 弄乱 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

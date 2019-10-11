@@ -8,6 +8,7 @@
 A metafictional romp doubling as an oblique portrayal of the post-truth zeitgeist (and this week shortlisted for the Booker prize), “Quichotte” ought to be fun. Yet its teeming subplots fail to spark. Storylines about Salma’s secret opioid addiction, or a social-media storm that engulfs Sam’s estranged sister—a British politician accused of racism—seem to arise only from a desire to be topical. The dialogue and narration often sound like a vessel for the author’s views on matters from Brexit to the veil; the cast features a technology guru resembling Elon Musk and a Big Pharma boss caught in a #MeToo scandal. 
 “Quichotte” expends a great deal of energy going nowhere in particular. A reference to a character’s “kindliness” carries a footnote explaining that he is “by no means kindly in all matters. As we shall see. As we shall presently see.” Salma’s past goes unmentioned, “out of respect for her privacy”, before a backtrack: “the privacy rights of fictional characters are questionable—to be frank, they are nonexistent—and so we hereby abandon our modesty.” It turns out the hesitation was redundant: Salma has spoken openly “on many nationally syndicated television talk shows”, so “we are not probing very deeply into her personal matters by revealing them.” 
 As the book’s real and invented worlds collide, there are affecting moments. Sancho falls for a woman to whom—being a figment of imagination—he is invisible. Sam creates a scene in which Ismail and Sancho witness a deadly racist attack, only for the incident to recur in Sam’s own life, forcing him and his son to intervene. But ultimately Sir Salman’s games feel more bloated than bountiful. When he excuses yet another digression by saying that “so many of today’s stories are and must be of this plural, sprawling kind”, it sounds like special pleading. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tilt[tilt]:n. 倾斜, 倾向, 船篷, 车篷 vt. 使倾斜, 使倾侧, 用帆布篷遮盖 vi. 倾斜, 翘起, 冲, 评击 [计] 倾斜 
@@ -87,4 +88,6 @@
 75.digression[dai'greʃәn]:n. 离题, 扯到枝节上, 偏离 
 76.sprawl[sprɒ:l]:vi. 伸开手足躺, 爬行, 蔓生, 蔓延 vt. 懒散地伸开, 使蔓生, 使不规则地伸展 n. 伸开手足躺卧姿势 
 77.plead[pli:d]:vi. 辩护, 恳求 vt. 为...辩护, 提出...借口, 托称, 恳求 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

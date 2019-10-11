@@ -9,6 +9,7 @@
 Waiting for Washington to take the climate seriously is a counsel of despair. It also ignores the magnitude of states’ plans. Pledges by states help set America on the path to a 17% cut in emissions by 2025, using 2005 as a baseline. Add a few more and the total would increase to nearly 25%, putting America within striking distance of the (albeit modest) commitment the previous White House made in Paris in 2016, even though the federal government has promised to withdraw from that agreement. 
 This matters for two reasons. First, because the world’s largest economy is a significant source of pollution. America, like every other country, needs to be on a path to eliminate all emissions by mid-century or shortly thereafter if it is to reduce the risks posed by climate change. Second, because the assumption that America is a laggard gives other countries an excuse to do nothing, undermining international climate diplomacy. 
 States like California with ambitious laws on emissions can encourage the development of technologies that will then be used by others. And if America can stay on track through state actions, the nationwide politics of climate change might just change in the coming decades. Just over half of Americans aged 55 or over think climate change is man-made and worry about it, according to polling by Gallup. Among Americans aged 18-34, three-quarters do. America’s economy has been through transformations before. It can go through another.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.laggard['lægәd]:n. 迟钝者, 落后者 a. 迟钝的, 落后的 
@@ -49,4 +50,6 @@
 36.ambitious[æm'biʃәs]:a. 有野心的, 抱负不凡的, 雄心勃勃的 
 37.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
 38.Gallup['^ælәp]:n. 盖洛普（姓氏）；盖洛普（George Horace, 1901-美国统计学家, 盖洛普民意测验的创始人） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

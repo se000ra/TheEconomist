@@ -11,6 +11,7 @@
 In response, both FedEx and UPS are investing large sums to modernise their fleets and expand their delivery hubs. But though FedEx’s revenues of almost $18bn in the last quarter have nearly caught up with UPS’s, its profit margins are weaker and it is generating less cash. That worries investors. It could seek to reassure them by reducing purchases of costly items like aircraft, or combining two of its independent businesses in America, FedEx Express and FedEx Ground, to cut costs. But it has rejected both ideas, insisting it is best to invest in growth. 
 It may be wise to double down this way. However much risk-averse investors may prefer share buy-backs to ambitious capital-spending plans, halting investment could be seen as a flag of surrender by the likes of Amazon. That said, FedEx’s failures—to respond more quickly to the changing e-commerce landscape, to read the runes of geopolitics and to end its stubborn refusal to join its two businesses—reflect a company whose management is long in the tooth. Including Mr Smith, FedEx’s ten top executives average more than three decades at the firm, which is extraordinary. 
 It is hard not to misread the changing rules of business when you once rewrote them—even harder when some of your oldest friends are your sounding board. It is clear that the directors have no stomach for replacing their chairman in the foreseeable future. But unless Mr Smith brings in fresh executives, and then listens to them, his days at the business blackjack table should be numbered. Think FredExit, in other words.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Schumpeter[]:n. 熊彼特（美籍奥匈帝国经济学家, 当代资产阶级经济学代表人物之一） 
@@ -100,4 +101,6 @@
 85.rune[ru:n]:n. 诗歌；古代北欧文字；神秘的记号 
 86.misread[mis'ri:d]:vt. 读错, 看错 
 87.foreseeable['fɒ:'si:әbl]:a. 可预知的, 能预测的 [法] 可预见的, 可预料的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

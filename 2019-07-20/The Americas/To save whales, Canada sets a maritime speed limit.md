@@ -11,6 +11,7 @@
 Some solutions cause problems. In 2015 the NOAA told American fishermen to put more traps on each fishing line to reduce the number of lines in the water. That required stronger rope, which made it harder for whales to free themselves. Some ships are thought to speed up before entering a speed-limit zone, raising the risk of killing a whale. In American waters, the speed limits near whale sightings are voluntary. 
 The whale-protection measures have reduced fishermen’s catch. The speed limit on large boats can lengthen by eight hours the time it takes to get from Cabot strait to Montreal. Cruise ships have had to cancel stops. Owners of container ships may need to add more vessels to meet delivery schedules. Despite the extra costs, captains have mostly obeyed the rule. According to the Canadian transport department, only 111 of the 1,472 ships that sailed through restricted zones between April 28th and June 27th broke the speed limit. 
 The government hopes that eventually new devices, like ropeless fishing gear, will save some whales. It is giving more money to organisations like Campobello Whale Rescue, a group of scientists, researchers and fishermen on Campobello Island in New Brunswick. They set forth in inflatable speedboats to free whales from fishing lines. It is dangerous work. In 2017 a whale struck one of its rescuers with its tail, killing him. On July 8th this year another team sped out from Campobello to free the whales off Miscou island. By July 15th they had disentangled two of them partially. The whales swam off trailing ropes.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.maritime['mæritaim]:a. 海的, 海上的, 海事的, 沿海的, 海员的 [经] 海事的, 海上的, 海员的 
@@ -57,4 +58,6 @@
 42.speedboat['spi:dbәut]:n. 高速游艇 
 43.rescuer['reskjuә]:n. 救助者 
 44.disentangle[.disin'tængl]:vi. 解开纠结, 松开, 解决 vt. 解开, 松开 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

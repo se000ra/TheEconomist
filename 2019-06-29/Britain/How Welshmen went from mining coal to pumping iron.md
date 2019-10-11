@@ -12,6 +12,7 @@
 The Welsh authorities quickly recognised the problem. Two years ago the then public-health minister warned of the “worrying number” of young men buying the drugs for cosmetic reasons. Mike Mallett set up a specialist IPEDs clinic in Newport after noticing that more and more patients visiting his needle-exchange were using steroids. Staff at the clinic take blood samples and give advice on reducing the risks of injecting or swallowing steroids. 
 Studies suggest that steroid users risk less damage than smokers, drinkers or users of most illegal drugs. But they often experience side-effects like acne, shrinking testicles and low libido. Because of the extra pressure placed on their bodies, users also risk serious long-term complications such as cardiovascular disease and impaired liver function. 
 At Mr Calloway’s first visit to the Newport clinic, he chats through his steroid regime with a doctor. “What dosage is safe?” he asks. He confirms that he never shares needles and the doctor tells him that his intake is “not that horrendous”. He will have to wait a few weeks to get the results from his blood sample. Whatever it says, he seems unlikely to quit. “It has no limits,” he says. “Every time you look in the mirror, you still think, ‘I could be bigger,’ so you just keep going.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Welsh[welʃ]:a. 威尔士的 n. 威尔士人 vi. 赖赌帐, 逃避责任 
@@ -88,4 +89,6 @@
 72.dosage['dәusidʒ]:n. 剂量, 用量, 配药 [医] 剂量 
 73.intake['inteik]:n. 入口, 吸入, 吸入量 [医] 摄取量 
 74.horrendous[hɒ'rendәs]:a. 可怕的, 骇人的, 不得了的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

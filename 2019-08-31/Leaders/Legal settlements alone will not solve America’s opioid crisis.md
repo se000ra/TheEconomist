@@ -10,6 +10,7 @@
 Keen to signal they mean business, some states have introduced laws to tighten supply. Paradoxically, perhaps, they need to be careful. Prescription opioids are no longer the main cause of death from addiction. Efforts to cut off people who are addicted risk sending them onto the black market for supplies. Regulators need to focus instead on medically assisted treatment for addicts, which has been scandalously neglected. This would save thousands of lives a year. 
 The full cost of dealing with the crisis will run to hundreds of billions of dollars, which is why legal redress is needed—and why, unlike in tobacco settlements, the damages from pharma companies should go directly into alleviating the harm from opioids rather than into general government spending. Unfortunately, even then, generous settlements with drug firms and distributors will not foot the entire bill. Large sums will thus have to come from taxpayers. 
 All this should be a warning to governments everywhere. In most parts of the world there is a shortage of pain relief. But as governments expand access to drugs, they should heed the lessons from America. Opioids need to be dispensed according to properly enforced rules. Regulators have a role in supervising how they are marketed. Doctors should be vigilant and inform patients of the risks. None of this is to absolve the companies that mis-sold drugs or looked the other way. Patients have a right to expect high ethical standards from those who supply their medicines. But making sure that opioids are a gift to humanity and not a curse is a job for the entire health system. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.opioid[əʊ'pi:əʊɪd]:a. 类鸦片（引起）的 n. 类鸦片活性肽 
@@ -70,4 +71,6 @@
 56.absolve[әb'zɒlv]:vt. 宣告...无罪, 赦免, 免除 [经] 免偿(债务), 解除 
 57.ethical['eθikәl]:a. 伦理的, 民族的, 民族特有的 [医] 伦理的, 道德的 
 58.humanity[hju:'mæniti]:n. 人性, 人类, 博爱 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

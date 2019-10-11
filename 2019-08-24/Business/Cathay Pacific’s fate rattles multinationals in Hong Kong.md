@@ -9,6 +9,7 @@
 Many in Hong Kong balk at such subservience. David Webb, a respected activist investor, called Cathay’s concessions “the most appalling kowtow to Peking” and said that its “shameful appeasement” had done great damage to its brand. On August 20th Jeremy Tam, a Cathay pilot who is also a pro-democracy lawmaker, said he had quit the airline. Days earlier a crowdfunded newspaper ad by local employees of the Big Four accounting firms—Deloitte, Ernst & Young, KPMG and PwC—blamed their Hong Kong branches for turning a deaf ear to the protests. Global Times duly demanded that the firms investigate who was behind the ad and sack them. (So far the Chinese authorities have not made such demands.) 
 Some business types believe things may go back to normal. Hong Kong remains a gateway to China’s gargantuan market. Few know this better than Cathay: close to a quarter of its destinations are in the mainland. Cathay was, in the words of one senior Western banker, “the pound of flesh that was necessary, but it was a clean cut”. 
 China, for its part, has an interest in returning to the days when businesspeople believed its promise of “one country, two systems”. As for Cathay, Air China holds a 30% stake in the airline. Old rumours of the flag carrier’s intention to buy Cathay outright have resurfaced. Luya You of Bocom International, a broker, says an acquisition would transfer Cathay’s global expertise to Air China and “quell China’s concerns about its foreign background” (ie, Swire). Given all the turbulence, few expect such a high-stakes deal to happen soon. Still, in the meantime, Ms You has a simple message for investors: “Do not underestimate China’s resolve to punish Cathay as a symbol for others.” Many will have heard that disturbing message loud and clear.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.clip[klip]:n. 修剪, 夹子, 回形针, 剪下来的东西 vt. 修剪, 痛打, 夹牢, 剪报 vi. 剪报 
@@ -84,4 +85,6 @@
 71.quell[kwel]:vt. 压制, 平息, 减轻 
 72.turbulence['tә:bjulәns]:n. 混乱, 动荡, 骚乱, 紊流 [化] 湍流; 紊流 
 73.underestimate[.ʌndәr'estimeit]:n. 低估 vt. 低估, 看轻 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

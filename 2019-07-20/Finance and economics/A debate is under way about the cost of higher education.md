@@ -11,6 +11,7 @@
 But the most powerful arguments for free university are about values rather than economic efficiency. To politicians like Mr Sanders, a post-secondary education is a part of the basic package of services society owes its members. There are broad social benefits to a well-educated citizenry, because new ideas allow society as a whole to prosper and cultivating an informed population in an increasingly complex world probably takes more than 12 or so years of schooling. Amid constant technological change, a standing offer of free higher education may represent an important component of the social safety-net. Universality reinforces the idea that free education is not an expedient form of redistribution, but part of a system of collective insurance underpinning an egalitarian society. To progressive politicians, means-tested services send the message that government programmes are for those who cannot help themselves, whereas universal programmes are a means by which society co-operates to help everyone. 
 ![image](images/20190720_FNC411_1.png) 
 Ironically, such values-based arguments, however one feels about them, are undercut by rising inequality. As the rich pull away from the rest, their increased political power may stymie tax rises needed to fund universal public services. Meanwhile for progressive politicians the need to target available funds at the worst-off in society grows more urgent; in America, the argument that the children of billionaires should not receive a government-funded education takes on greater moral as well as practical weight. It is probably no coincidence that tuition fees are lowest in places with the most equal income distributions (see chart). Strong safety-nets compress the income distribution. But inequality may also make the sorts of comprehensive public services that underpin egalitarian societies ever harder to sustain. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -78,4 +79,6 @@
 63.inequality[.ini'kwɒliti]:n. 不平等, 不同, 不平坦, 不平均 n. 不平等, 不等式 [计] 不等式 
 64.stymie['staimi]:n. (喻)困难的境地 vt. 使(球)处于困难的位置, 使为难, 使处困境, 妨碍, 阻挠, 阻碍 
 65.billionaire[.biljә'nєә]:n. 亿万富翁 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

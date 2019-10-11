@@ -12,6 +12,7 @@
 His verdict may be unduly harsh. Most analysts think that the congressional plan would save enough to reassure investors. “The day after pensions reform passes will be the start of a new Brazil,” says Luiz França of the Brazilian Association of Real Estate Developers. “We all have a 400m- or 500m-real project sitting in a drawer waiting for the economy to pick up,” says Carlos Jereissati, the CEO of Iguatemi, a chain of luxury shopping centres. 
 By itself, pension reform may not restore the economy to health. Though encouraging investment, it could also hurt consumer spending, since workers will need to save more for retirement, says Antonio Spilimbergo of the IMF. Italy’s economy took a hit because it enacted pension reform only after a long wait and during a downturn. Cuts in other spending, needed to comply with a 20-year freeze enacted by Brazil’s previous government, are weighing on growth this year. Mr Jereissati is keeping his millions in the drawer until he sees a year of growth of 2% or higher. 
 Another concern is that dysfunction in Brasília will impede other reforms. To privatise state firms and cut import tariffs, the government will have to battle special interests. Mr Bolsonaro will need the co-operation of congress to revamp the tax system and reduce the public-sector wage bill. A pension reform “might get the party started”, says Tony Volpon, an economist at UBS, a bank. “But we’re one Twitter storm away from this all going to hell.”◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.chao[]:n. 钞（货币） 
@@ -105,4 +106,6 @@
 89.Volpon[]:[网络] 沃尔蓬 
 90.UB[]:[计] 上限 
 91.twitter['twitә]:n. 啁啾, 唧唧喳喳声 vi. 啭, 啁啾, 颤抖 vt. 嘁嘁喳喳地讲, 抖动 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 The people used to blame greedy ministers and corrupt officials for their misery—and looked to the king for remedies. Now when they protest, as they often do, they call out King Abdullah by name. “Prices are rocketing and Abdullah is playing poker,” runs one of their chants. “Jordan can’t handle the cost of its royal family,” says a sheikh from the Beni Hassan, the kingdom’s largest tribe. A widely-shared letter from a former minister, Amjad al-Majali, demanded the king “hunt the corrupt circle that is close to you”. 
 Anger is fiercest among the indigenous Bedouin, who dominate the security and intelligence services. Retired officers sign open letters stating that they no longer consider Abdullah and his Palestinian wife, Rania, their monarchs. Some threaten to take up arms. Amid reports of coup plots, the king removed his interior minister and intelligence chief. Their replacements immediately arrested tribal leaders—further inflaming tempers. 
 Some Bedouin sheikhs look to Prince Hamzah, the king’s half-brother, who was removed as heir apparent in 2004 to make way for the king’s son. Prince Hamzah’s rich Arabic lilt (acquired during a youth living with tribesmen) appeals to the Bedouin and contrasts with the king, who grew up speaking English. After years out of public view the prince is back in the media. “Only the intelligence services would authorise that,” says a politician. Calls for choosing a government by elections, not by royal decree, are growing too. Better to share power, perhaps, than risk losing it all. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Abdullah[,æb'dʌlə]:n. 阿布杜拉（人名） 
@@ -81,4 +82,6 @@
 66.tribesman['traibzmәn]:n. 部落男子 
 67.authorise['ɔ:θәraiz]:vt. 授权；批准；允许；委任（等于authorize） 
 68.decree[di'kri:]:n. 法令, 判决, 天意 vt. 颁布, 判决 vi. 发布命令 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

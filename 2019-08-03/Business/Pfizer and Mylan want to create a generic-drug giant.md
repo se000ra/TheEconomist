@@ -9,6 +9,7 @@
 So far Wall Street seems unconvinced. Tim van Biesen of Bain, a consultancy, points out that it is unclear if Pfizer can come up with enough blockbusters to sustainably offset earnings from the divestment of peripheral but profitable businesses like Upjohn. Standard & Poor’s, a credit-rating agency, downgraded Pfizer’s debt on the news. Pfizer’s share price fell by 6.4% on June 30th, the biggest one-day slide in a decade. Mylan’s long-suffering stock edged up only slightly. 
 The merged company, for its part, inherits lawsuits about Mylan’s alleged price fixing and its role in America’s opioid crisis. Mylan denies all wrongdoing. Mylan’s shareholders are still fuming over the firm’s move in 2015 to the Netherlands, where it adopted an opaque corporate structure, and practices like offering to pay Robert Coury, its chairman, about $1m a year for not using a company plane. 
 Observers worry that Mr Goettler may be in over his head. They fear the firm will in fact be controlled by the controversial Mr Coury, who is to be its executive chairman, and Rajiv Malik, his long-serving lieutenant, who is embroiled in the price-fixing complaints. Pressed by analysts this week on corporate governance, Mr Coury was evasive. He vowed to return capital to shareholders “from day one”. “I don’t make shit up. You know that,” he promised. Investors may need more reassurance.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.generic[dʒi'nerik]:a. 属类的, 一般的 [计] 一般的 
@@ -81,4 +82,6 @@
 68.evasive[i'veisiv]:a. 逃避的, 回避的, 托辞的 [法] 逃避的, 规避的, 推托的 
 69.vow[vau]:n. 誓约, 誓言, 许愿 vi. 起誓, 发誓, 郑重宣言 vt. 立誓, 起誓要, 郑重地宣布 
 70.shit[ʃit]:vi. 拉屎 vt. 欺骗, 在...拉屎 n. 粪, 屎 interj. 狗屁 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

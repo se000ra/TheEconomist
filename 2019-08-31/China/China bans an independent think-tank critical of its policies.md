@@ -8,6 +8,7 @@
 Over the past few years, as Mr Xi has tightened his grip, Unirule has been increasingly boxed in. Its website was shut down, although it later reopened, hosted abroad. In the past its members could publish articles in more liberal newspapers such as Southern Weekly; these days their submissions are rejected. Their accounts on Chinese social-media platforms such as WeChat are frequently blocked. The authorities have also stepped up harassment of the institute. Last year its landlord briefly welded steel bars across the door to its office, a cramped converted apartment, while staff were inside. 
 Sheng Hong, Unirule’s director, maintained his stubborn belief in rules-based governance even as his think-tank met its end. The ban, he says, is a violation of article 35 of China’s constitution, which promises freedom of speech and assembly. But he is under no illusion about what truly lies behind Unirule’s woes. “Leaders today don’t believe that different voices are good for society and good for government,” he says. “That will really come to hurt China.” 
 Tellingly, though, he was still more guarded than scholars outside China. “Xi’s tolerance for independent voices and criticism is absolutely zero. It’s non-existent,” laments Minxin Pei of Claremont McKenna College in California. “Forty years after the Cultural Revolution, this is absolutely the worst period.” It is a wonder that Unirule survived as long as it did.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -57,4 +58,6 @@
 45.mckenna[mә'kenә]:n. 麦肯纳（姓氏） 
 46.California[.kæli'fɒ:njә]:n. 加利福尼亚 
 47.cultural['kʌltʃәrәl]:a. 文化的, 教养的, 修养的 [医] 培养的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

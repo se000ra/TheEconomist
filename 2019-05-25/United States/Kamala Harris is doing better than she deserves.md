@@ -11,6 +11,7 @@
 She spent most of her career as a tough-on-crime prosecutor (she famously criminalised the parents of truants). And when not vowing to support the latest left-wing fad, she sounds strikingly unideological. Her stump speech, which is based on an idea that America needs more “truth and justice”, is a painfully contrived effort to marry her strengths to a critique of Mr Trump. It neither informs nor inspires. It has nothing of the revolutionary fire that consumes Mr Sanders. The overall impression is of a talented, centre-left opportunist who has not quite found her place in her party, let alone the distinctive voice voters crave. Her attempt to fight the primaries on the left, where she has shallow roots, has only made this more obvious. It is probably also mistaken, given Mr Biden’s success and the moderate instincts of the non-white voters she is banking on. “Asians just want someone who won’t throw us out of the country,” said a Chinese-American businessman at Ms Harris’s first event. Ideally, he said, that person would be a moderate—as he thought Ms Harris probably was. 
 At least the ambiguity surrounding Ms Harris gives her room for manoeuvre. In imitation of Mr Biden, she is ramping up her attacks on the president, including by arguing for his impeachment. This is another bid to underline her ability to “prosecute the case against Trump”, as she says. But it is unclear who would be likelier to vote for her as a result. Most Democrats want the candidate they consider likeliest to beat Mr Trump, which requires general-election votes, not pugilism. Yet the shift could at least give her space, if she is wise, to reappraise her default leftishness. 
 She probably cannot beat Mr Biden that way. By the same token, however, his surge looks even more daunting for inflexible leftists such as Mr Sanders. That could make it a net gain for Ms Harris. Ill-prepared and too calculating though she seems, she still looks well-placed to take over from Mr Biden if he stumbles, as he easily may. Ms Harris seems to be a lucky politician. Whether her luck would hold out against Mr Trump is another matter. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lexington['leksiŋtәn]:n. 列克星敦市（位于美国肯塔基州） 
@@ -126,4 +127,6 @@
 111.daunt[dɒ:nt]:vt. 威吓, 难倒, 使气馁 
 112.inflexible[in'fleksәbl]:a. 不屈曲的, 不屈挠的, 顽固的 
 113.leftist['leftist]:n. 左翼的人, 左派 a. 左派的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

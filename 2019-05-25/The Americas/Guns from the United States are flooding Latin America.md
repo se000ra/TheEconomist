@@ -15,6 +15,7 @@
 One place American guns are turning up less is Venezuela, largely because there is a ban on their export there. A ready supply of weapons from elsewhere has helped push the country’s murder rate to the world’s highest. Lately the economic crisis may have stemmed the flow: the import of weapons, like all other imports, has probably dropped. A decline in productivity at the state-owned factories which make bullets may explain why the murder rate has slipped back of late. 
 What can be done to stop the flow of weapons? One idea floated in Mexico was to ban American steel firms and other businesses that supply gun manufacturers from Mexican government contracts, and to make workers from any firms that sell guns apply for visas if they want to visit Mexico. But that idea lost steam when Mr Trump became president. Indeed since his election things have got worse. In January Mr Trump said responsibility for approving arms exports would shift from the State Department to the Department of Commerce, which applies looser rules. 
 So Latin American countries will have to do more themselves. National, interlinked databases of registered weapons can help police keep hold of their guns. Purging the dirtiest cops, as Colombia has done, helps to keep weapons out of criminal hands. Rather than waiting for the United States, Latin America will have to place its own institutions under the microscope. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ordnance['ɒ:dnәns]:n. 大炮, 军械, 武器 
@@ -82,4 +83,6 @@
 63.purge[pә:dʒ]:n. 净化, 清除, 泻药 v. (使)净化, 清除, (使)通便 [计] 服务器文件删除实用程序 
 64.cop[kɒp]:n. 警官 vt. 抓住 
 65.Colombia[kә'læmbiә]:n. 哥伦比亚 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

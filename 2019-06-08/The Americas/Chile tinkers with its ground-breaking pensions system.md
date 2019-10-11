@@ -9,6 +9,7 @@
 Attempts have been made to add a safety-net. In 2008 a centre-left government introduced a tax-funded basic pension, now worth $154 a month to 600,000 elderly people who had no savings. A subsidy tops up the pensions of another 900,000. Together they now cover over half of Chile’s 2.8m retirees. “We now have a mixed system,” says David Bravo of the Catholic University. 
 But many Chileans want more redistribution. Mass protests have taken place every year since 2016, most recently in March, excoriating the companies that manage the pension pots. Returns have actually been rather good—funds have made 8% per year since the 1980s—but protesters complain that managers have taken too big a cut (administration costs 1.25% of salaries). 
 Mr Piñera’s plan would require employers to contribute, with the money going into a new state-run fund. It would also give incentives to postpone retirement. But it does not raise the retirement age. Nor can pension reform ever solve the deep inequality that lies behind the anger. Half of Chileans earn less than $550 a month. “It’s a ticking bomb,” says Marta Lagos, the co-founder of MORI-Chile, a pollster. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Chile['tʃili]:n. 智利 [化] 番椒; 辣椒 
@@ -48,4 +49,6 @@
 35.Marta[]:n. 玛尔塔（姓氏名） 
 36.Lagos['lɑ:gәs]:n. 拉各斯(尼日利亚的首都) 
 37.pollster['pәulstә]:n. 民意调查人, 民意测验经办人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

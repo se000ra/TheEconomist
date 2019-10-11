@@ -16,6 +16,7 @@
 But the new right is clearly winning its fight against Enlightenment conservatism. For classical liberals, like this newspaper, that is a source of regret. Conservatives and liberals disagree about many things, such as drugs and sexual freedom. But they are more often allies. Both reject the Utopian impulse to find a government solution for every wrong. Both resist state planning and high taxes. The conservative inclination to police morals is offset by an impulse to guard free speech and to promote freedom and democracy around the world. Indeed conservatives and liberals often bring out the best in each other. Conservatism tempers liberal zeal; liberals puncture conservative complacency. 
 The new right is, by contrast, implacably hostile towards classical liberals. The risk is that moderates will be squeezed out as right and left inflame politics and provoke each other to move to the extremes. Voters may be left without a choice. Recoiling against Mr Trump, Democrats have moved further to the left on immigration than the country at large. The British, with two big parties, may have to pick between Jeremy Corbyn, Labour’s hard-left leader, and a radicalised Tory party under Mr Johnson. Even if you can vote for the centre, as with Emmanuel Macron in France, one party will win repeatedly by default—which, in the long run, is unhealthy for democracy. 
 At its best conservatism can be a steadying influence. It is reasonable and wise; it values competence; it is not in a hurry. Those days are over. Today’s right is on fire and it is dangerous. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -141,4 +142,6 @@
 121.Corbyn[]:科尔宾（人名） 
 122.emmanuel[i'mænjuәl]:n. 以马内利（耶稣基督的别称）；伊曼纽尔（男子名, 等于Immanuel） 
 123.macron['mækrәn]:n. 长音符号 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

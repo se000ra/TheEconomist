@@ -12,6 +12,7 @@
 After Mr Modi’s first victory in 2014, liberals hoped the pro-business tub-thumper would become a pro-market prime minister, encouraging investment by liberalising labour and land laws, relying on statecraft, not stagecraft. Instead he became what Indians call “pro-poor”, providing a multitude of redistributive welfare schemes, such as cash handouts for small farmers. 
 These schemes seemed inspired by the government’s lingering fear of being outflanked on the left. It largely abandoned its efforts to ease the acquisition of land for industrial purposes after Rahul Gandhi, the leader of the opposition Congress party, accused it of being a “suit-boot ki sarkar”—a government for suited-and-booted corporations. It was slow to help public-sector banks write off their bad loans, in part because it did not want to appear soft on crony capitalists. 
 Since this timidity helped win it a second landslide, Mr Modi would seem to have little reason to abandon it. But perhaps his victory has finally killed his fear of the opposition. Ms Sitharaman was described as a “one-person demolition squad” after her impassioned response in parliament to Mr Gandhi’s accusations of government cronyism. Having bulldozed the opposition, perhaps Mr Modi will now feel emboldened not to copy it. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.makeover[]:n. 化妆美容；大转变 
@@ -88,4 +89,6 @@
 72.cronyism['krәjniizəm]:n. 任人唯亲 
 73.bulldoze['buldәuz]:vt. 强迫, 用推土机推平/削平, 用推土机清除, 压倒, 威胁 
 74.embolden[im'bәuldn]:vt. 使大胆, 使有胆量 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

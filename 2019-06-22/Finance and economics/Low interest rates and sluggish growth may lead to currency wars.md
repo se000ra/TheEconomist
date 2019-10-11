@@ -10,6 +10,7 @@
 There is a topsy-turvy logic to currency wars. The winners are the currencies that fall in value. In such a race to the bottom, investors seek to back the losers. In times of trouble they will go for the usual boltholes: the yen, the Swiss franc and gold, all of which have been lifted by trade-war anxiety. The dollar stays strong because America has high interest rates, by rich-world standards, and a strong economy. But when growth slows and interest rates fall, says Kit Juckes of Société Générale, a French bank, other factors come into play. These include trade balances and valuation. 
 The yen stands out. Japan runs a current-account surplus. And the yen is cheap based on measures of purchasing-power parity, including rough-and-ready gauges, such as The Economist’s Big Mac Index. The Swiss franc is also backed by a hefty current-account surplus, even if it looks expensive. Gold gets a look-in mainly because there are so few good alternatives to holding dollars. 
 In 2010 the cheap dollar irked everyone outside America. Now the dear dollar bothers America, or at least its president. In the slow-brewing currency war, America is both victim and perpetrator. “If you start a trade war with your biggest trading partners, they get a weak currency and you get a strong one,” says Mr Juckes. If Mr Trump wants a cheaper dollar, declaring trade peace might be the best way to get it. Otherwise, America risks waging a currency war on itself. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.buttonwood['bʌtnwʊd]: 美洲悬铃木 
@@ -63,4 +64,6 @@
 49.irk[ә:k]:vt. 使厌倦, 使苦恼 
 50.bother['bɒðә]:vt. 烦扰, 迷惑 vi. 烦恼, 操心 n. 麻烦, 纠纷, 讨厌的人 
 51.perpetrator[]:n. 作恶者, 犯罪者, 行凶者 [法] 作恶者, 行凶者, 犯罪者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

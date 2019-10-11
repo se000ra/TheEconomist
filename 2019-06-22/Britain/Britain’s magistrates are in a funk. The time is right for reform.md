@@ -9,6 +9,7 @@
 Some favour more radical change. It is not obvious that amateurs should have such strong powers, even though they are assisted by a legal adviser in each court. Andrea Coomber of Justice, a charity, reckons the system is “really peculiar”. Many lawyers agree. They are particularly sceptical about the role of magistrates in family courts, where they sometimes decide how much contact warring parents should have with their children or whether a neglected child should be put into care. They are not necessarily qualified to balance the risks involved in such cases, says one barrister. “Magistrates are well-meaning volunteers,” he says. “[But] this is a nuanced and forensic job.” 
 In criminal courts, they deal with high-volume but relatively low-harm cases, such as driving offences and some burglaries. “There’s an ideology that things are trivial and therefore can be processed quite quickly,” says Lucy Welsh of Sussex University. In a courtroom in Luton, magistrates take 80 seconds to determine a sentence for a man who pleads guilty to drink-driving. Later, they exchange whispers for 43 seconds before fining a young man for heroin possession. (In another case, a defendant is charged with throwing toilet water over a policeman, as if to prove that Wodehouse is still relevant.) Ms Welsh worries that such speedy justice gives little chance for the court to take account of a defendant’s individual circumstances. 
 Yet magistrates retain two big advantages over the professional judiciary. They are cheap, and, like juries, they involve the community in passing sentence on its peers. A hybrid model could keep these benefits while checking magistrates’ powers. Penelope Gibbs, an ex-magistrate, suggests that a judge could chair a panel of two magistrates. Another option would be to beef up the role of the panels’ chairmen, giving them tastier expenses in return for more training. Either way, magistrates should not resist reform, or they might end up looking as archaic as Wooster. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.magistrate['mædʒistreit]:n. 长官, 法官, 推事 [法] 司法行政官, 治安法官, 地方法官 
@@ -82,4 +83,6 @@
 69.penelope[pi'nelәpi, pә-]:n. 佩内洛普（女子名）；[希神]Odysseus的忠实妻子 
 70.gibbs[^ibz]:n. 吉布斯（姓氏） 
 71.archaic[ɑ:'keiik]:a. 古体的, 过时的, 古老的, 古代的 [医] 原始的, 古代的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

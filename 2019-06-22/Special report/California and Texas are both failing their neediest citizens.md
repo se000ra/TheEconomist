@@ -16,6 +16,7 @@
 The first term of Gavin Newsom, California’s governor, will test how much bigger and stronger California can weave its socialsafety net. He is expanding funding for many programmes, including subsidised child care, affordable housing and tax credits for the poor, and has expressed support for universal health insurance for all Californians. Such insurance would cost $400bn, about double the state budget, according to the Legislative Analyst’s Office, making it fiscally impossible. Mr Newsom must also grapple with homelessness, as around a quarter of the country’s homeless live in the state. The success of his governorship will be judged by how much he can relieve the primary reason for residents’ economic struggles, which is the cost of housing. 
 During economic booms like the one California has been enjoying, it is politically appealing to expand social services. For example, some in the state want to offer health care to poor immigrants of all ages, regardless of their immigration status, which would cost around $3bn a year. But doing this could “demolish” the discretionary spending that needs to go to the university system, courts, parks and other social services, points out David Crane of Govern for California, a non-partisan group. And demand for social services will increase when the economy falters, which is precisely the time when the state’s tax collections fall. 
 For Texas the main question is whether the state’s low-touch model will have to bend as people demand more of their government. Mr Abbott has made resisting the Affordable Care Act and other Obama-era policies a pillar of his political career. However, some pragmatic Republicans think it is in the state’s and their party’s interest to expand health-care coverage for the poor. Those without health insurance end up in hospital, leaving taxpayers to foot the bill. Ed Emmett, a Republican who served as county judge for Harris County, which includes Houston, supported Medicaid expansion, because a quarter of all local property taxes go to health-care costs. “Why should the property-taxpayers in Harris County pay for indigent health care when the federal government will pay for it?” he asks. Liberals and fiscally minded conservative voters may push Texas towards change. According to Mr Miller, health care could become a “political flashpoint”, where the “conservative model will have to yield”. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.California[.kæli'fɒ:njә]:n. 加利福尼亚 
@@ -119,4 +120,6 @@
 99.indigent['indidʒәnt]:a. 贫乏的, 穷困的 
 100.voter['vәutә]:n. 选民, 投票人 [法] 选民, 选举人, 投票人 
 101.flashpoint[ˈflæʃpɔɪnt]:n. （尤指政治动乱的）爆发点; 政治动乱地区；危险地区 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

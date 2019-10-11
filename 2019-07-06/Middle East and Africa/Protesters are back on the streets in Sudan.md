@@ -13,6 +13,7 @@
 The generals are also trying to re-open talks on issues around the transition that mediators thought had already been settled, such as an agreement to hold democratic elections in three years. “There are growing doubts among many that the military council actually wants an agreement,” sighs a Western diplomat. 
 So the protesters see no option but to take to the streets again. “It’s just up to us to keep pushing,” says Ms Esheikh. “Until something gives.” ◼ 
 Journalist wanted: We are looking for a new writer, based in Africa, to strengthen our coverage of the continent. For further details please go to: www.economist.com/africawriter 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.stalemate['steilmeit]:n. 僵持状态, 僵局, 陷于困境, 胶着状况 vt. 将...逼和, 使僵持, 使陷入困境 
@@ -76,4 +77,6 @@
 59.AU[әu]:[计] 加法器, 运算器, 声频 [医] 金(79号元素) 
 60.Ethiopia[.i:θi'әupiә]:n. 埃塞俄比亚 
 61.coverage['kʌvәridʒ]:n. 覆盖的范围, 保险总额, 新闻报导 [化] 可达范围; 覆盖度 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

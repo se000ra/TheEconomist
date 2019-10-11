@@ -11,6 +11,7 @@
 According to a study in 2017 by the Commonwealth Fund, a think-tank, 90% of metropolitan areas in America have hospital markets that federal competition authorities would call “highly concentrated”, meaning that there is very little competition. Although the insurance market is also highly consolidated at local level, that rarely gives insurers the upper hand in bargaining with medical providers. The market concentration of insurers is higher than that of providers in only 6% of metropolitan areas, according to researchers at the Commonwealth Fund. 
 Nonetheless, experience with price transparency suggests that hospitals charging particularly high prices may blink first when there is a dispute over bargaining, says Ms Quincy. Until 2010 New Hampshire’s most expensive hospital charged nearly 50% more than its competitors. That year, the state’s biggest insurer used data made available by a price-transparency law to shame the hospital as a pricing outlier—getting public support which forced the hospital to lower its prices. After California’s public-employee fund set a “reference price” for joint replacements, covering costs only up to that amount, its payments per patient fell considerably—mostly because hospitals lowered prices to the reference amount, rather than because patients shifted to lower-priced hospitals. 
 Hospital and health-insurance lobby groups claim that Mr Trump’s price-transparency plan will backfire and prices will rise. What happens eventually may vary from place to place. But shedding light on what everyone pays might just infuse some reason into the seemingly random pricing of America’s health care.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -40,4 +41,6 @@
 25.backfire[.bæk'faiә]:n. 逆火, 回火, 放火 vi. 放逆火, 预先放火, 发生意外 
 26.infuse[in'fju:z]:vt. 注入, 使充满, 泡制, 鼓舞 vi. 泡 
 27.seemingly['si:miŋli]:adv. 看来似乎, 表面上看来 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

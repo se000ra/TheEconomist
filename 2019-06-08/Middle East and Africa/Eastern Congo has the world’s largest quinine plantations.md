@@ -9,6 +9,7 @@
 While conditions in the Kivus (most notably altitude and humidity) are ideal for cultivating trees, the region’s never-ending skirmishes are not. Some of Pharmakina’s forests stretch into an area which is overrun with dozens of rebel groups that call themselves “Mai-Mai” and claim to have magical powers in battle. They regularly kidnap and kill. Now and then they send letters to Pharmakina demanding cash and threatening to abduct its workers. “You don’t pay, but you have to talk to them,” says Michael Gebbers, another director. Discussions take time and frightened employees do not dare turn up at the plantations. Moreover, during Congo’s two bloody wars, which ran for a total of six years between 1996 and 2003, great swathes of the forest were unreachable and the company’s output dwindled. 
 The problems of running a business in Congo extend beyond insecurity. Because there is no reliable supply of electricity, the factory is often powered by expensive generators. The chemicals used to process quinine are costly and come by lorry from Tanzania.  
 As if this weren’t enough, the firm also has to deal with growing competition. Indian traders have begun buying cinchona bark and shipping it to Delhi, where the cost of processing is lower. Demand has also fallen since the discovery of synthetic quinine and artemisinin, another plant-based anti-malaria drug. Still, people hoping to give Congo’s economy a tonic can do their bit to drive up demand each time they raise a glass. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tonic['tɒnik]:n. 补药, (音乐)主调音或基音 a. 滋补的, 声调的, 使精神振作的 
@@ -52,4 +53,6 @@
 39.trader['treidә]:n. 商人, 商船 [经] 交易者, 商船 
 40.delhi['deli]:n. 德里（印度城市名） 
 41.artemisinin[]:n. 青蒿素（抗疟药）；青蒿提取物 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -10,6 +10,7 @@
 What is more, America’s first amendment and related laws protect journalists from police who want them to disclose their sources. Britain acknowledges the guarantees of free speech in the European Convention on Human Rights. Australia is almost alone among established democracies in lacking explicit constitutional protection for civil liberties. Its feeble whistleblower laws pointedly exclude protection for public servants—even in cases that have nothing to do with national security. 
 For all the opposition Labor party’s attempts to make hay out of the government’s discomfort, it has long been an enthusiastic backer of security legislation. Indeed, few Australians challenge the overweening state. Could their self-image as authority-averse larrikins be wide of the mark? Could it be that Australia’s rugged individualists are happy to defer to nanny? 
 Mr McBride, whose trial is due to start in a couple of weeks (and whose obstetrician father is credited with exposing the side-effects of thalidomide, a drug for morning sickness that caused babies to be born with deformed limbs), says the government is using the security apparatus “to fight its own people now”. He feels he has a duty to point this out: “I’ve never felt better. I’ve never liked myself more. I’ve never had a doubt it was the right thing to do for Australia.” Mr McBride, for one, is not afraid to look in the mirror. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.banyan['bænjәn]:n. 印度榕树 [医] 榕树, 孟加拉榕 
@@ -75,4 +76,6 @@
 61.obstetrician[.ɒbste'triʃәn]:n. 产科医师 [医] 产科医师 
 62.thalidomide[θә'lidәmaid]:n. 萨力多胺 [化] 沙利度胺; 酞胺哌啶酮; 酞谷酰亚胺 
 63.deform[di'fɒ:m]:vt. 使残缺, 使变形 vi. 变形 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

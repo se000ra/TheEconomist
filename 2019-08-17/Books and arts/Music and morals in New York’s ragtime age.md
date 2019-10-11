@@ -8,6 +8,7 @@
 Mr Cockrell is professor of musicology at Vanderbilt University in Tennessee. In “Everybody’s Doin’ It” he makes a bracing case that New York was the hothouse in which American popular-music culture took root. He considers the intersection of musicianship and morality from the early days of “blackface minstrelsy”—in which white performers insultingly darkened their faces—through to the birth of ragtime and jazz. The lives he writes about were mostly lived below “the horizon of record”; he mines newspapers and police reports, as well as the testimonies of middle-class witnesses that drip with condescension for those “beneath their place”. 
 The result is an energetic, colourful tour of the city’s dens of iniquity. “Dives”, as such spots are known to this day, were usually in cellars, so people “dived” into them. The bars, brothels and concert halls that Mr Cockrell describes were places of sexual liberation, where men and women danced the hoochie koochie, the bunny hug, the wiggle and the shiver; they spieled, they hopped, they dipped. They inculcated racial freedom, too. Enslaved New Yorkers were freed by 1827; by 1873 racial discrimination was outlawed in the city. Yet one consequence of the increased regulation of musical entertainment thereafter was segregation, as moralisers frowned on racial mixing. Thus “the spirit of Jim Crow started casting its long, dark shadow over New York’s social, political, and cultural life.” 
 The book’s focus may seem narrow, but the vividness with which Mr Cockrell evokes a vanished world is compelling. The only thing missing is a soundtrack; readers will long to hear “Roll Me Around Like a Hoop My Dear”, “Meet Me Tonight in Dreamland” or the “Boogie Man Rag”. Even in silence, however, by the last page the author has proved his point: that the musical, terpsichorean and sensual turmoil of the great city made for “an explosive compound of sounds and rhythms that would prove quite impossible to extinguish.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.boogie['bu(:)^i]:(随着摇摆舞音乐节奏)摆动身体, [蔑]黑人 
@@ -70,4 +71,6 @@
 58.sensual['senʃuәl]:a. 肉欲的, 感觉的, 感觉论的 
 59.turmoil['tә:mɒil]:n. 骚动, 混乱 
 60.extinguish[ik'stiŋgwiʃ]:vt. 熄灭, 使消亡, 压制, 使减色 [医] 消灭 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -23,6 +23,7 @@
 MATTHEW BUCCELLIBerlin 
 Bagehot’s ruminations about the state of history as an academic discipline brought me back to a time when I faced similar concerns, as I considered whether or not to pursue a doctorate in history. In the end, I followed my mentor’s advice: “If you want to truly study history nowadays, you should concentrate on international relations or economics.” 
 ORE KORENAssistant professorDepartment of Political ScienceIndiana UniversityBloomington, Indiana 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -138,4 +139,6 @@
 111.rumination[.ru:mi'neiʃәn]:n. 反刍, 沉思, 默想 [医] 反刍, 反嚼, 沉思 
 112.doctorate['dɒktәrit]:n. 博士头衔 
 113.Indiana[.indi'ænә]:n. 印地安那州 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

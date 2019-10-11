@@ -8,6 +8,7 @@
 Taiwan first asked America for more F-16s in 2006, under the previous president from Ms Tsai’s Democratic Progressive Party, which typically has especially testy relations with China. His successor, Ma Ying-jeou, of the more China-friendly party, the Kuomintang (KMT), reiterated the request. But China persuaded the administrations of both George W. Bush and Barack Obama to refuse. During Mr Obama’s presidency in particular, China portrayed the sale of F-16s as a red line. It never tires of reminding America that in 1982 it promised to reduce arms sales to Taiwan. 
 Ms Tsai, who is campaigning for re-election in early 2020, was delighted with the news. Her campaign presents her as a foil to an ever more repressive, assertive China. Her KMT challenger, Han Kuo-yu, whom critics accuse of being too cosy with China, also applauded Mr Trump’s decision and pledged to deepen military ties with America if elected. Arthur Ding, of National Chengchi University, thinks the deal, despite its hefty price tag, will fly swiftly through the sometimes combative legislature. 
 China was not so happy. A spokeswoman for the foreign ministry said on August 16th that American arms sales “severely violate the one-China principle”. But it is not clear if it plans anything more than a rhetorical response, such as suspending military exchanges with America. The impact on other disputes between the two countries—over trade, for example, or the protests in Hong Kong—is also uncertain.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.taiwan['tai'wɑ:n]:n. 台湾 
@@ -56,4 +57,6 @@
 44.spokeswoman['spәuks,wumәn]:n. 女发言人, 女代言人 
 45.rhetorical[ri'tɒ:rikl]:a. 修辞学的, 符合修辞学的, 修辞的 
 46.hong[hɔŋ]:n. （中国、日本的）行, 商行 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

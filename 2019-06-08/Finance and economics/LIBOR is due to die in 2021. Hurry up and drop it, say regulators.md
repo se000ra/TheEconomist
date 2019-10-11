@@ -12,6 +12,7 @@
 Banks point to a third problem: unlike LIBOR, SOFR, being based on Treasury repos, does not reflect their funding costs. In times of stress SOFR could fall while those costs rise. Simply adding a fixed spread will leave banks vulnerable if it is too thin and rile customers if too fat. (Such difficulties help explain why European regulators have extended the life of EURIBOR, the basis of many euro-zone mortgages.) 
 ICE Benchmark Administration, which calculates LIBOR, thinks that data on trades in international banks’ bonds could be used to add a spread to a SOFR-based yield curve. The resulting index would do the same job as dollar LIBOR while using the Fed’s preferred rate. Separately, the American Financial Exchange, a marketplace for interbank lending with 150 members (and indirectly serving 1,000 banks), has derived AMERIBOR, a benchmark rate for regional and community banks. So far a couple have used it to price loans. It plans to launch AMERIBOR futures this summer. 
 To hasten the handover, Oliver Wyman recommends that regulators remove disincentives, eg in margin requirements and taxes, to switch from LIBOR-based derivatives; and make up their minds about credit-sensitive benchmarks. Clearing houses should move faster to base their rules on SOFR, which would foster demand for derivatives. And banks should stop procrastinating. Set yourself free.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Libor[]:n. (Libor)人名；(法、匈)利博尔 abbr. 伦敦银行间拆放款利率 
@@ -79,4 +80,6 @@
 63.eg[]:abbr. [拉]例如（exempli gratia）；[网络用语]邪恶的笑（Evil Grin） 
 64.foster['fɒstә]:a. 收养的, 养育的 vt. 养育, 抚育, 培养, 鼓励, 抱(希望) 
 65.procrastinate[prәu'kræstineit]:v. 延迟, 耽搁 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

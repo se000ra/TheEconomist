@@ -9,6 +9,7 @@
 High interest rates largely reflect a greater risk of default. So credit-rating agencies are looking at climate risks, too. Undiversified economies that are reliant on agriculture are particularly susceptible, says Marie Diron of Moody’s. In the 37 countries that the firm thinks are most vulnerable, farming accounts for 44% of employment on average. (Together they have issued $2.8trn of sovereign debt, about 4% of the world’s total.) Those relying on tourism could also be in trouble. And climate-exposed countries often have weak institutions, says Ms Diron. They struggle to plan for and respond to disasters. 
 Some of the smaller vulnerable countries have been attempting to build climate resilience by pooling insurance risk to make premiums more affordable. The first such attempt was the Caribbean Catastrophe Risk Insurance Facility, which has paid out $139m since it was founded in 2007. The payouts help alleviate cashflow problems after disasters, reassuring investors and credit-rating agencies. In the past five years similar insurance schemes have popped up in sub-Saharan Africa, Central America and the Pacific. 
 Others are seeking to reduce the interest-rate premium with “blended finance”, whereby multilateral institutions such as the World Bank and Asian Development Bank bear part of the risk for mitigation and climate-resilience projects. In April the V20 launched such a programme. Officials plan to apply to use $500m from the UN’S Green Climate Fund in the V20. Such schemes will help, but only a bit. In truth, climate-vulnerable countries can do little to offset the rise in the cost of capital.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -56,4 +57,6 @@
 43.multilateral[.mʌlti'lætәrәl]:a. 多边的, 多国的 [经] 多边的, 涉及多方的 
 44.mitigation[.miti'geiʃәn]:n. 缓和, 减轻 [法] 减, 减轻, 缓和 
 45.offset['ɒ:fset]:n. 抵消, 把...并列, 旁系, 支管, 用胶印法印 vt. 弥补, 抵消, 胶印 vi. 装支管 n. 偏移量 [计] 偏移量 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -8,6 +8,7 @@
 In the bellwether state of Uttar Pradesh, ostensible socialists have joined their BJP foes. In Mr Modi’s home state of Gujarat, an important caste leader abandoned Congress for the BJP fold. In Goa, a small state with a large Christian minority, Congress won the most seats in state-assembly elections in 2017 and one of Goa’s two seats in the general election this April. But on July 10th two-thirds of state legislators decided nonetheless to join the BJP. Upper-house parliamentarians in Andhra Pradesh filed lawsuits to leave their regional party in order to side with the BJP. 
 These suits were necessary because India has an anti-defection law which bars legislators from simply swapping parties. It is intended to prevent rich parties from buying the support of poorer ones but it is dismally ineffective. Most Indians assume that powerful parties will use bribery and extortion to lure defectors. With its unfathomably deep pockets and control of national enforcement agencies, Mr Modi’s BJP is an attractive destination for ambitious lawmakers of many parties. When the prime minister boasted on the campaign trail in West Bengal that 40 of the opposition’s assemblymen were in touch with him, his opponents were outraged. He seemed to be flaunting his party’s illicit pulling power. 
 The anti-defection legislation took a beating last week when the Supreme Court ruled that the renegades from Karnataka could not be compelled to stick to voting with their party. But even if the law worked as it is supposed to, barring defections would only force politicians to obey their party presidents. That would hardly be a magic fix for India’s democracy.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -78,4 +79,6 @@
 66.illicit[i'lisit]:a. 不法的, 不正当的, 禁止的 [法] 违法的, 违禁的, 被禁止的 
 67.renegade['renigeid]:n. 背教者, 变节者, 脱党者 a. 背弃的, 脱离的, 叛徒的 vi. 背叛, 背弃, 脱离 
 68.defection[di'fekʃәn]:n. 背叛, 缺乏, 毛病 [法] 缺点, 过失, 背叛 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

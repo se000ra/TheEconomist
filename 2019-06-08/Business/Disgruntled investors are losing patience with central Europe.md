@@ -11,6 +11,7 @@
 Investors rely on BITs to get a fair shake—those in central Europe more so than most. Of 942 investor-state disputes worldwide since 1987, a disproportionally high number involved post-communist countries that joined the EU 15 years ago (see chart). The Czech Republic (38 cases) and Poland (30) are the worst offenders. By comparison, Germany and France, much bigger economies with more inward investments, have four cases between them. 
 Tales similar to Mr Pawlowski’s abound in the region. Invenergy, an American firm which invested 2.2bn zloty ($583m) in 11 wind farms in Poland in 2005, last year sued the Polish government for $700m in a UN court over cancelled power-purchase agreements. Poland’s courts sided with Invenergy but were ignored by state-controlled bodies. Another American investor, George Nussbaum, set up a billboard business in the 1990s that boomed until the Czech government banned billboards on highways because of traffic-safety concerns in 2012. This put an end to licensed roadside billboards but not those without legal permits, which are put up by some Czech firms. Mr Nussbaum is about to file a suit at the ICSID alleging a breach of the Czech-American BIT. The British liquidator of New World Resources (NRW), an energy group, is threatening to lodge a complaint about the Czech government at the ICSID under the Energy Charter Treaty, an international compact governing cross-border investments, over the insolvency and expropriation in 2017 of OKD, a Czech miner which NRW used to own. 
 In a case last year involving Achmea, a Dutch health-care company, and Slovakia the European Court of Justice (ECJ) ruled that EU law takes precedence over the Dutch-Slovak BIT. This led the EU’s executive arm to step up efforts to end intra-EU investment treaties by the end of the year. This assumes that national courts can be trusted to issue impartial verdicts—and governments, to respect them. Opponents of the proposal argue that, in central Europe at least, they do not. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Kafkaesque[,kɑ:fkə'esk]:a. 卡夫卡式；受压抑和恶梦般的 
@@ -84,4 +85,6 @@
 69.ecj[]:abbr. Erie County Jail (Buffalo) 伊利县监狱（布法罗）; European Court of Justice 欧洲审判法院 
 70.precedence[pri'si:dns]:n. 优先, 居先 [计] 先后次序; 优先规定 
 71.impartial[im'pɑ:ʃәl]:a. 公平的, 不偏不倚的 [法] 公正无私的, 不偏袒的, 公平的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 Facing less pressure from NATO, the Taliban are overwhelming the Afghan army, spreading to cities such as Kunduz from their stronghold in the south. A majority of Afghans now live in areas controlled or contested by the Taliban, according to the Long War Journal, a website that tracks the conflict. Gallup, which has polled Afghans since 2008, finds that record numbers fear for their liberty and safety. 
 The survivors are destitute. Historical economic records are patchy, but Bill Byrd of the United States Institute of Peace, a think-tank, describes a “lost quarter-century of development” after the Soviet invasion. The Maddison Project, which makes back-dated GDP estimates, suggests a deep recession in the 1990s. A recovery since 2001, aided by foreign spending, has sputtered. Afghanistan is the only country in Asia or the Middle East where people are still poorer than those alive in 1950 were. ■ 
 Sources: Gallup; Maddison Project; Peace Research Institute Oslo; Uppsala Conflict Data Program; World Bank 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Afghanistan[æf'gænistæn]:n. 阿富汗 
@@ -54,4 +55,6 @@
 41.Oslo['ɒzlәu]:n. 奥斯陆 
 42.Uppsala['ʌpsɑ:lә,'jpsɑ:lɑ:]:乌普萨拉[瑞典东南部城市] 
 43.datum['deitәm]:n. 论据, 材料, 资料, 已知数 [医] 材料, 资料, 论据 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 Moreover, as the public-finance market shrank it also convulsed. Insurers have suffered bigger-than-expected losses on muni defaults, from Detroit to Puerto Rico. The latter’s bankruptcy in 2017, designed to help it restructure $120bn of debt and pension obligations, has hit them particularly hard. The $170m net loss under US GAAP made by MBIA in the latest quarter was largely down to Puerto Rico. 
 The $720m MBIA is seeking from Citigroup, UBS and seven other banks matches the value of claims it has paid out on Puerto Rican contracts. It accuses them of creating “a financial abyss of historic proportions” by urging Puerto Rico to issue “unsustainable” debt, and making false or misleading disclosures on which the insurer relied. The banks’ defence is likely to focus on the fact that bond insurers are hardly unsophisticated; insurers have long advertised their credit-surveillance skills. 
 All of which suggests that post-crisis bond insurance is not for the faint-hearted. Last year David Einhorn became the latest in a long line of hedge funders to publicly short a bond insurer, calling Assured Guaranty “a melting ice cube”. The firm pooh-poohed the critique, and many clearly think it has navigated the morass well: its share price is 50% above its pre-crisis peak (and 23% higher than when Mr Einhorn weighed in); MBIA’s is down by 88%. This has allowed Assured to swoop in on some of the more attractive bits of rivals’ books. It is also diversifying: on August 9th it acquired BlueMountain, a fund manager specialising in collateralised loan obligations—securities backed by leveraged loans, which fared better than mortgage-backed debt in the crisis and remain popular with yield-hungry investors.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.woe[wәu]:n. 悲哀, 悲痛, 苦痛 
@@ -74,4 +75,6 @@
 61.BlueMountain[]:[网络] 蓝山咖啡；蓝山原橡系列；蓝山的咖啡 
 62.specialise['speʃә,laiz]:vt. 特加指明, 列举, 使专门化, 限定...的范围 vt.vi. (使)特化, (使)专化 vi. 成为专家, 专务, 专攻, 专门研究, 逐条详述 
 63.collateralised[]:[网络] 担保化 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

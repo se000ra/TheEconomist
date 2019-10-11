@@ -12,6 +12,7 @@
 Sion Jobbins of YesCymru says it is important to lay the groundwork now, “so that we are ready when Scotland leaves and Northern Ireland reunites. The alternative is incorporation.” He worries that Westminster would dissolve the Welsh Assembly and absorb Wales into a unitary state. “They sent troops for rocks in the Falklands. They will never give up Wales,” he says. Such excitable talk is not uncommon among campaigners. 
 That gets to the heart of the incipient independence movement. Like Brexit and the nationalist campaigns in Scotland and Northern Ireland, the argument is less about economics or politics than identity. And that is what makes it worth watching. Recent years have shown how quickly identity movements can take off. The Cofiwch Dryweryn wall went from neglected graffiti to national treasure in six months. 
 Yet the risk with identity movements is that it can be hard to know when to stop. At the Eisteddfod, across the way from YesCymru’s stall, a group of artists had set up a “passport office” issuing travel documents for the nation of Llanrwst, a town of about 3,300, which in 1276 was declared independent by the then (Welsh) Prince of Wales. It was a bit of fun, and elicited no more than good-natured chuckles. Until recently, so did the notion of Welsh independence. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.wale[weil]:n. 隆起的伤痕, 鞭痕, 凸条纹, 精华, 选择 vt. 在...上留下鞭痕, 织成棱纹, 挑选, 撑住 vi. 挑选 
@@ -101,4 +102,6 @@
 85.stall[stɒ:l]:n. 厩, 停车处, 牧师职位, 货摊, 托辞, 拖延 vt. 关入厩, 停顿, 推托, 支吾, 使陷于泥中 vi. 被关在厩内, 陷于泥中, 停止, 支吾 
 86.elicit[i'lisit]:vt. 引出, 推导出, 引起 
 87.chuckle['tʃʌkl]:n. 咯咯的笑声, 轻笑 vi. 咯咯的笑, 咕咕叫 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

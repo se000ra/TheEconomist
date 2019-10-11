@@ -9,6 +9,7 @@
 Meanwhile in England, the equalities minister, Penny Mordaunt, has faced calls to get on with a promised review of the work of the Gender Identity Development Service, the country’s only gender clinic for children. The number of girls referred to the clinic has risen fourfold in the past four years; the clinic has received more than 2,500 referrals of children in the past year. The number of young children (some as young as three) being sent to the clinic is also on the rise. 
 So not everyone who turns up to Pride will be marching in step. At last year’s event activists held banners reading “Transactivism erases lesbianism”, prompting organisers to apologise for the “bigotry, ignorance and hate”. Such signs are motivated by a fear that young lesbians face pressure to transition into straight men, or that lesbians will be condemned as transphobic if they decline to date male-bodied trans women. At a Pride march in Lancaster last month activists held signs declaring that “lesbians don’t have penises”. 
 The strife within the LGBT coalition is not unique to Britain. At the Stonewall Inn’s anniversary party last month, a row erupted between a trans woman and a crowd of gay men. In New Zealand a lesbian group claimed it had been banned from Wellington Pride. A movement founded to promote tolerance seems to be showing ever less of it. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.simmer['simә]:vt. 煨 vi. 炖, 内心充满 n. 即将沸腾的状态, 即将发作 
@@ -60,4 +61,6 @@
 47.zealand['zi:lәnd]:n. 西兰岛（丹麦最大的岛） 
 48.wellington['weliŋtәn]:n. 惠灵顿长靴 
 49.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

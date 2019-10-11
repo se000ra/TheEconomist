@@ -14,6 +14,7 @@
 Wherever they lived, blacks were less likely to obtain legal opioids in the first place. A study of pain-related visits to emergency departments between 1993 and 2005—a period that overlaps with the run-up to the crisis—shows that whites were substantially more likely to obtain an opioid prescription, even after controlling for the reported severity of pain and other factors. A wealth of studies have found similar effects. Doctors are also much more likely to stop prescribing opioids for blacks after detecting illicit drug use. In the case of opioids, racial bias probably saved lives. 
 Despite improvements in the racial gap, inequality in life expectancy by class and income still remains. The CDC has begun publishing estimates of life expectancy at the census-tract (or neighbourhood) level. Life expectancy at the 90th percentile is 83.1 years compared with 73.1 years at the 10th. In Chicago, census tracts a few miles apart can differ in average life expectancies by two decades. The estimates are quite closely related to measures of income and poverty: a simple regression shows that a five-percentage-point increase in the poverty rate is associated with a one-year decline in life expectancy. 
 Research by Raj Chetty, an economist, and his colleagues shows that the income gap in life expectancy has been growing even as the racial one has been declining. So has the education gap. Although people have long assumed that higher socioeconomic status bought better health, that was not as true for blacks as it was for whites, says Arline Geronimus, a public-health professor at the University of Michigan. Now that is changing. “The convergence is due to more affluent, educated blacks living longer while less-affluent, less-educated whites are not living as long. It shouldn’t be interpreted as though we’ve made great strides,” she says. Even so, the improvements for black men run counter to the drumbeat of pessimism about race in America. Black lives are longer. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -113,4 +114,6 @@
 95.stride[straid]:n. 大步, 步幅, 步态, 进步 v. 迈大步走, 跨过, 跨 
 96.drumbeat['drʌmbi:t]:n. 鼓声 
 97.pessimism['pesimizm]:n. 悲观, 悲观情绪, 悲观主义 [医] 悲观主义 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -10,6 +10,7 @@
 A lot is at stake. Hong Kong is China’s conduit. It accounted for nearly 60% of direct investment both into and out of China in 2012-16 (see table). It has a mighty share of offshore yuan-denominated payments. Western firms put money and headquarters there because it is seen as part of the Western system. Its currency is tied to the American dollar. It ranks third in the world as a financial centre; its banking assets are worth a whopping 851% of GDP. 
 Such might makes it vulnerable. A belief that its financial system is no longer fungible with the West’s would be devastating. Erosion of the rule of law, and louder questioning of Hong Kong’s trading status, pose a growing threat. 
 Whether actually killing that status would do anything to help Hong Kong’s protesters is doubtful. “That’s a gun you don’t want to shoot, frankly,” says Jeffrey Bader of the Brookings Institution, a think-tank. But the deepening strategic rivalry between America and China will bring greater scrutiny of Hong Kong. Under the Policy Act the president can suspend specific privileges by executive order if he deems Hong Kong insufficiently autonomous. In the midst of a trade war with China, a big blow to Hong Kong’s future may be only a tweet away. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.garrot[]:[医] 绞扼止血器 
@@ -69,4 +70,6 @@
 55.deem[di:m]:v. 认为, 相信 
 56.insufficiently[ˌɪnsə'fɪʃntlɪ]:adv. 不够地, 不能胜任地 
 57.tweet[twi:t]:vi. 啁啾 n. 小鸟叫声 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

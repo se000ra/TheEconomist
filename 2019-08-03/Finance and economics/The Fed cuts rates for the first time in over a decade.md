@@ -13,6 +13,7 @@
 A further cut would not be universally welcome. Catherine Mann of Citigroup, a bank, is sceptical that the latest round of monetary easing will boost business confidence enough to rekindle investment. The Trump administration’s trade policy, not the cost of capital, is holding businesses back, she thinks. She fears that the Fed may be causing asset prices and the broader economy to move apart, generating risks to financial stability. 
 Nonetheless investors could react badly if Mr Powell fails to meet their expectations, warns Neil Shearing of Capital Economics, a consultancy. A strengthening dollar, wobbling equity markets or tightening credit conditions could then bounce the Fed into a further burst of loosening. 
 America’s monetary-policymakers also need to consider the actions of other countries’ central banks, which have already started to ease. Julia Coronado of MacroPolicy Perspectives, a consultancy, points out that there are limits to how much the Fed can depart from the global trend before it starts causing problems in capital markets. Too much divergence and the dollar will strengthen, tightening supplies of dollar credit and further crimping global trade. Mr Powell has executed a fine pirouette. But he is going to need even more fancy footwork in the coming year. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -73,4 +74,6 @@
 56.divergence[dai'vә:dʒәns]:n. 分歧 [计] 分散度 
 57.crimp[krimp]:n. 诱人当兵的人, 拳曲, 鬈发 vt. 诱...去当兵, 使拳曲, 使有褶 
 58.footwork['futwә:k]:n. 脚的动作, 脚力, 现场采访活动 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

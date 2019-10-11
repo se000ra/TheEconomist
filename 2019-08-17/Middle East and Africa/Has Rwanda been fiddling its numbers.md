@@ -12,6 +12,7 @@
 One reason for this could be that the benefits of economic growth went to a small elite, whose spending is poorly captured by household surveys. Other countries, such as India, have also seen a widening gap between the two measures. Another explanation is that robust economic growth in the national accounts has been overstated. 
 The latter does not seem far-fetched if one looks at farming, which accounts for about 30% of GDP. It has been an important contributor to economic growth. Yet when Mr Deseire looked at the official figures claiming a 55% increase in crop yields between 2006 and 2013, he concluded that they were probably inflated. Other data sources suggest that the increase may have been only 20% or so. 
 Questioning Rwanda’s statistics may seem to be no more than quibbling over numbers. But at stake is Mr Kagame’s reputation, and that of the developmental model he embodies. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.rwanda[rj'ændә]:n. 卢旺达（东非国家）；卢旺达语 
@@ -55,4 +56,6 @@
 39.quibble['kwibl]:n. 遁词, 双关语 vi. 吹毛求疵, 争吵, 说模棱两可的话 vt. 对...诡辩 
 40.developmental[di.velәp'mentәl]:a. 发展的, 进化的, 启发的 [医] 发育的 
 41.embody[im'bɒdi]:vt. 具体表达, 使具体化 [经] 合并, 具体化, 具体表现 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

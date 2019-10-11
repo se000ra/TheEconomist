@@ -11,6 +11,7 @@
 AMLO’s populism faces constraints. The biggest is the dependence of Mexico’s economy on a trade agreement with the United States. That was underlined when President Donald Trump last month threatened to levy tariffs on Mexico’s exports unless its government cracked down on Central American migrants, which it quickly agreed to do. 
 Second, AMLO has pledged macroeconomic stability and to maintain the value of the peso. So far he has stuck to that, at the expense of economic growth, which is unlikely to exceed 1% this year. That is partly because business, suspicious of AMLO’s intentions, is not investing. Third, he lacks the two-thirds majority in the Senate required to change the constitution. And Morena itself is a broad and loose movement rather than a disciplined party. 
 AMLO’s sights are set on a mid-term election in 2021. If he increases his parliamentary majority, some of those constraints might fade. But some government officials know that too much populist anti-capitalism risks losing the middle-class support he won a year ago. “He’s an activist whom we want to turn into a statesman,” says one. On this battle for AMLO’s soul hinges Mexico’s future. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bello[]:n. 贝罗（姓氏） 
@@ -86,4 +87,6 @@
 71.Populist['pɔpjulist]:n. 民粹派的成员 
 72.activist['æktivist]:n. 激进主义分子 
 73.hinge[hindʒ]:n. 铰链, 关键, 枢纽 vt. 装铰链 vi. 靠铰链移动, 依...而转移 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

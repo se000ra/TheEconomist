@@ -9,6 +9,7 @@
 IL&FS defaulted in the summer of 2018, leaving $14bn in debt. At first late payments by local governments for infrastructure projects were blamed for a cash squeeze. But since then official investigators have alleged gross misconduct. There have been four arrests to date, with charges yet to be made public. 
 Why are global auditors carrying the can when others were surely more culpable? IL&FS’s complicated structure made a comprehensive view of its position all but impossible. One of its two main subsidiaries had more than 300 subsidiaries itself. These typically had other investors, often municipalities. State entities served as owners, managers, debtors and creditors. More than 50 firms audited various parts, under local laws that often barred independent oversight. 
 Responsibility for overseeing such an opaque structure goes beyond employees and external advisers. Two of IL&FS’s largest shareholders, until recently represented on the board, are LIC, a huge life insurer, and Central Bank of India, a commercial bank. Both are state-owned. Some suspect that the auditors have come under fire because they make the easiest target. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.audit['ɒ:dit]:n. 审计, 查帐 vt. 查(帐), 旁听 vi. 查账 [计] 查帐; 审查; 检查 
@@ -65,4 +66,6 @@
 52.shareholder['ʃєә.hәuldә]:n. 股东 [法] 股东, 股票持有人 
 53.lic[]:abbr. 许可证（license）；线性集成电路（linear integrated circuit） 
 54.insurer[in'ʃuәrә]:n. 保险公司 [法] 保险人, 承保人, 保险公司 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

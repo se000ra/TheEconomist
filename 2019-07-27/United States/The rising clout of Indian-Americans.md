@@ -13,6 +13,7 @@
 Money is also a factor. Average incomes are among the highest of any minority group. Although Ms Jayapal gently grumbles that older Indian-Americans—the wealthiest of all—want a photo with a politician but find “parting with cash difficult”, younger ones grasp that they can be influential as donors. Niraj Antani, a young (Republican) member of Ohio’s state legislature, who is of Gujarati descent, says Indian-Americans are responsible for a portion of his fundraising, and sees them as increasingly skilled in bundling donations. “They are now hosting [fundraising] events, not just attending them”, he says. 
 They are also getting better organised. Mr Antani points to lobbies such as AAHOA, a hotel association, and a political action committee (PAC) belonging to the Hindu-American Foundation, as being influential among Indian-Americans. More significant still is the Indian American Impact Fund, a Democratic-leaning PAC, which describes its mission as, to “wield political power to fight back” against xenophobia and anti-immigrant policies under President Donald Trump. 
 “Indian-Americans have a drive for success,” says Mr Antani, “and political success is very measurable: how many cabinet secretaries, congressmen, school-board members and state legislators do we have?” He, and his colleagues, are gung-ho about their prospects. America will see an Indian-American president before too long, he predicts. It might even be the next one. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Washington['wɒʃiŋtn]:n. 华盛顿 
@@ -95,4 +96,6 @@
 78.wield[wi:ld]:vt. 挥舞, 运用 
 79.xenophobia[,zenә'fәubiә]:n. 无端畏惧和憎恨外国人/陌生人, 对外国人的畏惧和憎恨 [医] 生客恐怖 
 80.legislator['ledʒisleitә]:n. 立法者, 立法官, 立法委员 [法] 立法者, 立法机关成员, 立法委员 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

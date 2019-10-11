@@ -10,6 +10,7 @@
 For a time, though, a benign end to Bretton Woods II seemed possible. As Europe’s economies became more integrated and China grew, the prospect of a multipolar world, in which the dollar shared reserve-currency duties with the euro and the renminbi, loomed. European and Chinese consumers would play as important a role as American ones—and global imbalances would shrink. Alas, history has had other ideas. Amid the turmoil of the past decade, investors have clung to the safety of dollar assets, reinforcing America’s monetary hegemony. Debt crises have undercut faith in the euro. Confidence in the renminbi’s inevitable rise has been dimmed by China’s slowing growth, and its diminished enthusiasm for reform. Meanwhile, the present system looks more vulnerable than ever. President Donald Trump’s spiralling trade and currency wars threaten to topple Bretton Woods II, even as attractive alternatives to the system fade. 
 A minimally disruptive end to Bretton Woods II remains within the realms of possibility. Its fate might resemble that of Bretton Woods I, especially if Mr Trump loses office in 2020. Democrats are more economically nationalistic than they used to be, but still mindful of the value of global co-operation. President Bernie Sanders or Elizabeth Warren might seek a one-off depreciation of the dollar while recommitting America to a rules-based system of global trade. A recession in China could scare its leadership into offering concessions on trade that America would accept. 
 But the experience of the 1930s may prove a more apt guide. In the absence of a co-ordinated adjustment to exchange rates and a peaceful end to trade hostilities, the world could stumble into a cycle of competitive devaluations and tariff rises. As trading relationships unravel, countries may organise themselves into rival economic blocs. It is hard to imagine the world repeating such an ugly era of history. But not as hard as it used to be. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Bretton['bretәn]:Woods布雷顿森林 
@@ -98,4 +99,6 @@
 84.hostility[hɒs'tiliti]:n. 敌意, 敌对, 反对 
 85.devaluation[,di:vælju'eiʃәn]:n. 降低价值, 贬值 [经] 贬值 
 86.unravel[.ʌn'rævl]:vt. 阐明, 解决, 解开 vi. 散开 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

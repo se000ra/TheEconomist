@@ -11,6 +11,7 @@
 But the market seems to think there is plenty to worry about. Many large real-estate brokerages are privately held, but the share price of Realogy, one of the brokerages named in the suit, has fallen by half since the end of April, just after news of the DoJ investigation leaked. The value of RE/MAX, another listed brokerage, has fallen 40% over the same period. 
 If transaction fees are being kept artificially high by these practices, that is bad news for homeowners. Some $1.5trn worth of homes change hands every year. If anticompetitive practices are elevating American brokerage fees by two to three percentage points above where they might be otherwise, this is costing consumers as much as $70bn per year, or 0.25% of GDP. 
 The costs to the American economy are probably higher than that. When moving house is so expensive, many people may not bother. That means less spending on services associated with moving home, such as gardening and decorating. Worse, it may also be suppressing mobility in America. Ben Harris, who was the chief economist for Joe Biden when he was vice-president, argues that average incomes in poorer cities are not catching up with those in rich ones, “in part because people aren’t moving any more”. Extortionate real-estate commissions are hardly the only problem—wealthy cities such as San Francisco need to build new housing if people are to move to better-paying jobs there. But they certainly do not help.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.beware[bi'wєә]:v. 小心, 谨防 
@@ -66,4 +67,6 @@
 51.extortionate[ik'stɒ:ʃәnәt]:a. 敲诈的, 勒索的, 过度的, 昂贵的 [法] 勒索的, 敲诈的, 强夺的 
 52.san[sɑ:n]:abbr. 存储区域网（Storage Area Networking） 
 53.francisco[fræn'siskәu]:n. 弗朗西斯科（男子名, 等于Francis） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

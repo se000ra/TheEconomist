@@ -13,6 +13,7 @@
 Kashmir’s more moderate politicians feel most badly betrayed. On the campaign trail earlier this year, Mr Modi had sworn that he would not “allow Muftis and Abdullahs to divide India”. He was referring to the state’s two most famous political families. Generations of Indian bureaucrats had parleyed with them to try winning over Kashmiris, greasing the wheels with subsidies. The Muftis and Abdullahs often frustrated their handlers in Delhi, but they are not separatists—unlike many more popular leaders. “Our darkest apprehensions have unfortunately come true,” said Omar Abdullah, a former chief minister of the state who was among those placed under house arrest on August 4th. 
 Actions that anger Kashmiris can sometimes benefit Mr Modi politically. He has been widely praised in India for his military operations in the region. In September 2016 a day of “surgical strikes” against nearby Pakistani positions achieved little strategically but helped him in elections. It resulted in a patriotic Bollywood movie which was topping the box office when campaigning began for this year’s polls. 
 But the long-term consequences of Mr Modi’s action may well be ones he regrets. The animosity he has doubtless intensified among Kashmiris will make the area even more fertile territory for recruitment to Pakistan-backed insurgency. By allowing non-Kashmiris to buy land, he has in effect given a green light to Hindus wanting to move into the Muslim-dominated Kashmir valley. That risks stoking ethnic tensions in the area. The country has a long history of bloody confrontation between adherents of the two religions. The just-abolished state has suffered much of it. Its residents are bracing for more. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Kashmir['kæʃmiә]:n. 克什米尔 
@@ -94,4 +95,6 @@
 77.confrontation[.kɔnfrʌn'teiʃәn]:n. 对抗；对质；面对 
 78.adherent[әd'hiәrәnt]:n. 信徒, 追随者 a. 附着的, 发生联系的 
 79.brace[breis]:n. 支柱, 曲柄, 支撑, 一对 vt. 紧缚, 支撑, 激励 vi. 打起精神 [计] 花括号 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

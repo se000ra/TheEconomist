@@ -14,6 +14,7 @@
 Still, firms trying to establish themselves in China face a long road. Sectors that require lots of capital and a large physical presence will be tough to crack. No foreign firm can fight for mass-market business in banking when Agricultural Bank of China has more than 20,000 branches, or in insurance when China Life has 1.7m salespeople. But there are lucrative niches such as serving wealthy clients or handling cross-border deals. 
 Fund managers and investment banks stand more chance because success is determined less by size than by expertise, says Victor Wang of China International Capital Corp, a big domestic brokerage. When it comes to structuring derivatives or offering research, foreigners have more experience. Yet they will also run up against local rivals with bigger names and more clients. “There is no magic way to become competitive in this market,” Mr Wang says. 
 Meanwhile the trade war looms over all. Some hawks in America want to sever financial ties with China. Marco Rubio, a Republican senator, has challenged MSCI over its inclusion of Chinese shares, accusing it of helping authoritarians. A headhunter in Hong Kong reports that American fund managers slowed their hiring after trade talks between China and America broke down in May. With talks set to resume, they can breathe a sigh of relief—for now. The worry is that, just as China clears away some of the obstacles in their path, America will replace them with new ones. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.financier[fai'nænsiә]:n. 财政家, 金融家 vi. 从事欺骗性金融活动, 欺骗 
@@ -85,4 +86,6 @@
 67.senator['senәtә]:n. 参议员, (某些大学的)理事 [法] 参议员, 上议员 
 68.authoritarian[ɒ:.θɒri'tєәriәn]:a. 独裁的, 独裁主义的 
 69.headhunter['hedhʌntә]:n. (原始社会中)猎取人头者, 物色人才的人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

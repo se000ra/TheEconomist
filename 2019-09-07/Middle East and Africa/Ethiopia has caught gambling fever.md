@@ -8,6 +8,7 @@
 Ethiopia was until recently a laggard. Addis Ababa had a hotel casino in the time of Emperor Haile Selassie, but this was closed by the Marxist junta known as the Derg in the 1980s. Its successor, the Ethiopian People’s Revolutionary Democratic Front, shared the Derg’s suspicion of gambling. The first betting licence was not granted until 2013 and the market remained mostly empty until 2016. Foreign firms are still prohibited. 
 Recent improvements in Ethiopia’s telecoms infrastructure help explain the boom. “Without internet you couldn’t do anything,” says Michael Demissew of Abyssinia Bet, a gambling firm that uses mobile money. The government has also softened its stance since the appointment of Abiy Ahmed, the relatively liberal prime minister, last year. It has allowed gambling advertisements on radio and television and may soon permit casinos. It is motivated by the potential for new tax revenue, says Sophonias. 
 But the boom also reflects deepening economic frustration among the country’s youth. “Almost everyone is playing for money, not entertainment,” says one punter. “You could get money here that you can’t get anywhere else.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Ethiopia[.i:θi'әupiә]:n. 埃塞俄比亚 
@@ -42,4 +43,6 @@
 30.ahmed[]:n. 艾哈迈德（男子名） 
 31.frustration[frʌs'treiʃәn]:n. 挫折, 顿挫 [医] 挫折 
 32.punter['pʌntә]:n. 用篙撑船的人, 船夫, 赌博者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

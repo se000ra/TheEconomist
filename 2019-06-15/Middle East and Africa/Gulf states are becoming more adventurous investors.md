@@ -16,6 +16,7 @@
 All could do well to look at the world’s wealthiest sovereign, Norway, which manages about $1trn in its oil-surplus fund. Parliament oversees its investments. A recent decision to dump oil and gas stocks and pour money into renewables was the subject of long public debate. 
 Funds in the Gulf lack such transparency. Some do not even publish regular financial statements. Each is controlled by a few officials close to the monarch. Qatar has bought assets that look more like vanity projects than sound investments. Saudi Arabia may regret gambling on tech firms beset with regulatory and managerial problems. Khadem al-Qubaisi, the former director of an Abu Dhabi fund, was arrested for his dealings with 1MDB, a defunct Malaysian development fund that was a cesspit of corruption. 
 Governments in the Gulf urge citizens not to worry about the future: when oil and gas revenue stops flowing, sovereign-wealth funds will pick up the slack. Those promises mean little if the funds are run like personal fiefs. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.sovereign['sɒvrin]:n. 元首, 独立国 a. 具有主权的, 至高无上的, 国王的, 完全的 
@@ -108,4 +109,6 @@
 88.corruption[kә'rʌpʃәn]:n. 腐败, 堕落, 贪污 [计] 论误 
 89.slack[slæk]:n. 松弛, 松懈, 淡季, 闲散, 家常裤 a. 松弛的, 不流畅的, 疏忽的, 无力的, 呆滞的, 软弱的, 漏水的 adv. 马虎地, 缓慢地 vt. 放松, 使缓慢 vi. 松懈, 减弱, 松弛 
 90.fief[fi:f]:n. 封地, 采邑 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

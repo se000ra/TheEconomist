@@ -16,6 +16,7 @@
 The left needs to accept that many of the criticisms it levels at capitalism do not fit the facts. Life at the bottom of the labour market is not joyous—far from it. However, the lot of workers is improving and entry-level jobs are a much better launch pad to something better than joblessness is. A failure to acknowledge this will lead to government intervention that is at best unnecessary and at worst jeopardises recent progress. The jobs boom seems to be partly down to welfare reforms that the likes of Mr Corbyn have vociferously opposed. 
 The right should acknowledge that jobs have boomed without the bonfire of regulations that typically forms its labour-market policy. In fact, labour-market rules are proliferating. And although the jury is out on whether rising minimum wages are harming some groups, such as the young, they are not doing damage that is large enough to show up in aggregate. 
 The jobs boom will not last for ever. Eventually, a recession will kill it off. Meanwhile, it deserves a little appreciation. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.unprecedented[.ʌn'presidentid]:a. 空前的 [经] 空前的, 无前例的 
@@ -86,4 +87,6 @@
 66.typically['tipikәli]:adv. 代表性地；作为特色地 
 67.proliferate[prәәu'lifәreit]:vi. 增殖, 激增, 扩散 vt. 使激增 
 68.aggregate['ægrigәt]:n. 合计, 总计, 聚集体 a. 合计的, 聚集的 v. 聚集, 集合, 合计达 [计] 聚合体; 聚集 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

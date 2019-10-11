@@ -10,6 +10,7 @@
 Nevertheless, it would be a mistake to view the LPR as a silver bullet, either for monetary easing or for China’s longer-term project of interest-rate reform. When banks are concerned about the economic outlook, as many increasingly are, they can simply demand higher risk premiums over the benchmark from their borrowers. 
 There is no getting round the fact that China must do more if it wants to embolden its lenders. The central bank would need to cut their funding costs sharply, but it is reluctant to do so, worried about whipping investors into a speculative frenzy. The government would need to expand its fiscal stimulus, but it is worried about adding fuel to China’s debt problem. 
 As for the redesign of Chinese monetary policy, there is still much to do. The central bank formally answers to the State Council. Any big changes in interest rates are thus political decisions, not purely economic ones (although a cynic might say the same is true in America, Yi Gang, governor of the People’s Bank of China, faces umpteen more constraints than Jerome Powell of the Federal Reserve). Moreover, the LPR makes China’s monetary-policy toolkit more cluttered. Banks have been told that for the time being the new benchmark will not apply to mortgages. It will thus be possible for China to cut rates for companies but not for homebuyers. After all these years, Chinese planners remain reluctant to cede too much power to the market.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.revamp[ri:'væmp]:vt. 换新鞋面, 修理, 修补, 修改 [经] 整修, 补, 修改 
@@ -62,4 +63,6 @@
 48.homebuyer[ˈhəʊmbaɪə(r)]:n. 购房者 
 49.planner['plænә]:n. 计划者, 设计者, 安排者 [机] 刨床机 
 50.cede[si:d]:vt. 割让 [法] 割让, 让与, 放弃 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

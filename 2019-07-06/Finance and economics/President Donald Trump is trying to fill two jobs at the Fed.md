@@ -9,6 +9,7 @@
 All this is a million miles from the modern mainstream. It is also at odds with what Mr Trump wants. Whereas Ms Shelton has called for a strong dollar, Mr Trump gets irate when other countries seek to depreciate against it. Fears of inflation and a debased dollar imply a leaning towards tighter monetary policy—and Mr Trump has made his distaste for that very clear. 
 But Ms Shelton’s more recent statements in favour of looser policy seem to suggest a thoroughgoing conversion. That would be reassuring—if only it was not so conveniently timed to fit with a possible Fed nomination. If she is willing to flip her views to fit better with Mr Trump’s agenda, might she be pliant while he is in power, only for her own eccentric views to re-emerge under a future president? She could stick around for a while. Of the two posts Mr Trump is trying to fill, one expires in 2024 and the other in 2030. 
 Regardless of their unequal merits, neither candidate is a shoo-in. Sarah Binder of George Washington University notes the long line of political appointees waiting for Senate confirmation. Candidates for the Fed are jostling with candidates for open-ended judicial appointments, which the Republicans who control the Senate will want to confirm quickly. Ms Shelton will be waiting a while to hear, “you’re hired”. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -68,4 +69,6 @@
 55.jostle['dʒɒsl]:n. 推挤, 冲撞 vi. 推挤, 冲撞 vt. 推, 挤, 煽动 
 56.judicial[dʒu:'diʃәl]:a. 法庭的, 公正的, 审判上的, 司法的 [法] 司法的, 审判上的, 法官的 
 57.quickly['kwikli]:adv. 很快地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

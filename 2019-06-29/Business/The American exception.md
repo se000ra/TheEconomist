@@ -13,6 +13,7 @@
 So what is going on? John Maynard Keynes, an economist, dreamed that his grandchildren would be working only 15 hours a week. But the decline in hours he predicted slowed after the 1970s. This may hint that 35-40 hours is close to the most efficient working period. Any more and workers become too stressed; any less and companies lose too much production. But it is also a sign that Keynes was wrong to think that society would place a high value on extra leisure. 
 In the developed world most workers have more than enough to feed themselves and their families. But they still want “positional” goods—homes in a nice part of town, holidays in sun-drenched resorts and possessions that demonstrate their social status. Prices of these goods will be pushed higher, driving status-seeking employees to work more hours to earn them. 
 So whatever labour-saving gadgets Silicon Valley dreams up, future generations will probably still have to put in a long shift. But Americans could enjoy a bit more holiday. Those who agree ought to ask their politicians why those pesky Europeans deserve more rest.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bartleby[]:[网络] 巴特比；巴特白；老板是空气 
@@ -51,4 +52,6 @@
 34.gadget['gædʒit]:n. 小配件, 小玩意, 诡计 
 35.silicon['silikәn]:n. 硅 [化] 硅Si 
 36.pesky['peski]:a. 麻烦的, 恼人的, 棘手的, 讨厌的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

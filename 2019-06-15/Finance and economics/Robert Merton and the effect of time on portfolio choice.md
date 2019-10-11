@@ -11,6 +11,7 @@
 A lot of finance theory that came later would tease out the circumstances in which time horizon really does matter. The reckoning changes, for instance, when wealth is looked at in the round to include non-tradable human capital—knowledge, skills and abilities. Sitting in a London office, Mr Merton gives an illustrative example. 
 Say, a young person’s human capital, which determines his future earnings, is 90% of his lifetime wealth, with the balance in stocks. And say that for an almost-retired person the proportions are reversed. If the stockmarket crashes by 40%, the young person has lost only 4% of his wealth. But the nearly retired person has lost 36%, which is much more serious. For older people, having all their financial wealth in stocks is not a sensible risk to take, says Mr Merton. Human capital is low-risk. If you have lots of it, you can take more financial risk. 
 The best lifetime strategy is a complex problem to solve, even for brainy people such as Mr Merton. But he hopes that, with the passage of time, the pension industry will create more user-friendly products. Cars are easy for their users; the complex work is done by designers and engineers. Pensions should be the same. Needs drive innovation, says Mr Merton. “That is why I’m an optimist.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.buttonwood['bʌtnwʊd]: 美洲悬铃木 
@@ -66,4 +67,6 @@
 51.designer[di'zainә]:n. 设计者, 谋划者, 制图者 [计] 设计员 
 52.innovation[.inәu'veiʃәn]:n. 改革, 创新 [法] 创新, 改革, 刷新 
 53.optimist['ɔptimist]:n. 乐观者, 乐观主义者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

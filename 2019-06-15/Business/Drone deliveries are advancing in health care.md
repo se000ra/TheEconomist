@@ -9,6 +9,7 @@
 The prospect of such efficiency gains (as well as eco-friendliness) was factor in the partnership between Swiss Post and Matternet. Drones now serve three cities in Switzerland. Swiss Post says journeys of 45 minutes have been reduced to flights of a few minutes only. Matternet is, like Zipline, moving into North Carolina, where the local transport authority has championed drone delivery. UPS, a big delivery company, is using Matternet’s drones to replace some courier cars to move medical samples across the state. UPS lags behind Swiss Post in drone delivery, but hopes that experience in health care will lay the groundwork for national expansion. 
 The future of drone deliveries of all kinds in America, and elsewhere, rests with regulators. In less developed countries the skies are empty and permission to fly can be granted by a single person. In developed countries, with their more crowded airspace and thicker rule books, everything takes longer. 
 The buzz in America stems from a pilot programme by the Federal Aviation Administration (FAA), which is using it to help develop a regulatory framework. As part of the project, Zipline is expected next week to announce its plans for health-care deliveries directly to the consumer. Some expect that by the time the FAA pilot ends in November 2020, Mr Bezos will finally have his way. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.drone[drәun]:n. 雄蜂, 懒惰者, 嗡嗡的声音, 无人驾驶飞机(或船) vi. 嗡嗡作声, 混日子 vt. 低沉地说 
@@ -63,4 +64,6 @@
 50.buzz[bʌz]:n. 嗡嗡声, 流言 vi. 发出嗡嗡声, 说闲话 vt. 使嗡嗡叫, 散布 
 51.FAA[]:一切海损均不赔偿 
 52.regulatory['regjulәtәri]:a. 受控制的, 统制的, 调整的 [经] 规则的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

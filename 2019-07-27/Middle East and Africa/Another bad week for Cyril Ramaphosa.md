@@ -13,6 +13,7 @@
 It is not the first display of the public protector’s incompetence. Courts have taken issue with Ms Mkhwebane since she assumed office in 2016. Most recently, on July 22nd, South Africa’s highest court found that she had lied under oath and acted in bad faith in a case involving the central bank. Ms Mkhwebane also has a record of (ineptly) going after Mr Ramaphosa’s allies while being soft on his enemies. 
 The public protector is not the only source of woe for Mr Ramaphosa. Mr Zuma and his henchman, Ace Magashule, the ANC’s secretary-general, who is also accused of corruption, want to see the back of a president who is trying to clean up the government. Mr Zuma, in particular, may be hoping that having an ally as president might shield him from prosecution on charges relating to 783 counts of fraud, money-laundering and racketeering. 
 South Africa’s GDP contracted by 3.2% in the first quarter of the year. The more the president is distracted by internal opponents, the less time he has to try to fix the country’s pressing problems. His record continues to be one of overpromising and underdelivering—which is, of course, exactly what his enemies want. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -78,4 +79,6 @@
 61.racketeer[.ræki'tiә]:n. 敲诈者, 骗子 v. 诈骗钱财 
 62.distract[dis'trækt]:vt. 转移, 分心, 使发狂 
 63.overpromising[]:[网络] 过高 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

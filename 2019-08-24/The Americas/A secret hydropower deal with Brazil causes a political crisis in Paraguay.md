@@ -14,6 +14,7 @@
 Many in Paraguay argue that the country should use the excess power itself to industrialise. Drawn by low taxes as well as cheap electricity, car companies have started manufacturing cables in Paraguay to export to Brazil. In Ciudad del Este, just south of the dam, many locals engage in Bitcoin mining, an exceptionally power-hungry business. Demand from homes and offices is growing quickly, too. Within a few decades, Paraguay’s half of Itaipu’s output “will go to air-conditioning”, says Christine Folch, the author of “Hydropolitics”, a forthcoming book about the dam. 
 At that point, the country will need new energy sources. Until then, however, most of the power will still be sold to Brazil. Brazil’s economy is 50 times bigger than that of its landlocked neighbour. And Paraguay’s negotiating position is weak. Whereas Mr Bolsonaro put a trio of generals in charge of the Brazilian half of Itaipu, Paraguay does not even have a fully fledged energy ministry. The messages published by Mr Ferreira show how Brazil sets the agenda. 
 Public pressure may help change that. On August 7th Paraguay’s government appointed Geraldo Blanco, an engineering professor with a plan to use more of Itaipu’s electricity in Paraguay, to the dam’s governing council. As it contemplates its strategy for 2023, Paraguay may look to other smaller countries’ battles with big neighbours. In the 1970s a campaign involving the actor John Wayne helped persuade America to pass a law that returned Panama’s canal in 1999. As for the businesses best suited to provide the investment needed for Paraguay��s industrialisation, they are right over the border in Brazil. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.hydropower['haidrәupauә]:n. 水力发出的电力 
@@ -86,4 +87,6 @@
 68.john[dʒɔn]:n. 盥洗室, 厕所, 嫖客 
 69.wayne[wein]:n. 韦恩（男子名） 
 70.industrialisation[ɪndʌstrɪəlaɪzeɪ'ʃən]:n. 工业化 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

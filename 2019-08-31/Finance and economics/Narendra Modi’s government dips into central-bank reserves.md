@@ -9,6 +9,7 @@
 Lost amid this political controversy was the deeper economic question of whether central banks need capital at all. They cannot go bust. Their liabilities are the money they issue. But that money is simply a promise to pay money. Their creditors already hold the thing they are owed. Central banks’ assets are also peculiar. The principal one is their licence to print money that people will accept in exchange for real resources. This right to earn seigniorage, as it is called, is worth a lot, even if their money-printing is constrained by the need to keep inflation in check. 
 Mr Jalan’s committee argues that central banks do need strong financial positions to carry out their business. But its justifications mostly boil down to perceptions: central-bank capital matters because people think it does. That can include central bankers. If a central bank fears negative equity, it may sacrifice other macroeconomic goals to protect its financial position. But if this phobia distorts their work, perhaps they should work harder to shed their fear. 
 Several central banks have functioned well for years with liabilities that greatly exceed their assets. Often they have accumulated large stocks of foreign-exchange reserves, which fall in value relative to their domestic currency when it appreciates. In these cases, then, the central bank suffers capital losses because of growing, not diminishing, confidence in its money. Take the Bank of Thailand (BOT). It says emphatically in its financial statements that its “accumulated loss has no impact on the continued operation of the BOT”. And indeed inflation in Thailand is less than 1%. Perhaps it helps that the BOT’s handsome premises are valued at over $200m.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ravage['rævidʒ]:n. 破坏, 蹂躏 v. 毁坏, 破坏, 掠夺 
@@ -65,4 +66,6 @@
 52.BOT[bɔt]:[计] 磁带开始标志, 计算机角色 [医] 肤蝇[类]幼虫 
 53.emphatically[im'fætikәli]:adv. 强调地, 着重地 
 54.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

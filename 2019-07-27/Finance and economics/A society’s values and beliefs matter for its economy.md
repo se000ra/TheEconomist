@@ -10,6 +10,7 @@
 Mr Spolaore has deployed cultural arguments in his own research. In work with Romain Wacziarg of the University of California, Los Angeles, he studied how cultural barriers within Europe created social distance, which impeded the flow of ideas and practices. Fertility control, which contributed to a falling birth rate in France in the early 19th century, before anywhere else, spread first to places that had close cultural and linguistic links to France. The reason to consider such cultural factors, Mr Spolaore argues, is that modern economic phenomena often cannot be explained without them. An account of the Industrial Revolution that omitted cultural shifts would be less useful and informative. And imagine trying to explain the labour-market fortunes of women and racial minorities over the past century solely as the outcome of individual decisions made on the basis of rational self-interest. 
 On reflection, it seems obvious that cultural change can unlock the economic potential of people and ideas, with history-altering results. Such shifts matter for reasons other than their effect on GDP. Evolving norms that allow women, ethnic minorities, immigrants, and gay and transgender people to play full roles in society not only boost growth but reduce human suffering. But because these shifts matter economically, the dismal science needs a better understanding of when and how cultures change—especially now. 
 Despite Mr Trump’s trade war, America’s longest-ever expansion rolls along. But as Trump admirers at a political rally demand that Ilhan Omar, a Somali refugee and naturalised American citizen who is now a congresswoman from Minnesota, be “sent back”, it is worth thinking harder about the broader nature of Mr Trump’s economic influence. Mr Spolaore, listing the social norms that became a part of Mr Mokyr’s “culture of growth”, includes “tolerance of heterodox views, rigorous standards based on proofs and reproducible experiments, and positive attitudes towards openness, collaboration and disclosure”. These norms shaped behaviour, which enabled progress. But cultures change. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -101,4 +102,6 @@
 87.openness['әupәnnis]:n. 公开；宽阔；率真 
 88.collaboration[kә.læbә'ræʃәn]:n. 合作, 勾结 [法] 通敌卖国者, 奸细 
 89.disclosure[dis'klәuʒә]:n. 揭发, 泄露, 揭发(或暴露)的事实 [经] 揭示, 披露 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

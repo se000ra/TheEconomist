@@ -9,6 +9,7 @@
 Individuals who fail to recycle could be hit with fines of up to 200 yuan ($29). For repeat violators, the city can add black marks to their credit records, making it harder for them to obtain bank loans or even buy train tickets. Some object to this. Peng Feng of the Shanghai Academy of Social Sciences warns that the use of the credit system is overkill, raising a risk that officials will abuse their power. But others say a tough campaign is necessary. “Slowly people will get used to it,” says Li Changjun of Fudan University. 
 Many residents appear to support the idea of recycling in general but are frustrated by the details. Rubbish must be divided according to whether it is food, recyclable, dry or hazardous, the distinctions among which can be perplexing, though there are apps to help work it out. Some have complained about the rules surrounding food waste. They must put it straight in the requisite public bin, forcing them to tear open plastic bags and toss it by hand. 
 Most vexing are the short windows for dumping trash, typically a couple of hours, morning and evening. Along with the monitors at the bins, this means that people go at around the same time and can keep an eye on what is being thrown out; no one wants to look bad. But it is inconvenient. “People have to get to work. We don’t have the time for this,” said Mr Wu as he threw out rubbish outside his apartment building. To your correspondent’s untrained eye, his sorting looked impeccable. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.cheerleader['tʃiәli:dә]:n. 啦啦队长 
@@ -52,4 +53,6 @@
 39.wu[]:abbr. 西联（Western Union）；工作单位（Work Unit）；武汉航空公司 
 40.untrained[.ʌn'treind]:a. 未经训练的 
 41.impeccable[im'pekәbl]:a. 无懈可击的, 勿容置疑的, 无瑕疵的, 不会做坏事的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

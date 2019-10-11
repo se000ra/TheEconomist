@@ -10,6 +10,7 @@
 ![image](images/20190706_WBC360.png) 
 Third, Aramco is building on that openness by promising to hold its first earnings call in August. This could be good preparation for the interaction with investors that would be required of a listed company. 
 High hurdles remain. Aramco’s lawyers are against listing it in New York for fear district attorneys will hound it over allegations that the kingdom provided support to the perpetrators of the September 11th 2001 terrorist attacks. Though the London Stock Exchange has courted Aramco assiduously, the City is becoming more ambivalent about oil and gas investments for environmental reasons. Saudi Arabia’s Tadawul exchange is too small to handle potential stock trades of trillions of dollars. Ultimately the whereabouts of the listing may be a geopolitical call. If President Donald Trump cajoles Prince Muhammad into listing in New York, he may oblige. But the valuation remains in the lap of the gods. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.saudi['sajdi]:a. 沙乌地阿拉伯（人或语）的 
@@ -72,4 +73,6 @@
 58.whereabout['hwεәrә.baut]:n. 行踪；下落 
 59.geopolitical[,dʒi(:)әupә'litikәl]:[计] 地理的 
 60.cajole[kә'dʒәul]:vt. 以甜言蜜语哄骗, 勾引 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

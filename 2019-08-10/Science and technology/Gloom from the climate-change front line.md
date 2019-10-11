@@ -11,6 +11,7 @@
 Number one on that list is stopping deforestation, along with efforts to regenerate degraded ecosystems. Reducing food waste is also important. More than a quarter of what the world grows to eat is never actually consumed. That creates a huge carbon footprint to no benefit. And diets themselves need to change. In particular, raising livestock contributes disproportionately to the problem. That means eating less meat, an admonition directed mainly at rich countries, whose people, often overweight, might in any case benefit from going on a diet. 
 This last point presented one bone of contention between the 195 government delegations charged with approving the panel’s report. The role of bioenergy (growing crops for fuel) and BECCS (bioenergy with carbon capture and storage) was another. A previous IPCC report, published in 2018, on the feasibility of limiting global warming to 1.5°C, made it abundantly clear that this would require large amounts of greenhouse gases be removed from the atmosphere and somehow stored away. BECCS, in which power stations capture and store the CO2 from burning biofuel, has been touted as a way to do that on a large scale, but the area of land required to grow the biofuel needed to absorb billions of tonnes of CO2 would be enormous—several times the size of India. 
 Optimistically, the report’s authors conclude that there should be enough room to provide a growing population with sufficient food, without rushing towards a dangerously warm climate. There is, though, a caveat. That outcome would require what one commentator called a “global intelligent response”. But the world, like the delegates, seems to be asleep.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.IPCC[]:abbr. 政府间气候变化专门委员会（Intergovernmental Panel on Climate Change）；命令与控制的信息处理（Information Processingin Command and Control）；独立警察投诉委员会（The Independent Police Complaints Commission） 
@@ -63,4 +64,6 @@
 48.dangerously[]:adv. 危险, 不安全 
 49.caveat['keiviæt]:n. 中止诉讼程序的申请, 警告 [经] 停止支付的广告, 货物出门概不退换 
 50.commentator['kɔmenteitә]:n. 评论员, 实况广播员, 注释者, 时事评论员 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -14,6 +14,7 @@
 In a recent meeting with visiting Western dignitaries, a senior Chinese official complained about Hong Kong’s tycoons. The crisis was exposing the shortcomings of Hong Kong’s capitalist system, the official said: it was not spreading wealth around as much as the central government had hoped. 
 That realisation, if it is widely shared in Beijing, is a welcome development. Just as a political solution to the crisis has to involve a less rigged system of political representation, so an economic dimension has to involve a less rigged property market. Perhaps leaders in Beijing think such a reform would be a substitute for democracy. Either way, they appear to be starting to appreciate that Hong Kong’s property cartel needs to be challenged by policies that see much more land released for low-cost housing. 
 The potential, says Johnny Kember of KplusK Associates, an architectural practice, is vast. Over 1,000 hectares of brownfield sites could quickly be developed, he notes. There is also the 170-hectare golf course in Fanling, whose lease comes up next year. Many of Hong Kong’s fat cats would surely resent giving up their weekends there to help the very people who are out making trouble. But given the souring mood in Beijing, that is what they may yet be forced to do. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.turmoil['tә:mɒil]:n. 骚动, 混乱 
@@ -91,4 +92,6 @@
 73.Fanling[]:[地名] 粉岭 (香港） 
 74.lease[li:s]:n. 租约, 租期, 租 vt. 出租, 租出, 租得 
 75.resent[ri'zent]:vt. 愤恨, 憎恶, 怨恨 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

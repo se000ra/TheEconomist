@@ -7,6 +7,7 @@
 Eastern Germans have never had it so good. The average salary in eastern Germany increased from less than 50% of western German pay in 1991 to 82% today (and 90% when accounting for lower living costs). Yet they seem more discontented and less tolerant of foreigners than ever. Almost one-third of eastern Germans consider themselves “second-class citizens”. Their frustration is born of the exodus of youngsters in particular, according to a study by the IFO Institute of Economic Research, a think-tank. Eastern Germany has lost more than 2m people since 1990; western Germany has gained 5m. Many vibrant rural towns, which used to have a shop, a school and a community centre, have turned ghostly. The AfD did best in such sparsely populated areas. 
 The vast majority of eastern Germans do not vote for the AfD and so far the mainstream parties have spurned it in coalition talks, so it will hardly influence economic policy. The problem is the damage the AfD is doing to the image of eastern German states, says Joachim Ragnitz of the IFO. At a time when companies in depopulating eastern Germany need immigrants to fill skilled and unskilled jobs, some voters want to pull up the drawbridge. 
 Net outflows of labour may get worse if the AfD gains strength and scares away outsiders. Thomas Morgenstern, head of the Dresden operation of GlobalFoundries, a big American producer of semiconductors, which employs 200 foreigners in a workforce of 3,200, sees no sign of foreign workers’ retreat. But, he says, let the AfD’s result serve as a wake-up call for mainstream politicians to do better by Ossies. All of corporate Germany would benefit. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Deutschland['dɒitʃlɑ:nt]:n. 德国 
@@ -61,4 +62,6 @@
 50.producer[prә'dju:sә]:n. 生产者, 制作者, 制作人 [化] 发生器; (炉煤气)发生炉; 制气炉; 生产者 
 51.ossy[]:[网络] 有损压缩 
 52.corporate['kɒ:pәrit]:a. 社团的, 合伙的, 公司的 [经] 团体的, 法人的, 社团的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

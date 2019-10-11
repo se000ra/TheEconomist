@@ -9,6 +9,7 @@
 Since children from racial minorities disproportionately attend low-income schools, they endured the brunt of the consequences. Test scores in poor and minority school districts suffered most, according to Kenneth Shores of Pennsylvania State University and Matthew Steinberg of the University of Pennsylvania. The schools hit hardest by budget cuts were already struggling academically and financially. Although the cuts may have led some schools to trim otherwise wasteful spending, Mr Jackson and colleagues found that many schools were forced to cut funding of core activities. 
 One of the most noticeable effects was on class size. William N. Evans of Notre Dame University and his co-authors found that nearly 300,000 school personnel, mostly teachers, lost their jobs as a result of the recession. Salaries and employee benefits make up approximately 80% of school expenditures per pupil, so they are often the first cuts made when budgets tighten. Small class sizes improve test scores, future college attendance and future job quality. The cuts increased class sizes in schools that already had the poorest test scores, the lowest college attendance rates and the worst employment rates. 
 According to the Centre on Budget and Policy Priorities, a think-tank, 29 states had not returned to pre-recession funding levels by 2015. Rebecca Sibilia of EdBuild, a non-profit organisation that advocates more equal funding for schools, reckons that funding cuts during the recession provide one of the clearest examples of how current school-funding formulas have a detrimental effect on the children who need most help. She recommends changing the system, for example by redrawing school districts so that they are more equal. This would require wealthier places with higher property taxes to share their funds with needier schools within the same district. However, redistricting is unlikely. Since 2000, more than 128 wealthy neighbourhoods have agitated to secede from school districts in an attempt to hoard resources. Of those, 73 were successful.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.recession[ri'seʃәn]:n. 后退, 凹处, 衰退, 归还 [医] 退缩 
@@ -46,4 +47,6 @@
 33.agitate['ædʒiteit]:vt. 使摇动, 搅动, 使激动, 使不安 vi. 鼓动, 煽动 
 34.secede[si'si:d]:vi. 正式脱离(或退出), 分离 [法] 退出, 脱离 
 35.hoard[hɒ:d]:n. 贮藏物, 密藏的金钱 v. 囤积, 贮藏 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

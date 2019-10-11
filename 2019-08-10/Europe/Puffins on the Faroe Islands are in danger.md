@@ -7,6 +7,7 @@
 The 18 islands comprising the Faroes are home to 51,783 people who govern themselves as an autonomous part of Denmark. When they were poor, and there were plenty of puffins, the Faroese used to scoff more than 200,000 of the birds a year. Twenty years ago, by which time they were just a delicacy, they were still roasting 100,000 a year. Now, says Mr Jensen, the number is down to 1,000. Hunting bans are in force in some areas, but not nationally; and he thinks the government won’t ban catching puffins completely for fear of offending traditionalist voters. 
 Hunting may have sharply declined, but other forces are at work. The Faroes sit in the middle of a region, stretching from Scotland to Norway to Iceland, where the decline in puffin numbers is also dramatic. One theory is that climate change is taking a toll. Puffins feed their young on sand eels and, suspects Sjurdur Hammer, a conservation scientist at the Faroese Environment Agency, sand eels’ nutritional value has gone down because the seas are warmer, speeding up their metabolism. In the future, laments Mr Jensen, “the only place you will see a lot of puffins is in the tourist office.” 
 Might tourism, in fact, help? Gudrid Hojgaard, the Faroese government’s tourism chief, says that since 2012 tourist numbers have already doubled to 120,000 a year. She hopes that revenue this year will be 800m kroner ($120m), a considerable sum for such a thinly-populated place. Apart from admiring the wonders of nature, there is not a lot for visitors to do. Better conserve those puffins before it is too late.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.puffin['pʌfin]:n. 角嘴海雀 
@@ -38,4 +39,6 @@
 27.lament[lә'ment]:n. 悲叹, 悔恨, 恸哭, 挽歌, 悼词 vt. 哀悼 vi. 悔恨, 悲叹 
 28.gudrid[]:[网络] 遗孀古德里德；格德里德 
 29.krone['krәune]:n. 克朗(丹麦,挪威之货币单位), 德国旧金币 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

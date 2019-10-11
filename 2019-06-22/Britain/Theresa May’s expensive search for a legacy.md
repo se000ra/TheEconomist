@@ -7,6 +7,7 @@
 Mr Hammond has another reason to be cross. Since assuming his post in 2016 he has exerted tight control over public spending. He has built up £27bn of headroom in 2020-21, relative to his self-imposed fiscal targets for that year, so as to be able to boost the economy in the event of a no-deal Brexit. Mrs May’s pledges make it more likely that these targets will have to be abandoned. And that, in turn, will make it harder for the Conservatives to argue that a vote for Labour is a vote for fiscal irresponsibility. 
 The legacy-building is in vain. No matter how many billions Mrs May spends, she will not be remembered as the prime minister who tackled Britain’s “burning injustices”, but as the one who tried and failed to pass her Brexit deal—and who kept bringing it back to Parliament with almost demented determination, to see it repeatedly thrown out. The only debate will be about whether the deal was doomed from the start or whether it could have been passed if Mrs May had better political skills. 
 The spending spree may even be worse than pointless. Mrs May at least had a reputation as a dutiful public servant who eschewed flashy gimmicks. Now she risks throwing that away. Instead, she looks more like an entitled popinjay who is willing to sully her government’s hard-won reputation for fiscal prudence in a blaze of vanity. It amounts to a disappointing end to a disappointing premiership. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.theresa[ti'ri:zә]:n. 特丽萨（女子名） 
@@ -42,4 +43,6 @@
 31.sully['sʌli]:vt. 玷污, 弄脏 n. 污点, 脏污 
 32.prudence['pru:dns]:n. 审慎, 慎重, 精明, 节俭 
 33.premiership['premjәʃip;pri'miә-,'pri:m-]:n. 总理职位, 首相职权, 首相职位, 总理职权 [法] 总理职位 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

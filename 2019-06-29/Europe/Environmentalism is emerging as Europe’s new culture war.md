@@ -10,6 +10,7 @@
 Being in Belchatow reminded Charlemagne of those European towns caught up in, or at least alarmed by, the migration crisis of four summers ago. In such places, too, the issue was cultural as well as purely economic. Locals worried about jobs and wages, and fretted that the costs and benefits of the change would be unfairly distributed. But they also worried about the character of their society and felt alienated from globally minded elites in the big cities. Fake news proliferated. Today immigration has faded as a political flashpoint, as the numbers arriving have collapsed. The environmental debate is taking its place. 
 It even has a similar geography. It was tempting to see the migration crisis as a struggle between the eastern and western halves of the EU. That is true of the environmental battle, too. But as with the immigration debates, it oversimplifies the matter. Zuzana Caputova, Slovakia’s new president, and Robert Biedron, an insurgent Polish opposition leader, are both keen environmentalists. And climate change is just as divisive in the western EU. Green and greenish parties are rising and populist parties like the Alternative for Germany, as well as anti-establishment protesters like the gilets jaunes in France, are turning the environmental movement into their new enemy of choice in the culture war. The real divide, as with in immigration, is within societies: between big cities with their Fridays for Future marches, car-free days and liberal politics, and small towns where the old ways of doing things die less easily. 
 Immigration has vanished from Europe’s headlines because the populists won the battle. For all the optimism of the “refugees welcome” campaign in 2015, a broad consensus has now formed around much more restrictive, “Fortress Europe” policies. Environmentalists can learn some lessons from what the pro-immigration campaigners got wrong. First, do not split the difference with populists. Instead, take on their arguments with emotionally resonant facts. Europe’s record-hot summers are powerful argumentative props. Second, do not pander to those who resist change, but do not patronise them either. Treat them as grown-ups, listen to their concerns and move faster to cushion the effects of change with transition funds and retraining schemes. Europe’s liberals are entering a new culture war. They should avoid the mistakes of the last one. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Charlemagne['ʃɑ:lә'mein]:查理曼大帝(742-814, 世称 Charles the Great或Charles I, 768-814为法兰克王, 800-814为西罗马帝国皇帝) 
@@ -103,4 +104,6 @@
 89.patronise['pætrәnaiz, 'pei-]:vt. 庇护, 资助, 赞助, 保护, 光顾, 惠顾, 对...以恩人自居 
 90.transition[træn'ziʃәn]:n. 转变, 转换, 变迁, 过渡时期, 临时转调 [化] 跃迁 
 91.retrain[ri:'trein]:vt. 重新训练, 再训练 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

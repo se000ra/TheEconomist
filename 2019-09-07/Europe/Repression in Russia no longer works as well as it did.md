@@ -13,6 +13,7 @@
 “Society is no longer prepared to put up with violence,” says Grigory Okhotin of OVD-Info, a human-rights group that monitors and provides legal help to the victims of repression. In recent weeks the group has seen an eight-fold increase in voluntary donations and a doubling of the number of volunteers, most in their mid-20s. “They are intolerant [of] repression and don’t want to wait for Russia to turn into a normal country. They want to live in a normal country now,” says Mr Okhotin. 
 In a poll by the Levada Centre, 41% of Russians (and half of Muscovites) said they thought the state’s use of force was excessive and cruel; only 32% deemed it justified. Many people who once saw the state as a guarantor of stability and growth now see it as a threat. Hoping to de-escalate the crisis, the Kremlin has apparently transferred control of the Moscow streets back to civilians. The most recent protest on August 31st ended peacefully. 
 This tactical retreat may be followed by more repression. But the summer protests showed that brutality has costs. As Mr Zhukov wrote in his letter from prison, the regime’s fall could be as sudden as his own arrest, the ring of history’s bell dividing Russia’s life into before and after. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Kremlin['kremlin]:n. 克里姆林宫 [经] 克里姆林宫 
@@ -81,4 +82,6 @@
 64.peacefully[]:adv. 平静地 
 65.tactical['tæktikl]:a. 战术的, 用兵上的, 策略的 
 66.brutality[bru:'tæliti]:n. 残忍, 无慈悲, 野蛮的行为 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -8,6 +8,7 @@
 Mr Bugar says his party’s actions have nothing to do with Mr Kocner, whom he calls “evil”. As for Mr Fico, he denies that the meetings to which the messages refer took place. Mr Kocner rejects the charge that he was involved in the murder, while his lawyer notes that it is hard to prove his client sent the messages (though he does not explicitly deny it). 
 Some pundits suggest Mr Kocner may have boasted of meetings that never happened, to impress the people he was corresponding with. Prosecutors confirm that they have Mr Kocner’s messages, but not that those published are genuine. Still, they seem to take at least some of the information in them seriously. In one message, Mr Kocner refers to an official at the ministry of justice as his “monkey”. Last week the police seized that official’s mobile phone. 
 For now, clean-government forces have the upper hand in Slovakia. In June an environmental and anti-corruption campaigner, Zuzana Caputova, took office as president. But the country has a long way to go. “For a Decent Slovakia” plans to take to the streets again in September. “We want to remind people that the fight for freedom is a never-ending process,” says Mr Galik. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bloody['blʌdi]:a. 血腥的, 嗜杀的, 有血的 
@@ -46,4 +47,6 @@
 34.environmental[in.vaiәrәn'mentәl]:a. 周围的, 环境的 [经] 环境的, 环保的 
 35.campaigner[kæm'peinә]:n. 从军者, 老兵, 竞选者 
 36.zuzana[]:[网络] 健身教练祖札娜；张虹；捷克的正妹祖札娜 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

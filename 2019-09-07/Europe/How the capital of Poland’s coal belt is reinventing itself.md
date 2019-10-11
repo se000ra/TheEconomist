@@ -9,6 +9,7 @@
 Katowice’s leaders are inspired by the post-industrial reinvention of cities like Glasgow, Lille and Essen, but especially Bilbao. The Basque city has used cultural institutions like its monumental outpost of the Guggenheim Museum to strike out on a new path since the 1990s. Katowice wants to do the same with the National Polish Radio Symphony Orchestra on the site of the old KWK Katowice coal mine in Bogucice and the new Silesian Museum in Warszawa II nearby. New cycle paths twist through the city’s centre, parks have been developed and former industrial sites like the Guido mine in Zabrze have reopened as tourist attractions. New business parks on the city’s fringes are speeding its transition from mining (only two of the once dozens of shafts are still open) to services. 
 Many cities want to achieve the “Bilbao effect”. Doing so takes an alchemical mix of creativity, ambition and luck. But Katowice stands a chance. Even by the standards of Poland’s booming economy, it is doing very well. Overall unemployment is low (2.3%), and the city’s squares, not to mention its futuristic Galeria Katowicka shopping centre, teem with workers and shoppers. Not for them the empty streets and boarded-up shops of other former coal-mining regions of Europe. 
 Can it last? The Polish boom will not endure forever. The final mines will eventually close. With its mighty unions and veneration of Saint Barbara (the patron saint of miners), Katowice remains at heart a coal city. But Alicja Knast, the director of the Silesian Museum, reckons it can reinvent itself. The city passed through many hands over the centuries. It has experimented with various religions. Once Protestant, it is now Catholic. It hosted an important congress in the development of Zionism and is home to Poland’s first Buddhist temple. Poland’s first big hip-hop artists, Kaliber 44 and Paktofonika, emerged from its reacquaintance with capitalist forces in the 1990s. Surveying the city’s history from the mighty Warszawa II mine, Ms Knast is optimistic: “I’m not worried at all.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.reinvent[.ri:in'vent]:vt. 重新使用；彻底改造；重复发明（在不知他人已发明的情况下） 
@@ -91,4 +92,6 @@
 78.Zionism['zaiәniz(ә)m]:n. 犹太复国主义 
 79.kaliber[]:[网络] 卡利别尔 
 80.capitalist['kæpitәlist]:n. 资本家, 资本主义者 a. 资本主义的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

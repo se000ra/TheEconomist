@@ -11,6 +11,7 @@
 Mr Draghi must therefore be bold on September 12th. Although the scope for interest-rate cuts is limited, it still exists. The important thing is to mitigate the impact on financial stability by, say, “tiering” deposit rates—giving banks a rebate on some of the interest they would otherwise have to pay to park spare cash with the central bank. This would signal that the ECB can cut rates further without blowing up the banking system. 
 He should also restart QE and commit the bank to buying bonds until underlying inflation shows a meaningful recovery. Mr Draghi has said before that he views asset purchases as particularly helpful in reviving inflation expectations. One constraint is the ECB’s self-imposed limit on the share of a country’s government bonds that the bank can buy. This should be lifted from a third to a half, sending a powerful signal that the ECB means business. The legality of QE is still being questioned in Germany’s constitutional court, but a ruling by the European Court of Justice last year appears to give the ECB room to raise those limits in its quest for price stability. The promise of lower borrowing costs for longer might even prompt national treasuries into issuing more debt. 
 Last, Mr Draghi must use the bully pulpit to urge governments to exercise their fiscal powers to fend off a recession. You might think that he should avoid taking action at the end of his tenure, so as not to bind the hands of his successor, Christine Lagarde. Not so. A determined response now will save her much work later. Mr Draghi is in a unique position. His stature with investors and governments gives him real clout. And since he departs in a few weeks he can be blunter than he has been in putting across the message that governments, not just the ECB, must act. That would cement his legacy as the man who saved the euro.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.mario['mæriәj, 'mɑ:-]:n. 马里奥（男子名） 
@@ -100,4 +101,6 @@
 85.clout[klaut]:n. 敲击, 破布 vt. 打补钉 
 86.blunt[blʌnt]:a. 钝的, 坦率的, 麻痹的 
 87.legacy['legәsi]:n. 祖先传下来之物, 遗赠物 [经] 遗产, 遗赠物 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

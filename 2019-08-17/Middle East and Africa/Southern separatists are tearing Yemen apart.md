@@ -10,6 +10,7 @@
 Tensions between the government and the STC flared last year, but the latest fighting looks more serious. It began on August 7th with a funeral procession for dozens of southern soldiers killed in a Houthi missile strike the week before. As the mourners passed the presidential palace, chanting anti-government slogans, bullets were exchanged with the presidential guards. The violence quickly escalated and, three days later, forces aligned with the STC had taken the palace and several military barracks. Pressure from the Saudis might lead to a face-saving deal that allows the government to return in some form, but the STC will probably remain in control. 
 Publicly, at least, the leaders of Saudi Arabia and the UAE are speaking with one voice about the situation. But their call for talks belies tension in their own relationship. The UAE has focused on southern Yemen, where it has backed groups such as the STC in an effort to rout jihadists and Islamists. Some accuse it of creating a parallel state—on his way out of Aden, the interior minister blamed the UAE for the fighting. The Saudis, meanwhile, have focused on the north and restoring the government. They have worked with Islah, Yemen’s main Islamist group and a part of the administration, as well as others whom the UAE finds unsavoury. 
 Whereas the Saudis have stuck mostly to the air, the UAE has led the charge on the ground and can claim most of the credit for what progress has been made against the Houthis. But with no end in sight, and as fear of conflict with Iran grows, the UAE is abandoning the war. Big new offensives by the coalition therefore seem unlikely. Saudi Arabia has the support of America’s president, Donald Trump, who has resisted congressional efforts to press the kingdom to end the war. Still, the prospect of a coalition victory is growing dimmer. And an old question has returned: can Yemen ever be stitched back together? ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.separatist['sepәreitist]:n. 分离主义者, 独立派 
@@ -72,4 +73,6 @@
 58.Iran[i'rɑ:n]:n. 伊朗 
 59.offensive[ә'fensiv]:a. 令人不快的, 侮辱的, 攻击性的 [法] 攻击的, 进攻的, 冒犯的 
 60.congressional[kәn'greʃәnl]:a. 会议的, 议会的, 国会的 [法] 代表大会的, 大会的, 议会的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

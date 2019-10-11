@@ -14,6 +14,7 @@
 Cathay Pacific’s chairman stood down, three weeks after its chief executive resigned amid the political turmoil in Hong Kong, Cathay’s home hub. The airline draws a lot of business from the Chinese mainland, where the government has told it to bar cabin crew who participate in Hong Kong’s pro-democracy protests from flying to Chinese airports. Cathay has sacked two pilots who joined the marches. The new chairman, like the new CEO, comes from Swire Group, a conglomerate with a 45% stake in Cathay. 
 Nickel prices soared to five-year highs after the Indonesian government brought forward a ban on exports of nickel ore to December, two years earlier than it had proposed. The metal is used in stainless steel and increasingly in batteries for electric cars, an industry which Indonesia wants to develop domestically. 
 There were more privacy scandals involving internet companies. Google was fined $170m in America for illegally collecting data from child users on its YouTube site in order to target them with ads. And a two-year hacking campaign was uncovered (by Google’s researchers) that tapped into text messages and photos on hundreds of thousands of iPhones. As a reminder that no one is immune, the Twitter account of Jack Dorsey, Twitter’s boss, was briefly hijacked; a number of offensive messages and a bomb threat were tweeted out. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -97,4 +98,6 @@
 79.hijack['haidʒæk]:vt. 抢劫, 劫持, 敲诈 [法] 挡路抢劫, 抢劫, 绑架 
 80.offensive[ә'fensiv]:a. 令人不快的, 侮辱的, 攻击性的 [法] 攻击的, 进攻的, 冒犯的 
 81.tweet[twi:t]:vi. 啁啾 n. 小鸟叫声 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

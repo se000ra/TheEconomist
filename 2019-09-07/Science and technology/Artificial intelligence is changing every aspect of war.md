@@ -33,6 +33,7 @@
 The wider consequences of that remain unclear. The prospect of accurate and rapid strikes “could erode stability by increasing the perceived risk of surprise attack”, writes Zachary Davis in a recent paper for the Lawrence Livermore National Laboratory. But AI might equally help defenders parry such blows, by identifying the telltale signs of an impending strike. Or, like America’s sensor-scattering spree in the Vietnamese jungle in the 1960s, such schemes could wind up as expensive and ill-conceived failures. Yet no power wants to risk falling behind its rivals. And here, politics, not just technology, may have an impact. 
 The Pentagon’s spending on AI is a fraction of the $20bn-30bn that was spent by large technology firms in 2016. Although many American companies are happy to take defence dollars—Amazon and Microsoft are nearing a $10bn cloud-computing contract with the Pentagon—others are more skittish. In June 2018 Google said it would allow its $9m contract for work on Project Maven to lapse this year, after 4,000 employees protested the company’s involvement in “warfare technology”. 
 In China, on the other hand, firms can be easily pressed into the service of the state and privacy laws are a minor encumbrance. “If data is the fuel of AI, then China may have a structural advantage over the rest of the world,” warned Robert Work, a former US deputy secretary of defence, in June. Whether civilian data can fuel military algorithms is not clear, but the question plays on the minds of military leaders. JAIC director General Jack Shanahan expressed his concerns on August 30th: “What I don’t want to see is a future where our potential adversaries have a fully AI-enabled force and we do not.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.algorithm['ælgәriðm]:n. 算法 [计] 算法 
@@ -263,4 +264,6 @@
 226.Shanahan[]:n. (Shanahan)人名；(英)沙纳汉 
 227.adversary['ædvәsәri]:n. 敌手, 对手 a. 敌手的, 敌对的 
 228.fully['fuli]:adv. 十分地, 完全地, 充分地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

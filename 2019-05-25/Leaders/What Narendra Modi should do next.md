@@ -12,6 +12,7 @@
 Listen on: Apple Podcasts | Spotify | Google | Stitcher | TuneIn 
 In its five years in office, Mr Modi’s government did not quite live up to either identity, to the dismay of business and the relief of minorities. It did enact two urgently needed reforms, introducing a uniform national sales tax and streamlining bankruptcy proceedings. But it also appalled businessmen (and economists) by abruptly voiding most banknotes in a quixotic quest to catch tax-dodgers. By the same token, it did not build the temple at Ayodhya or preside over the sort of anti-Muslim pogrom that stained Mr Modi’s tenure as chief minister of the state of Gujarat. But it did inflame the Muslim areas of Jammu & Kashmir with brutal policing, launch risky airstrikes against Pakistan and wink at alarmingly regular beatings and lynchings of Muslims and low-caste Hindus for various perceived insults to the religion of the majority. 
 Mr Modi’s second term gives him another chance to hasten development and turn India into a genuine global power—goals that appeal to both his enterprising supporters and his religious ones. But to do so he will have to focus on the economy. The sectarian concerns the BJP has been stirring up during the election campaign are a harmful distraction. So far, Mr Modi has governed in perpetual campaign mode, with more emphasis on slogans than outcomes. He needs to show Indians that he is not just good at winning elections, but at putting his victories to use. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Hindu['hindu:]:a. 印度教教徒的 n. 印度教教徒 
@@ -96,4 +97,6 @@
 80.sectarian[sek'tєәriәn]:a. 宗派的, 党派的, 偏狭的 n. 宗派成员, 闹宗派的人 
 81.distraction[dis'trækʃәn]:n. 娱乐, 分心的事物, 分心 [医] 注意力分散, 内脱位, 牙弓过宽 
 82.perpetual[pә'petʃuәl]:a. 永久的, 不断的, 无期限的, 没完没了的, 四季开花的 [经] 永远的, 终身的, 持续的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 Second, Germany’s establishment is different. America has a powerful executive, Britain has a high degree of centralisation and France has both, but in Germany power is diffuse and plural. Opinion is more diverse than the notion of a monolithic German interest and outlook allows. Plenty of prominent figures in German politics and academia share French and southern European criticisms of her government’s stances. Among them are the Greens, who have come first in some recent polls. 
 So multilayered and multifaceted are German politics and public life that the country can be in fact frustratingly introverted. Even at the peak of her powers, Mrs Merkel was more a crisis manager than a visionary leader. On European debates about the euro, technology, defence and foreign policy, Germany does not so much block or impose but is rather semi-engaged, caught up instead with its own, often petty domestic squabbles. In 2011 Radek Sikorski, then Poland’s foreign minister, admitted that he now feared German inaction more than German action—a remarkable confession given his country’s past. 
 A Germany insufficiently engaged with European matters can hardly create the “German Europe” that its critics fear. And that will not change if Mrs von der Leyen leads the next commission (it might even produce a slightly more French Europe). But as a face familiar to German voters and with influence in Berlin, where change is in any case in the air as the Merkel era draws to a close, a President von der Leyen might at least help confront that disengagement among her sleepy compatriots by better explaining the EU and pressing the need for more reform and integration on them. She might thus produce not a more German Europe but a more European Germany. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Charlemagne['ʃɑ:lә'mein]:查理曼大帝(742-814, 世称 Charles the Great或Charles I, 768-814为法兰克王, 800-814为西罗马帝国皇帝) 
@@ -117,4 +118,6 @@
 102.confront[kәn'frʌnt]:vt. 使面对, 对抗, 遭遇, 使对质, 比较 [法] 对证, 使对质, 比较 
 103.disengagement[.disin'geidʒmәnt]:n. 分开, 空闲, 解脱 [医] 解脱(分娩) 
 104.compatriot[kәm'pætriәt]:n. 同国人 a. 同国的, 同胞的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 Matt Hancock, the health secretary and an enthusiastic convert to Mr Johnson’s cause, promised he would “make sure that money gets to the front line”, which in this case conveniently includes hospitals in marginal constituencies such as Boston, Stoke and Truro. Although Mr Johnson has promised an additional 20,000 police officers, there will be no proportional increase in the staff who work alongside them, like data analysts or those who work in the courts. Londoners, who twice elected Mr Johnson as mayor, will recognise his fondness for policy announcements that look good splashed across an election poster. 
 Many of these announcements then turn out to be less impressive than the headline figure would suggest. As Sally Gainsbury of the Nuffield Trust, a think-tank, has pointed out, £1bn of the £2.1bn announced for the NHS had already been promised (though it was later put on hold). Likewise, half of the fund for poor towns had been set aside by Theresa May, Mr Johnson’s predecessor. Solutions for knottier problems remain in development. An answer to the social-care funding crisis is expected in the autumn. With the exception of the extra police officers, where a new board run by the Home Office will oversee recruitment, the extra money has not been accompanied by reforms to how services are run. 
 Most of the money will be spent over the next few years, meaning it will almost certainly be dependent on a successful re-election campaign. In the next few months Brexit is likely to take up the government’s attention, and the Conservatives’ perilous parliamentary position means they will struggle to get much else done. Facing similar obstacles, Mrs May also came to power with bold ambitions to reform the British state. She failed to put them into practice, and it will not be a surprise if Mr Johnson struggles too. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.boris['bɔris]:n. 鲍里斯（男子名） 
@@ -67,4 +68,6 @@
 54.recruitment[ri'kru:tmәnt]:n. 新兵征召 [医] 募集[反应], 募集[现象](生理), 复聪(耳科) 
 55.perilous['perilәs]:a. 危险的, 濒临毁灭的 
 56.Mr['mistә(r)]:先生 [计] 存储器回收程序, 多重请求 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

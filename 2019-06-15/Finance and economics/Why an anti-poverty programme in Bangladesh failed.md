@@ -8,6 +8,7 @@
 One charity in Kenya had shown that hiring teachers on fixed-term contracts improved pupils’ test scores. So the government rolled out the contracts across the country. But a political backlash meant that the contracted teachers were promised trade-union representation, just like ordinary teachers. Not surprisingly, an evaluation by Mr Sandefur and others found that the government’s reform had no effect. 
 In Bangladesh the problem may have been targets. Many of the “migration organisers” who fanned out to villages, offering to subsidise journeys to cities, seem to have been expected to sign up 450 migrants each. They may have done what anybody would do in that situation: approach men who had migrated before or were especially eager to travel. Because most of those men would have made the journey anyway, the project had little effect. 
 Mushfiq Mobarak of Yale University, who helped develop the Bangladesh migration project, says that the episode shows how important it is to keep collecting and analysing data as schemes grow. But, as he points out, it is possible that exactly the opposite lesson will be learned. Rigorous, ongoing analysis of development projects is slow, expensive, hard—and, as researchers keep discovering, liable to turn up uncomfortable facts. It is much easier just to assume that your project is doing good.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
@@ -39,4 +40,6 @@
 27.Yale[jeil]:n. 耶鲁 
 28.rigorous['rigәrәs]:a. 严厉的, 严酷的, 严格的, 苛刻的, 严密的, 精确的 
 29.ongoing['ɒngәuiŋ]:a. 前进的, 进行的, 不间断的 n. 前进, 发展 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

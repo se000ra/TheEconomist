@@ -10,6 +10,7 @@
 Facebook may soon receive a fine of around $5bn for leaking private data to Cambridge Analytica, but can easily afford that sum. And however unfashionable the company’s namesake platform is becoming, it is still adding more users. 
 Even if the Facebook site and app become moribund, Facebook the company is likely to remain competitive. Such resilience owes as much to regulators’ past tolerance for a big incumbent gobbling up challengers as to the firm’s deft strategy. ■ 
 Sources: eMarketer; KeyBanc Capital Markets; company reports; press reports 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.teenage['ti:nidʒ]:a. 十三岁到十九岁的 
@@ -57,4 +58,6 @@
 43.gobble['gɒbl]:n. 火鸡叫声 vt. 狼吞虎咽 vi. 贪食, 咯咯叫 
 44.challenger['tʃælindʒә]:n. 挑战者 [经] 申请回避的人 
 45.deft[deft]:a. 敏捷熟练的, 灵巧的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

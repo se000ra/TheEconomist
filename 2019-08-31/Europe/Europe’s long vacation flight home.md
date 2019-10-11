@@ -10,6 +10,7 @@
 To fly over Europe is to witness many of the policy challenges awaiting leaders on their return from holidays. At night, darkness envelops the emptying countrysides of rural Spain, southern Italy, Greece and Bulgaria. Meanwhile, even in times of trade wars and tariffs, the prosperous Rhine and Rotterdam glow with the lights of barges and ships carrying German exports into the world. Forest fires, floods and scorched fields speak of Europe’s vulnerability to global warming. Then there are security threats. Historical Baltic and Polish fears of Russian expansionism make sense from above. The countries have no natural barriers to their east, just tank-friendly plains. The Mediterranean, too, seems less of an impediment from above, with container ships and refugee dinghies crossing what is increasingly a common Euro-African space. On the island of Ireland, in contrast, the problem comes from what cannot be seen: the invisible Northern Irish border, which would soon become visible—and perhaps a focus for violence—in the event of a no-deal Brexit. 
 From above, you can also see what Europe, acting together, can achieve. The return of forests across swathes of the continent thanks to enlightened environmental policies; wind turbines and solar-power installations cutting carbon emissions; former communist countries woven back into the rest of the continent; new transport links and economic development in places that long languished in poverty. 
 For politicians, journalists or ordinary travellers who want to really understand a place and its people, there is no substitute for shoe leather. You do not know anywhere until you have walked it. But for those who do fly—and millions do, with some European airports reporting record passenger levels—you can learn a lot at high altitude, too. The continent is a patchwork of different histories, cultures and political traditions, but one where borders are utterly inadequate as tools of organisation. Common responsibilities and problems, histories and futures spill across those borders and demand common action. This autumn the challenge of seeing Europe as a single space, the way it looks from a plane, seems greater than ever. But it is also more essential. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Charlemagne['ʃɑ:lә'mein]:查理曼大帝(742-814, 世称 Charles the Great或Charles I, 768-814为法兰克王, 800-814为西罗马帝国皇帝) 
@@ -117,4 +118,6 @@
 103.utterly['ʌtәli]:adv. 完全地, 全然, 绝对 
 104.inadequate[in'ædikwәt]:a. 不充分的, 不适当的 [法] 不充分的, 不适当的 
 105.organisation[,ɔ: ^әnaizeiʃən; - ni'z-]:n. 组织, 团体, 体制, 编制 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

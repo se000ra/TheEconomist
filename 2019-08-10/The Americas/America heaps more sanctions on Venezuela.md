@@ -10,6 +10,7 @@
 The Maduro regime and Mr Guaidó’s faction have been talking in Barbados, in negotiations brokered by Norway, not least about organising early elections. Mr Maduro began a second term in power in January. The United States and many Latin American governments oppose holding another election while he remains in power, claiming he could rig them—as he was accused of doing last year. 
 Attendees of the Lima meeting, among whom were representatives of Mr Guaidó, recognise the massive task of reconstruction, starting with the state-owned oil company. Venezuela has the world’s largest proven oil reserves, which made it one of the richest countries in South America. But production has crashed to less than 1m barrels a day, around two-thirds lower than in 2000. 
 The United Nations in June estimated that more than 4m Venezuelans had fled the country. Some 850,000 have moved to Peru, the host of the meeting. The crisis, said Peru’s foreign minister, Néstor Popolizio, “has turned a country rich in resources into a disaster.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.sanction['sæŋkʃәn]:n. 核准, 制裁, 处罚, 约束力 vt. 制定制裁规则, 认可, 核准, 同意 
@@ -54,4 +55,6 @@
 40.attendee[æten'di:]:[计] 出席人, 参加者, 被照顾者, 被服务者 
 41.reconstruction[.ri:kәn'strʌkʃәn]:n. 改造, 再建 [医] 改建, 改造, 翻造 
 42.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

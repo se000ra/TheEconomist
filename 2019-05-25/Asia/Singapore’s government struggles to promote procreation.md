@@ -14,6 +14,7 @@
 Another problem is the government’s narrow view of what constitutes a family, says Jean Yeung Wei-Jun of the National University of Singapore: two heterosexual parents with a male breadwinner. Many regulations support this definition. Most divorce proceedings can only begin three years after marriage. Those who split move to the back of the queue for HDB flats and get fewer grants. Children born out of wedlock get fewer financial benefits, and their fathers get no paid parental leave. The government argues that these policies reflect social norms in Singapore, citing a survey which finds that 83% of young singletons intend to get married. 
 Nonetheless, the government’s most recent push for procreation suggests a shift in those norms. In 2014 it lengthened parental leave and increased support for unmarried parents. It has also made it easier for divorcees to buy HDB flats and it plans to double spending on child care between 2017 and 2023. 
 This may not have had the desired effect, however. Overall fertility rates have continued to decline, with one exception: ethnic Malays. They are the poorest of Singapore’s three main ethnic groups, and so may be more susceptible to financial incentives. The Malay fertility rate has risen steadily since 2013 and now stands at 1.9, almost twice the Singaporean-Chinese rate of 0.98. They are the future, it seems. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.procreation[.prәukri'eiʃәn]:n. 生产, 生殖 [医] 生殖, 生育 
@@ -90,4 +91,6 @@
 72.susceptible[sә'septәbl]:a. 易受影响的, 易感动的, 容许...的 [法] 易感的, 易受影响的, 容许 
 73.incentive[in'sentiv]:n. 动机 a. 激励的 
 74.Malay[mә'lei]:n. 马来 a. 马来人的, 马来语的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

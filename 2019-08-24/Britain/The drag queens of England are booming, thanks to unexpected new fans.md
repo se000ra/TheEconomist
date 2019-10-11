@@ -8,6 +8,7 @@
 Perhaps surprisingly, women seem keen to take make-up tips from the queens. One such fan, queuing for a £17 ($21) meet-and-greet session, confesses to copying some of their looks, albeit in a toned-down way. The beauty industry was quick to spot the market’s potential. Pretty Polly, a tights brand, and Lush, a cosmetics firm, have stands at the show. “If you look at the queens, we could learn something from them,” says Joanne Etherson of Sally Beauty, which sells hair products and sponsors the show. “The hair colour, the flamboyance. It’s the extreme of everything we celebrate.” 
 Others are attracted by the broad array of body sizes and fashion styles on show. The convention presents a less restrictive idea of what it means to be a woman than do glossy fashion magazines, argues Mr Stone. A barrister’s clerk, who has donned silver sequined trousers and a bright pink top for the day, says she appreciates the freedom to wear whatever she likes without judgment. 
 Gay men largely welcome drag’s newfound popularity. One, who is collecting queens’ autographs in a notepad that booms “OMG u ok hun?”, reckons it shows society has moved from tolerating gay culture to embracing it. Brad Williams, who sells fake eyelashes with his business and romantic partner, agrees. “Before it was: ‘Here’s a cookie cutter. Fit in’,” he says. “Now to fit in you almost have to be different.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.unexpect[]:[网络] 意想不到；使意外 
@@ -68,4 +69,6 @@
 56.brad[bræd]:n. 角钉, 曲头钉 
 57.williams['wiljәmz]:n. 威廉姆斯（男子名） 
 58.cutter['kʌtә]:n. 裁剪者, 切割者, 切割器 [化] 刀具; 剪切机; 切刀; 切胶机 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

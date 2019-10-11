@@ -9,6 +9,7 @@
 Mr Segev is one of Israel’s “new historians”, who have stripped away the mythology around its birth. One legend that he skewers is that Ben-Gurion believed in the possibility of peace with the Arabs. “There is no solution,” he declared as early as 1919; the Arabs wanted Palestine as their state, the Zionists wanted it as theirs. The answer to Arab hostility lay not in compromise but military strength. Though he paid lip-service to peace initiatives, he never changed his mind. When war came in 1948, he hoped for a state containing as few Arabs as possible. If they fled, fine; if they had to be expelled, so be it. In public he sought to justify Israel’s actions (and his own) during the fighting. Privately, says Mr Segev, the Arab exodus haunted him: it was the moral ambiguity at the heart of Israel’s existence. 
 Ben-Gurion dominated the new country’s politics into old age; his two stints as prime minister amounted to over 13 years. Mr Segev describes the fierce opposition to two of his most important policies—securing German reparations for the Holocaust and launching a nuclear-weapons programme. His achievements and energy were undeniable—but so were his failings. He had an authoritarian streak, wanting, in Mr Segev’s words, to be a “Zionist Lenin”. Politics took precedence over everything. He treated Paula, his wife, shabbily; so distant was he from his family that he repeatedly asked his son how old he was. He had a chip on his shoulder because, unlike the rest of the Zionist elite, he lacked a university degree. A restless autodidact, he collected diverse books in several languages. 
 The dilemma of every biographer is what to put in and what to leave out. Mr Segev’s focus is on Zionism and its politics; the Arabs are mostly present as a problem, the British hardly at all. (His earlier book, “One Palestine, Complete”, superbly evokes the years of British rule.) Even at more than 800 pages, the author has evidently found it hard to squeeze everything that matters into “A State at Any Cost”. The result, though, is a masterly portrait of a titanic yet unfulfilled man. If others paid a price for Zionism’s success—the Arabs, his family, the rivals he crushed—Ben-Gurion did, too. This is a gripping study of power, and the loneliness of power. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.david['deivid]:n. 大卫；戴维（男子名） 
@@ -71,4 +72,6 @@
 58.Titanic[tai'tænik]:a. 四价钛的 [化] 钛; 正钛; 四价钛 
 59.unfulfilled[]:[法] 未实现的, 未履行的, 未完成的 
 60.loneliness['lәunlinis]:n. 寂寞, 孤独, 清静 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

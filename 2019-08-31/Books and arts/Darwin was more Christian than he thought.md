@@ -12,6 +12,7 @@
 He is right to stress Christianity’s influence. For more than a millennium the debates and decisions of Europe were made in Christ’s name. From the moment the Venerable Bede invented BC and AD dates, time itself turned on a Christian axis. But Mr Holland makes a bolder claim. Like it or not, he argues, Western values are “traceable back to Christian origins”. 
 Whether you agree may depend on whether you want to. Mr Holland—whose own faith faded when he was a teenager—is a superb writer, but his theory has flaws. For one, he uses the word “Christianity” as though it is obvious what that means. It is not. Christianity is a broad church and the Bible is a big and incoherent book. It has furnished verses to suit those who have wanted to enslave Africans or emancipate them, save infidels or slay them. 
 And merely to see the form of Christianity in a movement is not to prove it is there. Correlation is not causation. Some people, after all, discern the shape of the Virgin Mary in a piece of burned toast. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Darwin['dɑ:win]:n. 达尔文 
@@ -102,4 +103,6 @@
 86.causation[kɒ:'zeiʃәn]:n. 因果关系, 原因 [法] 因果律, 原因作用, 因果关系 
 87.virgin['vә:dʒin]:n. 处女 a. 处女的, 贞洁的, 纯洁的, 初始的, 纯的 
 88.mary['meәri]:n. 玛丽（女子名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

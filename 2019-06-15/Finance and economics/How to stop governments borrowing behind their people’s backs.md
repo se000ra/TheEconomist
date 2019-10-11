@@ -8,6 +8,7 @@
 The G20 countries could use their voting power at the IMF to insist it stores the data. Their endorsement will have weight with the private sector, says Sonja Gibbs of the IIF. Although lenders benefit from knowing more about government debts, some are reluctant to share information they consider commercially sensitive. They will need to be pressed to take part. “It will be a name and shame game,” says Mark Plant of the Centre for Global Development, a think-tank. “That sometimes works, it sometimes doesn’t.” 
 How to give the scheme bite? One proposal is that sovereign-loan contracts that are not publicly disclosed within 30 days of signature should be unenforceable in court. Most international loans are made under New York or English law—as Mozambique’s dodgy deals were—so tweaking the rules in those two jurisdictions would be a good start. Case law and legal institutions are so well established that business would be unlikely to move elsewhere, argues Tim Jones of Jubilee Debt Campaign, the British charity behind the idea. Some 51 MPs have written to the British chancellor to support Jubilee’s proposal, among them former Labour and Conservative secretaries of state for international development. On June 5th the Labour Party said it would implement the idea if it wins power. 
 Legal changes are not yet on the G20’s agenda. But rising debts are fuelling a sense of urgency. The IMF reckons that 44% of low-income countries are in debt distress or at high risk of it—even without more nasty surprises. The average developing country’s external-debt payments have risen from 6.6% of government revenue in 2010 to 12.2% in 2018, calculates Jubilee. Clandestine debts could mean the actual picture is even worse. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -49,4 +50,6 @@
 37.urgency['ә:dʒәnsi]:n. 紧急, 催促 [法] 紧急, 迫切, 紧急之事 
 38.reckon['rekәn]:vt. 计算, 总计, 估计, 认为, 猜想 vi. 数, 计算, 估计, 依赖, 料想 
 39.clandestine[klæn'destin]:a. 偷偷摸摸的 [法] 秘密的, 暗中的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

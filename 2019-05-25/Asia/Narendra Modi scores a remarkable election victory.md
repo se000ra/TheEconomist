@@ -13,6 +13,7 @@
  
 The perfectly timed clash with Pakistan was hardly the BJP’s only extra advantage. Indeed Shivam Vij, an astute media commentator, suggests that given his hand of jokers it is surprising that Mr Modi did not win 100%. Not only did the BJP wield immensely more money than rivals, it has a far better-greased party machine, backed up by the street power of hundreds of Hindu-nationalist voluntary groups. Madhya Pradesh, a state just captured by Congress five months earlier, nevertheless returned a huge BJP majority to parliament, largely because it mobilised enough voters to register a ten-point surge in turnout. 
 Some of Mr Modi’s crucial support might not be described as voluntary. Conveniently, government statisticians tried to bury reports of a surge in unemployment before the vote. Just as helpfully, the Indian air force refrained from spoiling Mr Modi’s martial bombast, delaying the revelation that during February’s brief dust-up with Pakistan it had shot down one of its own helicopters. At a time of rising world oil prices, meanwhile, state-owned fuel distributors kept the cost of petrol for Indian consumers artificially low (not surprisingly, they are beginning to rise). Not least, the Election Commission of India, a powerful body with seven decades of accolades for fair and efficient management of the world’s most logistically daunting democratic exercise, has in recent months issued a long series of decisions that advantaged Mr Modi. But perhaps it is not surprising that the gods get all the luck. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.narendra[]:[网络] 纳伦德拉；纳兰德；纳然陀 
@@ -130,4 +131,6 @@
 113.logistically[lɔ'dʒistikəli]:adv. 逻辑地, 运筹地；在后勤方面 
 114.daunt[dɒ:nt]:vt. 威吓, 难倒, 使气馁 
 115.sery[]:n. (Sery)人名；(俄)谢雷；(科特)塞里 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

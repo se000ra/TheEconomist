@@ -13,6 +13,7 @@
 Netflix is to lose the rights to broadcast the American version of “The Office” because NBCUniversal, the sitcom’s producer, wants to run it on its new, yet-to-be-named streaming service from 2021. “The Office” is Netflix’s most popular show in America. With rival streaming channels in the works from Disney, WarnerMedia and others, Netflix faces the prospect of losing more content made by other companies, which, despite the plaudits for the media it produces in-house, accounts for the bulk of users’ viewing time. 
 ![image](images/20190629_wwp003_1.jpg) 
 An industry report suggested that the global market for spandex is expanding, with sales set to reach 1m tonnes by the end of 2020. The main reason is that demand for sports “shapewear” has stretched beyond the rich world to the emerging-market middle class. Invented in 1958 by a chemist in Virginia, the spandex industry is now highly elastic, with China accounting for 75% of the world’s production. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Iran[i'rɑ:n]:n. 伊朗 
@@ -98,4 +99,6 @@
 81.tonne[tʌn]:n. 吨, 公吨 [经] 吨 
 82.shapewear[ʃeɪp'wɜ:r]: 塑身内衣 
 83.Virginia[vә'dʒinjә]:n. 弗吉尼亚 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

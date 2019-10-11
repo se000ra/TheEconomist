@@ -12,6 +12,7 @@
 The full scale of the Arctic fires’ impact will not be known for months. The satellite data being used to estimate emissions from the wildfires cannot capture fires that are smouldering below the ground, which could double or triple the impact, according to Mr Rein. 
 Smog from the fires is blanketing much of Siberia, from Kazakhstan to the Bering Sea, with carbon monoxide and other nasties. On July 31st, after a petition to declare a state of emergency garnered more than 800,000 signatures, President Vladimir Putin ordered the army to help fight the fires. It is likely to be too little too late. Fighting fires that have grown to such colossal sizes in remote regions with few roads is difficult or impossible. 
 The task is even harder for large peat fires. In South-East Asia, peat fires are caused by local environmental change, including drainage and deforestation to make way for crops. “What is scary about the Arctic fires is that they are driven by climate change, and as such there’s very little you can do,” says Thomas Smith, who studies wildfires at the London School of Economics. “You can’t raise the water table for an area the scale of northern Alaska or Siberia.” Few natural peat fires this big have ever been successfully managed, and then only by pumping billions of gallons of water over land. The only way to deal with the spread of these fires is to slow the rate of global warming, by stepping up work on cutting greenhouse-gas emissions. Don’t hold your breath. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ablaze[ә'bleiz]:a. 着火的, 闪亮的, 激昂的 adv. 着火, 闪耀 
@@ -78,4 +79,6 @@
 62.scary['skєәri]:a. 容易受惊的, 胆小的, 提心吊胆的 
 63.thoma[]:n. (Thoma)人名；(阿尔巴、阿拉伯)索玛；(英、德、罗、匈、捷、塞、瑞典)托马 
 64.smith[smiθ]:n. 铁匠, 金属品工匠 [机] 锻造工, 上手 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

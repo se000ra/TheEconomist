@@ -7,6 +7,7 @@
 If voting were universal, parties would not benefit from whipping their bases into a frenzy. Instead, they would need to court swing voters, pushing policies towards the centre. That centre, however, would sit to the left of its current position, putting the brunt of the adjustment on Republicans. 
 The Economist’s analysis reveals that America’s Democrats would be major beneficiaries of universal voter turnout. However, we also found a myriad of ways that either party could gain or lose votes if participation increased only among certain groups. Our approach allows us to quantify the difference between 100% and 50% turnout for working-class whites, for example. The interactive chart below presents this and similar scenarios. ◼ 
 Sources: Co-operative Congressional Election Study; Census Bureau; YouGov; The Economist 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Hillary['hiləri:]:n. 希拉里（美国现任国务卿） 
@@ -40,4 +41,6 @@
 29.scenario[si'nɑ:riәu]:n. 剧本提纲, 情节, 剧本, 方案, 事态 [计] 方案 
 30.census['sensәs]:n. 户口普查 vt. 实施统计调查 
 31.YouGov[]:[网络] 民治调查公司；尤格夫；民治公司 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

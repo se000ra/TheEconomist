@@ -10,6 +10,7 @@
 The acquisition fits well with Goldman’s evolving thinking about wealth management. In 2003 it acquired Ayco, which specialised in managing the assets of top-ranking company executives. Ayco has since expanded into offering financial-planning services to everyone at the companies it serves, says Larry Restieri, the Goldman partner who runs Ayco. Moreover, uninvested deposits with United Capital can conveniently be funnelled to Goldman’s consumer bank, Marcus. 
 Competition to serve the mass affluent is heating up. In February Morgan Stanley, which is around the same size as Goldman but makes twice as large a share (40%) of its revenues from wealth management, announced that it would buy Solium for $850m. The software company, since rebranded Shareworks by Morgan Stanley, provides a platform for companies to administer shares and stock options paid as part of compensation. The acquisition is appealing in two ways, says Jonathan Pruzan, Morgan Stanley’s chief financial officer. It brings an opportunity to acquire younger customers who may one day be very rich, and it allows the bank to use Shareworks to offer those employees access to Morgan Stanley’s own products. 
 The mass-affluent market is becoming better served in other ways, too. Online financial advisers such as Betterment, which manages $16.4bn in assets, are developing clever new ways to counsel customers on what to do with their savings. Investment banks, it seems, are not alone in deciding that the best way to get rich is not to manage rich people’s money, but to manage everyone’s. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.chubby['tʃʌbi]:a. 圆胖的 
@@ -59,4 +60,6 @@
 45.online[]:[计] 联机 
 46.betterment['betәmәnt]:n. 改进, 改善, (不动产)增值 [法] 改良, 改善, 地产增值 
 47.counsel['kaunsәl]:n. 商议, 忠告, 法律顾问 v. 商议, 劝告 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

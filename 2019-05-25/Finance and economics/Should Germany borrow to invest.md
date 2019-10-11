@@ -13,6 +13,7 @@
 In part, the forecasting errors reflect the fact that the economy has beaten expectations over the past decade, resulting in unexpectedly high tax revenues. But the researchers speculate that the debt brake may also have led to a “surplus bias”, with forecasters being deliberately cautious for fear of breaking the rule. (The finance ministry, however, says that the analysis does not consider the possible influence of tax-policy changes or one-off effects.) 
 Not everyone agrees that the debt brake has led to a squeeze on capital spending. Officials in the finance ministry point out that government investment has grown at 7% annually in recent years, outpacing nominal GDP growth. Bottlenecks prevent plans from turning into reality, meaning that investment cannot rise much more. Clemens Fuest of the Ifo Institute for Economic Research points out that €8bn allocated to public projects by the federal government in recent years has not yet been spent. Public planners are in short supply and the building industry is close to capacity. NIMBYism has held up the redevelopment of a railway network in Stuttgart and a third runway for Munich’s airport. 
 Political appetite to release the debt brake seems limited. Though the finance ministry’s new chief economist, Jakob von Weizsäcker, is receptive to fresh ideas, Mr Scholz is still keen to balance the books. Even so, there is nothing stopping the government from dismantling other barriers to investment. More of it would, after all, boost the future tax take—thus making it less likely that the government would need to slam its foot on the debt brake further down the line. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.clash[klæʃ]:n. 冲突, 撞击声, 抵触 vi. 冲突, 抵触 vt. 使发出撞击声 [计] 对撞 
@@ -72,4 +73,6 @@
 55.receptive[ri'septiv]:a. 能接纳的 [医] 接受的, 感受的 
 56.dismantle[dis'mæntl]:vt. 拆除...的设备, 分解, 去除覆盖物 
 57.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

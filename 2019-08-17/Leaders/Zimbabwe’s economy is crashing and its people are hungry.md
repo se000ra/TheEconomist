@@ -7,6 +7,7 @@
 Zimbabweans have learned to expect only trouble from the people in charge. They hustle creatively to get by. Salaried workers have side gigs. Families subsist on remittances from relatives working abroad. However, they do not see why they should endure oppression and dysfunction indefinitely. 
 Zimbabwe is poor because its rulers are predatory. But some blame must be shared by neighbouring governments, donors and lenders who, time and again, have looked the other way as the ruling party has rigged elections, tortured dissidents and looted the nation’s wealth. In 1987, when Mr Mugabe tried to create a de facto one-party state, Western diplomats crooned that a firm hand was probably what the country needed. In 2000, when Mr Mugabe sent thugs to seize white-owned commercial farms, some African leaders cheered the righting of a colonial wrong, ignoring the fact that much of the land was redistributed to cabinet ministers who barely bothered to farm it. After Mr Mugabe’s kleptocracy crashed the economy, the IMF handed over $510m in 2009, saying it welcomed his promises of reform. They proved empty. 
 Now Mr Mnangagwa wants another bail-out from the IMF and loans from the World Bank. To secure it, he is making grand pledges to repeal oppressive laws and compensate farmers whose land was stolen. Yet after 21 months in power, he has shown few signs of doing either. Until he proves through actions that he is sincere, his regime should not get a cent. Provide food and medical aid to the hungry; but do not prop up the government that made them so.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -65,4 +66,6 @@
 54.repeal[ri'pi:l]:n. 废止, 撤消 vt. 废止, 撤消, 放弃 
 55.oppressive[ә'presiv]:a. 压制性的, 压迫的, 沉重的 
 56.prop[prɒp]:n. 支柱, 支持者, 倚靠人, 道具, 螺旋桨 vt. 支撑, 维持 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

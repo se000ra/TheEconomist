@@ -23,6 +23,7 @@
 A Venezuelan fighter jet “aggressively shadowed” an American navy reconnaissance plane over the Caribbean Sea, according to Southern Command, which runs American military operations in Latin America. Venezuela claimed the navy plane had strayed into its airspace. 
 The power went off again in 16 of Venezuela’s 23 states. In the capital, Caracas, the blackout caused huge traffic jams. The government blamed an “electromagnetic attack”. 
 Brazil’s president, Jair Bolsonaro, chose Marcelo Xavier da Silva, a federal police officer, to lead the government’s Indian affairs department, Funai. Indigenous groups criticised the appointment. As Funai’s ombudsman in 2017 Mr da Silva had asked the police to take “persecutory measures” against activists. Separately, Mr Bolsonaro said he would review data on the deforestation of the Amazon before their release, because the figures could hurt Brazil’s image. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.BoJo[]:[网络] 伯爵；母情；坊城 
@@ -154,4 +155,6 @@
 127.datum['deitәm]:n. 论据, 材料, 资料, 已知数 [医] 材料, 资料, 论据 
 128.deforestation[di:.fɒ:ri'steiʃәn]:n. 采伐森林, 森林开伐 [法] 砍伐森森 
 129.amazon['æmәzɒn]:n. 亚马孙河 [医] 无乳腺者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

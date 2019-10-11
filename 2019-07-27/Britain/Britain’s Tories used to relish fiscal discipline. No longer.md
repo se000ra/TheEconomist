@@ -12,6 +12,7 @@
 Drawing on the theories of Art Laffer, President Donald Trump’s favourite economist, both Mr Johnson and Mr Javid have claimed that by geeing up the economy, looser fiscal policy can pay for itself. “There are plenty of taxes that you can cut which will actually increase your revenues,” says the new prime minister. Almost no economist would agree that this argument applies to what Mr Johnson has proposed, in part because most of the benefits of the tax cuts would accrue to richer folk, who are more likely to save their windfalls. 
 The upshot is that under Mr Johnson’s plans, the deficit might rise by £30bn. And that is before any fiscal hit from a no-deal Brexit. On July 18th the Office for Budget Responsibility, the fiscal watchdog, said that even assuming a relatively benign version of no-deal, public borrowing would rise by £30bn. All in all, the budget deficit would probably end up 3% of GDP higher. 
 This is all the more worrying given the long-term pressures on the public finances. Britain will become a much older country in the 2020s, straining the National Health Service and social care, both of which are already underfunded. In the long run, spending cannot go up as taxes are cut. At some point politicians will have to be honest about that. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Tory['tɒ:ri]:n. 托利党党员, 保守党员, 亲英分子 a. 保守分子的 
@@ -55,4 +56,6 @@
 39.benign[bi'nain]:a. 善良的, 良性的 [医] 良性的 
 40.underfunded[ˌʌndəˈfʌndɪd]:a. 资金不足的 
 41.cannot['kænɒt]:aux. 无法, 不能 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -14,6 +14,7 @@
 Mr Shan enjoyed Econ 201A, eventually. But he had to abandon his first attempt, returning only after taking the mathematics class that Ms Yellen and Mr Akerlof had recommended. The maths textbook was over 400 pages long. He read it seven times. “I would have enjoyed studying in a more leisurely manner,” he writes, but “I had so much ground to make up.” 
 He followed his PhD with a brief stint at the World Bank and a longer one as a professor at Wharton Business School. He founded the China Economic Review (which in 1990 published an article by a 32-year-old Yi Gang, now head of China’s central bank), then entered finance, becoming a big shot in private equity at Newbridge Capital. During long negotiations in hotel conference rooms he would marvel at the luxury of round-the-clock room service. His colleagues would tell him to shut up and gain some weight. 
 After the Cultural Revolution ended in 1976 and reforms began, Mr Shan, like his country, had a lot of potential—and a lot of ground to make up. Since then they have both been compelling examples of convergence. When capital, of the human or physical variety, is scarce, the returns to investment can be high. And after the rigours of the past both were accustomed to the deferred gratification that heavy investment requires. The man who eventually mastered Econ 201A is an economics lesson in himself.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.cultural['kʌltʃәrәl]:a. 文化的, 教养的, 修养的 [医] 培养的 
@@ -95,4 +96,6 @@
 77.rigour['rigә]:n. 严格, 严厉, 苛刻, 严酷, 严密, 精确 
 78.defer[di'fә:]:vi. 推迟, 延期, 听从 vt. 使推迟, 使延期 
 79.gratification[.grætifi'keiʃәn]:n. 令人满足的事(或物), 满足, 喜悦 [医] 愿望满足, 满意 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

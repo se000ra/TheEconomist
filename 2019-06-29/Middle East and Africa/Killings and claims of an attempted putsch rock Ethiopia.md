@@ -14,6 +14,7 @@
 General Asamnew is said to have sent men from his special police force to the meeting who shot and killed Ambachew. The general may have been outside the building at the time. It is not clear whether the murder was premeditated, or the general lost control. He fled immediately, which suggests this may not have been an organised putsch. The army killed him two days later. 
 There are many unanswered questions, including whether and how events in Bahir Dar were connected to the killing of the army chief. If the incidents were indeed linked, as the government claims, that would point to a wider conspiracy and suggest that Abiy faces a threat from elements of the national army. 
 The ramifications for a country that seemed on the path to reform are gloomy. Scores of journalists, politicians and activists linked to Amhara nationalists have already been arrested. Repression may, in turn, stoke further resentment in Amhara, a region in which many young people are beginning to feel discriminated against by Abiy and his Oromo faction. The euphoria that greeted Abiy’s rise to power just over a year ago seems a distant memory. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.coup['ku:]:n. 砰然的一击, 妙计, 出乎意料的行动, 政变 [医] 发作, 中, 击 
@@ -79,4 +80,6 @@
 61.discriminate[dis'krimineit]:v. 区别, 差别待遇 
 62.faction['fækʃәn]:n. 小派系, 内讧 [法] 宗派, 派别, 小集团 
 63.euphoria[ju:'fɒ:riә]:n. 兴奋, 陶醉, 陶醉感 [医] 精神愉快, 欣快 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

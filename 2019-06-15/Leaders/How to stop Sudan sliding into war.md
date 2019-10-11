@@ -10,6 +10,7 @@
 Pro-democracy demonstrations keep breaking out in Sudan, despite the regime’s repression. Discipline in the armed forces is said to be breaking down: soldiers are demanding weapons to protect Khartoum from the RSF. Some predict open war, or even a Syrian-style implosion that sucks in outside powers. 
 To avert such a disaster, Sudan needs a power-sharing agreement, led by civilians but with representatives of the armed forces—an arrangement that worked reasonably well after a revolution in Burkina Faso in 2014. Outsiders should press for it. The African Union has made a good start by suspending Sudan and threatening sanctions on Sudanese military chiefs unless they hand over to civilians. The United States needs to persuade its Gulf allies and Egypt that they share a common interest in keeping Sudan stable (not least to keep out their regional rivals, Iran, Qatar and Turkey). The Trump administration should urge them to set aside their differences and work together to defuse the time-bomb in Khartoum. Donors should be poised to help any plausible effort to move towards election and civilian rule. 
 Sudan is wobbling on a cliff-edge above an inferno. A concerted international effort might just pull it back from the brink. It would be unforgivable not to try.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Khartoum[ka:'tu:m]:n. 喀土穆（苏丹首府） 
@@ -98,4 +99,6 @@
 84.concerted[kәn'sә:tid]:a. 商定的, 协定的, 一致的 [法] 一致的, 协力的, 共同的 
 85.brink[briŋk]:n. 边缘, 陡岸 
 86.unforgivable['ʌnfә'^ivәbl]:a. 不可原谅的, 不可饶恕的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

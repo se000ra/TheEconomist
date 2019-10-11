@@ -10,6 +10,7 @@
 To prevent the stock of greenhouse gases in the atmosphere from reaching levels likely to cause disastrous warming, China must do better than merely beating the past records of richer countries. Instead, it will need an unprecedented decline in emissions per head—at least to the more carbon-efficient level of similarly rich Latin American economies, and ideally onto the trajectory of poorer Asian giants like India and Indonesia, which rely less on heavy industry and manufacturing. Those countries, perched at the sweltering latitudes where farmers will be most hurt by climate change, must in turn work out how to reach upper-middle-income status without replicating China’s emissions path. 
 To their credit, Chinese authorities, spurred by public concern about air pollution, have prioritised green policies, such as switching from coal-fired power stations to renewable sources and setting up an emissions-trading system. China’s annual rate of emissions growth has fallen from 9.3% in 2002-11 to 0.6% in 2012-16. The waning of its cement-intensive construction boom should slow emissions further. But it will take more than incremental gains to stave off severe warming. 
  
+<<<<<<< HEAD
 -- 
  单词注释:
 1.emitter[i'mitә]:n. 发射体, 发射极 [计] 发射极; 发射器 
@@ -41,4 +42,6 @@
 27.renewable[ri'nju(:)әbl]:a. 可更新的, 可恢复的, 可继续的, 可换新的, 可重复的, 可重说的 [计] 可更新, 可再生的 
 28.wane[wein]:n. 减少, 衰微, 败落, 亏缺, 月亏 vi. 变小, 亏缺, 衰落, 消逝, 退潮 
 29.incremental[.inkri'mentl]:a. 增加的, 增值的 [经] 增长的, 增量的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

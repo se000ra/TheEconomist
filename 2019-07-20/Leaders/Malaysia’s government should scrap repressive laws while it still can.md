@@ -8,6 +8,7 @@
 Yet doing away with the government’s critic-cudgelling arsenal should be a much higher priority. Although many senior members of the government have been victims of UMNO’s repression, the prime minister, Mahathir Mohamad, himself a defector from UMNO, eagerly and frequently abused the government’s authority during a previous stint in power from 1981 until 2003. At one point he had over 100 critics detained without charge, in theory to preserve public order. Dr Mahathir (pictured) does genuinely seem to have turned over a new leaf, but it is only natural that defenders of civil liberties are not inclined to take his word for it when he promises that the law on sedition, for example, will soon be replaced by something more palatable. 
 Moreover, restoring political freedoms is not just one item on a long to-do list. It is the reform that underpins all others. The laws in question helped keep UMNO in power for 61 years without interruption, even when it was palpably unpopular. This is a once-in-a-lifetime chance to make politics fairer and more competitive. If PH does not get the economy going, it may wind up in opposition for a few years; if it does not refurbish Malaysia’s democracy, it may be out of office for a generation. 
 More important still, if Malaysians are not confident that they can voice their opinions and debate public policy without repercussion, then PH cannot hope to fulfil their aspirations, because it will not know what they are. Civil liberties are not a hindrance that fair-minded politicians must put up with. They are a tool to help them do their jobs well. UMNO ended up losing power because it did not have an accurate sense of just how unpopular it was. If it had not been so busy silencing its critics, it might have found better ways to answer them. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.oppression[ә'preʃәn]:n. 压抑, 沉闷, 压迫手段 [医] 压迫, 压抑 
@@ -82,4 +83,6 @@
 70.cannot['kænɒt]:aux. 无法, 不能 
 71.aspiration[.æspә'reiʃәn]:n. 热望, 志向, 渴望 [医] 吸入; 吸[引], 吸引术 
 72.hindrance['hindrәns]:n. 妨害, 障碍, 阻碍物 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

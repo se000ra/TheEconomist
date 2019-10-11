@@ -22,6 +22,7 @@
 These lapses hint at the awkward fact that many firms lack a financial incentive to take security more seriously in west Africa. Insurance companies offer lower premiums for ships that protect themselves. But the combined cost of insuring the ship, the cargo and the crew (for kidnapping and ransom) for a voyage to Nigeria is typically no more than the cost of half a day’s fuel. It can be cheaper not to bother with armed guards. Premiums are so low in part because Nigerian pirates, unlike those in Somalia, have priced their ransoms just right: for many companies they can be written off as a cost of doing business. 
 That means the heaviest toll is borne by crews, most of whom are from poor countries like India and the Philippines. Afusat Eke, a social worker for the Nigerian Seafarers’ Welfare Board, says sailors often suffer from anxiety, depression or post-traumatic stress disorder after being released from captivity. Companies say their growing criticism of the Nigerian government is proof that they care about their crews’ welfare (although complaining costs them nothing). Thanks to the internet, more seamen are aware of the risks in west Africa and loth to go there. 
 Even if shipping firms did do more, it would not end piracy. The stark truth, says Mr Mody, is that it can only be stopped by fixing its underlying causes on land. In west Africa this means alleviating the Niger delta’s chronic lawlessness. In Somalia pirates still scour the oceans, looking for unprotected ships, so the frigates and private guards will be needed as long as chaos reigns on land. Analysts are nervously watching Venezuela, whose economic collapse is believed to have caused an upsurge of offshore mugging. All this suggests it will be difficult to eradicate piracy for many years to come. But for the sake of the world’s 1.6m seafarers, governments and shippers should not stop trying. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.guinea['gini]:n. 几内亚 
@@ -184,4 +185,6 @@
 158.upsurge['ʌpsә:dʒ]:vi. 高涨, 涌起 n. 增长, 高潮 
 159.eradicate[i'rædikeit]:vt. 根除, 扑灭, 根绝, 消灭 
 160.seafarer['si:.fєәrә]:n. 船员, 航海家 [法] 海员, 水手, 海上旅行者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 When Mr Draghi was appointed in 2011, he was already a strong candidate. Since then he has passed the three tests. He expanded the ECB’s toolkit by standing ready to buy up unlimited amounts of sovereign debt, known as outright monetary transactions, or OMTs (the promise was enough to reassure investors and the policy has never been implemented). He put his personal authority on the line and marshalled support outside the ECB. 
 None of today’s leading contenders is as impressive (see article). Some risk undermining the bank’s hard-won credibility. Jens Weidmann, the head of the Bundesbank, opposed OMTs. In a crisis, markets might worry that he would be prepared to let the euro zone collapse. Olli Rehn, the newish head of the Bank of Finland, could invite doubt, too. In a previous role in Brussels he was an enforcer of austerity on southern European countries, which might in the future need the ECB’s help. Benoît Cœuré, the head of the ECB’s market operations, is clever and impressive. But the bank’s fuzzy rules appear to bar him from a second term on its board. 
 Erkki Liikanen, a former boss of Finland’s central bank, has the best mix of attributes for the role. Although he is less technically strong than some other candidates, Philip Lane has recently taken over as the ECB’s chief economist: the bank will not lack intellectual clout. Mr Liikanen was a vocal advocate of unconventional tools. His political skills have been tested both as a commissioner in Brussels and as finance minister in Helsinki. Mr Draghi has transformed the ECB, but 21 years after its creation, there are still nagging doubts about its strategy and firepower. With Mr Liikanen at its helm, they might be put to rest at last.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.presidential[.prezi'denʃәl]:a. 总统制的, 总统的, 首长的, 统辖的 [法] 总统的, 议长的, 总经理的 
@@ -75,4 +76,6 @@
 62.nag[næg]:n. 老马, 驽马, 劣等竞赛马, 唠叨 v. 不断地唠叨, 恼人 
 63.firepower['faiәpauә]:n. 火力 
 64.helm[helm]:n. 舵, 驾驶盘, 枢机, 头盔 vt. 给...掌舵, 指挥, 给...戴头盔 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

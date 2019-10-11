@@ -9,6 +9,7 @@
 Although youngsters are growing more politically aware, Macau’s people are “largely apolitical and pragmatic”, says Sonny Lo of Hong Kong University. The city’s GDP per person is among the highest in the world. Some government revenue, derived primarily from the territory’s enormous casinos, is distributed to residents as an annual cash handout. This year the giveaway is 10,000 patacas ($1,250) per adult. Macau has a more generous welfare system than Hong Kong, including better provision of social housing. Beneficiaries are loth to rock the boat. 
 Elections in 2017 brought fresh faces to the legislature, most notably Sulu Sou, a pro-democracy lawmaker who, at 26, was the youngest to ever join the body. But the pro-reform bloc grabbed only about a quarter of votes, not much changed from the previous election. Mr Sou thinks that media coverage of protests in Hong Kong has hardened pre-existing views in Macau. He says that in recent weeks conservative voters who have long been suspicious of calls for fuller democracy seem to have become much more vehement. 
 At a meeting with officials and journalists on August 10th Mr Ho said that his new administration would aim to make Macau’s youth more patriotic, including through the education system. That has its perils: a few years ago ham-fisted efforts to tinker with Hong Kong’s curriculum caused a backlash that presaged the more recent unrest. In the nearer term nervous authorities will have to resist overreacting to locals inspired by Hong Kong’s protests. No one wants police to keep interrupting people’s evening strolls. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.macau[]:n. 澳门（中国地名） 
@@ -69,4 +70,6 @@
 56.presage['presidʒ]:n. 预感, 预兆, 预知 vt. 预示, 预言 vi. 预感, 预言 
 57.overreact[,әuvәri'ækt]:vi. 反应过度, 反作用过强 
 58.stroll[strәul]:n. 闲逛, 漫步 v. 闲逛, 漫步 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -12,6 +12,7 @@
 It would be better to use fiscal policy to prevent a deep downturn than to wait for recession to bring about a bigger deficit of its own accord. If a preventive stimulus turned out to be premature, the worst that could happen is slightly higher inflation than today’s 1.1%—which would in any case help the ECB hit its inflation target of close to 2%. A little more inflation would also even out imbalances in competitiveness between Germany and the rest of the euro zone. 
 Unfortunately infrastructure projects take time to get going. They face planning hurdles and bottlenecks in the construction industry. The federal government has already struggled to spend all of its existing meagre infrastructure budget. 
 The best thing, therefore, would be to supplement a long-term programme of infrastructure investment with an immediate, temporary boost, such as payroll-tax cuts, designed to forestall a downturn. Germany stands to benefit from both prongs of this strategy. Continuing to reject them is fiscal folly. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.fiscal['fiskәl]:a. 财政的, 国库的 [经] 财政上的, 会计的, 国库的 
@@ -69,4 +70,6 @@
 53.forestall[fɒ:'stɒ:l]:vt. 预先阻止, 先...一步行动, 占先一步, 垄断, 阻碍 [法] 先采取行动预防或阻止, 垄断 
 54.prong[prɒŋ]:n. 叉状物, 耙子 vt. 刺, 贯穿, 翻掘 
 55.folly['fɒli]:n. 愚蠢, 荒唐事, 讽刺剧 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

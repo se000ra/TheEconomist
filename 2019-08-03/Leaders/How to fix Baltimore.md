@@ -12,6 +12,7 @@
 The quid pro quo for this funding must be reform. On the right, people such as Mr Trump act as though police can stop crime only if they are allowed to rough up suspects. That is why his government has stopped issuing consent decrees (an Obama-era policy where the federal government monitors police departments accused of brutality; Baltimore has had one since 2017). But thuggery makes police departments less effective. When people do not trust cops, they will not volunteer information about crimes. And until victims are confident of justice, they will resort instead to revenge. 
 Baltimore has repeatedly failed to clean up its police. It has had cops clearing street corners rather than investigating murders. Corruption and brutality have gone unpunished. Projects such as Operation Ceasefire, which stopped tit-for-tat killings in other cities, have been tried only half-heartedly. 
 Unless Baltimore can get crime under control, it will continue to lose businesses and better-heeled residents and the taxes they pay. The risk is that one of America’s great metropolises enters a death spiral, as Detroit had by the 1990s. If that happens, Mr Trump’s tweets will be the least of its problems. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.charm[tʃɑ:m]:n. 吸引力, 魔力, 符咒 vt. 迷住, 使陶醉, 行魔法 vi. 用符咒, 有魅力 
@@ -93,4 +94,6 @@
 77.metropolis[mi'trɒpәlis]:n. 大都市, 重要中心, 首府 [医] 产地, 生地 
 78.spiral['spairәl]:n. 螺旋形之物, 螺线 a. 螺旋形的, 盘旋的 vi. 螺旋形下降, 螺旋形上升, 螺旋形行进 vt. 使螺旋形行进 
 79.Detroit[di'trɒit]:n. 底特律(美国城市) 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

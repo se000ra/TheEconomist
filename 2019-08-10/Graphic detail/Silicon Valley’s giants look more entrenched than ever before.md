@@ -9,6 +9,7 @@
 The public has a love-hate relationship with big tech. Amazon delivers goods cheaply and makes only a slim margin. Studies suggest that many Americans would pay thousands of dollars a year rather than forfeit access to the digital services they get free. As a result, advertisers still throw mountains of money at tech firms in order to get access to their users. In 2019, one-third of the $240bn spent on advertising in America will be with two firms, Facebook and Google. 
 Nonetheless, the spectre of big tech firms abusing their troves of user data has sullied their image. In a new survey by Pew, a pollster, 33% of Americans say that tech companies have a negative effect on society, twice the share in 2015. In July the Department of Justice announced an antitrust review of the industry’s leading firms. If you type “Should Google…” into the firm’s own search bar, the first autocomplete response is “be broken up”. ■ 
 Sources: Datastream from Refinitiv; Bloomberg; BEA; eMarketer; Open Secrets; The Economist 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.silicon['silikәn]:n. 硅 [化] 硅Si 
@@ -63,4 +64,6 @@
 50.bea[bi:, biә]:abbr. 东亚银行有限公司（Bank of East Asia Ltd）；美国劳工部劳工统计局（Bureau of Economic Analysis）；英国欧洲航空公司（British European Airways Corporation） 
 51.emarketer[]:[网络] 电子营销家；电子营销者公司；电子营销者市场研究公司 
 52.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -12,6 +12,7 @@
 The pope makes an argument about individual morality, too. A balanced life is one of self-restraint. To illustrate what he means, attendees at the Assisi seminar were shuttled to Brunello Cucinelli, a €1.9bn ($2.1bn) maker of cashmere garments. Its eponymous founder keeps a bust of Marcus Aurelius, the Roman emperor-philosopher, outside his office and talks passionately about ethics. In May he invited a dozen or so “young Leonardos”, including Amazon’s (55-year-old) Jeff Bezos, to his hilltop home to discuss humanity’s future. No doubt he told them about “gracious growth”: his preference for revenues to rise by no more than 8-10% a year, and EBITDA margins to stay at 16-17%. That, he says, is enough to sustain workers, shareholders and the environment. 
 Easy for Mr Cucinelli to say, you might think. Few companies can hope for such results, at least outside Silicon Valley. But many Catholics wary of Pope Francis would agree with the garment-maker’s general point that business and morality should go hand in hand. Philip Booth, a Catholic economist from Britain, likens separating ethics from economics to separating ethics from sex—and teaching about sex purely in biological terms. 
 Where things get more contentious is in recommending a course of action. Faced with climate change and inequality, the temptation is to call for draconian top-down measures to throttle economic activity. If the “Economy of Francesco” leans in that direction, it will fail. But if it stresses bosses’ commitment to behave as responsible citizens, corporate or otherwise, it may have a positive effect. At a time when the world is an unholy mess, even asking basic questions about the purpose of business has some virtue. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Schumpeter[]:n. 熊彼特（美籍奥匈帝国经济学家, 当代资产阶级经济学代表人物之一） 
@@ -125,4 +126,6 @@
 109.throttle['θrɒtl]:n. 节流阀, 节气阀, 喉咙 vt. 扼喉咙, 使窒息, 压制, 使节流 vi. 窒息, 节流, 减速 
 110.corporate['kɒ:pәrit]:a. 社团的, 合伙的, 公司的 [经] 团体的, 法人的, 社团的 
 111.unholy[.ʌn'hәuli]:a. 不神圣的, 不虔诚的, 邪恶的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

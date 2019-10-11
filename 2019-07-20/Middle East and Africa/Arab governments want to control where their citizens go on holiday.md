@@ -8,6 +8,7 @@
 Cheap, Arabic-speaking and comparatively clement, Egypt has always been a popular destination for Gulf tourists. But Qataris now avoid it because of politics: Egypt was one of four countries to impose an embargo on the emirate in 2017. The embargo has even turned the hajj, the pilgrimage to Mecca, into a political spat: Saudi Arabia and Qatar accuse each other of obstructing travel for Qatari pilgrims. The United Arab Emirates has forbidden travel to Lebanon since 2012, supposedly because of kidnapping risks. In 2011 some 32,000 Emiratis flew to Beirut. Last year fewer than 1,800 did. 
 In Egypt, citizens aged under 40 need state-security approval before flying to Turkey. The ban was imposed in 2014 to stop Egyptians from crossing into Syria to join Islamic State. That is no longer a worry. Yet the rule remains in place, as one woman recently discovered while trying to spend a long weekend in Istanbul with her foreign partner. (Airport police helpfully encouraged him to take the holiday solo.) Permits are also sometimes required for notorious hotbeds of Islamism like Georgia and South Korea. 
 By discouraging travel to Turkey, the Saudi government may hope to keep tourist rials at home. King Salman has set an example the past two summers. Instead of his usual visit to a palace in Morocco, he has taken staycations at Neom, a planned $500bn city on the kingdom’s north-western coast. The summer heat is no doubt unbearable, but on the bright side, there are no crowds at the beach: the city has no residents yet. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -67,4 +68,6 @@
 55.Salman[]:n. 萨尔曼（男子名） 
 56.Morocco[mә'rɒkәu]:n. 摩洛哥, 摩洛哥皮革 [机] 摩洛哥革 
 57.staycations[]:[网络] 宅族；在家度假；和宅 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

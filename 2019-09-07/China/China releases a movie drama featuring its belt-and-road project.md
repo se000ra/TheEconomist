@@ -8,6 +8,7 @@
 Indeed, a sizeable minority of online commenters on “Common Destiny” appear sceptical about the BRI itself. “We are a developing country, yet we frequently give money away to others,” laments one on Mtime, a movie review and ticketing platform (never mind that BRI involves few free handouts). Recent research by a Chinese academic, who asks not to be identified, is revealing. It found that only a third of comments on the BRI published online in China were “enthusiastic” about the project. Two-thirds were “neutral”. 
 Some people may not like China, as an emerging great power and the world’s second-largest economy, being so closely identified with the developing world. In recent years the BRI’s detractors in China have taken to mocking the project online by calling it da sa bi (“big spill of money”). This is a play on da sha bi, which literally means “big stupid cunt”. Censors have tried to keep up, but posts referring to the BRI as da sa bi can still be found. 
 The academic says he is convinced that public enthusiasm for the BRI will grow, especially if the government increases publicity about the economic benefits that China itself will reap. But “as a big country, we have a duty to help less developed countries,” he notes. He reckons that more than 90% of Chinese people will be receptive to this line of thought if it is delivered in the right way. Perhaps a pacier sequel to “Common Destiny” would help. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Sep[]:九月 
@@ -67,4 +68,6 @@
 55.receptive[ri'septiv]:a. 能接纳的 [医] 接受的, 感受的 
 56.pacier[]:[网络] 佩西；帕斯；帕茜 
 57.sequel['si:kwәl]:n. 继续, 续集, 后果 [计] 结构的英语查询语言 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

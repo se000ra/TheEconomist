@@ -10,6 +10,7 @@
 That scares the markets. On August 5th, as the standoff between China and the United States hit emerging markets worldwide, the peso fell by almost 2% against the dollar and the yield on Argentina’s debt climbed. “Our opponents are doing their worst to create market panic, but we’re prepared,” says Nicolás Dujovne, the treasury minister. 
 Mr Macri’s longtime political guru, Jaime Durán Barba, sees a narrow loss in the primary as a victory in the making. If Mr Fernández comes out ahead, many voters will then fear he and his former boss could win. As long as Mr Macri survives to the run-off in November, Argentines who dislike Ms Fernández will “come home” from third-party candidates. The former president has been in court recently over corruption charges (she denies them all). 
 Curiously, given the gap between Mr Macri’s centrism and the Fernández duo’s populism, the campaign so far has been bereft of ideas, says Sergio Berensztein, an analyst and pollster. Instead the candidates are focusing on “micro-reforms, not the macro-mess of the past 20 years”, he says. After the election a real debate will have to start—about the changes Mr Macri promised on taking office four years ago.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Mauricio[]:n. 毛利西奥（男子名） 
@@ -70,4 +71,6 @@
 56.bereave[bi'ri:v]:vt. 使孤寂, 使丧失, 使失去 
 57.Sergio[]:n. 塞尔吉奥（NBA球员） 
 58.analyst['ænәlist]:n. 分析者, 精神分析学家 [化] 分析员; 化验员 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 Mr Schäfer was due to retire next May, just after opening the new permanent exhibition and the new children’s museum, which were conceived under his stewardship. By all accounts he took the museum’s mission statement literally and made it “a vibrant centre of reflection on Jewish history and culture as well as about migration and diversity in Germany”. Last year the museum had almost 700,000 visitors, who sometimes queued for hours to get in. The exhibition “Golem”, about the myth of artificial life, was his idea. Another of his original exhibitions was “Snip It!”, which explored circumcision and its controversy. 
 Many of Mr Schäfer’s supporters believe that he should have weathered the storm. Fifty scholars of the Talmud signed a letter in his support. Another 322 international academics put their names to a statement demanding “a public apology to him from those who have spread lies about him”. (Mr Schäfer was falsely portrayed as a sympathiser of BDS). And 58 museum professionals from 14 countries penned a letter to express concerns about his treatment. 
 Nearly everyone agrees that it would help for the next director to be a Jew. (Mr Schäfer is Catholic.) Candidates can apply until September 1st, explains Martin Michaelis, who is managing the museum until the new director is appointed. The appointment should happen by the spring. Whoever gets it will need all the talent Mr Schäfer had, with a little more diplomatic skill—and a much thicker skin. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Berlin[bә:'lin]:n. 柏林, (软质)柏林毛线 
@@ -72,4 +73,6 @@
 59.Martin['mɑ:tin]:n. 马丁, 圣马丁鸟 
 60.michaelis[]: [人名] 米凯利斯 
 61.diplomatic[.diplә'mætik]:a. 外交的, 老练的 [法] 外交的, 外交上的, 文献上的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

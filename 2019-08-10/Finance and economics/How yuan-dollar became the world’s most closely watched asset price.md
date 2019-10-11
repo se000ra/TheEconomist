@@ -11,6 +11,7 @@
 It is not wholly surprising, then, that President Donald Trump’s trade war with China has bled into a conflict over the yuan-dollar exchange rate. Reports from China in recent months suggested that it had become a sticking point in the stalled trade negotiations. The governor of China’s central bank even dropped a public hint in June that there was no red line at seven. America’s treasury secretary, Steven Mnuchin, countered that if China gave up supporting the yuan, it might be interpreted as an attempt to weaken it. That is one reason why crossing seven caused such a fuss. 
 But there are others. The yuan-dollar exchange rate has become a gauge of global risk appetite. A weak yuan is often associated with weakness in a host of other important currencies, including the euro. The result is a strong dollar. That in turn squeezes global credit, because many countries and companies beyond America’s borders borrow in dollars. One consequence is slower global GDP growth. Another is that money tends to flow out of riskier sorts of securities, such as stocks and emerging-market bonds, into safer assets such as Treasury bonds. 
 Arbitrary numbers often take on a life of their own in financial markets. China bears some blame in this instance. It has a penchant for control and opaque policymaking. Left to their own devices, investors start to impute greater significance to key thresholds. Officials follow their lead. The markets had become used to the yuan trading in a familiar range. It is not clear what the new rules are. The only thing that is certain is that yuan-dollar remains the asset price to watch.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.buttonwood['bʌtnwʊd]: 美洲悬铃木 
@@ -60,4 +61,6 @@
 45.policymaking['pɔlәsi,meikiŋ]:[法] 政策制定者, 决策人 
 46.investor[in'vestә]:n. 投资者 [经] 投资者 
 47.impute[im'pju:t]:vt. 归罪, 使负责, 嫁祸于 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

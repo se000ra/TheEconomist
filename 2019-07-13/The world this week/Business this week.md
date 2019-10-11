@@ -13,6 +13,7 @@
 A profit warning from BASF, the world’s largest maker of chemicals, weighed heavily on the German stockmarket. The company slashed its forecast for full-year earnings by 30%. In response its share price slid by 5%. The company blamed a global economic slowdown, caused by the trade war between America and China, as well as a “particularly strong” downturn in car manufacturing, for the downgrade. 
 ![image](images/20190713_WWP004.jpg) 
 A Brazilian judge ordered Vale, a mining giant, to pay full compensation for damage caused when one of its dams in the north of the country broke in January, killing at least 248 people. Vale must stump up for all the effects of the disaster, including the cost of the economic hit to the region. The judge said it was still not possible to calculate a final figure for the total amount Vale will have to pay. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -86,4 +87,6 @@
 69.vale[veil]:n. 谷, 溪谷, 告别 interj. 再见 
 70.compensation[.kɒmpen'seiʃәn]:n. 补偿, 赔偿金, 工资 [医] 代偿(机能), 补偿 
 71.stump[stʌmp]:n. 残株, 树桩, 烟蒂, 讲演台 vt. 砍断, 挑战, 难住 vi. 蹒跚而走 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

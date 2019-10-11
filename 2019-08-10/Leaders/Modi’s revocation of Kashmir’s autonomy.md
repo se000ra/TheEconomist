@@ -11,6 +11,7 @@
 But, as Kashmir’s bloody history suggests, things can get much worse. The potential demographic impact of the loss of autonomy might be its most incendiary consequence. Many fear that the removal of restrictions on ownership of land and property by outsiders, which were embedded in its constitutional deal, will lead to an influx of Hindu immigration. The gloomiest Indian observers have drawn comparisons to China’s Sinicisation of Tibet and Xinjiang. 
 Lastly, there may be ripples beyond Kashmir (see article). Those of India’s north-eastern states that also have been granted extra autonomy are worried that their own constitutional carve-outs may be under threat. And Pakistan has reacted to Mr Modi’s move with a promise to “exercise all possible options to counter the illegal steps”, which might include increasing support for jihadist groups. Although it is incumbent on Pakistan to clamp down on its proxies, the angrier Kashmiris are, the easier it is for Pakistani warmongers to recruit them. That increases the risk of military escalation—which, between two nuclear-armed states, is a frightening prospect. 
 Mr Modi portrays himself as a leader who is willing to break boldly with convention—from the botched withdrawal in 2016 of most cash in circulation to the (commendable) abolition of instant Islamic divorce on July 30th. He is emboldened by a towering majority in parliament, won in an election earlier this year, and pliant opposition parties. Yet his shake-up of Kashmir is an unmistakable signal of how he intends to exercise that power. He might now turn to other Hindu nationalist fixations, such as the construction of a temple on the site of a mosque razed by a radical Hindu mob in 1992. Mr Modi is setting himself more firmly on the path of zealous nationalism, ideological purity and religious chauvinism. It will lead nowhere good. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.revocation[.revә'keiʃәn]:n. 废止, 取消, 撤回 [经] 撤销 
@@ -110,4 +111,6 @@
 95.nationalism['næʃәnәlizm]:n. 民族主义, 民族特性 
 96.ideological[.aidiә'lɒdʒikәl]:a. 意识形态的, 空想的 [法] 思想的, 思想上的, 意识形态的 
 97.chauvinism['ʃәuvinizm]:n. 盲目的爱国主义, 沙文主义 [法] 沙文主义 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

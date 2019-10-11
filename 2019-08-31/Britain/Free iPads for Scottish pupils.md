@@ -8,6 +8,7 @@
 If so, that would make it different from similar past experiments. Philip Oreopoulos of the University of Toronto, co-author of a forthcoming review of randomised control trials on education technology, notes that results show academic consensus: although handing out laptops increases computer use, it has no impact or even (in one study) a negative one on attainment. There is not as much rigorous research on tablets, but little reason to think results would differ. The worry is that they end up distracting pupils more than they help them study. 
 Some programmes that use computers for personalised tuition have, though, produced promising results. With the right software and careful management of how they are used, tablets could help, says Mr Oreopoulos. Yet so far their use in Scotland seems to be less well defined. At St Thomas Aquinas, they have been used for catch-up quizzes at the start of maths lessons and to film gymnastics to check on technique. Teachers have been told to use them in every lesson, but left to decide how. 
 Another argument for the handout is that it levels the playing field for children who do not have access to the latest technology at home, and does so in a way that does not stigmatise those who most need the help. Critics respond that buying expensive gadgets for all is a poor way to help these pupils, especially when there are cheaper programmes that have shown better results. Giving out iPads may allow politicians to say they are dragging schools into the 21st century, but that does not mean they are a sensible investment. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ipads[]:[网络] 平板电脑；改进的处理器和显示器系统；改进型定位与方位确定系统 
@@ -47,4 +48,6 @@
 35.gymnastic[dʒim'næstik]:a. 体操的, 体育的 
 36.handout['hændaut]:n. 施舍物, 救济品, 分发的印刷品资料, 广告物品 
 37.stigmatise['stɪgmətaɪz]:vt. 使受耻辱, 指责, 污辱 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

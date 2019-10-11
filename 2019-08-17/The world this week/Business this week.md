@@ -14,6 +14,7 @@
 WeWork’s parent company filed documents for its eagerly awaited IPO, which might happen next month. The office rental firm is the latest in a string of high-profile startups to float on the stockmarket this year. Like many of its contemporaries, WeWork’s filing suggests it struggles to make a profit. In the first half of this year it recorded a $905m loss. See article. 
 ![image](images/20190817_WWC581.png) 
 Uber’s share price fell by a fifth in the days after it revealed a $5.2bn quarterly loss. Most of that was because of share-based compensation paid to workers after Uber’s IPO, but even on its favoured measure of profitability it made a loss of $656m, more than in the same quarter last year. Dara Khosrowshahi, the chief executive, accepted that investors were frustrated with mounting losses, conceding that “There’s a meme around, which is, can Uber ever be profitable?”. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -93,4 +94,6 @@
 75.concede[kәn'si:d]:vt. 承认, 退让 vi. 让步 
 76.meme[mi:m]:n. 大脑模仿病毒；文化基因；弥母 
 77.uber['ju:bә]:[医] 乳房 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

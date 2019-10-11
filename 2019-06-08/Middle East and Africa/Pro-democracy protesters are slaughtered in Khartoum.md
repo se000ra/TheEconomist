@@ -15,6 +15,7 @@
 The latest killings give the top brass even more reason to worry. The junta is “basically in the same exact boat as Bashir”, who faces charges of genocide at the International Criminal Court (ICC), says Ahmed Kodouda, a political analyst. 
 Demonstrators, meanwhile, are enraged by the betrayal of their democratic revolution. From Al-Haj Yousif, an outlying neighbourhood of Khartoum, come reports of fresh protests suppressed by gunfire. In hospital corridors, doctors and patients alike sing protest songs, vowing not to abandon their struggle. 
 Averting a civil war in Sudan may require trade-offs between justice and peace. Outsiders, including Western governments and the African Union, have condemned the violence and called for a civilian-led transition. But many, including Britain, also insist that those responsible for war crimes be held accountable and handed over to the International Criminal Court. The fear is that Sudan may get only one of these things, or neither.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.protester[]:n. 抗议者, 持异议者, 拒付者 [经] 反对者 
@@ -118,4 +119,6 @@
 99.avert[ә'vә:t]:vt. 转开, 避免, 防止 
 100.outsider[' aut'saidә]:n. 外人, 局外人, 非会员, 外行, 门外汉, 比赛中获胜可能性不大的选手 [经] 外船公司 
 101.accountable[ә'kauntәbl]:a. 负有责任的, 可说明的, 可解释的 [经] 负有责任的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

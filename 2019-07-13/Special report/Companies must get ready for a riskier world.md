@@ -23,6 +23,7 @@
 Firms must also take steps to guard against cyber-risks, which are growing. Ryan Kalember of Proofpoint, an American cybersecurity firm, notes that this will be exacerbated by 5G, where many of the vendors involved have a history of shipping code with bugs in it. Mr Madnick recommends big firms conduct security audits of supply-chain partners, vendors and takeover targets to sniff out cyber-vulnerabilities. 
 Many companies will struggle with the question of what to do with legacy manufacturing assets and opaque supplier networks developed in a bygone era. Others may adopt a wait-and-see attitude, hoping that the current storms will pass and that the heady globalisation of yesteryear will return. The most dynamic firms will find creative ways to chart a path through today’s challenging terrain and seize competitive advantage. 
 After all, as this special report has made clear, supply chains are no longer merely cost centres. The best firms are already wielding shorter, faster and smarter supply chains as potent weapons. The next challenge will be to make them safer as well. It would be foolish to venture onto this battlefield unarmed. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.risky['riski]:a. 危险的 
@@ -167,4 +168,6 @@
 140.potent['pәutnt]:a. 有力的, 有说服力的, 有效的 [医] 有力的, 有性交能力的 
 141.battlefield['bætlfi:ld]:n. 战场, 沙场 
 142.unarm[.ʌn'ɑ:m]:vt. 缴械 vi. 放下武器 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

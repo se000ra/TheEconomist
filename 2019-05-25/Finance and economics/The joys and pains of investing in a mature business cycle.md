@@ -15,6 +15,7 @@
 That has fuelled speculation that China might use its currency as a weapon in the trade war. Were the yuan to go through seven to the dollar, from this perspective, the gloves would be off. A weaker yuan would mean a stronger dollar—certainly in Asia and probably across the board. Not only would that squeeze American exports, it would also spark a broad sell-off in stocks and in credit. For the dollar is also a thermostat for global risk appetite: it rises with a weak dollar and falls with a strong one. Yet China has so far been “very responsible” in its handling of the yuan, says Steven Englander of Standard Chartered, a bank. Were the yuan to break the seven mark, he reckons, it would be in response to a wave of risk aversion hitting Asia; China would not be the initiator. 
 If trade peace breaks out, a fresh growth scare will emerge sooner or later. As Willem Buiter of Citigroup notes, each of the world’s three biggest economies has a financial frailty: corporate leverage in America, a debt mountain in China and rickety banks in Europe. Even so, he argues in a recent note, it might still take a severe shock to kick off a global recession. If the economy keeps surviving—and it may take a fresh dose of stimulus from China or the Fed to lift spirits—the conviction that the cycle can keep going may take hold. Market “capitulation” usually means a sudden loss of unwarranted optimism. But in the present circumstances capitulation is “melt-up, not meltdown”, says Eric Lonergan of M&G, a fund-management group. 
 For now it is hard to see past the trade skirmish and the G20 summit. Today’s late-cyclists might envy the faith of the medieval millenarians. They were hedged. The apocalypse would mark the start of their longed-for salvation. But if it were to be delayed a little, it would be no great loss. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.investor[in'vestә]:n. 投资者 [经] 投资者 
@@ -87,4 +88,6 @@
 68.lonergan[]: [人名] 洛纳根 
 69.skirmish['skә:miʃ]:n. 前哨战, 小争论, 小冲突 vi. 发生小争论, 侦察 
 70.salvation[sæl'veiʃә]:n. 拯救, 救助, 救世 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

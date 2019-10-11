@@ -8,6 +8,7 @@
 In the first case, a committee demanded records after Michael Cohen, Mr Trump’s longtime lawyer, testified in February that his former boss altered the estimated value of his assets and liabilities to suit his needs. These allegations, legislators said, may point to conflicts of interest that “impair his ability to make impartial policy decisions”. They could also provide evidence that Mr Trump has profited from his office, in violation of the constitution’s foreign-emoluments clause. 
 The president assured reporters that the ruling was “crazy” and “totally the wrong decision by, obviously, an Obama-appointed judge”. Judge Amit Mehta was indeed appointed by Mr Trump’s predecessor. But his 41-page ruling is a straightforward application of a 90-year-old Supreme Court precedent recognising that Congress’s power to secure “needed information” is “an attribute of the power to legislate”. It is not “fathomable”, Mr Mehta wrote, that the constitution would grant Congress “the power to remove a president for reasons including criminal behaviour” but deny it “the power to investigate him for unlawful conduct”. Both Mr Mehta and Judge Edgardo Ramos, who said the Deutsche Bank suit did not raise “any serious questions”, refused to put their rulings on hold while Mr Trump appeals. 
 The cases could eventually go to the Supreme Court, where Mr Trump has installed two justices. But Laurence Tribe, a scholar of constitutional law at Harvard University, cannot imagine the president prevailing there. And if the president defies a court order, the constitutional crisis that some Americans have predicted since 2016 will arrive at last. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.defy[di'fai]:vt. 藐视, 挑衅, 使落空 n. 挑战 
@@ -49,4 +50,6 @@
 37.constitutional[.kɒnsti'tju:ʃәnl]:a. 宪法的, 立宪的, 体质的 [医] 全身的; 体质的 
 38.Harvard['hɑ:vәd]:n. 哈佛大学 
 39.cannot['kænɒt]:aux. 无法, 不能 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

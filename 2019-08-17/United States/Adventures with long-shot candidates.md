@@ -10,6 +10,7 @@
 There is still time to say it often enough. Iowa’s caucuses in February are the primary season’s first contest. Winners do not always capture their party’s nomination, as Tom Harkin (1992), Mike Huckabee (2008) and Ted Cruz (2016) can attest, but a poor performance can end a campaign. Some Democrats grumble about the size of the field, but—short of running out of money—no candidate yet has a strong enough incentive to drop out. 
 The field is more open than it seems. Mr Biden holds a comfortable lead but he is gaffe-prone and would take office at 78, which would make him the oldest man to do so. His performances on the trail have been meandering and unimpressive; he seems to inspire more affection than genuine enthusiasm. If he begins leaking support, every other candidate wants to be there with a bucket. 
 Still, short of an incredible run of luck, none of the stragglers seems likely to break through as long as the field remains so crowded. Mr Dutton believes that Mr Inslee is “a wildfire just waiting for a spark”. But asked what that spark might be, he is circumspect. “If I knew, I’d light it myself.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -82,4 +83,6 @@
 68.straggler['stræglә]:n. 游荡者, 朱经请假擅离船舰的人员, 掉队者 
 69.wildfire['waildfaiә]:n. (古时战争时所用的)燃料剂, 磷火, 鬼火, 野火 
 70.circumspect['sә:kәmspekt]:a. 细心的, 慎重的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

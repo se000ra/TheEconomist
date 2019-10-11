@@ -8,6 +8,7 @@
 Mr Mirziyoyev has prohibited the use in court of evidence obtained through torture, in tacit acknowledgment that abuse is rife throughout the penitentiary system, not just at Jaslyk. But the government is shy about facing up to its history: even as it advertises the camp’s closure as a step towards improving the country’s human-rights record, it denies that people were tortured there. 
 There is some way to go before the country’s criminal-justice system becomes a beacon for the region. Shadowy espionage cases are still being pursued behind a veil of secrecy in closed courts. Andrey Kubatin, an academic, is serving a prison sentence for passing secrets he insists were in the public domain. Kadyr Yusupov, a former diplomat, is on trial for spying for a foreign power, although he left the foreign service years before the alleged espionage began. Mr Yusupov, who has schizophrenia, was arrested following a failed suicide attempt in the Tashkent metro, raising questions about whether he is psychologically fit to go on trial. 
 And then there is Gulnara Karimova, the late president’s daughter, serving a jail sentence on corruption charges as the government seeks to recover her assets from abroad. She has been confined since 2014, before her father died, but has never faced open judicial proceedings. One trial reportedly took place in the kitchen of a house in which she was being held. If Uzbekistan wants to show that it believes in the rule of law, which is so important to investors, it will need to show that even a “robber baron”—as a WikiLeaks cable once dubbed Ms Karimova—gets a fair trial. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.liberalisation[,libərəlai'zeiʃən, -li'z-]:n. 自由化；开放 
@@ -64,4 +65,6 @@
 52.investor[in'vestә]:n. 投资者 [经] 投资者 
 53.wikileaks[]: 维基解密 
 54.dub[dʌb]:vt. 配音, 轻点, 授予称号, 击 n. 一下击鼓声, 笨蛋 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

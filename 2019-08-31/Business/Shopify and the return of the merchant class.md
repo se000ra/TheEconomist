@@ -11,6 +11,7 @@
 Shopify’s “software as a service” business is cheap to scale up. It says it is America’s third-largest online retailer by volume of goods sold after Amazon and eBay. It generates high margins and recurring revenue from merchants, who pay a monthly fee for the software, based on their sales. On top of that, Shopify collects fees for helping run each stage of their e-commerce business, from designing an online store and advertising on social-media sites such as Instagram to processing payments and arranging logistics. This is the fastest-growing part of its business, though it is less profitable than selling software subscriptions. 
 As it expands, Shopify is using its clout to secure better terms for advertising on social media, financing and payments for its clients. It is also adapting as e-commerce rapidly changes. To reach more shoppers, e-merchants are building bricks-and-mortar stores. They are using e-commerce to buy from wholesalers. Shopify has used small acquisitions, like a recent purchase of Handshake, a platform for business-to-business e-commerce, to keep up with these trends. In June it said it would offer merchants warehousing and shipping in America using third-party firms that guarantee two-day delivery. This is partly in order to prevent customers from migrating to Amazon Prime. For the most part, it has wisely avoided throwing down the gauntlet directly to Amazon. 
 A longer-term challenge is to overcome its focus on the English-speaking world, where about three-quarters of its clients are based. As with the merchants of old, the biggest opportunities lie in faraway lands, especially Asia. To get a toehold, Shopify has enabled 17 languages on its platform besides English, including several Asian ones. But it faces stiff competition. Asia’s biggest markets are already in the grip of giants such as Alibaba in China, Amazon and Walmart in India, and local firms in South-East Asia. In poorer countries trust in e-commerce remains fragile, making it hard to sell directly to consumers. Yet as Harley Finkelstein, Shopify’s chief operating officer, notes, in the early days of e-commerce, when people recoiled at handing over their credit-card details, trust was lacking in the West, too. In their heyday members of the merchant class were considered grubby hucksters—at least by Europe’s medieval nobility and clergy. That did not stop them then. And, if you take Mr Lütke’s word for it, it won’t stop them now. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Schumpeter[]:n. 熊彼特（美籍奥匈帝国经济学家, 当代资产阶级经济学代表人物之一） 
@@ -102,4 +103,6 @@
 87.grubby['grʌbi]:a. 污秽的, 肮脏的, 生蛆的 
 88.nobility[nәu'biliti]:n. 贵族, 高尚, 贵族阶级 
 89.clergy['klә:dʒi]:n. 牧师, 僧侣, 神职人员 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

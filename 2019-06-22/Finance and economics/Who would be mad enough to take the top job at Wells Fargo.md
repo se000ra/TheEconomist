@@ -13,6 +13,7 @@
 Your best-known shareholder, Warren Buffett, recently admitted that Wells did “crazy things”. I struggle to think of anything crazier right now than agreeing to take its reins while faced with a demoralised workforce, mistrustful regulators and a hostile Congress. Whomever you decide to approach next, I wish them the best of luck. They’ll need it. 
 Yours sincerely, 
 [REDACTED] 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -84,4 +85,6 @@
 67.demoralise[di'mɔrәlaiz]:vt. 使士气低落, 使陷入混乱, 使丧失功能, 使道德败坏, 使丧失自尊 
 68.mistrustful[.mis'trʌstful]:a. 不信任的, 深疑的 
 69.whomever[ˌhu:mˈevə(r)]:pron. （作动词或介词的宾语时, 有时候用来替代whoever） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 Our calculation shows that the year before a presidential election, the average change in a candidate’s polling numbers in the two weeks after a debate was 6%. Debates held in the winter and spring of the election year have even larger effects (an average change of 13%), but it is hard to tell whether it was the debates that made the difference or something that happened at the same time as the debate, such as a primary election or caucus. 
 Admittedly most of the movement in polls after a primary debate consists of small fluctuations spread out between many candidates. Yet primary debates do sometimes cause an obscure candidate to become a star or a star candidate to implode. Compared with a regular week in the year before the election, debates are six times as likely to produce a large increase or decrease in voting intentions. 
 Elaine Kamarck of the Brookings Institution, the author of “Primary Politics: Everything You Need to Know about How America Nominates Its Presidential Candidates”, concurs. Primary debates are one of the most important events of a campaign, and match other disruptions. “There is little difference between a debate and a dramatic event,” Ms Kamarck says, adding that they are almost always consequential. With the 2020 Democratic debates kicking off next week, the 20 candidates who will appear (divided between two separate events) really do have an opportunity to change voters’ minds.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.presidential[.prezi'denʃәl]:a. 总统制的, 总统的, 首长的, 统辖的 [法] 总统的, 议长的, 总经理的 
@@ -65,4 +66,6 @@
 52.disruption[dis'rʌpʃәn]:n. 分裂, 崩溃, 瓦解 
 53.alway['ɔ:lwei]:adv. 永远；总是（等于always） 
 54.consequential[,kɔnsi'kwenʃәl]:a. 作为结果的, 随之发生的, 推论的, 间接的, 重大的, 自大的, 傲慢的, 自傲的 [法] 结果的, 相应而生的, 接着发生的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

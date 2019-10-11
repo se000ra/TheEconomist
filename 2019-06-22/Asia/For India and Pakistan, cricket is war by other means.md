@@ -8,6 +8,7 @@
 Mr Ahmed ignored the advice, only to watch India effortlessly crush his team. But the shock of ending 89 runs behind, and being left ninth out of ten in the tournament ranking, turned out to be merely the opening act in a long humiliation. Enraged by footage of the unfortunate captain failing to stifle a yawn during the match, and by rumours that his team had been gorging on fast food instead of training like the athletic Indians, Pakistan fans have heaped opprobrium on Mr Ahmed. 
 “When I die I want Sarfaraz to lower me into the grave so he can let me down one more time,” wailed one tweet, to which came a tart response: “But he might drop you.” On Facebook, Pakistanis shared videos that contrasted scenes of the India captain, Virat Kohli, lifting ponderously huge weights, against a cheap television advertisement where Mr Ahmed appeared, dancing to a jingle promoting a chocolate-covered betel concoction. 
 Needless to say, Indians enjoyed a fanfare of gloating. This subsided with unusual speed, however, as cricket fans took instead to sharing the self-deprecatory jokes coming over the border. But if ordinary Indians proved ready to concede that Pakistanis might be good chaps after all, politicians were not so generous. The pointed congratulations tweeted by Amit Shah, India’s new home minister, equated India’s win to its air force’s bombing of an alleged terrorist training camp in Pakistan in February: “Another strike on Pakistan by Team India and the result is the same.” A spokesman for Pakistan’s army, Asif Ghafoor, responded with equal humourlessness. India may excel at cricket, he conceded, but in the recent military exchange had missed its target, failed to stop a Pakistani counterstrike, destroyed one of its own helicopters by mistake and seen one of its own pilots shot down and captured. Howzat!◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.wicket['wikit]:n. 小门, 腰门, 售票窗 
@@ -63,4 +64,6 @@
 51.humourlessness['hju:məlis]:humourlessness n. humourless的变形 humourless ['hju:məlis] adj. 缺乏幽默感的，一本正经的 
 52.excel[ik'sel]:vt. 胜过, 优于, 擅长 vi. 胜过其他 
 53.counterstrike[]:[法] 反击 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

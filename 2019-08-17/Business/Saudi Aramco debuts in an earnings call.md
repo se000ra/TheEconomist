@@ -9,6 +9,7 @@
 That is where the earnings call comes in. It was less an exchange of information than an awkward dress rehearsal—a chance for investors to familiarise themselves with Aramco and vice versa. Mr al-Dabbagh conjured an image of dominance today and outlined plans to extend it tomorrow. The firm is expanding its trading arm and striking deals to secure demand for its crude and diversify its revenue. Like others in the industry, it expects appetite for petrochemicals to jump. In March Aramco said it would buy 70% of SABIC, a petrochemical giant, from Saudi Arabia’s public investment fund for $69bn. On August 12th Reliance Industries, an Indian conglomerate, said that Aramco would pay $15bn or so for a 20% stake in its refining-and-petrochemicals business. The Saudi firm will supply Reliance with up to 500,000 barrels a day of crude, helping to lock in a long-term customer. It has struck deals in China, Malaysia and South Korea. 
 Aramco could yet trip up. Some downstream projects may take years to materialise, notes Alan Gelder of Wood Mackenzie, an energy-research firm. It boasts of “99.9%” reliability of its supply, but tensions with Iran threaten exports through the Strait of Hormuz. Expanding a pipeline to the Red Sea will help only a bit. The Saudi kingdom is hungry for revenue; dividends in the first six months of 2019 were 22% larger than free cashflow because Aramco paid a “special dividend” of $20bn on top of an ordinary one of $26.4bn (the company invoked the “exceptionally strong financial performance” of 2018). 
 Most important, the oil price is sinking. It pulled Aramco’s net income in the first half of 2019 down by 12% compared with last year. To support prices, Saudi Arabia has brokered production cuts by the OPEC cartel of oil-producers and slashed its output by 7% from December to June. If rising fears of a global economic slowdown keep oil markets depressed, a listing may be delayed. Again. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.saudi['sajdi]:a. 沙乌地阿拉伯（人或语）的 
@@ -64,4 +65,6 @@
 51.cartel[kɑ:'tel]:n. 卡特尔, 企业联合, 俘虏交换条约, 决斗挑战书 [经] 同业联合, 联合贩卖, 卡特尔 
 52.slash[slæʃ]:v. 猛砍, 乱砍 n. 猛砍, 乱砍, 删减 [计] 斜线 
 53.slowdown['slәudaun]:n. 降低速度, 减速 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

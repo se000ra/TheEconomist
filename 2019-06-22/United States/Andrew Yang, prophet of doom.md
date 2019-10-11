@@ -9,6 +9,7 @@
 Its cost does not make the Freedom Dividend an outlier in the primary debate. Most of the Democratic candidates are pitching multi-trillion plans of one sort or another. Mr Sanders wants Medicare for all (which Mr Yang and many of his competitors also endorse), while Elizabeth Warren would like to channel a few trillion towards green manufacturing, free college and universal child care (see Lexington). All these ideas would have seemed like fringy leftism to mainstream Democrats just four years ago. Mr Yang’s chief contribution might follow similar lines: he could hope to inject his ideas into the mainstream of Democratic politics. 
 His most valuable policy contributions may lie elsewhere, however. Mr Yang argues, more persuasively than most politicians, that he chooses his positions on data and evidence. His campaign website sports (at last count) 106 proposals, running from the consequential—imposing a tax on carbon pollution, legalising marijuana, decriminalising opioids and reforming zoning rules—to the zany, like offering free marriage counselling to all. Many of them are quite sensible. 
 A good few are refreshingly unorthodox too. Mr Yang has not shied away from pointing out the errors in the thinking of his competitors. He thinks a federal jobs guarantee—embedded in the widely accepted proposal for a Green New Deal—is a “well-intended but terrible idea”. The “liberal training fantasy”—turning coal miners into coders—is mere “wish-fulfilment as policy talk”. He’d like to “break the stranglehold that college has on learning” that pushes Democrats to prefer free university tuition to vocational training. He is one of the few candidates willing to publicly admit that charter schools, which are government-funded but privately run, are not abominable. “I’m pro-good school, and there are some very good charters. I think the Democrats, who are frankly just jumping into bed with the teachers’ unions, are doing our kids a disservice.” Among the ideas that an eventual White House occupant will inevitably steal from him, those would be the right ones to start with.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.dismal['dizmәl]:a. 阴沉的, 凄凉的, 令人忧郁的 n. 低落的情绪, 沼泽 
@@ -115,4 +116,6 @@
 102.eventual[i'ventʃuәl]:a. 最后的, 终于的 
 103.occupant['ɒkjupәnt]:n. 占有者, 居住者, 占用者 
 104.inevitably[in'evitәbli]:adv. 不可避免地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

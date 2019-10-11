@@ -12,6 +12,7 @@
 All told, American technology companies have invested $1bn in Chinese ones since the start of last year, according to Dealogic, a data provider. Chinese tech firms poured nearly four times as much, $3.8bn, into those in America. But high-profile investments signal the mood. In 2016 Apple put $1bn into Didi Chuxing, a ride-hailing giant, and Microsoft took a stake in Laiye, an “AI butler” that handles voice commands through an app. Intel has taken stakes in several startups, including, in 2018, a cloud-services provider and, this year, a firm that builds software for cashierless stores. 
 In 2018 Alphabet, Google’s parent company, paid $550m for a stake of less than 1% in JD.com, an e-commerce giant. Nvidia, an American maker of AI chips, has invested in WeRide.ai, a Chinese leader in self-driving tech, and TuSimple, an autonomous-lorry startup. Last year Intuitive Surgical, the world’s largest surgical robotics company, took a stake in Broncus, a Chinese startup—chiefly, says Nisa Leung of Qiming Venture Partners, an investor in Broncus, for technology to help perform advanced lung surgery. Last week Reuters reported that Facebook was considering minority stakes in Chinese firms. 
 China has blocked only one foreign acquisition in the past decade—Coca-Cola’s $2.4bn bid for Huiyuan Juice, a drinks giant, in 2009. Last year the “negative list” of areas where investments are restricted shrank from 63 to 48 industries. Chinese regulators surprised many by not reviewing the purchase of DeePhi, despite how strategic its technology could prove—or how easy it is to classify as defence-related and thus untouchable. Without trade tensions and the technological cold war, deals would multiply. That they now might not will delight America’s spooks. Its companies, less so. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.animosity[.æni'mɒsiti]:n. 仇恨, 憎恶, 敌意 
@@ -82,4 +83,6 @@
 66.untouchable[ʌn'tʌtʃәbl]:a. 达不到的, 碰不着的, 管不到的, 不可批评的, 碰不得的, 不可捉摸的, 无形的 
 67.technological[.teknә'lɒdʒikl]:a. 技术的 [经] 工艺的, 技术的 
 68.spook[spu:k]:n. 幽灵, 鬼 vt. 惊吓, 鬼怪般地出没 vi. 惊吓而逃窜, 受惊 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -29,6 +29,7 @@
 Thinking about people’s tendency neither to read nor understand contracts (“Critical conditions”, July 27th) they should always be aware of what’s written down, because while The Large Print Giveth, The Small Print Taketh Away. 
 CHRIS MARLERLondon 
 * Letters appear online only 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Venezuela[,vene'zweilә]:n. 委内瑞拉 
@@ -164,4 +165,6 @@
 131.taketh[]:[网络] 拈花而过 
 132.chris[kris]:n. 克里斯（男子名）；克莉丝（女子名） 
 133.online[]:[计] 联机 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

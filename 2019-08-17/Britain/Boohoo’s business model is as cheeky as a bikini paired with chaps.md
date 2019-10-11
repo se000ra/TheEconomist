@@ -10,6 +10,7 @@
 The firm is paying only so much attention to how big companies are meant to behave. Mr Kamani, who with Ms Kane is its entrepreneurial force (he owns 16.1%), is still in charge. As part of the shuffle he was made executive chairman, prompting Boohoo’s non-executive chairman, a retail veteran, to leave. “It is not conventional corporate governance,” says Richard Watts at Merian Global Investors, which owns 14.8% of Boohoo and which backed the change. “But Mr Kamani has been critical to the success of the firm.” 
 Some of Boohoo’s operations may require new thinking. In January a committee of MPs named it, with Amazon and JD Sports, as “least engaged” with two problems of fast fashion. These are the use of illegally cheap labour, and waste from people wearing cheap clothes once or twice and then binning them. Boohoo was not accused of underpaying any workers. But it is a big contractor in Leicester, where, says a 2015 report by the city’s university, most garment workers earn below the minimum wage. Ms Kane says she is proud of manufacturing in Britain, and the firm ensures its suppliers use electronic payrolls rather than cash, so pay is easier to audit. 
 Boohoo’s feistiness suits its customers (who did not boycott it after media coverage of rag-trade work conditions). The tagline to a selection of Boohoo clothes picked out by Zendaya, an American actress, on the wall in Manchester sums it up: “When you’re being yelled at and you’re waiting for them to finish so you can hit them with facts.” Boohoo’s facts are millions of young customers and runaway growth, a combo that seldom goes out of style. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.cheeky['tʃi:ki]:a. 厚颜的, 无耻的, 色情的 
@@ -80,4 +81,6 @@
 66.tagline[]:n. 宣传词; 标签行; 作为一个口号或信条 
 67.runaway['rʌnә.wei]:n. 逃跑, 逃走的人, 逃亡, 压倒性的优胜 a. 逃亡的, 逃走的 
 68.combo['kɒmbәu]:n. 小型爵士乐团 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

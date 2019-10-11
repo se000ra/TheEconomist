@@ -11,6 +11,7 @@
 It takes 20 days to assemble a Jiang-style armchair from Chinese walnut, fine cloth or leather (red is the most popular colour) and lots of foam padding, especially in the small of the back, so that occupants can sit up straight for hours. “The chair is quite firm, as is fitting for a leader,” explains Mr Wang on a factory tour, over the noise of whirring tools. Tiantan armchairs are found in the Great Hall of the People and the central leadership compound of Zhongnanhai in Beijing, and even aboard leaders’ aeroplanes. 
 Naturally, if China does agree to businesslike meetings, America has homework to do, too. From 2004 to 2013 David Dollar represented first the World Bank and then the United States Treasury in Beijing. At too many meetings he watched American political appointees, flanked by young aides straight out of graduate school, as they tried to negotiate with the help of written records of talks involving previous administrations. Meanwhile, in the chair of honour on the Chinese side, Mr Dollar says, the chief negotiator quite possibly “used to be at the bottom of the table 20 years ago, and then they sent him off to be vice-mayor of Guiyang or whatever, and he works his way up.” As a result, Chinese officials could and did cite oral agreements that they believed they had heard American officials make years earlier. In contrast, laments Mr Dollar, “The US has no institutional memory.” 
 Just now America presents China with a particular puzzle. President Donald Trump revels in pomp, protocol and monarchical chats with fellow leaders, which should play into China’s hands. At his first meeting with President Xi Jinping he happily shared a brocade sofa at Mar-a-Lago, his Florida estate, and declared his Chinese guest a great friend. But Mr Trump also feels unbound by agreements, oral or otherwise, made by previous governments, a blow to China and its elephantine capacity for remembering ancient half-promises. With globalisation in the balance, it is time China stopped using the dismal horseshoe to stall reforms. But America, too, must make better use of its seat at trade’s top table. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -82,4 +83,6 @@
 67.globalisation[,gləubəlai'zeiʃən]:n. 全球化, =globalization 
 68.dismal['dizmәl]:a. 阴沉的, 凄凉的, 令人忧郁的 n. 低落的情绪, 沼泽 
 69.stall[stɒ:l]:n. 厩, 停车处, 牧师职位, 货摊, 托辞, 拖延 vt. 关入厩, 停顿, 推托, 支吾, 使陷于泥中 vi. 被关在厩内, 陷于泥中, 停止, 支吾 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

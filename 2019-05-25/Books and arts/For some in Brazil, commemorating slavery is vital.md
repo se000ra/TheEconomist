@@ -20,6 +20,7 @@
 Ali Moussa Iye, director of UNESCO’s Slave Route Project, which has just issued guidelines on managing slavery-related sites, notes that the task is often complicated by the paucity of physical exhibits: “apart from shackles here and there, it is an intangible heritage.” In Rio, though, even such artefacts as have survived have been neglected. Consider the “New Blacks Cemeteries”, pitiful church-side plots where newly arrived slaves who died from disease or exhaustion were dumped like rubbish. In 1996 a white woman came across some such remains while building a house. Merced Guimarães now runs a tiny museum called the “Institute of New Blacks”, where visitors can peer through a glass panel in the floor and see the skeletons of slaves. 
 But there has been no effort to fund large-scale excavations or memorials. “Archaeology in Brazil doesn’t produce knowledge, it just accumulates material,” says João Carlos Nara, an architect and historian who studies the Santa Rita church in Rio, where thousands of slaves were buried in the mid-18th century. He thought the construction of a tram line on the site could be an opportunity to learn what lay beneath. But the city was keen to finish the job. 
 After some debate, the firm in charge proposed raising the tracks to avoid the bones, and to give several stations apposite names such as “Little Africa” and “New Blacks”. Black leaders reluctantly agreed—to forestall a repetition of what happened to the material recovered from the Valongo wharf in 2011. Mr Negrogun summarises that bleak precedent: “The remains of our ancestors are sitting in plastic bags in air-conditioned shipping containers waiting for whenever there’s enough money to study them.” Last year, construction on the tram line moved forward. Whatever bones had emerged were quickly covered up. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Brazil[brә'zil]:n. 巴西 
@@ -177,4 +178,6 @@
 153.summarise['sʌmәraiz]:vt. 概括, 总结, 摘要, 概述 
 154.bleak[bli:k]:a. 萧瑟的, 荒凉的, 阴冷的 
 155.quickly['kwikli]:adv. 很快地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

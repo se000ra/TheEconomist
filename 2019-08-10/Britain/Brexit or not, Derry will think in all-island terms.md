@@ -13,6 +13,7 @@
 Improvements to UU’s Derry campus, known as Magee, have been helped along by cross-border ties with the Letterkenny Institute of Technology, which is growing and hopes to morph into a university. Despite the dashing of its medical hopes, Magee has set up research centres in robotics and cognitive data analysis. These outfits will hardly stop talking to their Irish counterparts after Brexit, says Mr Nixon. 
 Businesses will draw on the ingenuity which even the existing situation has forced them to hone. Companies already cope with two currencies, two tax regimes and two sets of laws, says Andrew Fleming, managing director of a group of small engineering firms that sell mainly to farmers. His group keeps manufacturing units on both sides of the border, serving clients in each jurisdiction. “We locals are used to working around the border,” he says. “Though for an outside investor, extra hassle could be a huge deterrent.” His firm started in a Donegal village, just south-west of Derry, five generations ago when Ireland was a single political unit under the crown. It has proved resilient through many vicissitudes. 
 For all its current and looming woes, Derry still generates pleasant surprises. Who would have predicted its latest cultural export, a globally successful TV series called “Derry Girls”? Set in the 1990s, it gets a laugh out of foul-mouthed schoolgirls, angry nuns, Catholic-Protestant prejudice, bomb alerts and runaway gunmen. Now the city must face Brexit with the same black good humour. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.brace[breis]:n. 支柱, 曲柄, 支撑, 一对 vt. 紧缚, 支撑, 激励 vi. 打起精神 [计] 花括号 
@@ -106,4 +107,6 @@
 89.nun[nʌn]:n. 修女, 尼姑 
 90.runaway['rʌnә.wei]:n. 逃跑, 逃走的人, 逃亡, 压倒性的优胜 a. 逃亡的, 逃走的 
 91.gunman['gʌnmәn]:n. 枪手, 持枪的歹徒, 制造枪械者 [法] 持枪歹徒, 持枪抢劫或杀人者, 枪炮工人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

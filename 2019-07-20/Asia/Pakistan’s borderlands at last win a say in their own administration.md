@@ -12,6 +12,7 @@
 The crackdown shows that power still lies with the army, despite the democratic promise of the approaching elections. In Waziristan a ban on rallies and political meetings was in place until two weeks before the contest. Opposition politicians say the reason given—to ensure security—is a pretext to constrain them and so help the Pakistan Tehreek-e-Insaf (PTI) party, which is in government at both the provincial and national level. 
 Whoever wins the privilege of representing the region will have their work cut out. Large investments are needed in schools, hospitals, roads and water supplies to bring services in the area to a level similar to the rest of Pakistan. But promised money has yet to arrive. Adopting a proper judicial system is another headache. The borderlands have no courts and tribal police flail in the face of paperwork and investigations. Lawyers in interim courts say cases suffer when caught between the old and new systems. 
 Despite growing disaffection with the slow pace of reforms and the pain of austerity measures imposed by the national government, the PTI is expected to do well at the polls. Ameer Muhammad Khan, a candidate for the party, says he meets scores of enthusiastic party workers at his campaign office each day. The vote will prove “historic in the life of every tribal person”, he says. It will also test the limits of the army’s forbearance. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.camouflage['kæmuflɑ:ʒ]:vt. 伪装, 掩饰 n. 伪装, 伪装物, 幌子 
@@ -101,4 +102,6 @@
 85.khan[kɑ:n]:n. 可汗, 商队宿店 
 86.historic[hi'stɒrik]:a. 历史上著名的, 有历史性的 
 87.forbearance[fɒ:'bєәrәns]:n. 节制, 自制, 忍耐 [法] 债务偿还期的延展, 忍耐, 宽容 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

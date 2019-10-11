@@ -25,6 +25,7 @@
 The Trump administration reintroduced friction. In 2017 the number of cars entering America from Canada dipped, even though the Canadian dollar strengthened, a sign that Mr Trump’s glower was putting off some. In the same year a border official in Michigan misinterpreted a government statement to mean that health workers could no longer commute from Windsor. It took 48 worrying hours to clear up the confusion, says Laurie Tannous, an immigration lawyer. Canadian officials have been stricter during the Trump presidency, she says. “It’s almost like retaliatory.” 
 Co-operation between national-level agencies on both sides is not as good as it was, says Laurie Trautman of the Border Policy Research Institute at Western Washington University. “If there are four more years of Trump they will be strained even more.” 
 Yet interaction and integration are hard to stop. Oregon, Washington state and British Columbia are studying the feasibility of a high-speed rail link between Portland and Vancouver. The nerd bird, a sea plane, has been ferrying techies between Vancouver and Seattle since last year. In Windsor construction has begun on a new bridge across the Detroit river, costing C$5.7bn, to take the load off the clogged Ambassador bridge. It will be financed by Canada and is due to open in 2024. If Mr Trump menaces Canada again, he will get pushback on the border. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.internationally[.intә'næʃәnәli]:adv. 国际性地, 在国际间 
@@ -183,4 +184,6 @@
 154.Seattle[si'ætl]:n. 西雅图 
 155.clog[klɒg]:n. 障碍, 脚坠 v. 障碍, 阻塞 
 156.pushback['pʊʃbæk]:n. 飞机推迟起飞 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -49,6 +49,7 @@
 “China sees Central Asia first and foremost as a way of stabilising Xinjiang. But it is also a testing ground for China’s foreign policy and the country’s ability to push into Russia’s normative space,” says Raffaello Pantucci of the Royal United Services Institute, a think-tank in London. Over the past 20 years China has broken Russia’s monopoly over energy pipelines in Central Asia. Transneft, a Russian pipeline operator, used to control the flow of Kazakh oil. Now Kazakhstan exports its oil to China through a new pipeline built in 2009. “China is rewiring the whole region. All roads used to lead to Moscow. Now all roads lead to Beijing,” says Mr Pantucci. 
 Russia still has a cultural, linguistic and political hold on Central Asia. It employs millions of its migrant workers, controls the media and information space, and believes that it can make or break governments there. Perhaps it can. But that does not bother China much. “It does not matter who the tenant is if you own the building,” as another Western diplomat says. 
 The shift in balance is obvious on the central avenue in the city of Osh, in Kyrgyzstan. Near the vast statue of Lenin, arm outstretched, which dominates the main square is a new landmark: Shanghai City, the largest hotel in town. Azizbek Karabaev, its 31-year-old manager, worked in Russia in the early 2000s, but in 2012 started to learn Chinese and went to China to study the hotel business. Shanghai City also provides language practice for students learning Chinese. “There is a huge demand for Chinese interpreters,” Mr Karabaev says. His six-year-old son, Adilkhan, barely understands Russian, but speaks fluent Mandarin. He has a Chinese name, too: Wang Xiao Long, or “Little Dragon”. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Vladimir[vlɑ'dimɪr]:n. 弗拉基米尔（古罗斯弗拉基米尔-苏兹达里公国的古都） 
@@ -339,4 +340,6 @@
 286.outstretched[.aut'stretʃt]:a. 伸开的, 扩张的, 延伸的 
 287.wang[]:n. 王（姓氏）；王安电脑公司 
 288.xiao[]:箫 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

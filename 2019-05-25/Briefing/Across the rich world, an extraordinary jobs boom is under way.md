@@ -36,6 +36,7 @@
 Reforms such as these are harsh and their implementation has often been botched. Yet they can have a big effect on jobs. In one paper Marcus Hagedorn, Iourii Manovskii and Kurt Mitman look at what happened in America in 2013, where the time for which some people could claim unemployment benefit fell from 73 weeks to 25. They estimate that the benefit cut led to the creation of some 2m jobs in 2014 about two-thirds of total employment growth that year. 
 The strength of the labour market calls into question gloomy predictions about the future of work—that increasingly sophisticated computers will consign growing numbers of workers to a life of enforced idleness. Messrs Frey and Osborne could still be proved correct at some point in the future. Accelerating wage growth will certainly persuade more companies to automate jobs. 
 Yet the lesson of the past half-millennium is that technological change complements jobs rather than destroys them. Sky-high employment rates today suggest that nothing has changed. And there is plenty of evidence pointing in the direction of more improvements. The current period of economic expansion seems to have further to go. If there is a lesson from the 1960s, when unemployment in some OECD countries fell as low as 1%, it is that there remains more scope to reduce underemployment and inactivity. Mr Knausgaard finds room for some practical advice amid the detailed accounts of his struggles: “So keep your head down and work.” If everyone follows it, the rich world’s jobs market could have more surprises in store. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.perception[pә'sepʃәn]:n. 知觉, 感觉, 领悟力, 获取 [医] 知觉 
@@ -214,4 +215,6 @@
 174.underemployment[,ʌndәrim'plɔimәnt]:n. 不充分就业, 部分时间被雇用, 才能和技术未充分利用 
 175.inactivity[.inæk'tiviti]:n. 不活动, 不活泼, 休止状态 [经] 商业呆滞 
 176.amid[ә'mid]:prep. 在其间, 在其中 [经] 在...中 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

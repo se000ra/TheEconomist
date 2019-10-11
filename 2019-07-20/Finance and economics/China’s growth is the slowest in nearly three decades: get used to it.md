@@ -10,6 +10,7 @@
 ![image](images/20190720_FNC437.png) 
 The government has started to spend more on infrastructure, a tried-and-tested method in China for revving up growth. In recent months it has made it easier for municipal officials to raise funds for building railways and highways. With the central bank injecting cash into the financial system, nominal credit growth has also edged up since the end of 2018 (see chart). 
 But there are limits to how far the government will go. China’s president, Xi Jinping, has declared that containing financial risks is a matter of national security. The likelihood of another giant stimulus, routine in the past whenever growth slowed, is lower this time. And the government has less money to work with, having already racked up so much debt over the past decade. It also wants to conserve its fiscal firepower in case the trade war turns uglier. In the meantime, get used to headlines about Chinese growth at multi-decade lows. They are likely to appear again in three months and, again, three months after that. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -52,4 +53,6 @@
 38.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
 39.fiscal['fiskәl]:a. 财政的, 国库的 [经] 财政上的, 会计的, 国库的 
 40.firepower['faiәpauә]:n. 火力 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

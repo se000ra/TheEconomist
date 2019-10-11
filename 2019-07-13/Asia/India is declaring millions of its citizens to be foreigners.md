@@ -14,6 +14,7 @@
 How did this Kafkaesque situation arise? As so often in India the blame lies partly with British rule and partly with toxic Indian politics. Under the Raj millions of Bengalis, mostly Muslim, were encouraged to settle in Assam. With independence, local politicians thrived by playing up the “threat” that intruders posed to native language and culture. With the rise of Hindu nationalism, the religious component has been magnified and the threat recast as one to India’s national security. 
 As a result, claims of ever bigger numbers of supposed illegal migrants have been bandied about. With Assamese chauvinists repeatedly asserting that 5m or even 8m “infiltrators” have invaded their state, right-wing politicians have scented the possibility of erasing much of the typically left-leaning Muslim “vote bank” from the rolls. They are substantiating the baseless estimates by declaring millions to be “foreigners”. “It’s like Chernobyl,” says a lawyer, “They are trying to hide a lie at the cost of disaster.” 
 No one seems to know what the ultimate fate of Assam’s “foreigners” will be. They cannot be deported; Bangladesh flatly rejects the whole exercise as an internal Indian matter. Millions of people cannot be shunted to some other part of India, either. The BJP has offered a solution for some: cocking a snook at the secular constitution, it is pushing an amendment to citizenship laws that will allow refugees who are Hindu, Buddhist, Sikh or Christian to apply for citizenship, but specifically ban Muslims. Nani Gopal Mahanta, chair of political science at Assam’s Gauhati University and a BJP supporter, has some suggestions for those who still fall foul. He thinks that the Foreigners’ Tribunals may not act very quickly, taking perhaps 20 years to sort through their case load. Those declared non-citizens need not be made stateless, but could simply be stripped of civil rights, perhaps for a limited time. “Citizenship, whether you like it or not, is not a very democratic concept,” he says. Kafka would certainly have agreed.  
+<<<<<<< HEAD
 -- 
  单词注释:
 1.madness['mædnis]:n. 疯狂, 愚蠢的行为 [医] 狂, 疯狂 
@@ -133,4 +134,6 @@
 115.quickly['kwikli]:adv. 很快地 
 116.stateless['steitlis]:a. 没有国家的 [法] 无国籍的, 无国家主权的 
 117.citizenship['sitizәnʃip]:n. 国籍, 市民权, 市民的身份 [法] 公民权, 公民资格, 公民身分 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

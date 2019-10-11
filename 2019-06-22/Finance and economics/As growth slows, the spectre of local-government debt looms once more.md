@@ -14,6 +14,7 @@
 But the government may find that last year’s stringent debt-control campaign has made provinces and cities more reluctant to open their wallets. Local officials know that once growth stabilises, they are likely to face pressure to deleverage again, says Houze Song of the Paulson Institute, a think-tank in Chicago. There is a more radical option: the central government could in effect fund LGFVs directly. China Development Bank, a giant state-owned lender, has started to offer long-term loans to LGFVs to replace their short-term debts. This is similar to the bond swap, but allows LGFVs to get cheaper funding without testing the market. 
 Yet there are obvious drawbacks. For one thing, it puts the central government on the hook for LGFV liabilities. And if the programme is rolled out nationwide, efforts to get them to operate more responsibly would come to naught. So far the government has reportedly tested swaps in a few places. Xiangtan is one, not least because the prefecture includes the birthplace of Mao Zedong. China’s leaders do not want to see defaults here, of all places. 
 At a river that bisects Xiangtan, giant pilings have been sunk to support a bridge. But the site has been abandoned, another victim of the local cash crunch. Fu Weijun, who works in a nearby steel mill, walks along its banks before his shift begins. It is just a matter of time before the bridge is completed, he says. “Western countries change too often. We can stick to the same path, no matter what.” That confidence might be shaken in the coming years. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.spectre['spektә]:n. 幽灵, 妖怪, 凶兆 
@@ -96,4 +97,6 @@
 78.piling['pailiŋ]:n. 打桩, 桩结构, 打桩工程 [机] 打椿 
 79.crunch[krʌntʃ]:v. 嘎吱嘎吱的咬嚼, 压碎, 嘎吱嘎吱地踏过 n. 咬碎, 咬碎声 
 80.FU[]:[计] 字段单元, 功能部件 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

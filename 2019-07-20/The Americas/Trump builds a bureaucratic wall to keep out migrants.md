@@ -16,6 +16,7 @@
 Migrants’ hopes of a less perilous passage depend on whether American courts overturn the new policies. They have already struck down a rule that denied the right to claim asylum to people who cross the border without authorisation. The “remain in Mexico” policy faces a challenge. Mr Trump’s latest order is illegal because the United States has no safe-third-country agreements with any of the Latin American countries to which it might send asylum-seekers, contends Lee Gelernt of the American Civil Liberties Union, which has filed a lawsuit against the new rule. 
 Tamaulipas, a hub for drug-trafficking, is among Mexico’s least safe states. Newspaper offices have memorials to murdered journalists. Truckloads of armed men prowl the roads at night. But more migrants go through Tamaulipas than any other state. Miami-bound Cubans and Venezuelans often choose it as the shortest route without taking account of the dangers. America sends a third of deported Mexican migrants to Nuevo Laredo. Those waiting in shelters are reluctant to venture outside. One risk is that drug gangs will try to press them into service. Their favourite recruits are said to be Cubans, who typically have military training (as conscripts in the Cuban army). 
 Eldis, the 46-year-old from central Cuba, has waited eight weeks in Tamaulipas to apply for asylum in the United States but is now unsure what to do. He expects that Mr Trump will reverse his decision, at least as it applies to Cubans, when he realises that it could cost him votes in Florida, a swing state. If not, he will ring the Canadian embassy, he says. Chances are, he will get a friendlier refusal. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.migrant['maigrәnt]:n. 候鸟, 移居者 [法] 移居者 
@@ -80,4 +81,6 @@
 60.Cuban['kju:bәn]:a. 古巴的, 古巴人的 n. 古巴人 
 61.unsure[.ʌn'ʃuә]:a. 不肯定的, 不确定的, 没有自信的 
 62.Florida['flɒridә]:n. 佛罗里达州 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -13,6 +13,7 @@
 Like Iran, Israel too may have overreached. The incident in Beirut is seen as a breach of the unofficial “red lines” with Hizbullah. Since the war of 2006, in which the two sides fought each other to a stalemate while Israel destroyed much of Lebanon’s civil infrastructure, they have not carried out offensive operations against each other on Lebanese territory. Hizbullah’s leader, Hassan Nasrallah, has publicly warned Israel to “wait for our response which may take place at any time on the border and beyond the border”. 
 Such talk is usually cheap in the Middle East, but Mr Nasrallah’s threats are taken seriously. Israel has closed roads and airspace on its northern border in anticipation of an attack. Still, neither side wants to see a major escalation. Hizbullah is not just an Iranian proxy but also a Lebanese political party with a stake in maintaining calm. Mr Netanyahu wants to preserve his tough image, but is anxious not to upset Israeli voters on the eve of elections. 
 With luck, such calculations will work to contain a dramatic escalation of hostilities. But the conflict between Israel and Iran is widening. That is one more reason—on top of the need to contain Iran’s nuclear ambitions—to hope that there is more to Mr Macron’s diplomatic efforts than G7 summit showmanship. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.thicken['θikәn]:vi. 变浓, 变厚, 变得模糊, 变为复杂 vt. 使变厚, 加强, 使模糊 
@@ -106,4 +107,6 @@
 89.hostility[hɒs'tiliti]:n. 敌意, 敌对, 反对 
 90.diplomatic[.diplә'mætik]:a. 外交的, 老练的 [法] 外交的, 外交上的, 文献上的 
 91.showmanship['ʃәjmәnʃip]:n. 安排演出的窍门, 吸引观众的窍门, 经营术, 招徕生意的手腕 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

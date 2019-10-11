@@ -10,6 +10,7 @@
 Mature British readers will associate the Lyons name with tea shops and Corner Houses (the Starbucks of their time), from which white-aproned waitresses, known as Nippies, made it into the Oxford English Dictionary. The ingredients of success were quality, value, efficiency and food that was consistent down to the carefully calibrated jam in Swiss rolls—Henry Ford applied to comestibles. 
 Mr Harding’s affectionate family story is deftly sandwiched in the rise and fall of empire, two world wars, and two centuries of social and political change. A refitted Lyons factory made many of the bombs dropped on Germany in the second world war. Despite the chauvinism at head office, Lyons tea shops are said to have contributed to female emancipation by providing a safe entry to social life and consumerdom. Previously, male-dominated pubs had been practically the only places for many women to order drinks. 
 In the end, the sticks threatened to fall apart. A younger generation caught conglomeration fever and binged on acquisitions, adding Baskin-Robbins, an American ice-cream chain, and continental meat-processors. Overreach and spectacularly bad timing—involving an oil crisis, a recession and a sinking pound—brought Lyons to the brink of insolvency. The hotels were sold and then, in 1978, the company itself. But the denouement, a delicate business complicated by lots of heirs, was managed “with care and honour”, Mr Harding writes, and with “friendly relationships intact”. Monte’s bundle held fast. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.teacup['ti:kʌp]:n. 茶杯, 满茶杯 
@@ -76,4 +77,6 @@
 62.insolvency[in'sɒlvәnsi]:n. 无力偿还, 破产 [经] 破产, 无力偿付, 不足抵偿债务 
 63.denouement[dei'nu:mɔŋ; (?@) dei'nu:mɔ:ŋ]:n. 结局, 终场 
 64.intact[in'tækt]:a. 尚未被人碰过的, 原封不动的, 完整的 [医] 完整的, 无伤的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

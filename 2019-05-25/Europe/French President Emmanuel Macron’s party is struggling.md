@@ -10,6 +10,7 @@
 Ms Le Pen is an old hand at this game. Her party came top at the previous European elections, in 2014, with 25% of the vote, partly because it plays the mid-term protest tendency well. This time, she has criss-crossed France to visit the sort of small towns and villages—Chassors, Rocquigny, Villeblevin—where the gilets jaunes occupied roundabouts, jobs are scarce and anti-establishment feeling runs deep. The far-right leader (who was raised in a mansion outside Paris) promises to “give power to the people”. And she has selected a slick 23-year-old, Jordan Bardella, to head her list. Having grown up in the heavily immigrant suburb of Seine-Saint-Denis, outside Paris, Mr Bardella draws on his back story to insist that opposing immigration is not prejudice but the conclusion of personal experience. 
 Next to the earnest Ms Loiseau, a former director of the elite Ecole Nationale d’Administration, Ms Le Pen and her troops are offering up comic entertainment at their rallies, deriding Mr Macron, “the globalist”, at every turn. Ms Le Pen has also been showcasing her new approach to Europe. Formerly Eurosceptic, to the point of advocating France’s exit from the euro, Ms Le Pen now favours a “Europe of nations”, with strangely Gaullist echoes. The reason for the pirouette? Her new friends in government, she argues, notably Italy’s Matteo Salvini, with whom she campaigned recently in Milan, can now change Europe from within. 
 In some ways it is remarkable for Mr Macron even to be close on her heels. In 2014 the sitting Socialist president, François Hollande, came in third place, with just 14% of the vote. This time, there is little enthusiasm anywhere for the election, and the turnout is likely to be low. “Abstention is the real threat,” says Stéphane Séjourné, Ms Loiseau’s campaign director. Up against apathy, Mr Macron has stepped in to try to mobilise his electorate. If he does come second, this would not affect his parliamentary majority, nor in principle his ability to govern. But it would be a symbolic setback. And this campaign is a reminder that his party, like the discontent in the country, centres overwhelmingly on him. As one supporter at the Cergy rally puts it: “The campaign isn’t really about Loiseau; it’s all about Macron.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.emmanuel[i'mænjuәl]:n. 以马内利（耶稣基督的别称）；伊曼纽尔（男子名, 等于Immanuel） 
@@ -82,4 +83,6 @@
 68.overwhelmingly[.әuvә'hwelmiŋli]:adv. 压倒性地, 不可抵抗地 
 69.supporter[sә'pɒ:tә]:n. 支持者, 后盾, 迫随者, 护身织物 [法] 支持者, 赡养者, 抚养者 
 70.Cergy[]:[地名] 塞日 ( 法 ) 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

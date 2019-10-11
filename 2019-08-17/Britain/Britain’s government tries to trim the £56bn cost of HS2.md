@@ -7,6 +7,7 @@
 Boris Johnson is sceptical. The new prime minister has previously described HS2’s costs as “spiralling out of control”. He has ordered a review by Douglas Oakervee, another former HS2 chairman, who will report within six weeks on whether the project should be slimmed down or even scrapped. At the same time he has promised to build new railways between northern cities, dubbed HS3, at a cost of £39bn. 
 Opponents of HS2—from the nerdish Campaign for Better Transport to the right-wing TaxPayers’ Alliance—worry that its huge budget will mean less money for improving local links. They say the cash should be spent on re-opening smaller lines closed in the 1960s, which would have greater economic benefit per pound spent, according to the government’s own analysis. 
 Yet for all the doubts, HS2 is likely to survive in some form. Mr Johnson recently told the Birmingham Mail: “I’m going to hesitate for a long time before scrapping any major infrastructure project.” One option is to slow the trains down, to avoid the cost of reinforcing weak ground in the Midlands that cannot support a 225mph (362kph) train. A further £8bn could be saved by ending the line in Old Oak Common, in west London, rather than Euston. That might inconvenience passengers but would boost the area, one of Mr Johnson’s pet projects when he was mayor.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Euston[]:尤斯顿（人名） 
@@ -34,4 +35,6 @@
 23.cannot['kænɒt]:aux. 无法, 不能 
 24.oak[әuk]:n. 橡树, 橡木 a. 橡木制的 
 25.inconvenience[.inkәn'vi:njәns]:n. 不便, 困难 vt. 使感不便, 使感困难 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

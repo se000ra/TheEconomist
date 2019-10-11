@@ -11,6 +11,7 @@
 Some Taiwanese firms are quietly seeking a toehold in other countries. Pegatron is planning to invest $1bn in a new manufacturing facility on the Indonesian island of Batam, just an hour by ferry from Singapore. Foxconn and Wistron, another Taiwanese firm, each now has an iPhone factory in India. 
 Keeping a low profile is getting harder for the Taiwanese companies. If you include Hong Kong, China consumes 40% of Taiwanese exports, most of it courtesy of the contract manufacturers. Around 1m Taiwanese, roughly one-tenth of its labour force, work in China. Taiwan’s relations with China, which considers the island part of its territory, are ever uneasy—especially when, as now, the Democratic Progressive Party, which insists that Taiwan is an independent country, wields power. Last month John Bolton, Mr Trump’s national security adviser, enraged China by breaking with decades of precedent to meet his Taiwanese opposite number. Terry Gou, Foxconn’s founder and Taiwan’s richest man, is meanwhile seeking the presidential nomination of the biggest opposition party on a China-friendly ticket. 
 Most of Mr Gou’s fellow tech bosses prefer to keep their heads down. Small wonder, for shadows have served them well. From now on they may have to get used to the spotlight.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.silicon['silikәn]:n. 硅 [化] 硅Si 
@@ -90,4 +91,6 @@
 75.presidential[.prezi'denʃәl]:a. 总统制的, 总统的, 首长的, 统辖的 [法] 总统的, 议长的, 总经理的 
 76.nomination[.nɒmi'neiʃәn]:n. 提名, 任命, 提名权 
 77.opposition[.ɒpә'ziʃәn]:n. 反对, 敌对, 相反, 在野党 [医] 对生, 对向, 反抗, 反对症 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

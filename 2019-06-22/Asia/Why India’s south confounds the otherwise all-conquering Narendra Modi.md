@@ -10,6 +10,7 @@
 Greater prosperity than the north reinforces southern exceptionalism. But above all, the exceptionalism coalesces around language. A Tamil political identity was forged as far back as 1937, during the first agitations, led by Periyar, against the compulsory teaching of Hindi. Renewed language protests in 1965, when students set fire to themselves, paved the way for the DMK, a spin-off of Periyar’s movement, to win state power. 
 Since then, power has alternated between it and the AIADMK, another splinter. Given the significance of language, no wonder titans of the Tamil film industry long dominated the state’s politics, a saga just as melodramatic as those screened in cinemas. Muthuvel Karunanidhi, a screenwriter, poet and wearer of colossal sunglasses, died only last year, at the age of 94. He managed to outlast his arch-enemy, Jayalalithaa, who now rests next to him on Chennai’s Marina beach. (She liked to say that she was the only one who could slay Mr Modi.) Today, at least three younger Tamil film stars fancy their chances as successors. But, as A.R. Venkatachalapathy of the Madras Institute of Development Studies puts it, if a Bollywood star were to walk down a street in Chennai, he wouldn’t get a second glance. 
 Can the south remain immune to Mr Modi’s northern nationalism, embodied in the slogan “Hindi-Hindu-Hindustan”? Pranav Kuttaiah of the Centre for Policy Research in New Delhi argues that, in the face of the BJP’s ideological onslaught, the identities of many south Indians are hardening around their state and its principal language—Tamil in Tamil Nadu, Malayalam in Kerala, Kannada in Karnataka. In other words, the BJP’s identitarian politics are spawning imitators across the south. That does not do much to advance the respect for diversity which Dravidians used to advocate in response to northern chauvinism. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.banyan['bænjәn]:n. 印度榕树 [医] 榕树, 孟加拉榕 
@@ -103,4 +104,6 @@
 89.imitator['imi,teitә]:n. 模仿者, 临摹者, 仿造者, 伪造者 [计] 模拟, 模拟程序, 模拟器 
 90.diversity[dai'vә:siti]:n. 差异, 多样性 [化] 多样性 
 91.chauvinism['ʃәuvinizm]:n. 盲目的爱国主义, 沙文主义 [法] 沙文主义 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

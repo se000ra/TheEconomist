@@ -12,6 +12,7 @@
 Then in 1992, when she was almost 70, God suddenly set her life-task before her. Three elderly Korean war-rape victims spoke out on television and inspired her to do the same. If she backed them up, adding her European voice to theirs, they might together get Japan’s attention. The only hard part of her decision was that she had to tell her daughters the secret first. She could not do so face to face. Instead she wrote two copies of what she called “Cry of the Raped”, stuffed them into envelopes and left them to be read. But the deed was done. She could let her awful secret out to the world now, not as a “comfort woman”—how she hated that insulting, cuddly name—not as an angry victim seeking revenge, but as a calmly spoken witness who wanted Japan to admit what its soldiers had done to perhaps 200,000 women like herself. 
 Released and relieved, she addressed a war-crimes hearing in Tokyo, gave testimony to Congress and, whenever victims gathered, hugged and encouraged them. They won some compensation, though she herself would not accept it, since Japan’s right-wing government still refused to make a full apology. Now that the story was out, the case for one was overwhelming. 
 Time and again she thought of the passage from Ephesians 5 which Sister Xavier had made her learn at school, when she had tried to cheat in an exam: “The things which are done in secret are things that people are ashamed even to speak of; but anything exposed by the light will be illuminated, and anything illuminated turns into light.” So it had proved. And the white handkerchief, too, had left the darkness of the drawer. She had given it to the Australian War Memorial, where it stood on display and shone: seven testifying, suffering names to speak for all the others. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ruff[rʌf]:n. 出王牌, 轮状皱领, 梅花鲈 v. 出王牌(胜过) 
@@ -82,4 +83,6 @@
 66.xavier['zeiviә(r),'zæ-,'zeivjә(r)]:n. 泽维尔（男子名） 
 67.illuminate[i'lju:mineit]:vt. 照明, 用灯装饰, 阐明, 说明, 使灿烂 vi. 照亮, 用灯装饰 
 68.testify['testifai]:v. 证明, 作证, 声明, 表明 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

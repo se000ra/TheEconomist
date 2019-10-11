@@ -10,6 +10,7 @@
 Analysts who watch the sector reckon the valuation is fair. The firm’s revenue grew by over three-quarters in the 12 months to March 2018, to £117m ($155m). Though it is already the largest fintech focused on cross-border consumer transfers, there is no sign that growth is close to tapering off, says Daniel Webber of FXC Intelligence, a data provider. It processes $60bn a year—a fraction of the $2trn market. 
 There are three ways it can meet investors’ lofty expectations. The first is to seek dominance beyond Britain, where it accounts for 15% of outbound consumer transfers, more than any bank. Though America is a tough market for fintechs, because regulations vary from state to state, the firm says its American unit is growing fast (it may help that Chinese rivals are less welcome than they used to be). It is also improving its service for small businesses, of which it is signing up 10,000 a month. 
 Its main hope, however, is to convert foes into clients by selling its services to banks, to offer in turn to their own customers. That might mean sacrificing margin, but in return for greater volume and economies of scale. It already has tie-ups with BPCE, France’s second-largest bank, and with three digital banks: Monzo, based in Britain, N26, in Germany, and bunq, in the Netherlands. More are likely. “Technology is enabling it; consumer demand is requiring it,” says the head of fintech at one of Britain’s biggest high-street banks. “You either join the game or you lose out.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.fintech[]:[网络] 金融科技；表面处理技术展；金融资讯科技服务 
@@ -51,4 +52,6 @@
 37.foe[fou]:n. 仇敌, 反对者, 敌人, 对手 
 38.BPCE[]:[网络] BMW PEUGEOT Citroen Electrification; 储蓄银行集团; 法国互助银行 
 39.Netherlands['neðәlәndz]:n. 荷兰 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

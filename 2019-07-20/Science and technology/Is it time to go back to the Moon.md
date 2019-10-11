@@ -24,6 +24,7 @@
 Besides the two behemoths, smaller fry are also involved in the Moon village’s commercial side. One of these, Astrobotic, a firm in Pittsburgh, is developing an unmanned lunar lander it calls Peregrine. This will carry the Mexican Space Agency’s first lunar payload. Astrobotic is also one of three firms awarded contracts by NASA as part of its Commercial Lunar Payload Services programme. The other two are Intuitive Machines of Houston, Texas and OrbitBeyond of Edison, New Jersey. NASA wants these companies to help it survey various places on the Moon’s surface that might be suitable for building bases. 
 Even if Dr Zubrin does not get his way, then, there are likely, within decades, to be permanent human outposts on the Moon, frequented by scientists and tourists from many countries. The place will thus become something like Antarctica is today—hard to get to, but not impossible if you have the money or the right government backing. And, just as Antarctica is no longer enough in the eyes of those who look to explore new frontiers, so, in the minds of some, the residents of these actual Moon villages will be testing human endurance, psychology and technology with a view to constructing an even more remote hamlet: on Mars.■ 
 Science correspondent’s job: The Economist is looking for a new Science and Technology correspondent. Knowledge of the field, an ability to write informatively, succinctly and wittily, and an insatiable curiosity are more important attributes than prior journalistic experience. Please send a CV, a brief letter introducing yourself, and an article of 600 words suitable for publication to scijob@economist.com. The closing date for applications is August 23rd. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.exploration[.eksplә'reiʃәn]:n. 探险, 踏勘, 探测 [医] 探察 
@@ -143,4 +144,6 @@
 115.insatiable[in'seiʃjәbl]:a. 不知足的, 贪求无厌的 [医] 不能满足的, 不饱的 
 116.journalistic[,dʒ\\: nә'listik]:a. 新闻业的, 新闻工作者的, 报刊特有的, 新闻工作的 
 117.cv[]:abbr. 简历（Curriculum Vitae） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

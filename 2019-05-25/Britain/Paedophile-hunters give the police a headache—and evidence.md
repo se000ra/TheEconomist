@@ -10,6 +10,7 @@
 Other hunters have been less fastidious about this distinction. Some groups’ confrontations end in fisticuffs. Others have implicated the innocent or so hounded the accused that they take their own lives. Simon Bailey, the national police lead on child protection, has said the groups take “completely unnecessary risks” in their pursuit of notoriety (200,000 people follow Dark Justice’s Facebook page). 
 Yet the evidence they gather is handy. In 2014 it was used in 11% of English, Welsh and Northern Irish court cases involving charges for meeting a child after sexual grooming. By 2016 the figure was 44%. “It’s a difficult relationship for the police to manage,” says Rick Muir of the Police Foundation, a think-tank. “They don’t want to promote it, but if someone has some information, they’ll want to act on that.” 
 The Crown Prosecution Service now treats paedophiles who unwittingly groom vigilantes as if they had targeted genuine victims. And the groups argue they are picking up slack for the police, whose budgets have been chopped by 19% since 2010. “We wouldn’t exist if the police came in and arrested these people [first],” says Scott. “The experts have failed.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.vigilante[.vidʒi'lænti]:n. 警戒会会员 
@@ -56,4 +57,6 @@
 42.prosecution[.prɒsi'kju:ʃәn]:n. 执行, 经营, 起诉 
 43.unwittingly[]:adv. 不知情地；不知不觉地；不经意地 
 44.slack[slæk]:n. 松弛, 松懈, 淡季, 闲散, 家常裤 a. 松弛的, 不流畅的, 疏忽的, 无力的, 呆滞的, 软弱的, 漏水的 adv. 马虎地, 缓慢地 vt. 放松, 使缓慢 vi. 松懈, 减弱, 松弛 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

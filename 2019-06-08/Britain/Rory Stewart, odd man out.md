@@ -11,6 +11,7 @@
 So why does an exotic candidate who is unlikely to get onto the shortlist matter? Because the Conservatives shouldn’t just be using this election to decide who replaces Theresa May. They should be using it to decide what direction the party takes after the twin traumas of the financial crisis and the Brexit vote. Mr Stewart is providing the party with a map and a compass. He argues that the Tories need to rediscover their historical role as the party of realism. His first career, in foreign policy, was defined by discovering the gap between the neoconservative dream of bringing democracy and human rights to the Middle East and the messy reality on the ground. Recently his career as a politician has been defined by defending Mrs May’s messy compromise against hardliners who think that all you need to do is intone the magic phrase “Leave means Leave” and practical problems will evaporate. 
 He argues that the best way to deal with populism is to steal some of its clothes. Politicians should do more to tackle the “small injustices in daily life”, such as the fact that disgraced businessmen can keep their knighthoods. He thinks the best way to resolve the tension between parliamentary and direct democracy, inherent in the attempts to implement the referendum result, is to create an intermediate body—a “citizens’ assembly”, equipped with the power to call expert witnesses but freed from the discipline of parties—to produce a blueprint which it then submits to Parliament. He recognises that the Conservatives need to learn more about the country they aspire to govern, which means getting out and talking to people who aren’t their natural constituents. His campaign team is particularly proud that their polling shows he is the most popular Tory candidate among young voters. 
 Smart Conservatives have taken to joking that Mr Stewart is the sort of Tory who is embraced by people who don’t vote Tory. But isn’t that exactly the sort of person an imploding party needs, if not to lead it then at least to help re-engineer its policies? Banging on about “clean Brexits” to fellow fanatics might be emotionally satisfying. But it is also a sure way of ending up in the boneyard. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Bagehot[ˈbædʒət]:白芝浩；巴杰特（人名） 
@@ -108,4 +109,6 @@
 93.fanatic[fә'nætik]:n. 狂热者, 盲信 a. 狂热的, 盲信的 
 94.emotionally[i'mәuʃәnәli]:adv. 在情绪上 
 95.boneyard[]:n. 墓地, (非正式)动物尸骨堆放地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

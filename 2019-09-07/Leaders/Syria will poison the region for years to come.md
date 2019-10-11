@@ -15,6 +15,7 @@
 And that could spill over into the wider world. Dispossessed at home and unwanted abroad, refugees are at risk of radicalisation. Mr Assad’s ruthless tactics have left large parts of his population bitter and alienated. His prisons will incubate extremism. What better breeding ground for al-Qaeda and Islamic State (IS), which the American government says is already “resurging in Syria”? In May America dropped 54 bombs and missiles on jihadists in Iraq and Syria. That number rose to over 100 in each of June and July. 
 Having failed to act in the war’s early days, when they might have pushed the dictator out, Western countries can do little now to change Syria’s course. Some European leaders think it is time to engage with Mr Assad, participate in reconstruction and send the refugees home. This is misguided. The refugees will not return willingly. Reconstruction will only benefit the regime and the warlords and foreigners who backed it. Better to let Russia and Iran pay. 
 Instead the West should try to spare Syria’s suffering by offering strictly humanitarian assistance and threatening retribution for heinous acts, such as the use of chemical weapons. America should stay to keep IS and al-Qaeda in check. But for as long as Mr Assad is allowed to misrule Syria, most aid money would be better spent helping its neighbours. Syrians have suffered terribly. With Mr Assad’s victory, their misery will go on. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Syria['siriә]:n. 叙利亚 [经] 叙利亚 
@@ -127,4 +128,6 @@
 108.heinous['heinәs]:a. 可憎的, 令人发指的 
 109.misrule[mis'ru:l]:vt. 施暴政 n. 暴政 
 110.terribly['terәbli]:adv. 可怕地, 甚为, 非常 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

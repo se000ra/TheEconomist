@@ -8,6 +8,7 @@
 But the food industry has driven home the relevant facts. Britain imports between two-fifths and half of its food, mostly from the EU. That supply could be halved because 50% of lorries coming from Calais into Dover are expected to get blocked by border checks and traffic chaos, says Tim Rycroft of the Food & Drink Federation, which represents giant food manufacturers. There are plans to fly in vital medicines, but not food. 
 Stockpiling groups are aware of the risk of exacerbating shortages. A prominent, 10,960-strong Facebook group, 48% Preppers—a reference to the share of people who voted Remain in 2016—has stopped talking publicly about its activities. Jo Elgarf, an administrator, explains that it is now too late to stock up bit by bit. “Anything now will be panic.” 
 Nor are stockpilers all nervy Remoaners. Zoe, an entrepreneur from Lewes, wants a no-deal Brexit and believes in self-reliance. She is using her five acres to raise animals for meat to supply family, friends and neighbours through any disruption. She has pigs booked into an abattoir in the first week of October—it takes time to process the meat. “I was gutted when we didn’t leave in March,” she says. “I was so prepared.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.stockpile['stɒkpail]:n. 储蓄, 积蓄, 库存 vt. 储蓄, 贮存 
@@ -53,4 +54,6 @@
 41.disruption[dis'rʌpʃәn]:n. 分裂, 崩溃, 瓦解 
 42.abattoir['æbәtwɑ:]:n. 屠场, 角斗场 [医] 屠宰场 
 43.gut[gʌt]:n. 剧情, 内容, 内脏, 肚子, 海峡, 勇气 vt. 取出内脏, 毁坏...的内部 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -8,6 +8,7 @@
 There is, however, a third way, which is to look for stress hormones in animals’ droppings. Dr Lynch knew from previous work by her collaborators at the University of Houston that corticosterone and its metabolites show up in penguin guano. Moreover, the data showing this hinted that corticosterone concentrations in guano went up shortly after animals were approached by human beings, and then returned to normal later. With that in mind, she decided to compare guano from penguin colonies visited by lots of tourists with those farther off the beaten track. 
 She and her colleagues therefore visited the Antarctic peninsula during the tourism seasons of 2017-18 and 2018-19. Once there they collected 108 guano samples from 19 gentoo penguin colonies and returned them to the laboratory for analysis. A few of the sites sampled (like Bryde Island and Moot Point) are hard to get to and never see tourists. Others see between 5,000 and 15,000 visitors a season. One (Neko Harbour) sees more than 20,000. 
 As the researchers expected, all the samples contained corticosterone and its associated metabolites. Contrary to their expectations, however, there were no significant differences between samples from different sites, regardless of the number of visitors those sites played host to. It seems, then, either that penguins do not worry about human visitors in the first place, or that they quickly get used to them, which is good news all round. What is more, Dr Lynch’s method provides an easy way to monitor the situation. If it does transpire that, as tourist numbers grow, they cross a threshold where they become oppressive to the birds, it will be possible to advise tour operators of the fact and ask them to put their charges ashore to look at less-visited colonies. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.penguin['pengwin]:n. 企鹅, 空军地勤人员 
@@ -47,4 +48,6 @@
 35.threshold['θreʃәuld]:n. 门槛, 入口, 开端, 阈 [计] 阈; 阈值 
 36.oppressive[ә'presiv]:a. 压制性的, 压迫的, 沉重的 
 37.ashore[ә'ʃɒ:]:adv. 向岸, 在岸上 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

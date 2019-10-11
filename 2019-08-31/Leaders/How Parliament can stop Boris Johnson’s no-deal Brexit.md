@@ -12,6 +12,7 @@
 That is why Parliament must act now to take no-deal off the table, by passing a law requiring the prime minister to ask the EU for an extension. Even before Mr Johnson poleaxed Parliament, this was not going to be easy. The House of Commons’ agenda is controlled by Downing Street, which will allow no time for such a bill. MPs showed in the spring that they could take temporary control of the agenda, when they passed a law forcing Mrs May to request an extension beyond the first Brexit deadline of March 29th. This time there is no current legislation to act as a “hook” for an amendment mandating an extension, so the Speaker of the House would have to go against precedent by allowing MPs to attach a binding vote to an emergency debate. All that may be possible. But with Parliament suspended for almost five weeks there will be desperately little time. 
 So, if rebel MPs cannot pass a law, they must be ready to use their weapon of last resort: kicking Mr Johnson out of office with a vote of no confidence. He has a working majority of just one. The trouble is that attempts to find a caretaker prime minister, to request a Brexit extension before calling an election, have foundered on whether it should be Jeremy Corbyn, the far-left Labour leader whom most Tories despise, or a more neutral figure. 
 If the various factions opposed to no-deal cannot agree, Mr Johnson will win. But if they needed a reason to put aside their differences, he has just given them one. The prime minister was already steering Britain towards a no-deal Brexit that would hit the economy, wrench at the union and cause a lasting rift with international allies. Now he has shown himself willing to stifle parliamentary democracy to achieve his aims. Wavering MPs must ask themselves: if not now, when? ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.gonna['ɡɔnә]:abbr. （美）将要（等于going to） 
@@ -94,4 +95,6 @@
 78.stifle['staifl]:vt. 使窒息, 抑止, 扼杀 vi. 窒息, 被扼杀 
 79.parliamentary[.pɑ:lә'mentәri]:a. 国会的, 议会的, 议会制度的 
 80.waver['weivә]:n. 动摇, 踌躇, 挥动者 vi. 摇摆, 颤抖, 摆动, 摇曳, 犹豫 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

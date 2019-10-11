@@ -13,6 +13,7 @@
 Mr Hernández’s writ no longer runs. In April congress passed reforms to end the practice of paying phantom teachers and health-care workers and to prevent union bosses and politicians from giving jobs to their cronies. The law provoked protests, starting at universities and spreading. People close to Mr Hernández say that PN bigwigs paid for some of the protests. Congress unanimously repealed the law. 
 These setbacks have fed speculation that Mr Hernández may not finish his term, which ends in 2022. On June 19th, as protesters prepared to commemorate the ten-year anniversary of Honduras’s last military coup, history nearly repeated itself. The military police refused to carry out “repression” and stayed in their barracks. Lorry drivers, angry about a rise in fuel prices, blocked roads around Tegucigalpa, the capital. Rumours circulated that generals and business people were joining purged police officers to topple the government. 
 If Mr Hernández does hang on, he can still do some good. Most important is to ensure that the next election, in which he has promised not to run, is a clean one. It “has to be transparent, with no doubt about the process”, says Roció Izabel Tábora, the finance minister. That will require a new law to overhaul the electoral system that is more ambitious than one being considered. And another test will come before MACCIH’s mandate expires in January. Mr Hernández will face pressure from his party to expel it or weaken its mandate. Hondurans hope he will not. What they want from him in his final years in office is less Machiavelli, and more morality. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.joh[]:n. (Joh)人名；(德、捷)约 
@@ -96,4 +97,6 @@
 79.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
 80.Machiavelli[.mɑ:kjɑ:'veli:]:n. 马基雅弗利 
 81.morality[mә'ræliti]:n. 道德, 教训, 品行 [法] 道德, 道义 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

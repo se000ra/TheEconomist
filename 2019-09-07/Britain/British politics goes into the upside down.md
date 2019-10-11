@@ -11,6 +11,7 @@
 British politics is now trapped in a weird impasse as these two extremists face each other across the aisle, bellowing and finger-jabbing. Mr Johnson, who claims that he doesn’t want an election, is now demanding one and Mr Corbyn, who claims that he does want an election, is refusing to give him one. But it is hard to summon up a laugh as events whirl out of control. Extremism is as addictive as roulette. The Conservative Party may fight the next election as a full-blown no-deal-Brexit party, forging a loose alliance with Mr Farage, and adding fury at political correctness and social breakdown to a powerful populist mix. 
 Extremism in one party also legitimises extremism in another. If Mr Corbyn wins the next election—which is more likely than most Tories realise—he will be emboldened by the Conservatives’ recent behaviour. A Tory opposition will find it hard to accuse Mr Corbyn of sacrificing the economy on the altar of ideology when it has done exactly that. By arguing that the “will of the people” matters more than the rights of minorities or the conventions of the constitution, the Tories have supplied Mr Corbyn with the weapons he needs to push through a radical hard-left programme. All he needs is a majority, which they are doing their best to provide. 
 There are some inspiring examples of countries righting themselves after periods of abnormality. Matteo Salvini, Italy’s fiery populist, has been weakened by his increasingly outrageous behaviour. But with both parties controlled by fanatical factions and Britain’s uncodified constitution depending on informal rules that extremists do not respect, it is difficult to see a way out of the mess. The great test for Britain is not just whether it can leave Europe with its economy intact. It is whether it can leave without doing lasting damage to institutions that were always more delicate than either Leavers or Remainers imagined. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Bagehot[ˈbædʒət]:白芝浩；巴杰特（人名） 
@@ -127,4 +128,6 @@
 112.alway['ɔ:lwei]:adv. 永远；总是（等于always） 
 113.leaver['li:vә]:n. 离开者（常指学校毕业生） 
 114.remainers[]:[网络] 剩余物 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

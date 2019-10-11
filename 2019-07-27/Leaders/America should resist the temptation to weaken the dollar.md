@@ -9,6 +9,7 @@
 Without a surge in GDP growth outside America, it would probably take a hefty intervention to keep the dollar down. Standard Chartered, a bank, puts the required commitment at $200bn-400bn. Printing dollars to sell would complicate monetary policy, but that is a trivial objection. The Federal Reserve is set to cut interest rates in any event (which might itself weaken the dollar a bit). A bigger headache is which currencies to buy. It is hard to put a lot of money to work quickly in non-dollar assets. The most liquid markets are in euros and yen, where the safest bonds have negative yields. Of those, the one large market with positive yields is Italy. If America bought Italy’s bonds, it would help cut its borrowing costs—an odd kind of punishment. 
 An advantage that America has over China, its strategic rival, is its open capital markets. A one-sided intervention to weaken the dollar would undermine that. Foreign investors would think twice about betting on dollar assets if Washington reserved the right to bet against them when it sees fit. Though Mr Trump is an unlikely history student, it may be wise for America to recall Britain’s dilemma in 1967. It had dawned on Britain that having one of the world’s main currencies was at best a mixed blessing. Allowing the pound to weaken would be a salve to an economy that had trailed the rest of Europe, but it would also hurt the many foreign allies who kept their reserves in sterling. When devaluation came, there were feelings of relief but also of regret. These days sterling is a shadow of its former self. 
 The best remedy for the dollar’s strength is stronger economic growth outside America. Fiscal stimulus across the euro zone would help, of course. But one policy is in the gift of the White House. An end to the trade wars would lift the fog over the world economy. Sue for trade peace, Mr Trump—and watch the yuan and the euro rally against the dollar.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -54,4 +55,6 @@
 41.fiscal['fiskәl]:a. 财政的, 国库的 [经] 财政上的, 会计的, 国库的 
 42.sue[su:]:vt. 控告, 起诉, 请求 vi. 提出诉讼, 提出请求 
 43.rally['ræli]:n. 重振旗鼓, 集合, 群众集会, 跌停回升 v. 重整旗鼓, 集合, 恢复精神, 团结, 挖苦, 嘲笑 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

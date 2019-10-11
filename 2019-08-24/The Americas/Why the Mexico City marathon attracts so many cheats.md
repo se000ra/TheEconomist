@@ -7,6 +7,7 @@
 Other cheaters give their bib to a speedier “bib mule” before the race, hoping to attain a time in their name that qualifies for the prestigious Boston marathon. In 2017 organisers disqualified a man for wearing a bib registered to a woman called María. Others still enlist multiple runners for the race who treat the bib like a relay baton. Organisers track them down by reviewing interval times to see if a runner’s speed is unrealistically quick or varies suspiciously. 
 Many Mexicans think that paying the 650 peso ($33) entrance fee gives them a right to run the race however they like, says Mr Carvallo. In 2007 Roberto Madrazo, a former presidential candidate, was disqualified from the Berlin marathon after cutting a third of the course. Mr Madrazo insisted he had never intended to run the whole race. Social media can warp behaviour. Those who broadcast their preparation for the race grow desperate to post a triumphant selfie after it. But boasts on Facebook and Instagram are risky, Mr Carvallo says. Clutching a medal without a bead of sweat can lead to disqualification. Serious runners and jealous friends enthusiastically dob in suspects to organisers. 
 All this tomfoolery dents the reputation of the marathon, which is among the fastest-growing in the world. It also affects the contest. Die-hard runners expect clear streets only to find them full of plodding course-cutters, says Derek Murphy of Marathon Investigation, a blog that dashes after the bad sports of marathons around the world. This year, an ad campaign is promoting honesty. For the first time, cheaters will be banned for life. That might be enough to keep los chocolates at bay.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -63,4 +64,6 @@
 52.murphy['mә:fi]:n. 马铃薯 
 53.blog[]:n. 博客；部落格；网络日志 
 54.los[lɔ:s]:abbr. 月球轨道航天器（Lunar Orbiter Spacecraft）；视线（Line of Sight） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

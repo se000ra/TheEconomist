@@ -10,6 +10,7 @@
 Unless President Donald Trump grants a waiver, further sanctions are likely. These will hurt the Turkish economy, which is already fragile, owing in large part to the president himself. It emerged earlier this year from a brief recession, but is expected to undergo a double-dip shortly. The Turkish lira has lost 40% of its value over the past two years, because of a credit boom that has been allowed to run out of control. The president insists that high interest rates would increase inflation—an eccentric view that economists dismiss out of hand. Inflation hovers near 20%. Mr Erdogan is unlikely to get robust advice from his finance minister, who happens to be his son-in-law. 
 The central government will probably make life tricky for Mr Imamoglu. As the ruling AK party controls 25 of Istanbul’s 39 districts and has a majority on its municipal assembly, that will not be hard. Mr Erdogan could mess with Istanbul’s funding, tie Mr Imamoglu up in red tape or even find some legal pretext to prosecute him. The president would be better advised to leave him alone. Anything that harms Istanbul, the centre of Turkish commerce and tourism, will harm the country as a whole. 
 The fact remains, though, that Mr Erdogan is in charge. He won his presidential election by a solid majority last year, and his AK party, together with its hardline nationalist allies, the MHP, has a lock on parliament. Another election is not due for four years. In the short term, change will have to come from within AK. There is some sign of it. Rumours swirl that Abdullah Gul, a former president, and Ahmet Davutoglu, a former prime minister, are considering setting up a breakaway party or parties. Mr Imamoglu’s success ought to stiffen their resolve. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Istanbul[.istæn'bu:l]:n. 伊斯坦布尔 
@@ -85,4 +86,6 @@
 71.Ahmet[]:n. (Ahmet)人名；(土、塞、阿尔巴、罗、阿拉伯)艾哈迈德 
 72.Davutoglu[]:[网络] 达武特奥卢；土耳其外交部长达武特奥卢；土耳其外长达乌特奥鲁 
 73.breakaway[]:n. 脱离, (美)(非正式)一碰就散开/脱落的, 分裂 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

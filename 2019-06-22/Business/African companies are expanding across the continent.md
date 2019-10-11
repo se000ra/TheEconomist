@@ -13,6 +13,7 @@
 The second challenge is uncertainty. Africa’s weak supply chains, volatile currencies and fickle regulators with a fondness for expropriation or capital controls, which make repatriating profits difficult, render the future blurrier than in mature economies. Businesses focused on a single country (or industry) face greater risks, notes Kartik Jayaram of McKinsey. Firms with a toehold in many places and sectors, like Dangote Group or Shoprite, are less exposed to a setback in any one of them. 
 As Mr Bitature’s experience reveals, crossing borders can backfire. Policymakers in other countries are prone to sudden “somersaults”, cautions Abdul Samad Rabiu, whose BUA Group sells everything from cement to sugar but has stuck to native Nigeria. Foreign soil can be inhospitable even in the absence of political flips. Tiger Brands, a South African foodmaker, sold its stake in its Nigerian flour division to Mr Dangote for $1 in 2015, three years after buying it from him for nearly $200m. A depreciating naira hit Nigerians’ pockets, dampening demand, and drove up the cost of imports like wheat, which Tiger could not pass onto consumers because of stiff competition. 
 The strongest firms are those which are choosy. MTN, a large South African telecoms company, is pulling back from some smaller countries. But it is toughing it out in Nigeria, despite endless battles with regulators; it is a vast market, and gross operating margins of 44% stiffen the spine. OCP set out to deepen its presence in 15 African countries. It has winnowed the list down to five—including the regional giants, Nigeria and Ethiopia—where policies are most business-friendly.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -93,4 +94,6 @@
 76.spine[spain]:n. 背骨, 脊柱, 尖刺 [医] 脊柱; 棘, 刺; 马蹄嵴 
 77.winnow['winәu]:vt. 簸, 扬(谷), 吹掉, 把挑出来, 精选 vi. 扬谷, 分出好坏, 飞翔 n. 扬谷, 扬谷器 
 78.regional['ri:dʒәnәl]:a. 地方的, 地域性的 [医] 区的, 部位的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

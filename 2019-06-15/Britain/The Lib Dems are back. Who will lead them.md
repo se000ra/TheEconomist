@@ -9,6 +9,7 @@
 The Conservatives and Labour have abandoned the centre. Although this gap has existed since at least 2015, when Jeremy Corbyn became Labour’s leader and the Tories called the Brexit referendum, the Lib Dems have only recently taken advantage of it. Fierce local campaigning at the beginning of May (a Lib Dem leaflet in Sunderland revelled in the fact a former Labour councillor was a paedophile) laid the foundations for a breakthrough in the European election later that month, helped by a proportional voting system. Decent showings in elections boost credibility, says Tim Farron, a former leader. After the European vote, one poll put the Lib Dems top, for the first time in nine years. 
 These strong showings have undermined Change UK’s claim that the Lib Dems are irredeemably tainted by their time in government. Voters have either forgiven or forgotten. Any sins of the coalition are overshadowed by the far bigger cock-ups made by the Tories when they governed alone, as Ms Swinson argues. If Brexit causes an eruption in the party system (see article), the Lib Dems will be well placed. 
 First-past-the-post remains the biggest obstacle. The job of the new leader will be to smash through the 25% ceiling, above which vote-share starts to translate into big seat gains. After 2015 there was only a narrow path back to relevance for the Lib Dems, but they walked it. Going beyond their historical role as the third party will prove trickier still.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lib[lib]:a. [口]解放的（等于liberal）；解放论者的 
@@ -64,4 +65,6 @@
 51.eruption[i'rʌpʃәn]:n. 爆发, 喷出物, 出疹 [化] 喷发 
 52.relevance['relivәns]:n. 中肯；关联；相关性 
 53.tricky['triki]:a. 狡猾的, 机敏的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

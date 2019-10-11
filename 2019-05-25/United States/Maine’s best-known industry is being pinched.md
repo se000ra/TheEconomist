@@ -9,6 +9,7 @@
 Maine’s lobstermen will soon have to rethink how they catch lobsters. For more than 200 years they have used baited traps, also known as pots, to snare lobsters crawling on the ocean floor. Lines connect the traps to buoys on the water surface. Scientists say that these lines have trapped and killed some North Atlantic right whales, an endangered species. Maine must cut the number of lines by 50% to adhere to new federal regulations designed to save the whales. 
 How this will be achieved has yet to be determined. One possibility is to insist that many traps are attached to a single line to the surface—something that is easier for big boats to handle. Ropeless options are expensive and time-consuming. A collapsible buoy that could inflate itself using compressed air might work better. Lobstermen have a history of conservation and self-regulation—in 1872 they stopped catching egg-bearing females. Kristan Porter, a lobsterman, is sympathetic to the plight of the right whales, of which there are only 400, “but I’ve never even seen one.” 
 Patrice McCarron, founder of the Maine Lobstermen’s Association, an advocacy group, has not witnessed such a tumultuous year in her 20 years in the industry. As for Mr Welch, whose grandfather was a lobsterman and who has been fishing since he was 14, he is not sure that the industry as he knows it will exist for his son. That is often the fisherman’s lament. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.travail['træveil]:n. 分娩的痛苦, 阵痛, 辛劳 vi. 发生阵痛, 辛劳 
@@ -58,4 +59,6 @@
 45.tumultuous[tju:'mʌltʃuәs]:a. 吵闹的, 纷乱的, 骚乱的 [法] 喧嚣的, 骚乱的, 凶猛的 
 46.welch[welʃ]:n. 韦尔奇（姓氏） 
 47.lament[lә'ment]:n. 悲叹, 悔恨, 恸哭, 挽歌, 悼词 vt. 哀悼 vi. 悔恨, 悲叹 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

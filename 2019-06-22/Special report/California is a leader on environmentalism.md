@@ -9,6 +9,7 @@
 California’s environmental efforts have contributed to higher costs for other living expenses, too. Petrol prices are the highest in America, around 40% above the national average, because the state requires a unique formulation for cleaner fuel that only a handful of refineries can produce. This falls disproportionately on the less affluent, who often live far away from their jobs and public transport. Meanwhile, residential and industrial electricity rates in California are 50% and 75% more than the national average. Cheaper power makes other states, such as Texas, more attractive for manufacturers and heavy users of electricity. California counts people and firms that move elsewhere as carbon reductions in its statistics, even though they are moving to states with higher emissions, says Jennifer Hernandez of Holland Knight, an environmental-law firm. 
 Texas is the country’s number one producer and consumer of energy, and environmentalism is not part of its brand. But change might not be impossible. In the 1990s, under Ann Richards and George W. Bush as governors, the state made efforts to reduce pollution and encourage renewable energy. In 1999 Texas deregulated the electricity market, which promoted competition, reduced prices and set targets for renewables. The state has retired coal plants and become the leading producer of wind power in America. 
 The business community is increasingly concerned about climate change, says Brett Perlman of the Centre for Houston’s Future, a think-tank. This is especially true in Houston, where Hurricane Harvey caused $125bn in damage in 2017. Even oil companies are investing in wind and solar power as it has become cheaper. But plenty of Texan politicians are still wedded to a conservative ideology and a Republican-voting public that rejects the idea of global warming. Asked if he believes climate change is a problem, Greg Abbott, the governor, replies cryptically: “It’s a fact that the climate has changed in the last decade and the last 10,000 years. The climate is constantly changing.”  
+<<<<<<< HEAD
 -- 
  单词注释:
 1.California[.kæli'fɒ:njә]:n. 加利福尼亚 
@@ -66,4 +67,6 @@
 53.greg[greg]:n. 格雷格（男子名, 等于Gregory） 
 54.Abbott['æbət]:n. 阿尔伯特（人名）；雅培（公司名） 
 55.constantly['kɒnstәntli]:adv. 不变地, 不断地, 时常地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

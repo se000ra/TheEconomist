@@ -7,6 +7,7 @@
 The desire to resolve disputes at home rather than in an obscure court across the Atlantic would be understandable if courts across the EU could be trusted. But they can’t. In parts of central Europe the domestic judicial system is neither fair nor equitable, because it is increasingly under the influence of politicians. In Poland the governing Law and Justice party has subjugated courts by stacking the Constitutional Tribunal with its cronies and by letting parliament, rather than other judges, choose members of the National Council of the Judiciary, the body that handles judicial appointments. In Hungary the prime minister, Viktor Orban, has amended the constitution to cow the country’s judges. Last week he shelved plans to create a parallel judicial system, which would have handled cases brought against state bodies, only because he worried it would lead to his party’s expulsion from the EU parliament’s European People’s Party (it is already suspended). And the Czech prime minister, Andrej Babis, recently replaced the justice minister with a loyal foot soldier who he hopes will prevent or delay his indictment for the misuse of EU funds. 
 In light of the politicisation of the judiciary in much of central Europe, the thought of BITs being dismantled at the end of the year fills many investors with dread. If the treaties disappear, so will much of the investment from western neighbours on which the region still heavily relies. Not surprisingly, Germany, France and Austria—all countries whose firms have big investments in central Europe—are opposed to the abolition of intra-EU BITs, whereas Poland, the Czech Republic and Hungary are all for it. 
 One solution would be the establishment of an EU body, modelled on the ICSID, to specialise in investment disputes. But this would take years to set up. In the meantime, the EU should stick with BITs. If it does not, investors will either steer clear of countries with unreliable judicial systems or structure their deals from countries outside the bloc that have bilateral treaties with those within it. Either way, Europe would lose. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bilateral[bai'lætәrәl]:a. 有两边的, 双边的, 双方的 [医] 两侧的 
@@ -61,4 +62,6 @@
 50.specialise['speʃә,laiz]:vt. 特加指明, 列举, 使专门化, 限定...的范围 vt.vi. (使)特化, (使)专化 vi. 成为专家, 专务, 专攻, 专门研究, 逐条详述 
 51.unreliable[.ʌnri'laiәbl]:a. 不可靠的 [法] 不可靠的, 靠不住的 
 52.bloc[blɒk]:n. 集团 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

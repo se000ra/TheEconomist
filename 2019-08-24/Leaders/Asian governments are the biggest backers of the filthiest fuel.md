@@ -14,6 +14,7 @@
 And then there is politics. Voters do not like breathing soot. More of them are concerned about climate change, too, as they face unpredictable growing seasons, floods and droughts. 
 Promisingly, more Asian politicians are voicing support for clean power. In July Rodrigo Duterte, the Philippines’ president, instructed his energy minister to reduce his country’s dependence on coal. In June India’s government said it planned to have 500 gigawatts of renewable power by 2030. But to speed the transition, governments in Asia and elsewhere must do more. 
 Politicians should move faster to reduce state support for coal. Rich countries should find ways to help. Middle-income countries in Asia would be right to point out that wealthier counterparts used coal to fuel their own growth and that America, Britain, Germany and Japan are among those that continue to support coal, for instance through tax breaks and budgetary transfers (and imports from coal-powered Asia). Abandoning coal in Asia may require diplomacy on a scale that few governments are ready to contemplate. But abandon coal they must. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.backer['bækә]:n. 援助者, 支持者 [经] 背书人, 支持人 
@@ -61,4 +62,6 @@
 43.budgetary['bʌdʒitәri]:a. 预算的 [法] 预算的 
 44.diplomacy[di'plәumәsi]:n. 外交, 外交手腕, 交际手段 [法] 外交, 外交手腕, 权谋 
 45.contemplate['kɒntempleit]:vt. 注视, 沉思, 盘算 vi. 冥思苦想 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

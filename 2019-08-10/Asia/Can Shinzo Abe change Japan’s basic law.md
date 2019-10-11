@@ -11,6 +11,7 @@
 The political calendar is tight, with the change of emperor this year and the Olympics in 2020, and the geopolitical environment is not propitious. America’s calls for allies to help prevent further seizures of ships in the Strait of Hormuz are providing the Japanese with a concrete example of the sorts of conflicts into which their country could be dragged should Article 9 be changed. “The numbers don’t align, voter interest doesn’t align, and the situation in the Middle East doesn’t help,” says Yuki Tatsumi of the Stimson Centre, a think-tank in Washington. 
 Mr Abe is moderating his approach. He may shift the emphasis from Article 9 to rights and governance issues that appeal to the opposition, reckons Ms Tatsumi. Yuichiro Tamaki, the head of the Democratic Party for the People, the second-biggest opposition group, agrees that there needs to be a debate. Speaking after the elections, Mr Abe said he hoped for “active discussions”, and emphasised that “constitutional revision is not up to the government, but the Diet”. 
 He is pragmatic, but he wants a legacy. Efforts to resolve diplomatic problems left over from the war, such as with Russia, have stalled. The economy, which he pledged to revive, is spluttering. Changing the constitution is a challenge—but no tougher than the others he faces. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.shinzo[]:[网络] 晋三；爆裂战士战蓝宝；神像 
@@ -70,4 +71,6 @@
 55.pledge[pledʒ]:n. 诺言, 保证, 誓言, 抵押, 信物, 保人, 祝愿 vt. 许诺, 保证, 使发誓, 抵押, 典当, 举杯祝...健康 
 56.revive[ri'vaiv]:vt. 使苏醒, 使复兴, 使振奋, 回想起, 重播 vi. 苏醒, 复活, 复兴, 恢复精神 
 57.splutter['splʌtә]:n. 喷溅声 vi.vt. 急促而慌乱地说 vi. 发出吐唾沫声 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

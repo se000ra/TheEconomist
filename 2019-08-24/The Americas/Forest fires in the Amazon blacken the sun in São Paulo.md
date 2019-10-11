@@ -7,6 +7,7 @@
 During the Amazon’s dry season, it is common for farmers to set fires illegally to clear land. Brazil’s populist president, Jair Bolsonaro, has encouraged them by weakening the agencies that enforce environmental regulations. He holds the view that protecting the forest hinders economic development. When asked about the fires, he ludicrously responded by accusing environmental NGOs of setting the fires themselves so as to make his government look bad, in retaliation for his cuts in their funding. 
 Mr Bolsonaro argues that he is fighting an “information war” over the Amazon; he says he wants foreign governments and NGOs to stop meddling in Brazil. After INPE released data showing increasing deforestation in July, the president claimed the numbers were fake. He then sacked the head of the agency, Ricardo Magnus Osório Galvão, a well-respected physicist. 
 Such belligerence outrages scientists and environmentalists. “Firing the director is an act of revenge against those who expose the truth,” says Marcio Astrini of Greenpeace, a pressure group. But the destruction of the rainforest tends to be out of sight, out of mind for a lot of Brazilians, most of whom live in large cities near the coast. The darkness brought deforestation to their doorsteps. “We don’t have much time,” a columnist wrote in the daily newspaper Folha de São Paulo. “Night will fall on all of us.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.amazon['æmәzɒn]:n. 亚马孙河 [医] 无乳腺者 
@@ -56,4 +57,6 @@
 45.columnist['kɒlәmist]:n. 专栏作家 
 46.folha[]:[网络] 圣保罗页报；圣保罗之页 
 47.de[di:]:[化] 非对映体过量 [医] 铥(69号元素铥的别名,1916年Eder离得的假想元素) 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

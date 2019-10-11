@@ -12,6 +12,7 @@
 The threat the authorities now have to contend with is the exodus from Syria. Their caliphate smashed to pieces by Kurdish fighters and American air strikes, scores of IS fighters have escaped to Iraq. But the group also seems keen to expand its underground network in Turkey. “Three years ago, we were chasing terrorists who were about to blow themselves up,” says a counter-terrorism official. “Now we’re doing operations to disrupt their logistics and prevent IS financing from entering.” 
 Turkey once accused Western governments of neglecting to share intelligence about militants, making it hard to stop them at Turkish airports. Now it says they are trying to dump them on Turkey. According to officials, 775 suspected foreign fighters are being held at deportation centres, waiting to be sent home. Most have destroyed their old passports. Their consulates, however, are often slow to provide them with new travel documents, which delays or prevents deportation. Four have been stripped of citizenship, making repatriation impossible. Because they can only be held without charge for 12 months, they can expect to be set free. “If there’s no hard evidence against them, you cannot detain them or open a case,” says an official. “It’s a recipe for complete chaos.” 
 Turkey insists IS members must face trial in their own countries. Suheyla and Lutfu hope President Recep Tayyip Erdogan’s government will apply the same logic to its own citizens, namely their daughters. “They left after you opened the borders,” she says, as her grandson crawls onto her lap, his legs dotted with scars. “Now bring them back. Sentence them to life or to death if you like, but do so in Turkey.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.evict[i'vikt]:vt. 逐出, 赶出, 驱逐 [法] 逐出, 驱逐, 没收 
@@ -95,4 +96,6 @@
 79.chao[]:n. 钞（货币） 
 80.recep[]:n. (Recep)人名；(土)雷杰普 
 81.tayyip[]:[网络] 塔伊普 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

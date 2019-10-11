@@ -12,6 +12,7 @@
 Third, the near-death experience suffered by BP after the Deepwater Horizon oil disaster in 2010 shows how data can turn from an asset into a crushing liability. It ended up costing the British firm more than $50bn. Its reputation has yet to recover fully. 
 For now, the costs of a data breach look absurdly light by comparison. Capital One says its recent hack will cost it up to $150m this year, mainly in extra customer support. Ignoring potential fines, that is less than $1.50 per victim—and a tenth of the bank’s latest quarterly profits. Equifax, a credit-scoring firm, recently agreed to pay up to $700m to resolve lawsuits and other claims after data of nearly 150m clients were hacked. IBM Security, a consultancy, puts the average cost of a data breach worldwide at $150 per victim. Messrs Knake and Clarke think it should be more like $1,000 to spur the investment needed to prevent losses. 
 Governments are indeed getting tougher. Last month Britain’s proposed fining British Airways £183m ($222m) after data about 500,000 passengers were stolen. That marks the first big penalty linked to the EU’s newish data-protection rules. The airline said it would appeal. It may yet convince regulators it is not to blame. But as with Exxon or BP, that argument may wear thin with regulators and consumers. Companies which trade in data—ie, most big ones these days—had better get ahead of the problem. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Schumpeter[]:n. 熊彼特（美籍奥匈帝国经济学家, 当代资产阶级经济学代表人物之一） 
@@ -121,4 +122,6 @@
 105.penalty['penәlti]:n. 处罚, 刑罚, 罚款, 罚球, 报应, 不利结果, 妨碍 [经] 罚金(款), 违约金 
 106.newish['nju:iʃ]:a. 尚新的 
 107.regulator['regjuleitә]:n. 调整者, 校准者, 校准器, 调整器, 标准钟 [化] 调节剂; 调节器 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

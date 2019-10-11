@@ -30,6 +30,7 @@
 * Ang, A., A. Madhavan, A. Sobczyk. Crowding, Capacity, and Valuation of Minimum Volatility Strategies” The Journal of Index Investing. Feb 2017, 7 (4) 41-50 DOI: 10.3905/jii.2017.7.4.041 
  **Ratcliffe, R., P. Miranda and A. Ang. Capacity of Smart Beta Strategies from a Transaction Cost Perspective. The Journal of Index Investing. Nov 2017, 8 (3) 39-50 DOI: 10.3905/jii.2017.8.3.039 
  
+<<<<<<< HEAD
 -- 
  单词注释:
 1.amazon['æmәzɒn]:n. 亚马孙河 [医] 无乳腺者 
@@ -145,4 +146,6 @@
 111.beta['beitә]:n. 希腊字母表的第二个字母 [医] β(希腊文的第二个字母), 乙种 
 112.transaction[træn'sækʃәn]:n. 交易, 办理, 学报, 和解协议 [计] 事务处理 
 113.nov[]:abbr. 十一月（November） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

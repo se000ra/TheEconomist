@@ -14,6 +14,7 @@
 In contrast to the mousy Ms Tsai, Mr Han is a natural orator with a common touch. He drives crowds of older, working-class and rural followers wild. With 45% support in the primary, he blew past the runner-up, Terry Gou, a billionaire maker of iPhones, with 28%. 
 Mr Han calls Taiwanese independence “more scary” than syphilis. He refers to Taiwan as a region (that is, of China) rather than the country it is. Yet the Hong Kong protests have forced Mr Han to tack away from China. The Communist Party wants its formula of supposed autonomy for Hong Kong—“one country, two systems”—to apply one day to Taiwan. “Over my dead body”, Mr Han had to declare. 
 While Ms Tsai may be seen as the better defender of Taiwanese sovereignty, her chances of re-election may be further boosted if Ko Wen-je, the pro-China mayor of Taipei, runs as an independent presidential candidate. Mr Gou has not ruled out doing the same. This would split the opposition vote. In a poll published on June 22nd, TVBS, a KMT-leaning network, found Ms Tsai ahead with support of 37%, compared with 29% for Mr Han and 20% for Mr Ko. For now Ms Tsai’s sun is shining. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tsai[]:n. 蔡（姓氏） 
@@ -108,4 +109,6 @@
 90.KO['kei'әu]:vt. 击倒, 打倒 n. 击倒, 打倒 
 91.taipei['tai'pei, -'bei]:n. 台北 
 92.TVBS[]:abbr. Television Broadcast Satellite 电视广播卫星 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

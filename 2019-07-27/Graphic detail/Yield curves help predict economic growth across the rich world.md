@@ -14,6 +14,7 @@
  But if history is any guide, America should expect a deceleration. Its curve has flattened by 1.1 points in the past year, implying growth will slow from 3% to 2%. ■ 
  Sources: Datastream from Refinitiv; Haver Analytics; IMF; OECD; The Economist 
  *National Bureau of Economic Research definition 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.graphic['græfik]:a. 生动的, 轮廓分明的, 绘画似的, 图解的 [计] 图形的 
@@ -58,4 +59,6 @@
 40.IMF[]:国际货币基金组织 [经] 国际货币基金 
 41.Oecd[]:[经] 已开发国家组织 
 42.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

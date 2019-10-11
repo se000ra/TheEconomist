@@ -9,6 +9,7 @@
 The residents of Beirut came to rely on service taxis after trams and railways were destroyed during the 15-year civil war that ended in 1990. Service taxis are lightly regulated, but because they rely mainly on collective norms they endured even as the country’s dysfunctional politics hindered the reintroduction of public transport. In a city divided by sect and class, they also lead to unexpected encounters. Your correspondent has heard drivers recite traditional Arab poetry and a Hizbullah fighter recount a trip to Syria to fight ISIS. 
 The system does have its downsides. Every ride is a gamble. Some drivers deviate from planned routes in search of extra fares, making commuting times unpredictable. (The definition of hell, some joke, is to be in an empty service taxi, behind a full one.) Female passengers often opt for Uber to avoid harassment. Marwan Fayyad, the head of the local taxi-driver syndicate, laments that poor regulation has allowed forged licence plates and unlicensed drivers to proliferate, making it harder for registered service drivers to make ends meet. 
 Still, a little chaos will have to remain—in many ways, the lack of regulation is the central appeal of service taxis. “As a service driver, you’re free,” says one who refuses to use Uber. “No one is in charge of you—you’re in charge.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.uber['ju:bә]:[医] 乳房 
@@ -64,4 +65,6 @@
 51.unlicensed[.ʌn'laisnst]:a. 没有执照的, 未经当局许可的 [法] 未经当局许可的, 无执照的, 无节制的 
 52.proliferate[prәәu'lifәreit]:vi. 增殖, 激增, 扩散 vt. 使激增 
 53.chao[]:n. 钞（货币） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

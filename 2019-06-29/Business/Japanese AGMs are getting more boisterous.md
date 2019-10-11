@@ -3,6 +3,7 @@
 > print-edition iconPrint edition | Business | Jun 29th 2019 
 ![image](images/20190629_WBC312.png) 
 IF CORPORATE governance were measured by the boisterousness of annual meetings, then things in Japan are looking up—a bit. Activist investors are eyeing ever more companies. This week Lixil, which makes toilets among other things, had its board flushed out in favour of an alternative one which backed its recently ousted former boss. The head of Nissan got an earful over low profits (among other gripes). Shareholders want more cash, which is piling up in corporate Japan, returned to them. Companies are obliging.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.oust[aust]:vt. 逐出, 罢黜, 剥夺, 驱逐 [法] 驱逐, 剥夺, 免职 
@@ -19,4 +20,6 @@
 12.gripe[graip]:n. 紧握, 柄, 把手, 控制 vt. 抓紧, 抱住, 使肠痛, 激怒 vi. 肠绞痛, 抱怨 
 13.shareholder['ʃєә.hәuldә]:n. 股东 [法] 股东, 股票持有人 
 14.corporate['kɒ:pәrit]:a. 社团的, 合伙的, 公司的 [经] 团体的, 法人的, 社团的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

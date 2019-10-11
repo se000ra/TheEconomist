@@ -17,6 +17,7 @@
 Attribution science is also playing a role in courtrooms and human-rights hearings. A study published in 2015 showed that climate change contributed to the high wind speeds of supertyphoon Haiyan, which blew through the Philippines in 2013, killing more than 6,000 people. Those stronger winds created a much bigger storm surge. The matter was raised during hearings held by the Philippine Commission on Human Rights last year, which sought to explore the question of whether fossil-fuel companies could be held responsible. 
 Others have sought to pin companies down more specifically. In one widely reported lawsuit, Saúl Luciano Lliuya, a Peruvian farmer, is suing RWE, a German energy firm, for contributing to the melting of a mountain glacier that threatens to sweep away his village. Mr Luciano Lliuya’s counsel, Roda Verheyen, has said that the case “was mostly made possible by the advancement of...attribution science”. Lindene Patton, a lawyer with the Earth and Water Law Group, a firm specialising in environmental law, has written that “the science of event attribution may become a driver of litigation, as it shifts understanding of what weather is expected and, relevantly for law, foreseeable.” 
 To a layman, however good attribution science has become, trying to use it to link an event in the Peruvian Andes to a particular firm in Germany looks a bit of a stretch. But whether or not Mr Luciano Lliuya wins his case, the fact it is even being heard is a straw in the wind—and a sign that global warming can change metaphorical weather patterns as well as real ones. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.emission[i'miʃәn]:n. 发射, 射出, 发行 [医] 发射, 遗精 
@@ -120,4 +121,6 @@
 99.layman['leimәn]:n. 俗人, 门外汉, 凡人 [医] 外行, 业外人 
 100.Andes['ændi:z]:n. 安第斯山脉 
 101.metaphorical[metә'fɒ:rikl]:a. 隐喻性的, 比喻性的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

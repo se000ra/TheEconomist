@@ -8,6 +8,7 @@
 Young Chinese have begun to resist them. Earlier this year engineers in the cut-throat technology industry led a rare online labour movement to protest against the “996” regime (a de facto work schedule of 9am to 9pm, six days a week, often without extra pay for those extra hours). Last year students and activists joined protests by factory workers at Jasic, a maker of welding machinery in Shenzhen. 
 Their gripes were poor working conditions and firings after some had tried to unionise—something that in America Fuyao fought tooth and nail, and successfully, to block. “American Factory” depicts a collision between two working cultures. But worries about the plight of blue-collar workers unite them. 
 ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.netflix[]:n. 全球十大视频网站中唯一收费站点 
@@ -57,4 +58,6 @@
 45.firing['faiәriŋ]:n. 烧毁, 焚烧, 加热, 添煤 [计] 点火 
 46.depict[di'pikt]:vt. 描述, 描写 
 47.plight[plait]:n. 困境, 窘境 vt. 宣誓, 保证 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

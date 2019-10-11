@@ -7,6 +7,7 @@
 These days 82 German banks issue Pfandbriefe, up from 40-odd in 2005, when the market was loosened. Last year €50.4bn-worth ($59.5bn) of bonds were issued, according to the Association of German Pfandbrief Banks (VDP), up a bit from 2017. Of these, €43.2bn were backed by mortgages, a 17% jump. Public-sector bonds made up the rest, but these have dwindled in recent years. In the first half of 2019, €34.9bn of Pfandbriefe were sold. Over €365bn-worth are outstanding, €237bn mortgage-backed. That is around 12% of the entire German bond market (government bonds make up half). 
 Several other countries, chiefly in Europe but also in Asia, have their own covered bonds. (Denmark’s market is the world’s biggest, at around €400bn.) Unlike most American mortgages, the underlying loans stay on issuing banks’ balance-sheets. That, plus strict collateralisation rules and safeguards for bondholders if banks go bust, makes covered bonds safer bets than American mortgage-backed securities, according to the bonds’ boosters. A European Union directive this year set out a common framework, as part of the EU’s efforts to create a single capital market. That may increase the attractions of Frederick’s ancient instrument.■ 
 * “Der Pfandbrief 1769-2019”. Franz Steiner Verlag. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Pfandbrief[]:[网络] 潘德布雷夫；潘德布雷夫债券；潘德布雷夫抵押债券 
@@ -48,4 +49,6 @@
 37.franz[frɑ:nts]:n. 弗朗茨（Francis Ferdinand的德文名） 
 38.Steiner[]:斯坦纳（人名） 
 39.verlag[]:[网络] 林格；德国汉堡；出版者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

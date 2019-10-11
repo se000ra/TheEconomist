@@ -10,6 +10,7 @@
 It does not help that much of neighbouring Afghanistan is off-limits to health workers, who are accused by the Taliban of snooping on behalf of the Afghan army. The persistence of the disease on both sides of the porous border allows it to return to areas where it had been eradicated—and increases the risk that it will spread to other countries. 
 Around 90% of parents accept the vaccine, says Babar bin Atta, the government’s pointman on polio. To win over the final 10%, he argues, the campaign must become less punitive and intrusive. “We have to make parents feel they are in charge of their child’s right to immunisation and nothing is being forced on them.” 
 Some households have been subjected to as many as eight visits during eradication drives in their area, not just from health workers but from clipboard-wielding monitors, too. Parents face a volley of personal questions. Gun-wielding guards are prominent. But from now on, vaccinators will ask fewer questions, and there will be fewer follow-up visits. The authorities will stop prosecuting parents who refuse the vaccine. The hope is that reducing the intrusion will help dissipate the resentment and suspicion. Eradication depends on winning everyone over. “Even a single case is a case too many,” says Mr bin Atta. “You are either a polio-free country or you are not a polio-free country. There’s nothing in the middle.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Pakistan[.pɑ:ki'stɑ:n]:n. 巴基斯坦 
@@ -79,4 +80,6 @@
 65.dissipate['disipeit]:vt. 散失, 驱散, 浪费 vi. 消散, 放荡 
 66.resentment[ri'zentmәnt]:n. 怨恨, 愤恨 
 67.eradication[i,rædi'keiʃәn]:n. 连根拔除, 歼灭, 消灭, 根除, 使断根 [医] 根除, 扑灭, 消灭 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

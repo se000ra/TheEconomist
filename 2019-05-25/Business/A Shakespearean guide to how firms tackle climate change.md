@@ -12,6 +12,7 @@
 Those taking the boldest path towards a low-carbon future are the justices “full of wise saws”. They include some tech giants and even mature firms like Walmart. The world’s largest grocery chain, working with NGOs such as WWF, pledged in 2017 that its 100,000 suppliers will cut a cumulative 1bn tonnes of CO2 from their emissions by 2030, the equivalent of removing all the cars in America off the road for a year. Over 1,000 suppliers have been quick to join in, but others are being encouraged to take part with accolades and discounted trade finance. Walmart says that some schemes, such as energy efficiency, cut costs. It thinks others are a price worth paying. There are some precocious climate justices, too, like startups taking bold bets on zero-carbon technologies such as carbon capture and storage or hydrogen. 
 It would help if more financial firms joined this category. But of the many financiers with “big manly voice” on the climate, plenty turn again, as does the Bard’s sixth age, to “childish treble, pipes and whistles in his sound” when it comes to allocating capital. As Mr Singhi from Dalmia Cement says, banks are loth to support projects like carbon storage because they take a short-term view and fear low returns. And even though many savers have long horizons, their fund managers only look three to five years ahead. 
 Governments can make the biggest difference by more widely taxing carbon emissions. But while firms benefit from nature’s bounty—its water, minerals and energy—preserving it is also an act of self-interest. If they do not, the last scene of all may be what Shakespeare sums up as “mere oblivion”. Averting catastrophe could depend on whether business plays the role of hero or villain. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Schumpeter[]:n. 熊彼特（美籍奥匈帝国经济学家, 当代资产阶级经济学代表人物之一） 
@@ -110,4 +111,6 @@
 94.oblivion[ә'bliviәn]:n. 遗忘, (头脑的)一片空白状, 湮没, 大赦, 赦免 [法] 忘却, 被忘却的事, 大赦 
 95.avert[ә'vә:t]:vt. 转开, 避免, 防止 
 96.villain['vilәn]:n. 坏人, 恶棍 [法] 歹徒, 恶棍, 恶徒 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

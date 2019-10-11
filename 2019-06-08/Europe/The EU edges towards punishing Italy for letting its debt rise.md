@@ -10,6 +10,7 @@
 For now the government has time on its side. The commission’s patience may be wearing thin, but it is not exhausted. A formal disciplinary procedure is launched only once the finance ministries and heads of member states give their blessing. That will not happen before EU leaders meet at a European Council summit on June 20th. The leaders may be satisfied with minor concessions, similar to those Italy’s government made in 2018 when a row erupted over this year’s budget. 
 Even if no concessions are made, a fine is a long way off. Once a procedure has been formally opened, the commission will ask Italy to take remedial steps. Only if Italy is deemed to have failed to do its homework will it be fined. In principle, the penalty could be as high as 0.2% of GDP, or about €3.5bn ($4bn). But Brussels has never actually fined a rule-breaker. 
 Financial markets, typically a more effective source of discipline, were largely unfazed by the commission’s report on June 5th. But the coalition’s first year in power has hurt investors’ confidence. At the start of 2018, Italian economists note, the government could borrow at roughly the same interest rate as Spain. Now, the interest rate on a ten-year bond is nearly two percentage points higher. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.EU[]:[化] 富集铀; 浓缩铀 [医] 铕(63号元素) 
@@ -54,4 +55,6 @@
 40.typically['tipikәli]:adv. 代表性地；作为特色地 
 41.unfazed[ʌnˈfeɪzd]:a. 不担忧的, 不苦恼的 
 42.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

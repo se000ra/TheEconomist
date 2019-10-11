@@ -13,6 +13,7 @@
 Today, the customers are taking back control. This may be because they are sick of the over-stretched health-care system, cannot afford it, can use the internet to self-diagnose and are more aware of the dangers of lifestyle diseases, such as obesity and stress. It may also be because they are more body-obsessed, on account of Instagramming, even while doing the Downward Dog. 
 Business trends are encouraging the shift. The lines between industries such as Big Pharma and Big Food are blurring—witness the growth of nutraceuticals and cosmeceuticals. Globalisation is fusing cultures. Mindfulness comes from Buddhism. The 3,000-year-old Indian tradition of Ayurvedic balance between mind, body and spirit is popular among Delhi’s yuppies. Turmeric lattes are sipped by Brooklyn hipsters. And through it all runs technology: fitness, stress-relief and health apps are now central to the growth of wearable devices such as smart watches. 
 The bigger the business of mind and body becomes, the more likely it will be regulated and quality-controlled. That is a good thing. But watch out for impostors. A recent study suggests there is no evidence vitamins or minerals slow cognitive decline or dementia—despite what is often claimed on the tin. Health apps have the potential to misuse data, exacerbate eating disorders and keep people permanently on a treadmill. As society ages, the promise of eternal youth becomes all the more seductive. When you are invited to a Temple of Health, think twice before entering. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Schumpeter[]:n. 熊彼特（美籍奥匈帝国经济学家, 当代资产阶级经济学代表人物之一） 
@@ -153,4 +154,6 @@
 136.treadmill['tredmil]:n. 踏车, 令人厌倦的工作 [法] 踏车 
 137.eternal[i'tә:nl]:a. 永恒的, 永远的, 不灭的 
 138.seductive[si'dʌktiv]:a. 诱惑的, 引人注意的, 有魅力的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

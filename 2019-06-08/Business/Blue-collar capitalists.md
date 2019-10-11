@@ -11,6 +11,7 @@
 Mr Blasi says such claims are mostly disproved. Employee ownership typically comes on top of pay, rather than substituting some of it (not at United, which explains that fiasco). Workers seldom hold more than 15% of their financial wealth in their own company, which is manageable. As for free-riding, Tarbell’s account illustrates that other workers will not tolerate loafers. 
 Expansion of employee ownership could use a tailwind. At last count 158,000 private firms in America were in the hands of baby-boomer founders on the verge of retirement, according to Ms Wiefek. These companies could be sold partially or wholly to their employees via an ESOP scheme. But take-up is much lower than the potential suggests. To accelerate it, the government could provide more information, modest tax inducements or procurement policies that favour employee-owned firms. Richard Freeman of Harvard University sees scope for using employee ownership to offset possible job losses to artificial intelligence (AI). His answer to the question ‘Whatcha gonna do, workers, when AI Robomania runs over you?’ as he wrote in a recent paper, is to spread ownership of capital more widely. 
 The best bet may be to rekindle a spirit of self-interest among businessmen. They enjoy a disproportionate share of capitalism’s rewards—and worry about its fate. Based on public-company filings, Mr Blasi estimates that big firms have shelled out at least 0.5% of their shares a year to their five most senior executives. Boards could do more to broaden ownership to the rank and file. The reckless remedies proposed by Mr Sanders, Mrs Warren and Mr Corbyn should not put firms off. Bringing capitalism to the masses has a rich history, dating back to Procter and bolstered in the Thatcher and Reagan years of the 1980s. It deserves a rich future. As Tarbell said, all it takes is “brains, freedom from isms, humanity and a large firm sense of responsibility”. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Schumpeter[]:n. 熊彼特（美籍奥匈帝国经济学家, 当代资产阶级经济学代表人物之一） 
@@ -105,4 +106,6 @@
 90.Tarbell[]:塔贝尔（人名） 
 91.ism['izm]:n. 主义, 学说, 制度 
 92.humanity[hju:'mæniti]:n. 人性, 人类, 博爱 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

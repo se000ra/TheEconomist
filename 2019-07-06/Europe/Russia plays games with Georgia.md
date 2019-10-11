@@ -11,6 +11,7 @@
 Mr Putin has two other constituencies in mind. One is Russia’s own liberals, who see Georgia as a country that has successfully reformed. The other is America, which Russia’s foreign minister, Sergei Lavrov, accuses of “geopolitical engineering” in the region. The Kremlin does not deem Georgia truly independent, regarding it as a card in a game for dominance in the Caucasus and around the Black Sea. 
 Russia’s rulers dislike the Anaklia port project, which is close to Abkhazia and only 320km (200 miles) down the Black Sea coast from Mr Putin’s residence in Sochi. The port is vital for Georgia’s independence as well as for European security. It could open the bottleneck in the land corridor through the Caucasus from China to Europe. It could also harbour American submarines. Earlier this year Mr Lavrov’s deputy, Grigory Karasin, issued a menacing ultimatum. “Tbilisi has to decide either to choose an atmosphere of regional welfare or the Euro-Atlantic agenda.” If Georgia chose the latter, it could, he warned, be faced with “unpleasant surprises” similar to those faced by Ukraine in 2014, when Russia annexed Crimea and invaded Eastern Ukraine. 
 Mr Ivanishvili has tried to reassure Russia over the Anaklia plan by arguing for Chinese involvement in the project and attacking its American-backed Georgian financiers. But this in turn has agitated the Americans. Last month Mike Pompeo, the American secretary of state, told Georgia’s prime minister that the port at Anaklia “will enhance Georgia’s relationship with free economies and prevent Georgia from falling prey to Russian or Chinese economic influence. These pretended friends do not have Georgia’s best interests at heart.” Mr Putin may prove him right. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Georgia['dʒɒ:dʒjә]:n. 乔治亚州 
@@ -104,4 +105,6 @@
 89.mike[maik]:vi. 偷懒, 游手好闲 n. 休息, 游手好闲, 扩音器, 话筒 
 90.pompeo[]:n. (Pompeo)人名；(意)蓬佩奥 
 91.prey[prei]:n. 被掠食者, 牺牲者 vi. 捕食 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

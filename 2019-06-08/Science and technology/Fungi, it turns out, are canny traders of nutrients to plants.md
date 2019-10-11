@@ -8,6 +8,7 @@
 A quantum dot is a mote of matter a few nanometres across. It is made of a semiconducting material capable of fluorescing when struck by ultraviolet rays, and different sorts of dot fluoresce in different colours. Dr Kiers theorised that if she and her team attached quantum dots to particles of phosphate then they might be able to track those particles around as they were collected by fungi and passed along to plants. Matthew Whiteside, a member of her team, developed the technique, tested it and found that she was right. After sowing a Petri dish that played host to fungal hyphae and carrot roots with tagged phosphates Dr Whiteside found that he could, after sufficient time had passed, spot the tagged phosphates inside both hyphae and roots by shining ultraviolet light on them. 
 Dr Kiers then arranged for some patches of the Petri dish “garden” in which the fungi and carrots were growing to be rich in phosphates, and some to be poor. She also arranged for the phosphates in the rich zones to be tagged with dots that would fluoresce blue when bombarded with ultraviolet light and for those in the poor zones to fluoresce red. As she monitored the collection and trading of the phosphates from fungi to carrots she found that the fungi enthusiastically transported them across the hyphal network from areas of abundance to zones of scarcity. 
 Moreover, though she was unable to measure directly what price the carrots paid for their phosphates, she managed to do so indirectly. She found that hyphae growing in resource-poor patches put on more weight per unit of phosphate transferred to nearby roots than did those in patches of abundance. This, she argues, makes it clear that fungi in zones of scarcity are marking up the price of their products. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.symbiosis[.simbai'әusis]:n. 共栖, 共同生活 [化] 类聚效应 
@@ -46,4 +47,6 @@
 34.hyphal['haifәl]:a. 菌丝的 
 35.abundance[ә'bʌndәns]:n. 丰富, 充足, 大量 [经] 丰富, 充裕 
 36.indirectly[]:adv. 间接, 曲折, 迂回, 不直截了当, 不诚实, 不坦率 [计] 间接地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

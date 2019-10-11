@@ -10,6 +10,7 @@
 Third, it could prove discriminatory. Since some facial-recognition technology is best at identifying white faces, it could throw up more erroneous “matches” for non-white people, making them more likely to be the subject of unwarranted police attention. Finally, it risks compromising the principle that justice must be seen to be done. If suspects cannot understand how an algorithm reached a decision, they might find it harder to challenge. 
 Yet none of these hurdles is insurmountable. The technology will improve. Britons already accept lots of surveillance: although most people do not shoplift, they are used to being monitored by CCTV cameras. A poll published in May suggests most Londoners are happy for the police to use facial-recognition software, especially to spot serious criminals. A powerful regulator ought to be able to strike the right balance and allay fears of bias. 
 And although humans can give reasons for their decisions, there is plenty of evidence suggesting they are influenced by unconscious biases, points out Lawrence Sherman of Cambridge University. It ought to be easier to scrutinise and challenge the processes of one algorithm than the decisions of thousands of cops and judges. “There’s nothing less transparent than the human mind,” says Mr Sherman. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.millisecond['mili,sekәnd]:n. 毫秒 [计] 毫秒 
@@ -80,4 +81,6 @@
 66.scrutinise[]:vt.vi. 细看, 仔细检查, 审查, 细阅 [经] 详细检查, 细细地看 
 67.cop[kɒp]:n. 警官 vt. 抓住 
 68.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

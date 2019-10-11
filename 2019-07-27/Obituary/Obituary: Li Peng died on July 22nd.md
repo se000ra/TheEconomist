@@ -11,6 +11,7 @@
 He had won his battle, and Zhao had lost. But he had not won hearts and minds. Though the students directed their anger against a number of people, including Deng himself, Li became their main face of evil. As troops gathered on the edge of Beijing, preparing to clear the square, students and other citizens staged a massive demonstration, shouting “Down with Li Peng!”. At his brief meeting with them on the 18th, seething with contempt, he had told them straight: “We have to defend socialism. I don’t care whether you are happy to listen to this or not.” On the night of June 3rd this point was repeated—with bullets. Hundreds, maybe thousands, were killed. Several people, especially Deng, deserved the tag “Butcher of Beijing” that many foreigners applied after that to Chinese leaders. But it was most commonly given to Li. 
 Not that he would have minded. The post-Tiananmen world was his. Zhao-style liberalism never recovered. Economic reform eventually took off again, faster than conservatives like him cared for. But the party stayed firmly in charge, and that was what mattered most of all. He remained prime minister for nearly a decade, making sure his family was comfortably ensconced in the power-generation business: his two sons and his daughter all worked in the Ministry for Water Resources and Electrical Power, and one son became governor of coal-rich Shanxi province. Anti-corruption campaigners were outraged by his “power-industry family”. That did not bother him. 
 The project he was proudest of, though it made him even less popular, was the building of a massive dam on the scenic Three Gorges of the Yangzi river. It cost tens of billions of dollars, displaced 1.3m people and was denounced by environmentalists in China and abroad, but he cherished it and hymned it in a poem: “The huge wheel whirls/its power boundless. The achievement is now,/the benefits for a hundred years.” He wrote a book about the project, based on the diary he had kept then, and he continued to keep a diary every day even in old age. He also tried to publish selections from the one he had kept in April, May and June 1989, defending his role in Tiananmen. He may not have cared whether readers were happy or not.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.peng[]:n. 执业工程师 
@@ -80,4 +81,6 @@
 65.cherish['tʃeriʃ]:vt. 珍爱, 怀有, 爱护 
 66.hymn[him]:n. 赞美诗, 圣歌 v. 唱赞美歌 
 67.boundless['baundlis]:a. 无限的, 无边无际的 [经] 无限的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

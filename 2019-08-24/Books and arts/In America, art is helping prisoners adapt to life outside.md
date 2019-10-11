@@ -13,6 +13,7 @@
 Many of these projects are supported by the Art for Justice Fund, a philanthropic effort which itself illustrates the power of art. In 2016 Agnes Gund, a New York art collector, was shocked by “13th”, a documentary by Ava DuVernay that traced the links between mass incarceration and the history of racism in America. She sold one of her prized works and put $100m into the new fund. It has since collaborated with scores of artists and groups advocating criminal-justice reform. “There’s an urgency to begin to see incarcerated people as they really are, as human beings, as husbands and fathers and mothers and daughters,” reckons Helena Huang, the fund’s project director. “At the most fundamental level, art gives people a voice.” 
 Individuals who have discharged their debt to society are not the only ones using the arts for transformation. Alcatraz, too, is reconsidering its mission. It is now part of an international coalition of “sites of conscience”, which includes the Nuremberg trials memorial and aims to use difficult memories to inspire action. Art exhibitions—such as “Future IDs” and a show by Ai Weiwei in 2014 that focused on the Chinese artist’s own prison experience—have helped turn this grim facility into a place to think as well as gawk. 
 “We have a giant prison system, the largest in the world, and we are in a unique position to have conversations around incarceration,” says Emily Levine, a park ranger. The habit of asking hard questions has spread across the Rock. Visitors disembarking from the ferry were recently confronted with some unusual messages from the rangers. One whiteboard reads: “2,300,000 US adults are currently incarcerated. What do you know about the prison, jail or immigration centre nearest to your home?” Another simply asked, “Do prisons make you feel safer?” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -120,4 +121,6 @@
 103.confront[kәn'frʌnt]:vt. 使面对, 对抗, 遭遇, 使对质, 比较 [法] 对证, 使对质, 比较 
 104.whiteboard['hwaitbɔ:d]:n. 白色书写板 
 105.currently['kʌrәntli]:adv. 现在, 当前, 一般, 普通 [计] 当前 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

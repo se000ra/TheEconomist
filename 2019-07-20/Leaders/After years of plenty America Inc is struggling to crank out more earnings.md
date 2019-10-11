@@ -13,6 +13,7 @@
 First, equity-fund managers and Wall Street analysts, accustomed to years of high growth, expect a rebound in profits later in the year. They may be disappointed. Second, many firms have geared up their balance-sheets in the belief that the good times will roll on for ever. Corporate borrowing in America has risen to 74% of GDP, above the peak in 2008; 40% of the stock of debt is owed by highly leveraged firms with debts of over four times their gross operating profits. 
 Although most managers accept that a mixture of flat profits and high debts is toxic, they never think it will undo them. But already several giants that were considered reliable profit-machines are struggling. AT&T needs to pay down a colossal pile of $169bn of net debt even as its profits come under pressure from TV customers jumping ship. Kraft Heinz has to service $30bn of net debts even as a new generation of consumers abandon Mac & Cheese for healthier products. 
 In the past, profits have been considered a fickle friend by business people. But after a long boom, rising earnings have become baked into American corporate life. Most investors and creditors assume that profits will go on growing. Almost every company presentation assumes that rising margins are the natural state of affairs. This groupthink is complacent—and possibly dangerous. That’s the bottom line.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.soar[sɒ:]:n. 高扬, 翱翔 vi. 往上飞舞, 高耸, 翱翔 
@@ -73,4 +74,6 @@
 56.fickle['fikl]:a. 变幻无常的, 浮燥的, 薄情的 
 57.creditor['kreditә]:n. 债权人 [法] 债权人, 债主, 贷方 
 58.groupthink['^ru:pθiŋk]:n. 小集团思想 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

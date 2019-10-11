@@ -12,6 +12,7 @@
 In June the militia lobbed a rocket at a major Saudi desalination plant in Al-Shuqaiq. It caused little damage but highlighted another vulnerability: the kingdom gets about one-third of its drinking water, more than 1bn cubic meters a year, from such facilities, which are expensive to build and easy to target. The Qataris even worry about their national air carrier, which has been forced, since its Arab neighbours imposed an embargo in 2017, to route hundreds of daily flights over Iran. At least two drones (one American, one Iranian) have recently been shot down in the area. 
 Gulf states struggle to counter these threats. Though they have spent tens of billions of dollars on military kit from America and Europe, it is not always the right kit. Tanks and fighter jets have limited value in an asymmetric conflict. Their navies are small and lack combat experience; they train with the Americans and are investing in new ships, but play only a supporting role in regional security. Years of talk about an integrated GCC missile-defence command has led nowhere, and individual defences are spotty. If drones hit Saudi Arabia’s oil pipeline they would have spent hours flying undetected over the kingdom. 
 Saudi Arabia has long viewed Iran as its chief enemy. It still broadly supports American policy. Officials in the smaller Gulf emirates are unhappy, though, and those in the UAE feel particularly stuck. In public they cannot break with Mr Trump or their Saudi allies. But they are subtly distancing themselves. They are withdrawing troops from Yemen partly to lower tensions with the Houthis—and thus avoid being attacked. They have also taken a cautious line on Iran, even suggesting it may not have been responsible for the sabotage in Fujairah. “They could shut this place down with a few missiles,” says an official in Dubai. “We need to protect our own interests.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.spiral['spairәl]:n. 螺旋形之物, 螺线 a. 螺旋形的, 盘旋的 vi. 螺旋形下降, 螺旋形上升, 螺旋形行进 vt. 使螺旋形行进 
@@ -96,4 +97,6 @@
 80.subtly['sʌtli]:adv. 敏锐地, 巧妙地, 精细地 
 81.yeman[]:[网络] 也门；叶门；园艺业的普及则始于也门 
 82.sabotage['sæbәtɑ:ʒ]:n. 怠工, 破坏活动, 破坏 vi. 从事破坏活动 vt. 妨害, 破坏 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 This points to a second niggle: Amazon’s rivals are crying foul. In a case before a federal court, Oracle is arguing that the JEDI procurement process was biased. The Washington Post reported that Deap Ubhi, a former Amazon executive named in the lawsuit, tweeted, “Once an Amazonian, always an Amazonian”, in praise of Mr Bezos, while allegedly involved in designing the JEDI process. The suit also questions meetings between senior officials including James Mattis, a former defence secretary, and Amazon bosses. AWS and the Pentagon deny any impropriety. 
 The final complication is a potential backlash over Amazon’s cosiness with government. In May some shareholders at Amazon’s annual meeting called for it to stop selling facial-recognition software to governments. The resolutions failed but may resurface. (San Francisco has banned city departments from using such technology.) AWS has also come under fire for supporting Mr Trump’s immigration crackdown. 
 Confronted last year with an employee backlash against its sale of artificial-intelligence software to America’s armed forces, Google backed off and withdrew from the JEDI tender. Amazon is standing firm. Last month Andy Jassy, who runs AWS, responded to employee concerns about the use of its facial-recognition tools in law enforcement by citing a core Amazon principle: “Have backbone; disagree and commit.” Spoken like a soldier. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.jedi[]:n. 绝地武士 
@@ -95,4 +96,6 @@
 82.enforcement[in'fɒ:smәnt]:n. 执行, 强制 [法] 实施, 加强, 厉行 
 83.cite[sait]:vt. 引用, 引证, 表彰 [建] 引证, 指引 
 84.backbone['bækbәun]:n. 脊椎, 志气, 骨干, 支柱 [计] 主干网, 主干网点 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

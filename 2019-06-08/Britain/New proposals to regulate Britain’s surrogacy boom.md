@@ -9,6 +9,7 @@
 But the report dodges the question of whether the law should allow commercial surrogacy. Many existing surrogates favour keeping it altruistic. Ms Taylor is motivated by a desire to help those who might otherwise struggle to conceive. She had her own children after four rounds of in vitro fertilisation and likes to help others in a similar predicament. “The specialness would go out of it” if she were paid, she says. “It’d be just another job.” Others are squeamish about a process they liken to selling babies. 
 Yet some argue this already happens by default. Courts grant rights to parents who paid for commercial surrogacy abroad. In Britain, surrogates are entitled to “reasonable expenses”, an ill-defined category that can stretch to recuperative holidays. Payments of £15,000 ($19,000) are typical. “If it’s in the child’s best interests to live with the intended parents, it’s hard to imagine a sum of money that would make a judge think the child should be taken into care,” says Emily Jackson of the London School of Economics. Relaxing the law would make payments more transparent and might encourage more surrogates to come forward. 
 As teenagers, Matthias Nijs and his partner Janno thought their sexuality meant they would never be able to raise a family. Now they are preparing for Ms Taylor to hand them their baby. “We are 29 weeks,” says Mr Nijs, beaming. Nappies, clothes and toys are heaped in a pile in their living room. A sign in the kitchen proclaims the due date. But Ms Taylor is always happy to remind them of the hard work ahead. “I say, ‘Your child kept me awake from 12 until three last night,’” she chuckles. “‘I hope that when your child comes out, she gives you enough crap too.’” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.surrogacy[ˈsʌrəgəsi]:n. 代孕 
@@ -52,4 +53,6 @@
 39.alway['ɔ:lwei]:adv. 永远；总是（等于always） 
 40.chuckle['tʃʌkl]:n. 咯咯的笑声, 轻笑 vi. 咯咯的笑, 咕咕叫 
 41.crap[kræp]:n. 废物, 废话 vi. 掷骰子 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

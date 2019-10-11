@@ -13,6 +13,7 @@
 Because the transposon method of gene editing does not need a cell’s own repair mechanisms to conduct and make good the edit, it offers a mechanism for adding genes into a wider variety of cells. This includes neurons and, most critically, cells that are not currently replicating in a suitable way for CRISPR to work. Although the new papers only demonstrate that jumping-gene editing works in bacteria, scientists have high hopes that it might work in human cells. 
 The news is welcome in a field where the potential applications in medicine seem to grow by the day. Verve Therapeutics, a biotech firm in Cambridge, Massachusetts, recently said that it wanted to use genetic editing to protect patients from coronary heart disease. CRISPR Therapeutics, based in Zug, Switzerland, wants to edit beta cells, which produce insulin, so that they can be transplanted into diabetics without rejection. In all these therapies, regulators will have to assess the risks and benefits. That will be easier when small risks of mistakes are set against the benefits of curing a fatal disease. But if CRISPR is to be used more widely and safely, more understanding will be needed of how genetic changes actually relate to differences in how a cell functions. 
 That effort got a boost this week. Jennifer Doudna (pictured) of the University of California, Berkeley, who discovered CRISPR-Cas gene editing and is a leading scientist in the field, will collaborate with GSK, a drugs firm based in London, to elucidate the basic science of gene editing. The new Laboratory for Genomic Research, based in San Francisco, is a $67m five-year collaboration that may ultimately be useful for drug development and would-be gene editors—whether they seek to make changes to adults or embryos. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.edit['edit]:vt. 编辑, 编校, 修订, 剪辑 [计] 编辑; DOS外部命令:该命令是一个用于编辑文本文件的全屏幕编辑程序 
@@ -83,4 +84,6 @@
 66.san[sɑ:n]:abbr. 存储区域网（Storage Area Networking） 
 67.francisco[fræn'siskәu]:n. 弗朗西斯科（男子名, 等于Francis） 
 68.collaboration[kә.læbә'ræʃәn]:n. 合作, 勾结 [法] 通敌卖国者, 奸细 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

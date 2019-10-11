@@ -12,6 +12,7 @@
 Areas formerly prioritised for protection—including native American forest—are being abandoned in times of high activity. And there will be more of these. Climate models augur a huge increase in wildfires’ frequency and range. Yet with many politicians on the right denying the reality of global warming, no government or agency has made a serious effort to model what firefighting resources will be needed, to defend what areas and at what cost. 
 There are two big cautionary lessons here. One is that, beyond the dysfunction in Washington, the excellence of America’s institutions is creating a false sense of security about the long-term threats its politicians are neglecting. That is starkly true of America’s early efforts to adapt to global warming. But much the same could be said for its armed forces, diplomatic service, judiciary and other institutional crutches against manifold threats. This is not sustainable. Without better leadership, there will be a reckoning. 
 The second lesson, given how little public attention has been paid to the wildfires, is that there is little reason to think increased natural disasters alone will produce the necessary leadership. Many Americans, and by extension their politicians, are already becoming inured to global warming’s devastating effects.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lexington['leksiŋtәn]:n. 列克星敦市（位于美国肯塔基州） 
@@ -102,4 +103,6 @@
 86.reckon['rekәn]:vt. 计算, 总计, 估计, 认为, 猜想 vi. 数, 计算, 估计, 依赖, 料想 
 87.inure[i'njuә]:vt. 使习惯于 vi. 生效 
 88.devastate['devәsteit]:vt. 毁坏 [法] 使荒废, 毁灭, 掠夺 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

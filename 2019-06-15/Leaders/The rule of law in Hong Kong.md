@@ -12,6 +12,7 @@
 In its narrowest sense, the new law will not accomplish what she wants. Taiwan has said that it will not accept the suspect’s extradition under the new law. Less explosive solutions have been suggested, including letting Hong Kong’s courts try cases involving murder committed elsewhere. Anti-subversion legislation was left to languish after protests in 2003. There is talk that the government may see this as the moment to push through that long-shelved law. Instead Ms Lam should take it as a precedent for her extradition reform. 
 The rest of the world can encourage her. Britain, which signed a treaty guaranteeing that Hong Kong’s way of life will remain unchanged until at least 2047, has a particular duty. Its government has expressed concern about the “potential effects” of the new law, but it should say loud and clear that it is wrong. With America, caught up in a trade war with China, there is a risk that Hong Kong becomes the focus of a great-power clash. Some American politicians have warned that the law could jeopardise the special status the United States affords the territory. They should be prudent. Cutting off Hong Kong would not only harm American interests in the territory but also wreck the prospects of Hong Kongers—an odd way to reward its would-be democrats. Better to press the central government, or threaten case-by-case scrutiny of American extraditions to Hong Kong. 
 But would this have any effect? That is a hard question, because it depends on Mr Xi. China has paid dearly for its attempts to squeeze Hong Kong. Each time the world sees how its intransigence and thuggishness is at odds with the image of harmony it wants to project. When Hong Kong passed into Chinese rule 22 years ago, the idea was that the two systems would grow together. As the protesters have made clear, that is not going to plan. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.V[vi:]:[计] 溢出, 变量, 向量, 检验, 虚拟, 垂直 [医] 钒(23号元素) 
@@ -80,4 +81,6 @@
 64.intransigence[in'trænsidʒәns]:n. 不妥协, 强硬, 不让步 
 65.thuggishness[]:[网络] 挣扎 
 66.odds[ɒdz]:n. 可能性, 几率, 机会, 胜算, 不平等 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

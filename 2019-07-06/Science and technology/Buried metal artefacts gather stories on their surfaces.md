@@ -13,6 +13,7 @@
 Suggestive patinas form on dry land, too. One coin that the researchers studied came from a grave dug in what is now Tunisia but was then Carthaginian territory, in the 3rd century BC. Like the imprints on the satyr’s hair, the coin’s patina has preserved the shapes of some fibres. In this case, Dr Ingo and his colleagues reckon that those fibres were wool. They therefore theorise that the coin had been placed inside a woollen garment worn by the corpse when it was buried. Like the decking of the satyr’s ship, the wool then rotted away, leaving a cast of its fibres on the coin. 
 Whether Dr Ingo’s new field of patinology will flourish remains to be seen. By themselves, each of his discoveries, interesting though it is, counts as little more than an anecdote. Each, however, tells a different type of story—of sewerage, of shipping and of funeral practices—that might otherwise remain untold. 
 It is also possible to imagine patinology telling bigger stories—of changing environments brought about by industrial pollution, perhaps, or of climatic variation. It is a saying in forensic science that every contact leaves a trace. Dr Ingo has shown that contacts between ancient metal objects and their chemical surroundings leave some interesting traces indeed.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.archaeology[.ɑ:ki'ɒlәdʒi]:n. 考古学 
@@ -85,4 +86,6 @@
 68.untold['ʌn'tәuld]:a. 未说过的, 未透露的, 未加叙述的, 数不清的, 无限的, 不可计量的, 无数的 [法] 未说明的, 未方露的, 未说出的 
 69.climatic[klai'mætik]:a. 气候的 
 70.forensic[fә'rensik]:a. 辩论的, 法院的, 关于法庭的 n. 辩论练习 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -7,6 +7,7 @@
 There is logic behind the delisting. In recent years Christie’s and Sotheby’s, which together sell more than 80% of works priced over $1m, have been battling to attract the top lots—with Sotheby’s mostly losing. Christie’s, which is privately held, can afford generous guarantees to sellers. Sotheby’s, under investor scrutiny, cannot. Its share price sank by more than 5% in a day last August after two guaranteed paintings sold for less than expected, hurting margins. 
 It will now be freer to court high-profile sellers more aggressively—and also to invest in selling more lower-priced pieces, which in the topsy-turvy art world offer higher margins than the big-ticket lots auction houses fight over. Boosting online auctions would help here. So would more private sales—where Sotheby’s acts as a broker and which have grown fast, reaching $1bn last year. Alex Maroccia of Berenberg, a bank, says it may spend more on R&D. Last year it bought Thread Genius, an artificial-intelligence startup that identifies artworks and can recommend similar items to losing bidders. 
 Buyers and sellers of all but the priciest pieces may rue the increased opacity of the houses’ already baffling commissions. But one group (besides Sotheby’s investors) will rejoice. Some of Mr Drahi’s fellow plutocrats make a killing from financing the guarantees that auction houses offer. For them, the more art that goes under the hammer, the better. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.duopoly[dju'ɔpәli]:[经] 双头垄断的生产者 
@@ -55,4 +56,6 @@
 44.opacity[әu'pæsiti]:n. 不透明, 电波不透过, 不透明体 [医] 浑浊, 不透明, 不透光, 不透明区, 浊斑 
 45.baffle['bæfl]:vt. 困惑, 为难, 使挫折 vi. 徒作挣扎 n. 迷惑, 挡板 
 46.plutocrat['plu:tәkræt]:n. 富豪, 财阀 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

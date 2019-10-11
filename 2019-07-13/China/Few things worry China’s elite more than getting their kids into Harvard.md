@@ -12,6 +12,7 @@
 The key to their angst—and to this tense moment in Chinese-American relations—lies in a particular sense that just as China is poised to join the world on an equal footing, giving its young chances of which their elders could only dream, a selfish, resentful America is slamming shut its doors. 
 America’s government has done little to explain its side. Visa policies are always rather secretive. There seems little doubt that America’s rules have become tougher for Chinese applicants, notably in science subjects, with more students languishing in “additional administrative processing” for so long that some must abandon their studies. FBI chiefs have repeatedly briefed Congress about how China uses scholars to steal secrets. It would not hurt the FBI director to invite Chinese students to a speech to explain how much espionage actually goes on in America, state that the vast majority of Chinese are not under suspicion, then take lots of questions. Chinese censors might keep news of such a speech from parents and youngsters back home. (No speakers at the peace forum either knew or were willing to acknowledge that Mr Trump recently praised Chinese students as “tremendous assets”.) 
 America has a story worth telling. It is one about open societies, and how openness to people and ideas, though it can be seen as a vulnerability, represents their greatest strength. That America is losing a propaganda war, unbeknown to most Americans, is an extraordinary failure. Some day, China’s brightest youngsters may no longer want to come. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.elite[ei'li:t]:n. 精华, 精锐, 中坚分子 
@@ -93,4 +94,6 @@
 77.openness['әupәnnis]:n. 公开；宽阔；率真 
 78.vulnerability[.vʌlnәrә'biliti]:n. 易受伤, 易受责难, 易受伤部位 [医] 易损性 
 79.unbeknown[.ʌnbi'nәun]:a. 未知的, 不为人知的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

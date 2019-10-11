@@ -8,6 +8,7 @@
 However, much worse alternatives were being bandied about. Like the choices of Spain’s Josep Borrell for the foreign-affairs job and Belgium’s Charles Michel to preside over the council, Mrs von der Leyen and Ms Lagarde are solid, experienced administrators and established public figures. They can be expected to act calmly, pragmatically, but purposefully. 
 They will need to. The task ahead of Mrs von der Leyen is monumental. In the next few years the EU needs to make hard choices on euro-zone integration, climate change and migration. It must decide how to respond on trade and security to President Donald Trump, as well as to an assertive Russia and an ever more powerful China. This requires not just strength of purpose but also the building of alliances. Mrs von der Leyen has not shown much of a knack for that in her attempts to overhaul Germany’s dismally run and curmudgeonly armed forces. The new European Parliament, like the EU itself, is fractious and requires skilful handling. Encouragingly, Mrs von der Leyen will want to see a stronger European dimension in tackling these problems. As the EU urges reluctant northern states (including Germany) towards risk-sharing within the single-currency area, it could help to have a German at the helm. 
 For her part, Ms Lagarde joins the ECB just as there is churn at the top. Like her, the newish vice-president, Luis de Guindos, is a former minister without monetary-policy experience. She brings fine political and communication skills, and at the IMF advocated sensible reforms to the euro zone. But her new role is more technical than the old one. If another downturn hits, the bank will hastily need to draw up creative policy options. That will require appointing the right staff and knowing whose advice to follow in times of crisis—precisely when the bank’s governing council may be deeply divided. If she can do this then she, like Mrs von der Leyen, may yet prevail. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.appointee[ә.pɒin'ti:]:n. 被任命者 [法] 被指定的人, 被任命者 
@@ -80,4 +81,6 @@
 68.euro['juәrәu]:n. 欧元（欧盟的统一货币单位） 
 69.downturn['dauntә:n]:n. (尤指经济方面的)衰退, 下降趋势 [电] 低迷时期 
 70.hastily['heistili]:adv. 匆忙地, 急速地, 急躁地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

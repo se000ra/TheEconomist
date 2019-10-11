@@ -21,6 +21,7 @@
 They have learned to keep those voices low. In 2006 the Stiftung Familienunternehmen, a foundation for family firms, lobbied so hard and loudly for lower inheritance taxes that its efforts backfired and the entire reform collapsed. A decade later their main national lobbies—the BDI (association of German industry), the BDA (association of German employers) and the foundation itself—put the case more subtly and managed to get easier rules that let heirs avoid paying inheritance tax provided they keep their business running for at least seven years and protect jobs and wages. 
 As the German rich mingle with plutocrats elsewhere and their companies have globalised, they are starting to become a little less diffident. This is not always to their advantage. Before Ms Bahlsen’s tone-deaf comments about forced labour, she reacted to a proposal of a youth chief of the Social Democrats to collectivise big firms by saying, “I’m a capitalist. I own a quarter of Bahlsen, that’s great. I want to buy a sailing yacht and stuff like that.” But Mr Rossmann, who does not shy away from the press, thinks that Germany’s rich should be more active in politics, which lacks a spirit of enterprise. Few have so far tried and none has succeeded. 
 Mr Dürr has raised his profile, too. After building his family’s firm into a global leader and listing it on the stock exchange, he moved to the public sector as boss of Deutsche Bahn, the state-owned railways, which he merged with eastern Germany’s Reichsbahn and in 1994 transformed into a privately run joint-stock company. Like Mr Rossmann, Mr Dürr does not hide from the public eye. He even briefly considered running for political office, though ultimately demurred. Old habits die hard.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tycoon[tai'ku:n]:n. 企业界大亨, 将军 [经] 企业界巨头, 企业家 
@@ -209,4 +210,6 @@
 184.reichsbahn[]:[网络] 帝国铁道；国家铁路；帝国铁路 
 185.briefly['brifli]:adv. 简短地, 扼要地, 简明地, 简单地 
 186.demur[di'mә:]:vi. 提出异议, 反对, 抗辩 n. 异议, 反对 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

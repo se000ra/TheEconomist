@@ -11,6 +11,7 @@
 There is another worrying aspect to Gota’s prospective return. It comes with the full Rajapaksa package. Basil is overseeing an efficient, high-tech campaign—dreamt up, he says, while serving time in prison for corruption. Mahinda, who sparked a constitutional crisis last year by attempting to supplant the prime minister in a parliamentary coup, now intends to win the post via parliamentary elections next year. 
 Should the Rajapaksas make a comeback, they may suffer from new flaws as well as old. Although they pooh-pooh the idea, it seems quite possible that Gota and Mahinda will fight over every bit of power at the country’s expense. Mahinda, the oldest brother, is a sun king, his chair in his meeting room a hand-span wider than the others. He says the post of prime minister will be the crucial one in government. Across town, Gota argues for a strong executive presidency. 
 If there is an alternative to Rajapaksa rule, it is taking an excruciating time to declare itself. It is in the power of Ranil Wickremesinghe, the prime minister, as head of one of the country’s two big parties, to anoint a challenger. The 70-year-old seems to have thought of himself as the ideal candidate. But after a dismal term as prime minister, no one in his party shares his view. He has not yet come round to endorsing the ally with the best numbers in the polls, Sajith Premadasa, son of Sri Lanka’s third president. Mr Premadasa’s chief backers admit that not even the candidate himself really knows what he believes in. But he is popular enough—and, better yet, his name is not Rajapaksa.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.banyan['bænjәn]:n. 印度榕树 [医] 榕树, 孟加拉榕 
@@ -77,4 +78,6 @@
 62.ally['ælai. ә'lai]:n. 同盟者, 同盟国, 助手 vt. 使联盟, 使联合, 使有关系 vi. 结盟 
 63.premadasa[]:[网络] 斯里兰卡前总统普雷马达萨 
 64.backer['bækә]:n. 援助者, 支持者 [经] 背书人, 支持人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

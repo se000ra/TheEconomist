@@ -12,6 +12,7 @@
 Many of these changes are long overdue. (Fuel subsidies were regressive, inefficient and unaffordable; hospitals need investment.) But Mr Sisi’s government seems oblivious to their impact on the poor. It points to the expanding economy—a 5.6% rise in GDP last year gave Egypt the fastest growth in the Middle East. But the jump is mostly due to a boom in oil and gas. Other sectors look stagnant. Though jobs are being created, many are in low-wage or informal sectors. 
 Subsidies were the heart of Egypt’s social safety-net. Nothing has adequately replaced them. The main cash-transfer schemes for the poor, Takaful and Karama, cover an estimated 9.4m people, less than 10% of the population. A monthly payment to families with children barely covers a tin of baby formula. Ration cards give access to cut-rate staples, but no one can live on cooking oil and rice alone. 
 Faced with bad news, the government has done what it does best: blame the messenger. The poverty report should have been released in February. It was delayed twice, with the authors told to revise their findings. Mr Sisi needs to move beyond fiscal reforms by cutting red tape, removing barriers to trade, and pushing the army out of business. Unless he does this, the only way for him to meet his goals on poverty will be to define it out of existence. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Nile[nail]:n. 尼罗河 
@@ -58,4 +59,6 @@
 42.ration['ræʃәn]:n. 定额, 定量, 配给 vt. 配给, 定量供应 
 43.sisi[]:n. (Sisi)人名；(意)西西 abbr. 短增量敏感指数（short increment sensitivity index） 
 44.fiscal['fiskәl]:a. 财政的, 国库的 [经] 财政上的, 会计的, 国库的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

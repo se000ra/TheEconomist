@@ -14,6 +14,7 @@
 In what it described as an “unprecedented action”, the British government ordered Whirlpool to recall up to 500,000 tumble dryers over safety concerns. The American maker of white goods issued a warning in 2015 that certain brands of dryers might catch fire, but rather than issue a recall it tried to fix them. 
 Beyond Meat had a rollercoaster week on the stockmarket. The American fake-meat company’s already buoyant share price soared after its first earnings report since going public in May revealed a boom in sales. But investors lost their appetite when an analyst warned that the stock was overpriced, sending the price down by a quarter. 
 Elliott Management, a hedge fund, agreed to acquire Barnes & Noble in a $683m deal. Elliott also owns Waterstones, a British chain of bookstores that is thriving despite predictions that Amazon would kill it off. James Daunt, who, as managing director, is credited with reviving Waterstones is also to run Barnes & Noble, where he will hope to turn the page on the American bookseller’s declining fortunes.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.V[vi:]:[计] 溢出, 变量, 向量, 检验, 虚拟, 垂直 [医] 钒(23号元素) 
@@ -113,4 +114,6 @@
 95.amazon['æmәzɒn]:n. 亚马孙河 [医] 无乳腺者 
 96.daunt[dɒ:nt]:vt. 威吓, 难倒, 使气馁 
 97.revive[ri'vaiv]:vt. 使苏醒, 使复兴, 使振奋, 回想起, 重播 vi. 苏醒, 复活, 复兴, 恢复精神 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

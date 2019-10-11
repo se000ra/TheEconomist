@@ -12,6 +12,7 @@
 It is hardly as if newspaper proprietors have not been controversial in the past, notes someone who should know, David Yelland, a former editor of the Rupert Murdoch-owned Sun. Readers may have to get used to new money from unfamiliar sources going into the press, he says. It takes a brave investor to back papers as ad revenues tumble, agrees a British newspaper chief executive. Yet “chapter one in a dictator’s playbook is controlling the media,” he says, hence concern about Saudi investment in Western newspaper brands. 
 Mr Lebedev, who is believed to have sunk over £100m into the two British titles, may not be placed to continue investing as generously in future, media observers reckon. As for the Ofcom and CMA inquiries, which will report in August, ESI Media, the firm that holds the two papers, has said that “the accurate presentation of news and freedom of expression is at the heart of our media outlets and we will continue to vigorously defend our editorial integrity when co-operating in this process.” 
 Depending on the Ofcom and CMA reports, DCMS may ask the CMA for a full investigation of Mr Abuljadayel’s deals. One outcome could be to force Mr Lebedev to unwind them, although according to Nicole Kar, head of UK competition for Linklaters, a law firm, that is very unlikely in the context of previous newspaper mergers. Or DCMS could demand remedies to restrict Saudi influence. Either way, most digital Independent consumers and the 1.4m Londoners who pick up the Standard of an evening will remain oblivious. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.sultan['sʌltn]:n. 苏丹(某些伊斯兰国家统治者的称号) 
@@ -100,4 +101,6 @@
 84.context['kɒntekst]:n. 上下文, 背景, 来龙去脉 n. 上下文 [计] 上下文 
 85.Londoner['lʌndәnә]:n. 伦敦人 
 86.oblivious[ә'bliviәs]:a. 遗忘的, 健忘的, 不知不觉的 [法] 忘却的, 健忘的, 不在意的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

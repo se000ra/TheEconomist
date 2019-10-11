@@ -18,6 +18,7 @@
 The overall picture, therefore, is that there is now good evidence that the trade war is leading some firms to crimp investment. Pessimists worry that the knock-on effect from this capital-spending stumble could be far-reaching and more painful than the likes of Goldman expect. In the long run it could sap productivity. In the short run it could cause firms to scale back hiring. That could then damage consumers’ confidence. 
 Much depends on whether hostilities between America and China intensify. On August 13th Mr Trump said that he had a “very, very productive call” with China’s leaders. But few on the ground take seriously the prospect of a lasting reconciliation. Jake Parker of the US-China Business Council, a lobby group, reports that his members have realised that the threat of future levies would still lurk even if a deal were struck and tariffs lifted. Blows to China’s economy could also spill back to America. 
 And Mr Trump has plenty more ways of injecting fear into the economy. He must decide whether to reinstate onerous restrictions on American companies that do business with Huawei, a Chinese telecommunications giant, by August 19th. His labelling of China as a currency manipulator could ignite a currency war. If the sickness that is now visible in most trade-exposed sectors spills over to the rest of the economy, that would set off a downward spiral that not even lifting tariffs, and allowing in Ms Lazar’s stuffed toys, would reverse.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.crimp[krimp]:n. 诱人当兵的人, 拳曲, 鬈发 vt. 诱...去当兵, 使拳曲, 使有褶 
@@ -112,4 +113,6 @@
 90.manipulator[mә'nipjuleitә]:n. 操作者, 机械手 [化] 机械手 
 91.ignite[ig'nait]:vt. 点燃, 使灼热, 使兴奋 
 92.spiral['spairәl]:n. 螺旋形之物, 螺线 a. 螺旋形的, 盘旋的 vi. 螺旋形下降, 螺旋形上升, 螺旋形行进 vt. 使螺旋形行进 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -13,6 +13,7 @@
 The decision will be a test of which Names are truly loaded as opposed to merely well off, insiders say. It is mostly the smaller Names, putting up around £1m or so, whose commitment to Lloyd’s might waver. For such investors the cost of setting up limited-liability firms and “Namecos” to limit risk, plus a plethora of fees, are particularly burdensome. Some Names, in addition, have been spooked by the frequency of natural catastrophes of late. Many are asking whether climate change means the recent run of disasters might become typical—and if so, what Lloyd’s is doing to avoid more losses. 
 If lots of smaller investors end up leaving, that will accelerate a shift that is under way in the mix of Names. These days new members tend to be richer than Names used to be and slightly less posh, says James Sparrow, a founder of Alpha Insurance Analysts, one of the main members’ advisory firms. New money is coming from successful entrepreneurs, he says. 
 Lloyd’s welcomes them as warmly as it did the titled nobs of yore. The market appreciates Names because having diverse sources of capital in addition to backing from companies (which have flooded in over the past two decades) is seen as a good thing by credit-rating agencies. Even so, not many new members are joining. Lloyd’s relies far less on money from Names than it used to. The share of underwriting capacity that they supply recently fell below a tenth for the first time. The hope is that Mr Neal will simplify the complex, expensive process of joining and leaving the market, which could help attract new blood. As things stand, Names are starting to look like part of the relics. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.posh[pɒʃ]:a. 豪华的, 漂亮的, 优雅的, 极好的 interj. 呸 
@@ -71,4 +72,6 @@
 54.nob[nɒb]:n. 头, 大人物 vt. 打头 
 55.yore[jɔ:, jɔә]:n. 从前, 往昔 
 56.relic['relik]:n. 遗物, 遗迹, 纪念物, 遗风, 残留物 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

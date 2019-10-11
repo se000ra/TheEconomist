@@ -11,6 +11,7 @@
 He delivered the goods. Trim, energetic and still impossibly handsome, he performed like a man hungry for redemption. His voice was richer and deeper for his 34 years and he prowled the stage like a panther, kicking up a sweat in his stretchy, karate-style outfits (Bill Belew, the designer of the increasingly ornate costumes, switched to jumpsuits after Elvis split his trousers). Backed by a dream-team of musicians, two vocal groups and a 40-piece orchestra, Elvis relished the reunion with his fans, many of them housewives who had screamed for him as teenagers. He played twice a night, seven days a week for four straight weeks and sold out every show. Rolling Stone hailed him as “supernatural, his own resurrection”. 
 The King returned to Vegas twice a year for seven years, always playing to sell-out crowds. In a city where entertainers had been loss-leaders, Elvis turned a profit. Hotels learned that the right star could attract ordinary types from all over, who would bring their families for a holiday splurge. He paved the way for the lavish shows of Celine Dion, Elton John and Lady Gaga. 
 But the demands of these twice-a-night gigs proved less kind to Elvis. By 1971 he looked tired and heavy; by 1975 he often needed a chair on stage. Isolated in his penthouse suite, hooked on pills and bloated with bacon, he was “a prisoner of the town as well as its saviour”. He died at Graceland in 1977 with 14 drugs in his system. But his spirit lives on in Las Vegas and in the pages of this enjoyable book. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.vega['vi:^ә]:n. [天]织女星 
@@ -107,4 +108,6 @@
 92.bloat[blәut]:vt. 使膨胀, 腌制, 使自大 vi. 膨胀, 肿起 n. 肿胀病人 
 93.saviour['seivjә]:n. 救助者, 救世主, 救星 
 94.graceland[]:n. 恩赐之地（歌曲名称） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

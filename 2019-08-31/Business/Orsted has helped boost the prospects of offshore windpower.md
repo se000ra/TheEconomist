@@ -15,6 +15,7 @@
 Global expansion brings new risks. Wind farms are now of a scale that, when a problem occurs, as it did when an outage at an Orsted wind farm off the coast of Yorkshire contributed to a blackout in Britain on August 9th, the world notices. Governments may unexpectedly change their terms, as Taiwan’s did this year. 
 Most important, Orsted faces stiffer competition. Equinor and Royal Dutch Shell, two European energy giants with six and 32 times its revenues, respectively, want to set offshore turbines atwirl. RWE, a German power company that is now the Danes’ closest rival, is buying the renewables assets of two other utilities. Macquarie, a bank, is among the heavyweights taking stakes in wind farms, providing capital that fuels more competition. 
 Analysts reckon that Orsted can hold its own even against the likes of Shell, which it recently beat in American tenders. If not for Denmark’s controlling stake, the oil giant might well be trying to buy it. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tailwind[ˈteɪlwɪnd]:n. （从后面吹来的）顺风 
@@ -97,4 +98,6 @@
 78.heavyweight['heviweit]:n. 重量级拳击运动员, (非正式)有影响的要人 a. 最重量级的 
 79.analyst['ænәlist]:n. 分析者, 精神分析学家 [化] 分析员; 化验员 
 80.reckon['rekәn]:vt. 计算, 总计, 估计, 认为, 猜想 vi. 数, 计算, 估计, 依赖, 料想 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

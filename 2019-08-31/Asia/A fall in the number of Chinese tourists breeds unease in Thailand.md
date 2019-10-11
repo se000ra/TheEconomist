@@ -11,6 +11,7 @@
 Another factor in the slowing growth of tourism is overburdened infrastructure. Packed airports with long queues induce a sense of anything but relaxation among visitors. Even beaches are too crowded. Last year the government closed Maya Bay, the cliff-encircled Eden made famous in the film “The Beach”, to allow its ecosystem to recover from the tourist onslaught of past years. The spot is not expected to reopen until 2021. 
 A drop in tourism will be difficult for a variety of companies. Poorly managed state enterprises may be in the worst position to endure a downturn. Thai Airways already loses money and is struggling under more than 100bn baht of debt. Even so, the transport minister has given permission for the carrier to purchase or lease 38 new aircraft. 
 Politicians are eager to ensure that tourism picks up again. The tourism minister believes more should be spent on marketing and incentives to attract visitors. On August 16th the government announced a stimulus package of 316bn baht to boost the economy. Among other measures, it extends a programme which provides free visas on arrival for tourists from countries including China and India—happily a country sending ever larger numbers of visitors to Thailand. It also offers 1,000 baht of spending money and a 15% rebate on hotel accommodation to domestic tourists who travel outside their home province. Yet the stimulus package may help only at the margins. In a country riven by coups and political conflict, tourism has succeeded in spite of the government, not because of it. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.unease[.ʌn'i:z]:n. 不安 
@@ -71,4 +72,6 @@
 56.rebate[ri'beit]:n. 部分退款, 折扣 vt. 退还, 打折扣 vi. 退还部分付款 
 57.rive[raiv]:vt. 撕开, 使破碎 vi. 裂开, 破裂 
 58.coup['ku:]:n. 砰然的一击, 妙计, 出乎意料的行动, 政变 [医] 发作, 中, 击 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

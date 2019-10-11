@@ -10,6 +10,7 @@
 Christoph Nissen, a member of the research group, says the students given tDCS performed 10-20% better on the three tasks than those given a sham stimulation, in which the electrodes were put in place but the current was turned off. And when the electrode positions were reversed, the scientists saw a corresponding decrease in measured creativity compared with the sham group. 
 Exactly how tDCS has this effect on the brain is not clear. The left side of the IFG works according to a more rigid interpretation of the world based on concrete features like language comprehension. Inhibiting that under the cathode, while encouraging activity in the more free-thinking right-hand side of the IFG with the anode, perhaps helped the students to think outside the box. 
 Dr Nissen says most of his team are looking for new ways to help patients with mental disorders, such as breaking patterns of repetitive negative thinking by encouraging cognitive flexibility. But his study’s insights can be applied to work and jobs outside the lab or clinic. The Alternate Uses Task, for example, assesses the creative skills required to brainstorm new products or see previously untapped potential in an everyday object. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.zap[zæp]:vt. 杀死, 快速推动, 闪电般击中 vi. 快速移动 n. 活力, 精力, 震击 interj. (表示快速)嚓 
@@ -58,4 +59,6 @@
 44.flexibility[.fleksi'biliti]:n. 弹性, 适应性 [计] 灵活性; 适应性 
 45.brainstorm['breinstɒ:m]:n. 灵机一动 v. 集体讨论 
 46.untap[]:abbr. United Nations Technical Assistance Programme 联合国技术援助计划 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

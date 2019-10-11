@@ -10,6 +10,7 @@
 Only in Ethiopia has a national airline been an undoubted success. Managers have been left to get on with their jobs, even though the business is state-run. By joining up with Ethiopian Airlines, governments elsewhere hope to learn from its expertise. But they cannot import its other advantages, such as Ethiopia’s strategic location as a gateway for Asian traffic. As Ethiopian Airlines spreads its wings, ever more journeys will be funnelled through Addis Ababa airport, which already welcomes more than 10m passengers a year. 
 The gleaming ranks of planes on the tarmac in Addis Ababa embody the dream of national carriers—and hint at a future which transcends them. The most efficient way to connect Africa is through a handful of regional hubs; the fastest way to increase flight numbers is by opening national markets to continental competition. Big players like Ethiopian Airlines are the obvious winners from that process, leaving little room for minnows. 
 Yet patriotic illusions persist. The Ugandan government is protecting its infant airline and has not signed up to the Single African Air Transport Market, which would liberalise regional aviation. Even the president says the ideal option would be to create an “East African Airways” with neighbouring countries. Politics stops that idea from taking off. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Uganda[ju(:)'^ændә, u:'^ændә]:n. 乌干达 
@@ -67,4 +68,6 @@
 53.patriotic[.peitri'ɒtik]:a. 爱国的, 有爱国心的 [法] 爱国的, 有爱国心的 
 54.liberalise['lɪbərəlaɪz]:vt. 使自由化 
 55.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

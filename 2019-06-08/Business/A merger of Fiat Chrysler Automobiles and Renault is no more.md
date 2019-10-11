@@ -8,6 +8,7 @@
 But, it then emerged, Nissan had been kept in the dark about the deal until the last minute. It worried that the deal’s structure as a 50-50 partnership between shareholders of Renault and FCA did not properly acknowledge Renault’s stake in Nissan, worth some $13bn. And the Japanese firm felt rushed into making a huge strategic decision, not long after it had rejected Renault’s plan for a full merger under Carlos Ghosn, the firm’s former boss who is now fighting charges of financial wrongdoing at Nissan (which he denies). Under the terms of the agreement governing the alliance, a change of control would have allowed Nissan to renegotiate the partnership. It had apparently called for a strategic review. The cost savings of €5bn ($6bn) that FCA claimed for the deal were partly predicated on the continuation of Renault’s alliance with Nissan and Mitsubishi. 
 Despite its misgivings, Nissan could have been brought on board, FCA believed. For FCA the main stumbling-block was the French government, which has a habit of being a tricky counterparty in deals involving national champions. Without French support, and acceptance of a 7.5% stake in the merged firm, the deal would not have got this far. But the French wanted control. Sources close to FCA say that the government was constantly second-guessing and renegotiating every aspect of the deal. For FCA this portended future interference. When France pointed the finger at Nissan as a roadblock, FCA lost patience. 
 The question is what happens now? Yet another car-industry mega-merger has collapsed—this time before it even got off the ground. It seems unlikely that the deal can be revived. FCA’s disillusionment with the French government seems too great. The rocky relationship between Renault and Nissan is unlikely to be improved by the French government’s finger-wagging. FCA will lick its wounds and may seek another deal. One often mooted partner is PSA Group, the maker of Peugeots and Citroëns. But it was the damning verdict on the now-dead merger issued last week by PSA’s boss, Carlos Tavares, who called it a “virtual takeover” of Renault, that may have thrown a spanner in the works. Engineering the consolidation of the car industry is looking harder than ever.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.merger['mә:dʒә]:n. 合并, 归并 [经] 购并 
@@ -64,4 +65,6 @@
 52.verdict['vә:dikt]:n. 裁决, 判决, 判断性意见, 定论, 结论 [法] 定论, 判断, 意见 
 53.takeover[]:n. 接管, 接收 [经] 接收 
 54.spanner['spænә]:n. 扳手 [化] 扳手; 紧固扳手; 紧固器 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

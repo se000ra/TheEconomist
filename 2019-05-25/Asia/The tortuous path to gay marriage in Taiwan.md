@@ -11,6 +11,7 @@
 Reactionary forces are much stronger elsewhere in Asia. Think of Brunei, which recently instituted death by stoning for gay sex. Taiwan does offer inspiration to Japan, which is socially tolerant but has a limp civil society. In February, 13 gay and lesbian couples there filed lawsuits against the government, claiming that the constitution required it to recognise same-sex marriage. The suits were brought simultaneously in district courts in Nagoya, Osaka, Sapporo and Tokyo on Valentine’s Day. “They are following Taiwan’s strategy,” says Victoria Hsu, a leader in Taiwan’s gay-marriage campaign. 
 In Hong Kong Mr Yau says Taiwan’s experience underscores the importance of winning hearts and minds. Equal-rights proponents are adamant that the basic rights of minorities should not be subject to a vote by the majority. But, says Mr Yau, there is a need to engage with the most vocal critics. It helps that homosexuality is no longer a taboo among the young. Public opinion is moving in favour of same-sex marriage. The courts have helped, by recognising the marriages of foreign gay couples for residency purposes. The territory’s overly cautious politicians might warm to the cause, says Fern Ngai of Community Business, a group that aims to make the private sector more inclusive, if they see it as necessary to maintain Hong Kong’s status as a hub of global business. Some 60 of Hong Kong’s biggest companies, with 110,000 employees between them, have signed up to Community Business’s tenets on LGBT inclusion. 
 Back in Taiwan, conservatives vow to roll back gay marriage. Yet in other jurisdictions, that has proved harder than getting it legalised in the first place. Societies tend to get used to the change quickly. In India critics still huff and puff about last year’s legalisation of homosexuality. But the Times of India—a staid bastion that still publishes lots of match-making classifieds—this week launched an Out & Proud advertising section. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.banyan['bænjәn]:n. 印度榕树 [医] 榕树, 孟加拉榕 
@@ -93,4 +94,6 @@
 78.staid[steid]:a. 认真的, 沉着的, 固定的 
 79.bastion['bæstʃәn]:n. 棱堡, 阵地工事 
 80.advertising['ædvәtaiziŋ]:n. 广告业, 广告 a. 广告的 [计] 发广告 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -8,6 +8,7 @@
 Wealth, child abuse and presidents are powerful ingredients for conspiracy theories. The truth may be more prosaic. Mr Epstein’s original defence team included Alan Dershowitz and Kenn Starr, two lawyers skilled in defending the indefensible. The evidence in the original case appears overwhelming. In an interview with the Miami Herald the lead detective recounted phone records, flight logs and instructions for delivering flowers to one of Mr Epstein’s young fixations—alongside her high-school report card. But the difficulties of securing convictions in cases of rape or sexual abuse are well known. 
 Nor is it obvious that the top federal prosecutor who negotiated the deal, Alexander Acosta, had better options available. That may not save him. Mr Acosta is currently serving as Mr Trump’s labour secretary. Democrats would now like him ousted. Nancy Pelosi, the Democratic speaker of the House, and Chuck Schumer, the Senate’s minority leader, have called for his resignation. So too have many of those vying for the Democratic presidential nomination. Mr Trump so far has lent his support, saying he feels “very badly” for Mr Acosta and noting that “he’s been a great, really great secretary of labour”. When past cabinet secretaries have attracted negative headlines, Mr Trump has often started out strongly supportive and then soured as the withering critiques continued. 
 Turbulence in the Trump administration is no new phenomenon. Much of it results from a lack of due diligence. Mr Acosta was not properly vetted until after he was nominated for the post—following the withdrawal of Mr Trump’s previous nominee, Andrew Puzder, amid allegations of domestic abuse and failure to pay taxes. Among the portfolios Mr Acosta now oversees are enforcement of child-labour and human-trafficking laws. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.jeffrey['dʒefri]:n. 杰弗里（男子名, 等于Geoffrey） 
@@ -82,4 +83,6 @@
 70.portfolio[pɒ:t'fәuliәu]:n. 皮包, 公文包, 部长职务, 有价证券财产目录, 艺术代表作选辑 [法] 公文包, 文件夹, 阁员职务 
 71.oversee[.әuvә'si:]:vt. 向下看, 了望, 监督, 偷看到 [法] 监察, 监督, 俯瞰 
 72.enforcement[in'fɒ:smәnt]:n. 执行, 强制 [法] 实施, 加强, 厉行 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

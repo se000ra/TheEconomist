@@ -9,6 +9,7 @@
 By excavating 1,699 stones, pebbles and flakes, and working out the age of 122 hammerstones from the radiocarbon dates of charcoal buried alongside them, the team split the site’s history into four phases. Capuchins first swung a rock in the area somewhere between 3,000 and 2,400 years ago—the beginning of a period the researchers call Phase IV. This is the oldest known instance of non-ape tool use. Phase IV hammerstones are light and have many impact marks. This suggests they were used mainly on seeds (possibly from cassava) smaller than the cashews which today’s monkeys pound, meaning hammerstone and anvil often came into contact with one another. 
 Phase III, between 640 and 565 years ago, featured transitional behaviours that led to Phase II, from about 257 years ago, when hammerstones were heavier and are associated with many large anvils, suggesting a food source bigger and harder than cashews (the hard-shelled jatoba fruit is a possibility). More recently, in Phase I (from 27 years ago), cashew residue on stones suggests the monkeys were moving towards their present-day alimentary focus. What Dr Falótico and Dr Proffitt do not yet know is whether the variation they saw is a result of different groups of capuchins, with different habits, occupying the site at different times—or, alternatively, whether a single lineage of the animals has changed its nutritional culture over the years. 
 Until Dr Falótico’s original dig, chimps were the only species other than human beings for which an archaeological record of tool use had been found. (In 2007 researchers discovered chimpanzee-modified stones that were 4,300 years old.) There is no reason, though, not to expect the finding of further, and perhaps older, sites in future. Moreover, studying how capuchins and chimps have used tools may give an inkling of how the process happened in people. One thing Dr Falótico and Dr Proffitt have noticed is that some of the sharp flakes that fly off when hammer meets anvil look identical to Stone Age blades made by human beings. Capuchins have not yet—so far as is known—thought to use such flakes as knives. But perhaps their own “2001” moment awaits them in the future.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.archaeology[.ɑ:ki'ɒlәdʒi]:n. 考古学 
@@ -68,4 +69,6 @@
 55.chimp[tʃimp]:n. 黑猩猩 
 56.archaeological[.ɑ:kiә'lɒdʒikl]:a. 考古学的, 考古学上的 
 57.inkling['iŋkliŋ]:n. 暗示, 微微觉得 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

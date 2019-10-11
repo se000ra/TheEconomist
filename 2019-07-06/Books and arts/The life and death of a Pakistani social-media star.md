@@ -10,6 +10,7 @@
 In one sense, Baloch’s story is an optimistic one—of how the rapid spread of mobile technology and social media offers an escape for people trapped in a life of miserable obscurity. As recently as 2000 only 133,900 Pakistanis were online. Yet to date her painful “Pakistan Idol” audition has been watched 10.9m times on YouTube. 
 But her success was also responsible for her death. Two events precipitated it. A newspaper revealed her real name and origins, so her brothers could no longer ignore the stain her online persona was leaving on their “honour”. And she posted flirtatious videos and pictures of herself with a leading Muslim cleric (and head at the time of the religious wing of Mr Khan’s party, from which he was later expelled). 
 The fuss and “disgrace” this caused was too much for a brother to bear, and one drugged and strangled her. Unusually, her parents at first condemned the murderer. The furore helped the passage of a law that makes it harder for perpetrators of “honour” killings—of which there are hundreds every year—to escape justice. But three years on, the parents have changed their tune, not wanting to lose a second child. The case drags on. Social media may have the power to transform lives and society, but traditional attitudes endure—and the resulting clashes can be tragic. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.idol['aidәl]:n. 偶像, 崇拜物, 宠儿, 幻象, 谬论 
@@ -68,4 +69,6 @@
 54.perpetrator[]:n. 作恶者, 犯罪者, 行凶者 [法] 作恶者, 行凶者, 犯罪者 
 55.clash[klæʃ]:n. 冲突, 撞击声, 抵触 vi. 冲突, 抵触 vt. 使发出撞击声 [计] 对撞 
 56.tragic['trædʒik]:a. 悲惨的, 悲剧的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -36,6 +36,7 @@
 One answer is that it is following a cycle of its own. Analysis by the Bank for International Settlements shows that since the 1980s the financial cycle, in which credit growth fuels a subsequent bust, has grown in amplitude but has kept its length at about 15-20 years. In this model, America is not yet in the boom part of the cycle (see chart 5). America’s private sector, which includes households and firms, continues to be a net saver, in contrast to the late 1990s and late 2000s, note economists at Goldman Sachs. Its household-debt-to-GDP ratio continues to fall. It is rising household debt which economists have most convincingly linked to finance-sector-driven downturns, particularly when it is accompanied by a consumption boom. America and Europe had household debt booms in the 2000s; neither does today. The most significant run up in household debt in the current cycle has taken place in China. 
 ![image](images/20190713_FBC389.png) 
 The world economy’s unprecedented expansion hardly looks healthy; the trade war may have dampened animal spirits to an extent that cannot be offset by the highly constrained amount of stimulus available to the apothecaries of the central banks. But it remains possible that it will plod on for some time. The longer it does so, the more it will look like the world really has made a change for the moderate. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -190,4 +191,6 @@
 150.constrain[kәn'strein]:vt. 强迫, 限制, 关押 
 151.apothecary[ә'pɒθәkәri]:n. 药剂师, 药房 [医] 药剂员; 药店 
 152.plod[plɒd]:n. 沉重的步伐, 辛勤工作 vi. 沉重地走, 辛勤工作, 孜孜从事 vt. 沉重缓慢地走 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

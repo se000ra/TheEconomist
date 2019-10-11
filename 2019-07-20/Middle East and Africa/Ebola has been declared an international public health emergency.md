@@ -9,6 +9,7 @@
 Dr Tedros’s declaration came as a surprise to many aid workers. “[Ebola] really becomes a problem when a chain of transmission is launched,” says Tariq Riebl of the International Rescue Committee, an NGO. Declaring an emergency will not change the nature of the response, says Oly Ilunga, the Congolese minister of health. Previously, doctors had worried that declaring an emergency might lead other countries to close their borders. In west Africa, that hampered the response, as sick people avoided checkpoints. Now the WHO says that more international co-ordination is needed, especially given the threat of a spread to Rwanda, which is thought to be less well prepared than Congo and Uganda. 
 But the response is also running desperately low on funds. The next phase will need roughly $233m, says the WHO, and donor countries have so far not contributed enough. Some suspect that declaring an emergency is an attempt to unlock some cash. That sets an awkward precedent, says David Heyman of the London School of Hygiene and Tropical Medicine. 
 In Goma, buckets of chlorinated water alongside health workers armed with thermometers are stationed throughout the city. Residents greet one another coolly, with nods and fist bumps instead of effusive Congolese handshakes and kisses.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ebola[i'bəulə]:n. 埃博拉病毒 
@@ -60,4 +61,6 @@
 47.bump[bʌmp]:n. 撞击, 肿块 vt. 碰撞 vi. 撞, 颠簸而行 
 48.effusive[i'fju:siv]:a. 感情横溢的, 奔放的, 流出的 
 49.handshake['hændʃeik]:n. 握手 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

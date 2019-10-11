@@ -9,6 +9,7 @@
 Yet considering the huge number of recreational players, Asians are underrepresented in professional cricket, dropping to just 4% of first-class county players. Absent high-profile international tournaments, only 3% of cricket tickets are bought by South Asians. The reasons for this are many, including parental emphasis on other careers, a lack of Asian coaches, drinking culture and fewer facilities in the urban areas where Asians tend to live, says Kevin Hylton of Leeds Beckett University, who has researched the subject for the ECB. 
 A year ago the ECB published an “Engaging South Asian Communities Action Plan”, with targets for the following six years. These include building more facilities, promoting shorter formats of the game more likely to appeal to youngsters and encouraging more female coaches. The board is ahead of schedule on pitch-building, says Vikram Banerjee, its head of strategy. The most high-profile effort is the Hundred, a new cricket league starting next summer, which will feature city- rather than county-based teams, include foreign big-hitters and use a new format of 100 balls a side. 
 The moves have been a long time coming—the ECB commissioned research from Mr Hylton as far back as 2015. “We want this to be done properly,” says Mr Banerjee. “It is core business…If one-third of our cricketers are from South Asian backgrounds then this is who we are.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.subcontinental[sʌbkɒntɪ'nentl]:a. 次大陆的 
@@ -46,4 +47,6 @@
 33.vikram[]:n. (Vikram)人名；(印、尼)维克拉姆 
 34.banerjee[]:n. (Banerjee)人名；(印)班纳吉 
 35.cricketer['krikitә]:n. 板球队员, 玩板球者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

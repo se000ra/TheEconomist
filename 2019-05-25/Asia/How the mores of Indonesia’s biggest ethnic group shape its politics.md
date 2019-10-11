@@ -10,6 +10,7 @@
 Java plays a disproportionate role in the economy and politics. It is home to Jakarta, the capital, and generates 58% of GDP. Party bigwigs tend to be Javanese. Their dislike of conflict has helped create a parliamentary system run by consensus, rather than majority rule. Cross-party committees shape laws and the budget. This means law-making can be tediously slow and often ends in a woolly compromise. 
 Political parties have only the vaguest of ideologies, and tend to fall in line behind the president of the day. The coalition supporting Joko Widodo, the current president, who is known as Jokowi, will probably command 60% of seats in the new parliament. His predecessor managed 75%. And before his re-election in April Jokowi contemplated striking an alliance with Prabowo Subianto, who had run against him in 2014 and ended up running against him this year. That would have done away with the need to hold an election at all. 
 This week, after the official results of the election were released, Mr Prabowo’s supporters mounted protests in which at least six people died. This disorder, too, is very Javanese: what better way to show a leader is illegitimate than to prove he cannot preserve peace and harmony? 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ethnic['eθnik]:a. 人种的, 种族的 [医] 人种的 
@@ -71,4 +72,6 @@
 57.prabowo[]:[网络] 拉波沃；拉博沃 
 58.supporter[sә'pɒ:tә]:n. 支持者, 后盾, 迫随者, 护身织物 [法] 支持者, 赡养者, 抚养者 
 59.illegitimate[.ili'dʒitimәt]:a. 不法的, 私生的, 不合规则的, 不合理的, 不符合习惯的 n. 无合法身份的人 vt. 宣告...为非法, 证明...为私生 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

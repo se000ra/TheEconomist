@@ -9,6 +9,7 @@
 In the past, whenever growth looked set to slow sharply, Chinese companies could count on a stimulus package to revive it. But this time officials have been much more restrained in their response, partly because of concern about adding to China’s hefty debt burden. On August 26th the central bank had a chance to lower funding costs for banks, but it refrained, bucking the global trend towards lower rates. On August 27th the State Council, or cabinet, issued an underwhelming 20-point plan to promote consumption. Some analysts had been hoping for targeted tax cuts or subsidies; instead, it made small-bore promises, such as more 24-hour convenience stores. 
 The Chinese government’s lack of panic about the economic outlook should give Mr Trump pause. “Its leadership now looks committed to a strategy of toughing out trade tensions,” says Andrew Batson of Gavekal, a research firm. It helps that China has procured insurance in letting its exchange rate decline to 7.1 yuan per dollar, the weakest since 2008, offsetting some of the drag from tariffs. 
 But some think the calm is verging on complacency. Not only has China’s government refrained from stimulus, but it has become more hawkish about the property sector, the engine of its economy. In line with President Xi Jinping’s oft-repeated warning that investors should not speculate on housing, regulators have curtailed lending to developers and sworn off cutting mortgage rates. “We would view stabilising growth by choking credit to the property sector as analogous to performing cardiac surgery without blood pumps, oxygen and anaesthesia,” says Lu Ting, an economist with Nomura, a bank. In other words, things could get ugly. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.inversion[in'vә:ʃәn]:n. 倒转, 倒置, 倒装 [化] 反转; 倒反; 反演; 转化 
@@ -59,4 +60,6 @@
 46.LU[]:[计] 逻辑单元, 逻辑部件 [医] 镥(71号元素) 
 47.ting[tiŋ]:n. 叮当声, 叮叮声 v. (使)发叮叮声 
 48.Nomura[]:n. 野村证券；野村（日本企业） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -22,6 +22,7 @@
 Matthijs Rooduijn of Utrecht University and Brian Burgoon of the University of Amsterdam looked at support for radical parties in 21 European countries from 2002 to 2014. They found that people who thought they were being left behind were less willing to vote for the radical right when the economy was weak (though support for the radical left was stronger). But when the economy recovered, support for the far right rose. Perhaps the most dangerous moment for an unpopular regime really is when things start to improve. 
 One last factor to consider is less to do with voters than with politicians. This is that populists are using social media more adeptly than mainstream parties are. In the first three months of this year France’s National Rally and Germany’s AfD generated about 40% of all posts related to the European election campaign from political groups on Facebook in France and Germany. In Britain posts linking to the Brexit Party generated more shares than the posts for all other parties combined. In Italy’s general election in 2018, the League and the Five Star Movement dominated Facebook. Maybe the number of unhappy voters is not rising. Maybe it is just that thanks to the internet, populists are getting better at finding (or creating) them. 
 None of this means that happiness has suddenly become irrelevant to the craft of politics. What it suggests is that the simple formula—politicians make voters happier, voters return them to power—needs refinement. The pursuit of happiness may be an inalienable right but the political rewards for increasing it are uncertain.  
+<<<<<<< HEAD
 -- 
  单词注释:
 1.paradox['pærәdɒks]:n. 似非而是的论点, 自相矛盾的话, 悖论, 怪人怪事 [化] 佯谬 
@@ -127,4 +128,6 @@
 101.irrelevant[i'relәvәnt]:a. 不恰当的, 无关系的, 不相干的 [法] 无关的, 不相干的, 离题的 
 102.refinement[ri'fainmәnt]:n. 精致, 高尚, 精巧 [医] 精制, 精练 
 103.inalienable[in'eiljәnәbl]:a. 不能让与的, 不能转售的, 不能夺取的, 不可分割的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

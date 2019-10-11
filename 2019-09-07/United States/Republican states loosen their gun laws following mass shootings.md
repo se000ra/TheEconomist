@@ -8,6 +8,7 @@
 Mass shootings seem only to further galvanise people along party lines. A study published this year by David Barney and Brian Schaffner, two political scientists, found that among those who lived within 25 miles of a mass shooting, average support for stricter gun control among Democrats increased by two percentage points. The opposite was true for Republicans. 
 Less than 24 hours after the most recent mass shooting in Texas, nine new laws came into effect in Texas, all making it easier for civilians to carry guns. They were not motivated by the killings in Odessa and Midland, but rather by prior mass killings. It will now be easier for licensed gun owners to take their weapons into churches and other places of worship. Schools will no longer be able to prevent gun owners from keeping ammunition in their car parks. Greg Abbott, Texas’s governor, says his state’s newly enacted laws will make communities safer. This might sound backward, but for anyone who believes that guns equal safety, more guns make perfect sense as a response to a mass shooting. 
 President Donald Trump’s administration is preparing new legislation which will expedite the execution of perpetrators found guilty of mass killings, and introduce a number of new gun reforms. The Texan shooter had previously failed a background check, which meant he was unable to buy a gun from a retailer. Yet he was able to obtain a rifle from a private seller, a process which does not require a background check. Mr Trump’s mooted changes are unlikely to close this loophole.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.daddy['dædi]:n. 爸爸 
@@ -49,4 +50,6 @@
 37.shooter['ʃu:tә]:n. 射手, 狩猎者, 手枪 
 38.retailer['ri:teilә]:n. 零售商人, 传播的人 [经] 零售商 
 39.moot[mu:t]:n. 大会, 模拟案件, 辩论会 a. 未决议的, 无实际意义的 vt. 讨论, 争论 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

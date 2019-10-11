@@ -7,6 +7,7 @@
 In July Ken Wyatt, the minister for indigenous Australians, announced that the government would, by the end of its three-year term in 2022, hold a referendum on giving “constitutional recognition” to Aboriginals. (The constitution used to mention Aboriginals as being under the jurisdiction of state governments and not to be counted in the census, but since a revision in 1967 does not mention them at all.) Aboriginal leaders want the new amendment to be more than symbolic. Two years ago activists held a “National Constitutional Convention” at Uluru (Ayers Rock) in central Australia to discuss what it should entail. They called for “power over our destiny” and for a “First Nations Voice enshrined in the constitution”. 
 Labor, the main opposition party, supports the idea of an advisory body with a constitutional underpinning, to protect it from what Linda Burney, its shadow minister for indigenous affairs, calls the “whim of any government”. She recalls how a previous right-wing government simply abolished a commission charged with protecting Aboriginal interests 14 years ago. The government, however, has dismissed the “voice”, as a third chamber of parliament. Conservative commentators say creating such a body would flout racial equality by giving special rights to Aboriginals. 
 Murray Gleeson, a former chief justice, has assailed such arguments. “What is proposed is a voice to parliament, not a voice in parliament.” To him, such an idea “hardly seems revolutionary”. On the contrary, he says, it would be an “appropriate form of recognition”. What the government considers appropriate is less clear. Mr Wyatt has promised to work with Ms Burney to craft a proposal. Both are Aboriginals—a breakthrough in itself. The debate about the voice, Ms Burney says, will be “the story of this term of government”. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.amend[ә'mend]:vt. 修改, 改善, 改良 vi. 改过自新 
@@ -58,4 +59,6 @@
 47.gleeson[]: [人名] [爱尔兰姓氏] 格利森 Gleesan的变体; [地名] [美国] 格利森 
 48.assail[ә'seil]:vt. 攻击, 质问 [法] 攻击, 袭击, 著手解决 
 49.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

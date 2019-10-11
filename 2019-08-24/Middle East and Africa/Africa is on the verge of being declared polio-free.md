@@ -9,6 +9,7 @@
 Volunteers trained to spot the virus have been crucial in preventing outbreaks—not just of polio. In 2014 they helped trace nearly 900 people who may have been exposed to Ebola after an infected man from Liberia arrived in Lagos. Nigeria quickly contained the virus, which killed eight in the country. 
 The big worry now is that polio from Afghanistan and Pakistan may be brought to Africa and lead to new outbreaks. In the past polio from India made its way to Angola and Congo after they were declared polio-free. The strain from Pakistan is already travelling: it was recently found in sewage in Iran. That is one reason why it is important to maintain high vaccination rates in Africa. 
 This week’s anniversary is good news, but risks remain. Mutations of the weakened virus in the vaccine are circulating in several African countries, including Nigeria. Higher vaccination rates will solve that problem, too. More work is still needed.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.vanquish['væŋkwiʃ]:vt. 打败, 征服, 克服 [法] 征服, 战胜, 击败 
@@ -56,4 +57,6 @@
 43.sewage['sju:idʒ]:n. 脏水, 污水 [医] 污水, 污物 
 44.Iran[i'rɑ:n]:n. 伊朗 
 45.mutation[mju:'teiʃәn]:n. 变化, 突变, 元音变化 [化] 突变 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

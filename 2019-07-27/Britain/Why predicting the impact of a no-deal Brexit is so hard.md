@@ -10,6 +10,7 @@
 The second issue is what happens to non-tariff barriers, such as regulations, between Britain and its trading partners. Plenty of academic work looks at the economic impact of entering a big trading bloc, but there is much less on countries leaving, since this rarely happens. Will the non-tariff barriers that were lowered during Britain’s membership of the EU rise again when it pushes off? The government estimate shown in the chart assumes that the majority will be. Others, including from Rabobank, use estimates of non-tariff barriers between the EU and America as a guide to what Britain could face. 
 The third judgment concerns so-called “dynamic effects”. Economists often assume that a reduction in openness to trade will crimp long-term productivity growth, in part because specialisation is more difficult and in part because inward investment from abroad would be lower. One paper from the London School of Economics, which looks at the impact of Britain moving to WTO rules, finds that including these dynamic effects triples the estimate of lost GDP per person. 
 Brexiteers argue that most economists are too negative—just as they were about the impact of the vote to leave the EU in 2016. Following a chaotic exit, the Bank of England could radically loosen monetary policy, and the government could ramp up spending or slash taxes. Perhaps. But even the gloomiest economic forecasts only paint a partial picture of what could happen following a chaotic exit. Shortages of medicines, violence at the Irish border, shuttered farms and panicky immigrants might not affect the economy much. But there is more to life than GDP. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Brexit[]:[网络] 英国退出欧盟 
@@ -54,4 +55,6 @@
 40.slash[slæʃ]:v. 猛砍, 乱砍 n. 猛砍, 乱砍, 删减 [计] 斜线 
 41.shutter['ʃʌtә]:n. 百叶窗, 关闭物, 照相机快门, 关闭者 vt. 为...装百叶窗, 以百叶窗遮闭 
 42.panicky['pæniki]:a. 恐慌的, 惊慌失措的 [法] 恐慌的, 由恐慌引起的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

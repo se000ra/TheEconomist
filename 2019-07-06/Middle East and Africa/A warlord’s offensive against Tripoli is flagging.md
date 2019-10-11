@@ -18,6 +18,7 @@
 He may also become more destructive. Since losing Gharyan he has stepped up his bombardment of Tripoli. Fighting has already destroyed one airport and threatens a second. On July 3rd an attack killed 44 African migrants in a detention centre on the edge of Tripoli. Power lines and the pipes bringing water are also vulnerable to attack. Electricity is down to nine hours a day. Schoolchildren complain it is too hot to prepare for exams. More than 100,000 people have left the capital’s outlying suburbs for the city centre. 
 Most people in Tripoli want a government able to collect the rubbish and put an end to the militias’ extortion and turf wars. (“It’s like taming wildcats in a circus,” is how a government official describes governing Tripoli.) Some may have once welcomed the order that Mr Haftar promised to restore. But his bombardment has punctured such hopes. His flamboyant uniforms, his nepotistic promotion of his sons and backing from the former regime’s henchmen stir fears of a second Qaddafi. 
 Meanwhile, the horror goes on. Field hospitals and ambulances ferrying the wounded have come under attack. A nurse camped in a school with her children, after the shelling destroyed her home, begs for relief. “Why don’t they both just go away,” she sobs. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.siege[si:dʒ]:n. 包围, 围攻, 再三的努力 vt. 包围, 围攻 
@@ -109,4 +110,6 @@
 87.nepotistic[,nepə'tistik]:a. 裙带关系的；重用亲戚的；任人唯亲的 
 88.promotion[prәu'mәuʃәn]:n. 晋级, 创建, 增进 [经] 推广, 推销, 促进 
 89.henchman['hentʃmәn]:n. 忠实追随者, 党羽, 跟踪者 [法] 亲信, 心腹, 顺从者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

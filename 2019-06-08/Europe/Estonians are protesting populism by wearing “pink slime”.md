@@ -7,6 +7,7 @@
 EKRE cannot be ignored. It has been a junior partner in government since April, following an election in which it won 18% of the vote. “Rahva Oma Kaitse”, a satirical radio show, joked that roosa ila would soon be outlawed. On hearing this, Liina Lelov, a jewellery designer, decided to create something for those who identify with it. The pins, which she makes by hand and sells for €5 ($5.50) each, have sold out multiple times. 
 In April Kersti Kaljulaid, the president, made a sartorial statement of her own, attending the government’s swearing-in ceremony in a top bearing the words “speech is free”. Days earlier Martin Helme, the incoming finance minister (and son of Mart), had called for “biased” presenters to be removed from the state broadcaster. In the same week Vilja Kiisler, a journalist, quit the country’s largest newspaper, saying she had been asked to tone down her criticism of EKRE by the editor-in-chief—the nephew of the elder Mr Helme. 
 Before the swearing-in ceremony was over, there was a new reason to take offence. Mart and Martin Helme posed for photographers making an “OK” hand gesture, which has become associated with white supremacism. (The younger Mr Helme has stated that he wants to “keep Estonia white”.) EKRE seems to be furnishing liberals with fodder for outrage faster than their fashion designers can keep up. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.slime[slaim]:n. 烂泥, 粘液 vt. 涂上泥 vi. 变粘滑 
@@ -56,4 +57,6 @@
 45.supremacism[sʊp'reməsɪzəm]:n. 至上主义 
 46.fodder['fɒdә]:n. 饲料, 草料, 素材, 弹药 vt. 喂 
 47.outrage['autreidʒ]:n. 暴行, 侮辱, 愤怒 vt. 凌辱, 虐待, 触犯 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -10,6 +10,7 @@
 Perhaps the boldest of all is pension reform, designed to merge 42 existing regimes into a single, fairer and more transparent system. The idea is to encourage job mobility and, implicitly, to delay retirement. The French currently spend more time in retirement than anybody else in the OECD, and the state pension system is in deficit. Mr Macron says he will not raise the legal retirement age, which would help meet that shortfall. But the merged system, when its rules are unveiled in the autumn, may end up encouraging later retirement anyway. The reform is as politically sensitive as it is ferociously complex. “It’s probably the most ambitious reform of Macron’s presidency,” says Jean Pisani-Ferry, an economist who co-ordinated Mr Macron’s campaign manifesto in 2017. 
 The president’s newfound confidence will not in itself be enough to make these reforms work. Some in government worry that they involve a big political effort for little budgetary gain, at least in the short run. The government has already pushed its budget deficit back above the 3% of GDP Maastricht limit this year, partly because of income-support measures designed to calm the gilets jaunes. Others fear that Mr Macron has let slip his campaign promise to trim the size of the civil service. Detractors of a different sort accuse Mr Macron of wanting to privatise it, and to dismantle the welfare system. After the gilets jaunes have monopolised the airwaves for so long, unions are keen to make their voice heard. 
 If anything, the gilets jaunes protests showed that public policy cannot be decreed from on high, and Mr Macron claims that he has heard and understood this message. Yet his reputation also rests on a willingness to enact unpopular reform, at a time when his earlier policies are now starting to show promising results, notably in terms of job creation. Act II of Mr Macron’s presidency will test whether those two objectives can be reconciled. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.macron['mækrәn]:n. 长音符号 
@@ -83,4 +84,6 @@
 69.notably['nәjtbәli]:adv. 显著地, 著名地, 尤其, 特别 
 70.creation[kri:'eiʃәn]:n. 创造, 创作物, 发明 [化] 产生 
 71.reconcile['rekәnsail]:vt. 使和解, 调停, 使和谐, 使一致, 使听从 [经] 对帐, 使一致 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

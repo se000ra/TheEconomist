@@ -12,6 +12,7 @@
 Still, scepticism is in order. People are not clamouring for faster data, because 4G gives them enough already. After studying the internet usage of reporters at the Wall Street Journal, academics found that they use only a fraction of their available bandwidth, even while watching several videos at once. Much of the industrial logic of faster connectivity, such as greater use of sensors in factories, can be supplied by 4G networks. No device exists that makes a compelling business case for 5G. Mr Webb invokes the aerospace industry to warn of the perils of betting on ever-faster speeds. “5G could end up being like Concorde—a superb feat of engineering but of limited value to all but a small minority.” 
 5G has already come at a cost to Vodafone. This year it slashed its dividend, partly to pay for a pricey spectrum auction in Germany. But like many of its peers, it sees 5G as a way to revitalise revenue growth. It says the new technology will support many more devices at home and at work than 4G does, will lower the cost to Vodafone of handling a lot of data, and improve the reliability of communications in everything from cars to hospitals. Its newish boss, Nick Read, is hoping to form a closer relationship with customers, who increasingly see wireless connectivity as a commodity, by offering tailor-made 5G services. He is also lobbying governments to spur investment (rather than competition) to avoid a 3G-style fiasco. He is cutting his own infrastructure costs by striking network-sharing deals with mobile operators in Britain, Spain and Italy. 
 Those are good ideas that may ease the 5G strain. But until the equivalent of a “killer app” comes along to bring the benefits of 5G to billions, it is not clear who will make much money from it. It is up to the telecoms firms to show that they can defy history.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Schumpeter[]:n. 熊彼特（美籍奥匈帝国经济学家, 当代资产阶级经济学代表人物之一） 
@@ -105,4 +106,6 @@
 89.killer['kilә]:n. (非正式)杀人者, 屠杀者, 猛兽, 致死(疾病), 杀手, 止痛药, 限制器, 瞄准器 [计] 删除程序; 断路器 
 90.APP[]:[计] 应用, 应用程序; 相联并行处理器 
 91.defy[di'fai]:vt. 藐视, 挑衅, 使落空 n. 挑战 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

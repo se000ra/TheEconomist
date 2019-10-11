@@ -13,6 +13,7 @@
 The Federal Trade Commission, an American regulator, has received complaints against Facebook (which owns Instagram), YouTube and TikTok, a popular Chinese-owned video-sharing app, alleging that they collected data from children under 13. In February TikTok agreed to pay a fine of $5.7m, said it would take down any videos uploaded by children under 13, and pledged to limit the app’s functions for these young users. 
 Data-privacy rules aside, it has mostly been up to social-media companies to regulate other aspects of their operations themselves. They can restrict content as they please, but have only done so in the glare of scrutiny, after journalists or activists shed light on problems. (In February YouTube largely banned comments on videos featuring children.) Without the threat of severe penalties, the platforms have had little financial incentive to change. MIDiA, a consultancy, estimates that in 2017 children’s channels accounted for 17% of YouTube views, and 15% of revenues, or $2.1bn. 
 The threat is now materialising. In June Ed Markey, a senator from Massachusetts, is expected to introduce a sweeping child-protection bill, the “KIDS Act”. It would ban continuous “autoplay” on video sites and certain social features, set standards for content and restrict advertising. It would, in other words, be the internet era’s equivalent of the Children’s Television Act, which Mr Markey helped pass as a young congressman. As Mr Steyer says: “To a child a screen is a screen is a screen.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.alright[ɔ:l'rait]:a. 没问题的 
@@ -94,4 +95,6 @@
 77.Massachusetts[.mæsә'tʃu:sits]:n. 麻萨诸塞州 
 78.advertising['ædvәtaiziŋ]:n. 广告业, 广告 a. 广告的 [计] 发广告 
 79.congressman['kɒŋgresmәn]:n. 国会议员, 众议院议员 [法] 国会议会 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

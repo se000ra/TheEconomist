@@ -13,6 +13,7 @@
 What will not change, whether Labour or the Conservatives are in Downing Street, is the government’s overestimation of Britain’s clout in the world. Both parties are fond of the tagline “Global Britain”. Yet whoever enters Downing Street will find that life as a medium-sized country in a world of continent-sized rivals is hard. Britain cannot act like a Scandinavian country, using its large aid budget to play an outsized role in the world, points out one former foreign secretary. “Nordics are trusted by people in the international community in a way Brits are not,” he says. 
 Playing an active role in the Middle East requires winning over not just the Palestinians but Israel and America too, a task for which Mr Corbyn, who has spent his life railing against American imperialism and who failed to root out anti-Semitism within Labour, is uniquely ill-suited. The close intelligence relationship between Britain and America may be jeopardised, given Mr Corbyn’s views and allies. Even British agencies may feel uncomfortable sharing reports with a Downing Street that includes a senior adviser who was a member of the British Communist Party until 2016. 
 It may be that, rather than charting a radical new course, Britain finds itself bleating from the sidelines, the Foreign Office reduced to little more than an NGO, says Thomas Raines of Chatham House, a think-tank. Back on Whitehall, Mr Corbyn told the crowd: “Never forget: protest and activism eventually leads to change.” He may find that is not always the case, even in Downing Street. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.demonstration[.demәn'streiʃәn]:n. 示范, 实证 [医] 示教, 实物教授 
@@ -114,4 +115,6 @@
 97.raines[]: [人名] [英格兰人姓氏] 雷恩斯取自父名，来源于Raine↑1，含义是“雷恩之子”(son of Raine) 
 98.chatham['tʃætәm]:n. 查塔姆（姓氏） 
 99.activism['æktivizm]:n. 激进主义, 行动主义, 能动论 [法] 激进主义, 行动主义 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

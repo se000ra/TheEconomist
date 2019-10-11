@@ -19,6 +19,7 @@
 This is not just an injustice but a sign of economic inefficiency. The average gap between wages earned by graduates and non-graduates in sub-Saharan Africa is wider than in other regions. It would make sense if students could defer the expense. This would ensure that those who benefit the most from university cover the costs, leaving more public money for other things. 
 Several African countries have introduced state loan schemes. But governments have struggled to chase up debts. The private sector is now trying to do a better job. Kepler and Akilah, an all-female college in Kigali, are working with CHANCEN International, a German foundation, to try out a model of student financing popular among economists—Income Share Agreements. CHANCEN pays the upfront costs of a select group of students. Once they graduate, alumni pay CHANCEN a share of their monthly income, up to a maximum of 180% of the original loan. If they do not get a job, they pay nothing. 
 Kepler’s experiment began only in January. But models such as these should help more students gain qualifications, while encouraging institutions to think about their job prospects. That can only be good news for young Africans. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tertiary['tә:ʃiәri]:a. 第三的, 第三位的, 第三产业的 n. 第三修道会会员, 第三纪 第三的; 三代的(指无机盐) 
@@ -86,4 +87,6 @@
 63.defer[di'fә:]:vi. 推迟, 延期, 听从 vt. 使推迟, 使延期 
 64.akilah[]:n. 【女名】女子名 [网络] 女性；现在送精美名牌；阿基拉 
 65.alumni[ә'lʌmni]:pl. 男毕业生, 男校友 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

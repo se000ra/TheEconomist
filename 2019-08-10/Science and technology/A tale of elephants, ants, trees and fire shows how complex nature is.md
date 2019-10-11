@@ -10,6 +10,7 @@
 To their surprise, they discovered that the wounds of trees in fire zones recovered far better than those of trees that had seen no fires at all. Wounded trees in the annual burn zone regrew 98% of their lost bark during the two years of the study. Those living in the biennial burn zone regrew 92% of it. But those in the zone where fires were suppressed regrew only 72%. 
 The researchers also found something else when they were measuring the trees’ wounds: ants. Ten of the 20 trees in the fire-suppression zone developed ant colonies in their wounds. The ants in question were a species that is known to damage trees and is presumed to impair tissue healing. By contrast, only five trees in the biennial burn zone and three in the annual zone developed ants’ nests in their wounds. 
 It looks, therefore, as if bush fires are cauterising trees’ wounds by killing ants that might otherwise infest them. Though such fires are surely harmful to healthy trees, it seems, in an example of two negatives making a positive, as if they are actually helpful to sick ones. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -36,4 +37,6 @@
 22.healing['hi:liŋ]:a. 治愈的, 恢复健康的 [计] 修复, 恢复 
 23.cauterise['kɔ:təraɪz]:vt.& vi. （用腐蚀性物质或烙铁）烧灼以消毒 
 24.infest[in'fest]:vt. 骚扰, 寄生于, 大批出没 [医] 传染, 感染 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

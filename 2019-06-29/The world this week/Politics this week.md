@@ -22,6 +22,7 @@
 Mexico sent 15,000 troops to its border with the United States. It is the largest deployment to control migration that Mexico has ever undertaken. Donald Trump has demanded that Mexico do more to stop illegal immigration, mainly by Central Americans, or face export tariffs. Mexico had already sent 2,000 national guardsmen to help police its southern border. 
 At least three people were killed in protests against Honduras’s president, Juan Orlando Hernández. Doctors and teachers are demonstrating against plans to restructure the ministries of education and health, which they say will lead to privatisation. 
 Authorities in Spain arrested a Brazilian sergeant who flew in on a presidential plane carrying 39kg of cocaine. The aircraft was on its way to the G20 summit in Japan. Brazil’s president, Jair Bolsonaro, who was travelling on another aircraft, normally extols the armed forces. In this case he demanded “severe punishment” for the smuggler. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Iran[i'rɑ:n]:n. 伊朗 
@@ -132,4 +133,6 @@
 106.jair[]:[网络] 睚珥；贾伊尔；睢珥 
 107.extol[ik'stәul]:vt. 颂扬, 称赞, 吹捧 
 108.smuggler['smʌglә]:n. 走私者, 走私船 [经] 走私者, 走私船 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

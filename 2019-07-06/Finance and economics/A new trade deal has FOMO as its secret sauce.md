@@ -11,6 +11,7 @@
 FOMO is still involved—but it is no longer the EU that feels it. Instead the trade bloc may be hoping to inspire it in the Trump administration, which has been threatening—or applying tariffs to—almost all its trading counterparts, including the EU. As well as the looming threat of tariffs on cars and car parts unless the EU reaches a deal, on July 1st America said it might impose new tariffs on $4bn-worth of imports from the EU as part of an ongoing dispute over aircraft subsidies. And even if America does not feel a trickle of fear at the prospect of falling further behind the EU, which leads the world as signatory to the largest number of trade deals (see chart), perhaps other governments might get the message. On June 30th the EU signed a trade deal with Vietnam, days after Mr Trump threatened the country with tariffs. 
 It would be premature to predict a further flurry of trade agreements. The one between the EU and Mercosur may have been agreed during a rare window of opportunity when the governments of Argentina and Brazil were both in favour of economic liberalisation. That window will close in October if Mauricio Macri is not re-elected as president. Further deals involving Mercosur would become less likely, and the one with the EU might not be ratified. Even now, the Argentine fact sheet accompanying the EU-Mercosur deal boasts about how much more slowly tariffs would be lifted relative to the EU’s other trade deals. Nor is ratification certain at the EU end, since national parliaments may each have a veto. 
 Hunger for a slice of Europe’s agricultural market drove Mercosur’s negotiators towards agreement. (The beef quota they secured was modest because the EU pleaded the necessity of saving some goodies for counterparts in future deals.) Extra quotas of beef, dairy or pork are also alluring for America, which is negotiating with the EU too. But the EU is insisting that they are off the table. However good it feels to stand up to Mr Trump, free trade is still a hard sell. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.fomo[]:abbr. 社交控（fear of missing out，忙于眼前事的时候，总是害怕会错过更有趣或者更好的人和事。） 
@@ -69,4 +70,6 @@
 54.plead[pli:d]:vi. 辩护, 恳求 vt. 为...辩护, 提出...借口, 托称, 恳求 
 55.goody['gudi:]:n. 身分低微之老妇, 糖果, 姥姥 a. 感伤的, 伪善的 interj. 太好了 
 56.allure[ә'luә]:vt. 引诱, 吸引 n. 魅力, 诱惑力 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

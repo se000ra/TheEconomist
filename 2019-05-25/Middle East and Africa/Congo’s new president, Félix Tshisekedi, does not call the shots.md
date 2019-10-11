@@ -12,6 +12,7 @@
 Still, there are reasons for hope. The new president has already gained some popularity by making politics a little less oppressive. He has released some 700 political prisoners and allowed Moïse Katumbi, a former governor and presidential hopeful, back into the country after three years in exile. 
 Mr Tshisekedi is supported by the EU and America, which had fraught relations with his predecessor. Diplomats say that, although the election was clearly stolen, America and the EU accepted the outcome in the hope that it will weaken Mr Kabila’s grip on power and allow for a cleaner vote at the next presidential election due in 2023. To signal its distaste for an election it had endorsed, America slapped sanctions on three election officials. 
 The suspicion that Mr Tshisekedi was complicit in the theft of the election infuriates some members of his party. They say that he rose to prominence on the reputation of his late father, Étienne, a stalwart of the opposition. “How can a biological son of Étienne do this?” asks Valentin Mubake, his father’s former aide, who scoffs that the new president has no power of his own. “He wouldn’t even dare remove that Kabila billboard.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Félix[]:[地名] 费利克斯 ( 法、西 ) 
@@ -90,4 +91,6 @@
 74.Valentin[]:n. 瓦伦汀（男子名） 
 75.aide[eid]:n. 助手, 副官 [计] 数据输入的可说明性 
 76.scoff[skɒf]:n. 嘲笑, 愚弄, 笑柄, 食品 v. 嘲笑, 嘲弄, 贪吃, 狼吞虎咽地吃 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

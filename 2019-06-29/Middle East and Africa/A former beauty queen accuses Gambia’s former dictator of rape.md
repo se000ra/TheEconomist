@@ -10,6 +10,7 @@
 In a poor country of about 2m people, he allegedly stole energetically. When he fled into exile in Equatorial Guinea he did so in his Rolls-Royce, leaving the state’s coffers empty. Campaigners are pressing Equatorial Guinea’s president, Teodoro Obiang, to hand him over for trial. 
 Reed Brody, an American lawyer working with Human Rights Watch, notes that many of Mr Jammeh’s victims came from other west African countries, including Ghana and Ivory Coast. These included 56 migrants who were massacred by his men in 2005. Mr Brody thinks that the latest rape allegations will add pressure. “It’s going to be harder and harder for Obiang to keep protecting Jammeh,” he says. 
 Ms Jallow managed to escape from Gambia and now lives in Canada, where she is studying social care. Talking about what happened “is my duty to other girls”, she says. “I am willing to open the gate and make sure that this man will one day face justice. I want to send a message to men in our society, that we’re not property, that we’re not goats.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.dictator['dikteitә]:n. 命令者, 独裁者 
@@ -69,4 +70,6 @@
 55.ivory['aivәri]:n. 象牙, 乳白色 a. 象牙制的, 乳白色的 
 56.migrant['maigrәnt]:n. 候鸟, 移居者 [法] 移居者 
 57.Gambia['gæmbiә]:n. 冈比亚 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

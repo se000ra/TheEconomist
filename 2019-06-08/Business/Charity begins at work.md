@@ -12,6 +12,7 @@
 A certain amount of stress at work is inevitable. Most organisations are hierarchical. Deadlines are a part of life, as is uncertainty over whether individual projects are going to succeed. But workers who are stressed and fearful are unlikely to stay in their jobs or be productive in the long run. 
 Many managers derive a lot of their status from their oversight role. That is, in part, why organisations create such roles: they can reward high-achieving employees with a title as well as with extra money. But power is seductive. Peter Cappelli, a scholar of human resources at the Wharton School in Philadelphia, says that toxicity arises when “the boss acts like a dictator and actively punishes people who articulate different views or express disagreement”. 
 As Amy Edmondson of Harvard Business School explains in her book, “The Fearless Organisation”, the ideal is to create an atmosphere of “psychological safety” where workers can speak their minds. Managers need to learn the art of “respectful inquiry”, where they ask employees questions and listen intently to the answers. The bosses at Amnesty may have listened to the political dissidents whose causes they were championing. But they clearly weren’t listening to their staff. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bartleby[]:[网络] 巴特比；巴特白；老板是空气 
@@ -69,4 +70,6 @@
 53.organisation[,ɔ: ^әnaizeiʃən; - ni'z-]:n. 组织, 团体, 体制, 编制 
 54.intently[in'tentli]:adv. 一心一意地, 心无旁物地, 专心地 
 55.dissident['disidәnt]:a. 意见不同的, 持不同政见的 n. 意见不同的人, 持不同政见者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

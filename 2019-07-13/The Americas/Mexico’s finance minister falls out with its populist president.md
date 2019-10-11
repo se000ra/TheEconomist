@@ -11,6 +11,7 @@
 Mr López Obrador named the minister’s successor within an hour of his resignation. His choice of Arturo Herrera, a finance undersecretary, helped calm the markets’ nerves. Mr Herrera, who has worked at the World Bank and as finance secretary in Mexico City when Mr López Obrador was its mayor, is thought to be wonkish and to understand the importance of the financial markets. 
 But Mr Herrera is likely to have the same problems that Mr Urzúa did. In March Mr López Obrador publicly overruled him after he said that the government would delay construction of the refinery and use the money to help Pemex. A test will come in September when he presents next year’s budget, which will have to balance Mr López Obrador’s spending priorities with the need to maintain public services and hold down the deficit at a time of fragile growth. The president gave no sign that he will take Mr Urzúa’s criticisms to heart. In a riposte to his letter Mr López Obrador said: “Sometimes people don’t understand that we cannot continue with the same strategies.” 
 But in appointing Mr Herrera, the president has shown that he understands the dangers of alienating moderates in his coalition. If the new finance minister feels forced to quit, the mood among investors will shift from alarm to panic, causing the peso to fall and inflation and interest rates to rise. A rancorous resignation has shown Mr López Obrador how hard it is to reconcile his development dreams with economic reality. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.rancour['ræŋkә]:n. 敌意, 深仇 
@@ -71,4 +72,6 @@
 56.inflation[in'fleiʃәn]:n. 胀大, 夸张, 通货膨胀 [化] 充气吹胀; 膨胀 
 57.rancorous['ræŋkәrәs]:a. 深恨的, 怀恶意的 
 58.reconcile['rekәnsail]:vt. 使和解, 调停, 使和谐, 使一致, 使听从 [经] 对帐, 使一致 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

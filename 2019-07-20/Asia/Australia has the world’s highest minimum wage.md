@@ -10,6 +10,7 @@
 It used to be an article of faith among economists that higher minimum wages would cause job losses, but data from Australia add to evidence that counters that assumption, at least as long as increases are gradual. A study by the Reserve Bank of Australia (RBA), the central bank, examined minimum-wage increases between 1998 and 2008, and found no discernible effect on employment. Similarly, over the past five years, Australia’s unemployment rate has fallen steadily. 
 The value of the minimum wage is especially important in Australia since the pay of so many workers is linked to it. Under a national system of industry-wide salary awards, pay in many jobs, from cabin crew to funeral directors, is in effect indexed to the minimum wage. Every time the minimum wage goes up, so does the pay of nearly a quarter of Australians, making it a powerful lever to affect the economy as a whole. 
 The RBA seems pleased with the boost to wages. It wants higher earnings to lift inflation, which is below its target of 2-3%. With the housing market in the doldrums, the economy is growing at the slowest pace since 2009, threatening Australia’s 28-year growth streak. But low pay rises, says Philip Lowe, the head of the RBA, harm the economy more than low house prices. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.surf[sә:f]:n. 海浪, 拍岸浪 vi. 作冲浪运动 
@@ -48,4 +49,6 @@
 34.streak[stri:k]:n. 条理, 斑纹, 倾向 vt. 加条纹 vi. 变成条纹, 飞跑 
 35.philip['filip]:n. 菲利普（男子名） 
 36.lowe[]:n. 劳氏（世界知名跨国公司）；灵狮（全球第4大广告代理机构） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

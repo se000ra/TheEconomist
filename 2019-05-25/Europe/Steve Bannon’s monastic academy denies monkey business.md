@@ -13,6 +13,7 @@
 As Mr Harnwell readily agrees, the Institute’s stewardship of the Certosa, or Charterhouse, of Trisulti has brought with it daunting responsibilities. Founded in the early 13th century amid woodlands in a part of Italy renowned for its hermits and mystics, abbeys and convents, the complex covers 86,000 square metres—the size of 12 football pitches. It houses a watermill, a herbal pharmacy, an elaborately frescoed church and a topiary maze. 
 But many of its roofs are in urgent need of repair, and there is water infiltration in several places. The DHI committed itself in its bid to spend an additional €1.9m on restoration. Mr Bannon says that more than the row over the lease, the bigger concern “is making sure I can pull together all the resources needed to restore the monastery to what it should be.” 
 The local authority has presented a further challenge by demanding €86,000 a year in property tax and for waste collection. Mr Bannon remains unfazed by all this. “I couldn’t be more excited,” he says. More excitement is probably to come. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.controversy['kɒntrәvә:si]:n. 论争, 辩论, 论战, 争论 [法] 论战, 争论, 争吵 
@@ -90,4 +91,6 @@
 73.infiltration[.infil'treiʃәn]:n. 渗入, 渗透, 渗透物 [化] 渗滤; 渗入过滤; 渗透; 渗入 
 74.restoration[.restә'reiʃәn]:n. 恢复, 归还, 复位 [医] 恢复, 康复, 复位, 回复, 修复 
 75.unfazed[ʌnˈfeɪzd]:a. 不担忧的, 不苦恼的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 The strong-arm techniques are in stark contrast to the days when David Cameron ran the party, and Eurosceptic rebels ran amok. Under Mr Johnson, such sedition is not acceptable, as this week’s purge was intended to show. Figures from Vote Leave, the main campaigning group behind the Brexit vote, call the shots in Downing Street, causing long-serving Tory mps to shake their jowls at the state of affairs. Sir Roger Gale, an mp since 1983, declared: “You have, at the heart of Number 10, as the prime minister’s senior adviser, an unelected, foul-mouthed oaf.” A “One Nation” group of about 100 moderate Conservative mps have demanded that Mr Johnson reinstate their sacked colleagues. 
 Yet for all the fury over the deselections, Mr Cummings’s strategy remains just about intact. The prime minister and his aides want an election in which Mr Johnson is portrayed as the champion of a people defied by wily politicians, with the promise of a cash tsunami about to break over Britain’s public services if people vote Tory. “He gets the election he wanted and the framing he wanted,” says one former Downing Street aide. Nor will the revolution necessarily be permanent. A socially conservative offer to voters tempted by Nigel Farage’s Brexit Party may last only until the next general election, says Tim Bale of Queen Mary University of London. 
 “What this country needs is sensible, moderate, progressive Conservative government,” declared Mr Johnson during a stilted performance in prime minister’s questions on September 4th. Yet with the Tory party in its current state, Britain will have to wait.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.staid[steid]:a. 认真的, 沉着的, 固定的 
@@ -114,4 +115,6 @@
 99.bale[beil]:n. 包, 捆, 货物, 灾难 vt. 打包, 捆包 
 100.mary['meәri]:n. 玛丽（女子名） 
 101.stilt[stilt]:n. 高跷, 支柱, 脚柱 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

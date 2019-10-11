@@ -7,6 +7,7 @@
 ![image](images/20190608_wbc188.png) 
 This time is different. The 4.5% drop in the four giants’ market value suggests investors are more worried. Possibly meatier American fines are not the reason: the billions Google has been forced to pay represent less than a tenth of the $134bn in profits it has generated since the first case was opened in November 2010. Even higher penalties can be written off as a cost of doing business. 
 More likely, shareholders fret that American authorities could force the firms to change their money-spinning business models. In his confirmation hearing William Barr, America’s attorney-general, said he wanted to “find out more” about how Apple and others had grown so big. Elizabeth Warren, a senator and Democratic presidential hopeful, has said that Facebook should be broken up. If America is picking up where Europe left off, investors are right to be concerned. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.trustbuster['trʌstbʌstә]:n. 要求解散托拉斯的人 
@@ -40,4 +41,6 @@
 29.warren['wɒrәn]:n. 养兔场, 拥挤的地区 
 30.senator['senәtә]:n. 参议员, (某些大学的)理事 [法] 参议员, 上议员 
 31.presidential[.prezi'denʃәl]:a. 总统制的, 总统的, 首长的, 统辖的 [法] 总统的, 议长的, 总经理的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

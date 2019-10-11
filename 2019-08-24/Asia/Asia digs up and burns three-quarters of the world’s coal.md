@@ -19,6 +19,7 @@
 The shifting sentiment is reflected in the recent sharp decline in investment approvals for new coal-fired plants (see chart 2). But even if the private sector were to wash its hands of coal altogether, that would not guarantee its demise. In both China and India, the biggest banks are state-owned, and their lending decisions are as much a function of government policy as of expected returns. The Chinese government, in turn, although pursuing cleaner energy at home, does not seem particularly keen to encourage it abroad. The Belt and Road Initiative, a big Chinese infrastructure-development scheme, will see billions spent to build coal-fired plants in Bangladesh, Indonesia, Pakistan and Vietnam, among other countries. Chinese financial institutions are helping to fund more than a quarter of coal-fired power stations under development around the world. 
 ![image](images/20190824_ASC502.png) 
 Finance for the coal business in India, meanwhile, comes mainly from the state. Between 2005 and 2015 state-owned banks provided 82% of the funding for coal-fired power plants, according to the Centre for Financial Accountability. If the governments of China and India continue to pump money into coal via state-owned banks, the fate of the climate will be sealed, whatever encouragement they give to other forms of generation. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -104,4 +105,6 @@
 81.demise[di'maiz]:n. 崩, 薨, 死亡 vt. 让渡, 遗赠, 转让 
 82.Bangladesh[,bɑ:ŋ^lә'deʃ]:n. 孟加拉国 [经] 孟加拉共和国 
 83.Pakistan[.pɑ:ki'stɑ:n]:n. 巴基斯坦 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

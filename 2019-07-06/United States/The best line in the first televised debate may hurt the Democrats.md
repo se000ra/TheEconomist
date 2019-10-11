@@ -8,6 +8,7 @@
 Ms Harris might also face a backlash for holding views on economics that are too liberal for the electorate. The senator supports lefty proposals like the Green New Deal and abolishing private health insurance, for example. In another paper last year Andrew Hall and Daniel Thompson, both of Stanford, found that candidates perceived as ideologically extreme face a penalty at the ballot box because they fire up the other side. This is another possible explanation for Mrs Clinton’s loss in 2016. Although she was no Bernie Sanders, voters viewed her as more extreme than Mr Trump. According to a poll in 2016 by the Pew Research Centre, 58% of voters thought Ms Clinton was liberal on “most” or “almost all” issues, whereas just 44% thought Mr Trump was mostly or almost always conservative. A plurality believed the now-president to be a “mix of liberal and conservative”, whereas just 28% thought the same of Mrs Clinton. 
 Whoever wins the Democratic nomination will need to retain the support of a small but still important band of conservative Democrats. According to YouGov’s polling, they still make up 9% of the party today. Yet nominating a candidate just to assuage this group comes with a trade-off. The Democratic nominee also needs to get non-white voters to the polls. After having the largest voter turnout of any racial group in both 2008 and 2012, 11% of black voters who cast ballots for Barack Obama stayed home in 2016, according to The Economist’s analysis of survey data from the Cooperative Congressional Election Study, a bi-annual survey administered by Harvard. They might have been the difference in vital states like Michigan and Wisconsin. 
 Whomever the Democrats nominate will have to mimic the campaign style of Mr Obama, who owed his wins to a multiracial coalition. He simultaneously convinced whites of his moderation and excited African-Americans. In March 2008 Mr Obama delivered the most memorable speech of his campaign. Americans, he said, “need to come together” to solve a set of problems “that are neither black or white or Latino or Asian, but rather problems that confront us all.” Whether they like it or not, Democrats need votes from white Americans who did not attend college. If Ms Harris were the nominee in 2020, she would have to replicate Mr Obama’s formula, or else see her prospects threatened by the electoral divide over racial attitudes. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.debatable[di'beitәbl]:a. 可争论的, 成问题的, 未决定的 
@@ -87,4 +88,6 @@
 75.Latino[læ'ti:nәu, lә-]:n. 拉丁美洲人 
 76.replicate['replikeit]:vt. 折叠, 折转, 复制 n. 复现试验, 复制品, 高八度音 a. 复现的, 复制的, 折转的, 弯回的 
 77.electoral[i'lektәrәl]:a. 选举人的, 选举的, (有关)选举的 [法] 选举的, 选举人的, 由选举人组成的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

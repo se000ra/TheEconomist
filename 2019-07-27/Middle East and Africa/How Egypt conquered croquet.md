@@ -7,6 +7,7 @@
 Croquet was introduced to Egypt by its British occupiers in the early 20th century. (So was squash, at which Egyptians also excel.) After the British left in 1956 many assumed the game had withered. But in 1985 a British Airways pilot called Geoff Roy, who was also a tournament croquet player, discovered the packed courts of the Gezira club in central Cairo. “He spent the rest of the day being thrashed by the locals,” says Stephen Mulliner, the secretary-general of the World Croquet Federation. Mr Roy returned to England with his story, bringing Egypt to the attention of the wider croquet-playing world. 
 Golf croquet is simpler than the more traditional form, called association croquet. Old-timers scoff that it is like comparing checkers with chess. But the Egyptians made their version faster and more exciting to watch. Boundary barriers are needed to keep all of the action on the court. (The airborne Egyptian jump shot is particularly audacious.) Egyptian rules have been adopted by croquet’s bigwigs. Today golf croquet is the most popular form of the game. 
 Mostafa Eissa, winner of the Egyptian Open in 2015, attributes Egypt’s success at golf croquet to an aggressive style, weather that allows for year-round play and exuberant fans. But the competition has caught up. Reg Bamford, a South African, has won two of the past three world championships. This month Mr Eissa will try to bring the trophy back to Egypt. For inspiration he can look to Soha Mostafa, an Egyptian who won the women’s world championship in New Zealand earlier this year.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.mallet['mælit]:n. 木槌, 球棍, 棒 [化] 大锤; 手锤 
@@ -51,4 +52,6 @@
 40.inspiration[.inspә'reiʃәn]:n. 灵感, 鼓舞人心的人或物, 妙计, 吸气 [医] 吸[气] 
 41.soha[]:abbr. soft hard 软硬 
 42.zealand['zi:lәnd]:n. 西兰岛（丹麦最大的岛） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -12,6 +12,7 @@
 One reason police forces have been setting up dedicated teams is that rural crime requires special training and equipment. You cannot just go from one farm to another in the same boots, says Mr Mason, because of the danger that you might spread disease. High-visibility uniforms can spook animals. Officers need thermal-imaging cameras for night-time patrols, and vehicles that can go off-road. Thinly populated rural areas are hard to patrol. North Wales Police has just acquired three drones to add to the two it operates. Gwent Police is training all its rural crime officers as drone pilots. 
 The other reason is that the police recognised they were losing the trust of rural people. Along with banks and shops, police stations have vanished from more remote areas over the past decade. People were unwilling to report crimes even when they knew who had committed them, says Mr Mason, likening the situation to inner-city estates where nobody wants to be a grass. The artificially low tally of crimes in turn meant that fewer resources were dedicated to rural areas, says Ms Mulligan. A rural crime survey by the NRCN found that last year a third of country folk who suffered a crime did not bother to report it. 
 Dedicated teams have helped rebuild some of that trust, as have smaller things like publishing officers’ mobile phone numbers on the web. But cracking down on crime will always be difficult. What American cops call “the thin blue line” is, in rural Britain, often very thin indeed. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.picking['pikiŋ]:n. 掘, 选择, 挑选, 采摘, 撬开, [U]采得物, 捡得物, 赃物, 扒窃物 [经] 挑拣 
@@ -69,4 +70,6 @@
 53.artificially[.ɑ:ti'fiʃәli]:adv. 人工地, 人为地, 不自然地 
 54.tally['tæli]:n. 符木, 记账, 得分, 比分, 计数器, 标签, 符合, 对应物 vt. 记录, 点数, 计算, 加标签于, 使符合 vi. 记帐, 符合, 吻合, 记分 [计] 计数 
 55.bother['bɒðә]:vt. 烦扰, 迷惑 vi. 烦恼, 操心 n. 麻烦, 纠纷, 讨厌的人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

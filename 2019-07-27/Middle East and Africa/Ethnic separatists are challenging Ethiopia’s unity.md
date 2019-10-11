@@ -9,6 +9,7 @@
 First came the Sidama, who number around 5m and are the biggest group in the state called the Southern Nations, Nationalities and Peoples’ Region (SNNPR). They have longed chafed at their inclusion in the SNNPR, a messy hotch-potch of more than 45 different ethnic groups. Others are also unhappy with the set-up. Groups that live far from Hawassa, the state capital, have less say than those, such as the Sidama, that dominate the centre. The state government is weak and fractious; parliament failed to pass a budget this year. Since the Sidama requested a referendum last July at least ten other groups have demanded their own states. 
 Balkanisation along ethnic lines is dangerous. Last year intercommunal fighting forced almost 3m people from their homes. Much of the violence occurred in the country’s densely populated south. A proliferation of new states equipped with their own security forces may be a recipe for further bloodshed if, as seems likely, there are territorial disputes. Minority groups fear being persecuted. States, which can write their own constitutions, have often failed to protect them. Some Sidama leaders say their constitution will be more inclusive than most and they promise quotas for minorities in government. But other leaders are less keen on such measures. 
 Abiy has done little to calm nerves. For months his government dithered instead of organising the referendum for the Sidama. Then he threatened to use force if the group declared independence unilaterally. Activists say they do not trust the government to keep its new promise of a referendum. “It’s playing tricks,” says Gosaye. Meanwhile the Welayta, the second-largest ethnic group in the SNNPR, have taken to the streets demanding their own vote on statehood. Ethiopia’s southern problem may get worse before it gets better. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ethnic['eθnik]:a. 人种的, 种族的 [医] 人种的 
@@ -51,4 +52,6 @@
 38.quota['kwәutә]:n. 配额, 限额 [化] 定额 
 39.dither['diðә]:n. 发抖, 兴奋 vi. 发抖 
 40.unilaterally[]:[计] 单侧地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -10,6 +10,7 @@
 That complete cessation of supply now appears to have been a precautionary overreaction. Under the EAR, firms may continue to sell products to Huawei as long as they are not made in the United States, and as long as those products do not contain American components whose value makes up more than 25% of their value. 
 Notwithstanding this leakiness in the export ban, Mr Trump’s G20 concession is a sign that America’s commitment to containing Huawei is not ironclad. Dan Wang of Gavekal Dragonomics, a Hong Kong-based research firm, says that many Japanese, South Korean and Taiwanese tech firms had been wavering on whether to supply Huawei. “They will take Trump’s statement as a signal that they should support the company,” he says. 
 The survival of Huawei, in its current form at least, has looked shaky in recent weeks. America’s president appears to have thrown the company a lifeline. As with all Trumpian pronouncements, it may yet prove illusory. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.huawei[]: 华为 
@@ -58,4 +59,6 @@
 44.Trumpian[]:特朗普的 
 45.pronouncement[prә'naunsmәnt]:n. 声明, 公告, 宣言, 宣告, 发表, 意见, 决定 [法] 宣判, 宣布, 宣告 
 46.illusory[i'lju:sәri]:a. 产生幻觉的, 幻影的, 错觉的 [法] 因错觉产生的, 虚幻的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

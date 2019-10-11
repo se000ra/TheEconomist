@@ -17,6 +17,7 @@
 Conservative provincial governments will also attack the Liberals’ pharmacare plan. They object in principle to expanding the role of government, especially in areas such as health care, in which provinces share responsibility with the federal government. Mr Ford made Ontario’s pharmacare plan less generous as part of an austerity programme, which he says is needed to cut the province’s debt and deficit. 
 The chaotic administration of Mr Ford, the brother of Toronto’s late crack-smoking mayor, Rob Ford, may be Mr Trudeau’s best hope of winning. Ontarians are enraged by Mr Ford’s spending cuts, which include sacking 400 health-care workers. He even cancelled Canada Day (July 1st) celebrations at Queen’s Park in Toronto, site of Ontario’s legislature. His unpopularity is dimming Conservatives’ prospects in the province, which elects 121 of the 338 MPs in the House of Commons. It will be the chief battleground in the election. 
 Early polls predict little. At this point in 2015 the New Democrats were ahead (they came third). Mr Trudeau is planning another come-from-behind victory. He is betting that most Canadians will understand the need for compromise on the environment and will give him credit for a strong jobs market, generous public benefits and avoiding a trade bust-up with the United States. He will be scanning the Canadian sky for rainbows. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.justin['dʒʌstin]:n. 贾斯廷（男子名） 
@@ -116,4 +117,6 @@
 95.legislature['ledʒisleitʃә]:n. 立法机关, 议会, 立法院 [法] 立法机构, 立法机关 
 96.unpopularity['ʌn.pɒpju'læriti]:n. 不受欢迎, 失人心 
 97.democrat['demәkræt]:n. 民主人士, 民主主义者, 民主党党员 [经] 民主党 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

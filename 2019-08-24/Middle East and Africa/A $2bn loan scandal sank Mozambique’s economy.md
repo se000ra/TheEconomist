@@ -15,6 +15,7 @@
 Meanwhile, the debts are not being paid back. Whether they should be is an open question. The three loans are tainted with corruption and were all guaranteed without parliamentary approval, which is required by the constitution (parliament retroactively approved the loans after the scandal broke). As part of its case against Credit Suisse, Mozambique wants the guarantee on the first hidden loan to be ruled invalid. It is trying to restructure the other hidden loan, arranged by VTB, a Russian state bank. 
 The tuna debt is a different matter. In June the top constitutional court in Mozambique ruled that the initial loan, contracted in 2013, was indeed illegal. But it is unclear what weight the ruling has in English law (under which the debt was issued). A crucial question is whether the sin of the original loan carries forward to the bond which replaced it in 2016. Matthias Goldmann of Goethe University in Germany says it should not be possible to wash clean a dirty deal by swapping it for a new one. Many lawyers think otherwise. So far Mozambique has said it will repay bondholders, albeit later than it first promised. 
 Mozambique may be able to win enough damages to pay off some of its debts, especially if more evidence of corruption comes to light. It could also sell off the trawlers, which bob idly in Maputo harbour. But beneath the legal questions lies a moral one, say many in Mozambique. “We should not pay,” argues Denise Namburete of the Budget Monitoring Forum, a civil-society group. Many players are responsible for the scandal, she says, but not the Mozambican people. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tighten['taitn]:vt. 勒紧, 使变紧 vi. 变紧, 绷紧 
@@ -126,4 +127,6 @@
 107.idly['aidli]:adv. 懒惰地, 空闲地 
 108.Denise[dә'ni:z, de'-]:n. 丹尼斯（女子名） 
 109.forum['fɒ:rәm]:n. 论坛, 公开讨论的广场, 法庭, 讨论会 [法] 讨论会, 专题讨论, 公共论坛 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

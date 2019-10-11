@@ -14,6 +14,7 @@
 Zunum Aero, based near Seattle, is working on a 12-seat series hybrid which it hopes to deliver in 2022. This aircraft will be powered by two rear-mounted 500kW electric turbofans (which turn a fan inside a shroud and so look a bit like jet engines). The turbofans will be supplied with electricity by a small jet-powered generator in the rear of the fuselage, which will also top up batteries contained in the wings. 
 For larger aircraft, electric turbofans that are vastly more powerful—perhaps up 20MW—will be needed. Much will depend on what Boeing and Airbus decide to do with their future models, and how radical their designs will be. An alternative to large engines is lots of small ones. Giant flying wings with many electric thrusters are one idea. But these would require a number of technological leaps, not just in batteries but also in aerodynamics and electricity distribution. 
 More conventional-looking hybrid aircraft are possible. Airbus has teamed up with Rolls-Royce, a British jet-engine manufacturer, and Siemens, a German electricals giant, to electrify an example of a 100-seater regional aircraft called the BAe146. This plane is powered by four conventional jet turbofans, albeit small ones. To start with, one of the 146’s four engines will be replaced with a 2MW electric turbofan powered by a combination of battery and generator. If all goes well, a second engine will be replaced with a similar unit. Again, the idea is that a combination of combustion engines and electrical power will produce a cleaner, more efficient aircraft. Spurred on by environmental concerns and stricter controls on emissions, for larger passenger aircraft going hybrid seems to be the most likely flight plan.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.electrify[i'lektrifai]:vt. 通电, 上电, 使带电, 使电气化 [医] 起电, 带电 
@@ -85,4 +86,6 @@
 67.albeit[ɔ:l'bi:it]:conj. 尽管, 虽然 
 68.environmental[in.vaiәrәn'mentәl]:a. 周围的, 环境的 [经] 环境的, 环保的 
 69.emission[i'miʃәn]:n. 发射, 射出, 发行 [医] 发射, 遗精 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

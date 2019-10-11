@@ -10,6 +10,7 @@
 Ironically, European Commission officials would prefer a coalition that includes Forza Italia, the centre-right party of Mr Berlusconi. The M5S favours higher welfare spending, and it is felt in Brussels that an “Ursula government” (so named because the PD, the M5S and Forza Italia all backed Ursula von der Leyen’s bid for the Commission presidency) would dilute its influence. But the anti-corruption M5S shuns Mr Berlusconi, a convicted tax fraudster. 
 For Eurocrats, as for markets, the most daunting scenario is an election. Control of the Italian parliament can be secured with around 40% of the vote. Polls suggest the League could take 37%. The Brothers of Italy, a party of former neo-fascists, might get 6%. That could yield an uncompromisingly right-wing, nativist, Eurosceptic government with Mr Salvini at its helm. 
 Although EU officials see the League’s economic policies as marginally better than those of the M5S, it is “considered worse for everything else”, says Mujtaba Rahman of the Eurasia Group, a consultancy. The League opposes humanitarian efforts to rescue migrants crossing the Mediterranean. It is close to Russia (one of Mr Salvini’s associates was recently caught on tape discussing funding from Kremlin-friendly oil interests). And it is opposed to the euro zone’s 3% cap on budget deficits. Mr Salvini has promised that, if elected, he will introduce big tax cuts in an attempt to revive Italy’s stagnant growth. With Europe’s economy slowing, a no-deal Brexit looming and a new commission just entering office, a victory for the League could be a perfect storm for the EU. Markets may be sanguine, but Italy’s politics could yet wreak havoc in the euro zone. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.gamble['gæmbl]:n. 赌博, 冒险 v. 赌博, 孤注一掷 
@@ -92,4 +93,6 @@
 78.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
 79.wreak[ri:k]:vt. 发泄(怒火), 报仇 [法] 报仇, 报复, 施 
 80.havoc['hævәk]:n. 大破坏, 蹂躏 vt. 严重破坏 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -14,6 +14,7 @@
 In America’s federal system no single state is a national template, and yet each holds lessons for all the others. As America’s largest oil producer, Texas is exceptional. By contrast, despite its faults, California remains a magnet for highly educated migrants and a formidable factory of talent and ideas—which is why it has produced Google, Facebook, Tesla, Uber and Netflix and why, despite grumblings about creeping socialism, the big venture-capital firms and Hollywood studios stay. 
 America can learn from both of them. That is especially true when the federal government cannot legislate—which today means most of the time—because the ability of states to decide their own fate becomes correspondingly more important. 
 It is possible to imagine a mash-up of the two mega-states that takes the best of both: a freedom-loving wish to keep government out of people’s private lives, a place that is friendly to business and provides opportunities for people, while also protecting the environment and funding education. California could steal Texas’s expansive approach to housebuilding; Texas could imitate California’s investment in outstanding universities. Americans elsewhere might be less alarmed by demographic change if they visited great cities like Houston, LA and Dallas. Call this imagined place Texafornia. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Texas['teksәs]:n. 德克萨斯 
@@ -84,4 +85,6 @@
 66.Houston['hju:stәn]:n. 休斯敦 
 67.La[lɔ:, lɑ:]:[医] 镧(57号元素) 
 68.dallas['dælәs]:n. 达拉斯（美国城市） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -10,6 +10,7 @@
 Cathay’s predicament shows why global boardrooms are growing more anxious about Chinese anger. The main worry used to be consumer boycotts, fuelled by state media. These harmed Japanese carmakers and South Korean retailers, but their Chinese sales typically recovered after a few quarters. 
 The attack on Cathay went further. China’s airline regulator declared it unsafe, the international arm of ICBC, a bank, recommended selling its shares and CITIC Bank boycotted it. The bogus regulatory warning gave all Chinese firms a pretext to shun it. These entities are not household names outside China but are active around the world. ICBC is the planet’s biggest bank by assets. CITIC Bank belongs to one of the most global of Chinese state conglomerates. Their participation in the flagellation of Cathay is a reminder that their ultimate loyalty is to the party. 
 Using state firms as battle spears gives the lie to China’s claim that it is managing them according to market principles. And weaponising regulators undermines China’s ambitions to play a bigger international role. The airline supervisor had earned respect in leading the charge to ground the 737 MAX, Boeing’s troubled aeroplane; its Cathay warning makes it look like a political hack. The party may well get foreign companies to toe its line on Hong Kong. In the process it is revealing its true nature.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.mayday['meidei]:n. 救难信号 
@@ -83,4 +84,6 @@
 69.supervisor[.sju:pә'vaizә]:n. 管理者, 监督者, 指导者, 视导员 [计] 管理程序 
 70.MAX[mæks]:[计] 最大 
 71.hack[hæk]:n. 劈, 砍, 砍痕, 出租车, 干咳, 晒架, 鹤嘴锄 vt. 劈, 砍, 出租, 用旧 vi. 劈, 砍, 干咳, 驾驶出租车 a. 出租的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

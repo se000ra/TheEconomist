@@ -11,6 +11,7 @@
 The shofar is usually men’s business. As a woman, she had to be twice as good. She had help, she said—a perfect shofar, carved to fit her mouth exactly by a man called Shimon who lived on the Golan Heights and knew just enough English to tell her: “Blow!” There was also, she believed, divine assistance. At home when she took her deepest breath for the Tekiyah gedolah, she could manage only 40 seconds. But in the synagogue she managed to stretch that out to nearly a minute. Her son had timed her. And then there was how people responded to her call: the women who told her how welcoming her blowing made the Rosh Hashanah service for them, the National Public Radio listeners who heard her speak of her passion for her instrument and her encounter with Gillespie, the Justice on Israel’s Supreme Court—an Orthodox Jew no less—who invited her to blow the shofar at the court itself, the joggers in Central Park who slowed down and then stopped to watch when she accompanied Alicia Svigals on the klezmer violin, playing “Amazing Grace”. 
 Along with the birth of her sons, she liked to say that blowing the shofar brought her closer to God than anything else in her life. Even after her metastasing cancer meant the removal of a large part of both her lungs, she would take up her instrument with kavanah, “intention”, close her eyes, shut out the world and concentrate on her breath, her shofar, her soul. 
 In the Old Testament the Book of Genesis says that God formed man out of dust from the ground when He blew into his nostrils the breath of life. The Hebrew word for soul, neshama, is intimately connected to the word for breath. Her breath had shushed her boys to sleep in their crib, it whooshed out of her whenever she jumped naked, as she liked to do, into a Canadian mountain lake, and it transported Adas Israel’s congregation to Mount Sinai when it blew air into her shofar. That breath may have been stilled, but like Abraham’s horn it lives on. At the start of her funeral, the shofar was sounded by her three sons. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.jennie['dʒini,'dʒeni]:n. 詹妮（女子名, 等于Jenny） 
@@ -98,4 +99,6 @@
 83.whoosh[hwu:ʃ]:n. 飞快移动 v. (使)嗖嗖地飞快移动 
 84.congregation[.kɒŋgri'geiʃәn]:n. 集合, 聚集 [法] 集会, 人一, 红衣主教会议 
 85.sinai['sainai]:n. 西奈 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

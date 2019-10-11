@@ -12,6 +12,7 @@
 In terms of tactics, Mr Sanders is most pressingly a problem for Ms Warren. After flirting with more moderate positions, notably on health care, she has essentially adopted a more informed and nuanced version of Mr Sanders’s policies. In other words, she is going after his supporters. Yet if Mr Sanders stayed in the race come what may, dividing the Democratic left, that could prove to be a fatal mistake. It might well hand the ticket to a moderate—most probably Mr Biden, still the front-runner. 
 Thereafter, an unreconciled Mr Sanders would become a general-election problem for Democrats. His aggrieved minority is easily sufficient to deny their candidate victory in close-fought states such as Michigan or Wisconsin. Thus did McCarthy help ensure Hubert Humphrey’s defeat by Richard Nixon in 1968—and Mr Sanders help ensure Hillary Clinton’s to Donald Trump. 
 Almost all the Sandernistas in Fort Collins who admitted to having voted for Mrs Clinton said they were embarrassed to have done so. And, it must be said, the blithe status quo-ism of Mr Biden could be even more off-putting to Mr Sanders’s supporters than her wonkish pragmatism. Victory for Mr Biden, then for Mr Trump—that would be a poor return on Mr Sanders’s promise of political revolution. Yet it is far more imaginable.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lexington['leksiŋtәn]:n. 列克星敦市（位于美国肯塔基州） 
@@ -115,4 +116,6 @@
 99.statu[]:[网络] 状态查看；雕像；特级雪花白 
 100.wonkish[]:[网络] won ish。 
 101.pragmatism['prægmәtizm]:n. 实用主义 [法] 实用主义, 干涉主义, 独断 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

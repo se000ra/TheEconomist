@@ -7,6 +7,7 @@
 Privately, some volunteers say that they are behind many more than a third of pickpocket arrests. Cops are thin on the ground but “we have eyes everywhere”, says Franco Dei Rossi, an affable 68-year-old street painter who founded the group nearly three decades ago. Members must decline any rewards from victims (including, says Mr Dei Rossi, the occasional come-on). As he is speaking, two men who the group says have been picking pockets for weeks stroll past and, upon recognising Mr Dei Rossi, smile wryly. He shouts back: “Get a job!” 
 Some members accuse city officials of neglecting pickpockets and pursuing illegal picnickers instead, who are much easier to catch and fine. Slow, lenient courts fuel street crime, says Monica Poli, a CND member. A cleaner, she hunts pickpockets after work near Venice’s train station, where apprentice thieves learn their trade by relieving newly arrived tourists of their wallets. “Here, I run things,” Ms Poli says. Perhaps, but Ms Poli was recently beaten twice by packs of female pickpockets. In Venice, they outnumber their male colleagues. 
 The crusade is getting harder. Pickpockets circulate photos of CND volunteers, eroding their element of surprise. Also, it is no longer advisable for volunteers to restrain someone with a hand in a stranger’s purse. The courts now prefer that volunteers wait until the hand has emerged clutching valuables. And female thieves have a dastardly tactic to thwart their pursuers. When caught, they routinely scream that they are being groped or raped. This has made citizens’ arrests dangerous, says a CND member. He says he recently grabbed a thief who promptly ripped her own shirt and screamed that she was being attacked. Says Damiano Gizzi, a volunteer: “we risk a lynching.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.nab[næb]:vt. 捉住, 逮捕, 抢夺 [电] 国际广播协会的简写 
@@ -53,4 +54,6 @@
 42.promptly['prɒmptli]:adv. 敏捷地, 迅速地 
 43.rip[rip]:n. 裂痕, 破绽, 拉裂, 浪子, 巨浪 vi. 被拉开, 裂开, 猛冲 vt. 撕, 扯, 劈 
 44.damiano[]: [人名] 达米亚诺 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 Construction elsewhere in Cornwall has held up, suggesting that broader factors, such as Brexit-related uncertainty and a national levy on second homes introduced in 2016, are not to blame. 
 Meanwhile, second-home buyers in St Ives seem to be shifting their attention to existing buildings, which are not covered by the policy. Data from Hamptons International, a property firm, suggest that in St Ives second-homers form a larger share of transactions than before the policy came into force. Excluding new-builds, prices have continued to climb. That represents a windfall to locals who already own their homes—and may eventually persuade even more of them to cash in and move out.■ 
 Vacancy: The Economist is looking to hire a staff writer to cover British economics. Journalistic experience is not necessary; the ability to write clearly and entertainingly is. For details of how to apply, visit economist.com/britainjob2019. The deadline is August 4th. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ST[]:[计] 段表, 状态, 系统测试, 直端连接器 [化] 磺胺噻唑 
@@ -57,4 +58,6 @@
 42.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
 43.journalistic[,dʒ\\: nә'listik]:a. 新闻业的, 新闻工作者的, 报刊特有的, 新闻工作的 
 44.entertainingly[,entə'teiniŋli]:adv. 有趣地；使人愉快地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

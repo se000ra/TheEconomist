@@ -12,6 +12,7 @@
 In 2013 a law setting minimum standards for daaras was drafted. It has yet to be passed by parliament. In 2016 President Macky Sall spoke about taking the children off the streets and jailing those who forced them to beg. But official figures show that only about 300 children were helped in 2018. Children often beg openly outside police stations. The marabouts who abuse them rarely face justice. 
 All this may be storing up trouble for Senegal. “You have a large population of impoverished, abused children, isolated away from their families. I can’t think of a more perfect target population for criminals,” says Jeffrey Bawa of the United Nations Office on Drugs and Crime, a UN agency, adding that the boys were also likely to be future targets for jihadist recruiters. 
 Mbar was chained to the wall for a month. An older, stronger boy kept the keys for the chains in his robe and disciplined the children when the marabout was away. One night he left his robe on the floor near Mbar, who found the keys and unlocked himself from the wall. He couldn’t find the key for the chains around his ankles but it was enough. He jumped out of the window. Strangers helped him out of his chains and took him to a shelter in Dakar. After almost a year of eating good food, he is beginning to grow again and dreams of becoming a footballer. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -65,4 +66,6 @@
 49.recruiter[ri'kru:tә]:n. 招聘人员, 征兵人员 
 50.unlock[.ʌn'lɒk]:vt. 开...的锁, 开启, 表露, 放出 vi. 被开启, 揭开, 解放 [计] 解出锁定 
 51.footballer['futbɒ:lә]:n. 足球员, 足球选手 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

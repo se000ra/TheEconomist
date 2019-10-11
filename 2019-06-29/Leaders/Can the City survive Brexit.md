@@ -11,6 +11,7 @@
 Behind the stand-off is a deep divide. The City could keep free access to the EU if it agreed to be regulated by it. But Britain rightly fears handing control of its largest industry to the bloc, particularly if the EU’s unspoken goal is to shrink London. Europe’s motives blend principle and greed. It wants to supervise its own financial system, but also to grab jobs and tax revenues from London. In the long run the most likely set-up is “equivalence”, in which firms receive recognition from Europe. The catch is that, as Switzerland is discovering, this can be withdrawn at any time, leading to a state of permanent instability. That threat will lead to a drift of activity and people into the euro zone as EU authorities win full sovereignty over the euro zone’s capital markets. 
 This sounds good for the EU, but it is likely to be a pyrrhic victory. The continent’s financial system is balkanised and dominated by sluggish banks. New business will be spread across several cities, fragmenting activity further. Europe’s heavy-handed regulation may prompt non-EU business to stay away. Ultimately the costs of a less efficient financial system are likely to outweigh the extra income from capturing business from London. The annual bill for every 0.1 percentage-point increase in euro-zone firms’ cost of funding amounts to €32bn, or 0.3% of GDP. 
 And what of the City? It has a chance of prospering. Its links with America remain tight. It will have to try to keep Europe close, too, while increasing its non-EU international business from today’s share of 25-30%, and developing new strengths in fintech and green finance. The biggest danger is that it has lost the battle of ideas at home. Many Britons, not just Mr Corbyn, resent the City’s post-crisis bail-out—no matter that British banks have since tripled their capital buffers, and thus pose little threat to taxpayers. Even Margaret Thatcher, who oversaw Big Bang in the 1980s, disliked flash bankers. But Britons cannot ignore the £65bn, or 3% of GDP, of annual tax that the City pays towards hospitals and schools. For a country that is losing friends fast, having a global, sophisticated industry is a blessing, not a curse.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -96,4 +97,6 @@
 81.oversee[.әuvә'si:]:vt. 向下看, 了望, 监督, 偷看到 [法] 监察, 监督, 俯瞰 
 82.banker['bæŋkә]:n. 银行家, 庄家 [经] 银行业者, 银行家 
 83.cannot['kænɒt]:aux. 无法, 不能 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -10,6 +10,7 @@
 Whatever the outcome in the British courts—the trial will conclude in December—Mr Lynch is threatened with extradition to America. The DoJ filed charges against him in November and added a new indictment in March. If extradited and convicted, as was Mr Hussain, he faces prison. 
 An extradition demand would kick up a storm, especially since Britain’s arrangements with America, which date from soon after 9/11, are considered by many to be overly generous to US prosecutors. The last big case concerned Gary McKinnon, a British hacker with Asperger’s syndrome, who in 2012 won the right to stay put. His victory has made American prosecutors more determined, which may not help Mr Lynch. But at least the process has become less political. Courts, not the home secretary, now have the final say. If, post-Brexit, Britain goes all out for a trade deal with America, that should mean Mr Lynch is less likely to find himself used as a bargaining chip. ■ 
 Vacancy: The Economist is looking to hire a staff writer to cover British economics. Journalistic experience is not necessary; the ability to write clearly and entertainingly is. For details of how to apply, visit economist.com/britainjob2019. The deadline is August 4th. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lynch[lintʃ]:n. 私刑, 私罚 vt. 处以私刑处死, 加私刑 
@@ -79,4 +80,6 @@
 65.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
 66.journalistic[,dʒ\\: nә'listik]:a. 新闻业的, 新闻工作者的, 报刊特有的, 新闻工作的 
 67.entertainingly[,entə'teiniŋli]:adv. 有趣地；使人愉快地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

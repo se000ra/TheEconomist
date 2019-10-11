@@ -13,6 +13,7 @@
 Some MPs hoping to block no-deal are discussing the formation of a cross-party “government of national unity” to replace Mr Johnson’s, with the express purpose of asking for another Brexit extension to allow time for an election. The idea would be that a veteran such as the Tories’ Ken Clarke or Labour’s Margaret Beckett might be its nominal leader. Yet it is hard to see this working. Labour is not keen, and is likely to insist instead that any alternative government must be led by Mr Corbyn. Rebel Tories are most unlikely to support this. 
 Big battles between the legislature and the executive are usually won by the former. But the anti-no-deal majority is less coherent and focused than are hardline Brexiteers. This may explain one more suggestion from Mr Cummings: that any election after a vote of no confidence is put off until November, ensuring that no-deal Brexit happens meanwhile. The cabinet manual says that, during an election campaign, no big decisions should be taken by a caretaker government. But Brexiteers retort that, since October 31st is enshrined in law as Brexit day, the big decision would be to stop it, not to let it proceed. 
 For Mr Johnson, the politics of this are uncertain, at best. If an election were held before Brexit, Mr Farage would whip up support by telling voters they were about to be betrayed. On the other hand, engineering a no-deal Brexit against MPs’ wishes would outrage many people. And an election held amid the likely chaos that would follow a no-deal Brexit could help opposition parties. Some therefore wonder if the government will schedule a ballot for November 1st, “Independence Day” itself. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.V[vi:]:[计] 溢出, 变量, 向量, 检验, 虚拟, 垂直 [医] 钒(23号元素) 
@@ -96,4 +97,6 @@
 79.amid[ә'mid]:prep. 在其间, 在其中 [经] 在...中 
 80.chao[]:n. 钞（货币） 
 81.ballot['bælәt]:n. 投票, 投票用纸, 抽签 vi. 投票, 抽签 vt. 投票选出, 拉选票 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

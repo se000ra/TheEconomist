@@ -9,6 +9,7 @@
 The route is in contention for another record: the first commercial electric flight. In the world of commercial aviation, electric aircraft are likely to be taking off shortly. An Israeli model, expected to be operating by 2022, was unveiled at the Paris Air Show this year. Cranfield University, which specialises in aeronautics, is working on something simpler for the Islander—retrofitting it with electric power. 
 Jonathan Hinkles, Loganair’s boss, says he is sceptical of attempts to put electric engines on big planes, but “with the Islander we are confident and comfortable that it does work, that this is a technically feasible solution.” Moreover, Orkney’s inter-island flights are short enough for range anxiety to not be a big concern. The longest trip, from Kirkwall to North Ronaldsay, is no more than 20 minutes. Indeed, electric planes could make small, short routes such as these more economically viable, and therefore more common. 
 Orkney is already a leader in green energy. It generates more wind power than it consumes—it sells electricity to the national grid—has the highest rate of electric-vehicle ownership in Scotland and is experimenting with batteries to store excess energy. The council is working on a scheme to introduce hydrogen-powered ferries in 2021. If all goes according to plan, Loganair’s e-planes should take off the following year. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.orcadian[ɔ:'keidiәn, -djәn]:a. 英国奥尼克郡(Orkney) 群岛的 
@@ -41,4 +42,6 @@
 28.technically['teknikli]:adv. 技术上, 学术上, 专门地 
 29.economically[i:kә'nɔmikәli]:adv. 节约地, 不浪费地, 节省地, 节俭地, 在经济上, 在经济学上 
 30.viable['vaiәbl]:a. 能养活的, 能生长发育的 [医] 有活力的, 有生机的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 ![image](images/20190727_FNC467.png) 
 Some artists are exploring more creative ways to maximise revenues without arousing fans’ ire. For Taylor Swift’s “Reputation” tour last year, fans who shopped in her online store had more chance of getting tickets. These were released in batches, becoming progressively pricier, like airline seats. Garth Brooks extends his tours until demand is sated, adding extra dates until shows stop selling out. Bruce Springsteen and Madonna have played in theatres, where high prices are more palatable—the average ticket for “Springsteen on Broadway” last year cost more than $500. 
 Historically, tours were loss-leaders used to promote albums. As revenues from recorded music have collapsed and productions have become increasingly elaborate to draw the crowds, ticket prices have risen steeply. The cost of a concert ticket in America increased by 190% between 1996 and 2018, compared with 59% for overall consumer prices. But as the continued success of scalpers demonstrates, they are still far below the market-clearing price. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tout[taut]:vi. 招徕顾客, 兜售物品 vt. 招徕, 刺探...情报 n. 兜售者, 侦查者 
@@ -51,4 +52,6 @@
 38.historically[his'tɔrikәli]:adv. 历史上地；从历史观点上说 
 39.steeply['sti:pli]:adv. 险峻地 
 40.scalper['skælpә]:n. 剥头皮的人, 做投机倒卖的人, 雕刻刀 [法] 投机倒把者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

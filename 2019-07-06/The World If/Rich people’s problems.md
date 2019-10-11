@@ -17,6 +17,7 @@
 The limited scope of the tax is double edged: it would also limit its upsides. Take inequality. Certainly, the levy would put a brake on the ability of the super-rich to enlarge their portfolios. But most Americans probably would not notice a decline in plutocrats’ fortunes. Go just a little down the income spectrum and wealth ceases to look very relevant to inequality. Most of the rise in the share of the income of the top 1% of households since the 1970s has resulted from growing disparities between winners and losers in the labour market, not growing income from wealth. True, labour’s overall share of national income has fallen and capital’s has risen, but that is primarily attributable to a surge in the returns to owning housing, which is relatively less important to the mega-rich. 
 A wealth tax will not solve the inequalities that are most plainly visible: those caused by the growing dearth of opportunity for people without college degrees and without expensive houses near successful cities. Yet reducing economic inequality is not the only goal of the policy. Mrs Warren and Mr Sanders both argue that billionaires have captured the political process. Curbing their wealth is in part about curbing their political power. 
 Regardless, the reluctance of Congress to fund the IRS and its history of creating porous tax laws both suggest that making a wealth tax watertight, even if it is possible, would be a huge political lift. Perhaps it would be achievable for a freshly inaugurated president with control of both branches of Congress. It is more likely, however, that a wealth tax would leak, limiting the impact of an already narrowly targeted policy. That, in turn, would limit its effects, both good and bad. A wealth tax would neither revolutionise capitalism nor mark its end—not least because it would probably prove too leaky to do either. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -136,4 +137,6 @@
 115.narrowly['nærәuli]:adv. 狭窄地, 严密地, 仔细地, 几乎不, 勉强地, 仅仅 
 116.revolutionise[,revә'lju:ʃənaiz]:vt. 使革命化, 彻底改革, 彻底改变 
 117.leaky['li:ki]:a. 有漏洞的, 易泄漏秘密的, 爱哭的 [电] 漏的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

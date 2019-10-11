@@ -11,6 +11,7 @@
 Mr Bolsonaro’s other arguments are also flawed. Yes, the rich world has razed its forests. Brazil should not copy its mistakes, but learn from them instead as, say, France has, by reforesting while it still can. Paranoia about Western scheming is just that. The knowledge economy values the genetic information sequestered in the forest more highly than land or dead trees. Even if it did not, deforestation is not a necessary price of development. Brazil’s output of soyabeans and beef rose between 2004 and 2012, when forest-clearing slowed by 80%. In fact, aside from the Amazon itself, Brazilian agriculture may be deforestation’s biggest victim. The drought of 2015 caused maize farmers in the central Brazilian state of Mato Grosso to lose a third of their harvest. 
 For all these reasons, the world ought to make clear to Mr Bolsonaro that it will not tolerate his vandalism. Food companies, pressed by consumers, should spurn soyabeans and beef produced on illegally logged Amazonian land, as they did in the mid-2000s. Brazil’s trading partners should make deals contingent on its good behaviour. The agreement reached in June by the EU and Mercosur, a South American trading bloc of which Brazil is the biggest member, already includes provisions to protect the rainforest. It is overwhelmingly in the parties’ interest to enforce them. So too for China, which is anxious about global warming and needs Brazilian agriculture to feed its livestock. Rich signatories of the Paris agreement, who pledged to pay developing ones to plant carbon-consuming trees, ought to do so. Deforestation accounts for 8% of global greenhouse-gas emissions but attracts only 3% of the aid earmarked for combating climate change. 
 If there is a green shoot in Mr Bolsonaro’s scorched-earth tactics towards the rainforest, it is that they have made the Amazon’s plight harder to ignore—and not just for outsiders. Brazil’s agriculture minister urged Mr Bolsonaro to stay in the Paris agreement. Unchecked deforestation could end up hurting Brazilian farmers if it leads to foreign boycotts of Brazilian farm goods. Ordinary Brazilians should press their president to reverse course. They have been blessed with a unique planetary patrimony, whose value is intrinsic and life-sustaining as much as it is commercial. Letting it perish would be a needless catastrophe. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.rainforest['rein'fɔrist]:[生态]雨林 
@@ -112,4 +113,6 @@
 97.intrinsic[in'trinsik]:a. 本质的, 原有的, 真正的 [医] 内部的, 内在的 
 98.perish['periʃ]:vi. 毁灭, 丧生, 凋谢, 颓丧, 死亡, 腐烂 vt. 毁坏, 使麻木, 使丧生, 耗尽 
 99.needles[]:n. 针数, 千针本；折页顶针（needle复数形式） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

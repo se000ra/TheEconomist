@@ -11,6 +11,7 @@
 Those pending appointments point to three other emerging features of Mrs von der Leyen’s commission. First, she is keen not to reverse but to extend the Juncker-era politicisation. Second, the new commission will have a leftish hue on many big issues. In her first 100 days Mrs von der Leyen will table a “green new deal”, new minimum wage protections, pay-transparency measures and a new strategy on the ethics of artificial intelligence; she has also called for more “growth-friendly” (that is, looser) fiscal policies in the euro area. Third, Mrs von der Leyen is determined to bind in those eastern member states that feel unfairly treated in the EU; making conciliatory noises about rule-of-law infringements in countries like Poland and Hungary, and calling for a reset on the divisive issue of accepting and distributing migrants who cross the Mediterranean. 
 All of which alarms some. In February Stef Blok, the Dutch foreign minister, argued that: “A commission that prides itself on being political undermines its own objectivity.” In his view, the institution’s primary role is to be a neutral arbiter between member states, and it cannot do that if it is constantly taking positions on things. It is indeed troubling that the incoming president seems inclined, for diplomatic reasons, to bend the expectations of freedom and democracy that the EU has for its member states. 
 However, it makes little sense to hark back to a halcyon era of technocratic, supposedly dispassionate decision-making. Jenkins’ Europe was a simpler, more homogeneous, more harmonious place. By contrast Mrs von der Leyen inherits a sprawling, plural club riven with differences and bombarded with events. The measures her commission proposes will probably have to command support spanning three, four or even five party groups in the fragmented European Parliament. Her tenure, like that of Mr Juncker, will probably be defined by how she reacts to unexpected crises. One can take issue with political decisions that she takes. But her right to take them is clear. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Charlemagne['ʃɑ:lә'mein]:查理曼大帝(742-814, 世称 Charles the Great或Charles I, 768-814为法兰克王, 800-814为西罗马帝国皇帝) 
@@ -104,4 +105,6 @@
 89.bombard[bɒm'bɑ:d]:vt. 炮击, 攻击, 轰击 n. 射石炮 
 90.tenure['tenjuә]:n. 享有, 保有期 [经] (财产,职位等的)占有, 占有权 
 91.unexpect[]:[网络] 意想不到；使意外 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 An early test will be whether the government can simplify the GST and reduce rates. If it wanted to succour the moribund construction industry, for example, it could lower the tax on cement from 28%, as well as slash heavy fees for property registration. Corporate debt presents another challenge: just as a $150bn accumulation of bad debts in the banking system peaked and began to decline last year, the debts of other sorts of finance firms ballooned dangerously. Mr Modi’s government has until now reacted slowly and hesitantly to this mess, hoping that injections of fresh capital at state-owned banks, lower interest rates and rapid economic growth would help to paper over the disastrous lending. But this week Arvind Subramanian, a former adviser to Mr Modi, released a paper suggesting that the economy has been growing much more slowly than official data say (see article). That suggests that more vigorous action may be needed. 
 For a prime minister with so resounding a mandate, Mr Modi has proved surprisingly shy about another pressing issue: administrative reform. India is peculiar in having a hugely fussy but remarkably skinny and understaffed bureaucracy. Around a quarter of central government positions are vacant at any given moment. Top bureaucrats are shunted between posts at bewildering speed. Rules rarely allow for the hiring of outside brainpower, such as urban planners or financial experts. Mr Modi has made a first chink in this system by allowing for contract employment of a limited number of specialists. But there is a long way to go. 
 On other big issues, such as the choking air pollution that afflicts northern India, or the water mismanagement that has led to dangerous shortfalls across the country, the government has been less than impressive. Some of Mr Modi’s ministers have done incremental work to address pollution, but others dismiss complaints as exaggerated. Even as the government talks of bringing clean water to every home, it also suggests linking all India’s big rivers with a series of canals, to the horror of environmentalists. India’s problems are as varied as Mr Modi’s hats. Only by concentrating less on appearances and more on actions will he get to grips with them. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.costume['kɒstju:m]:n. 装束, 服装 
@@ -114,4 +115,6 @@
 99.incremental[.inkri'mentl]:a. 增加的, 增值的 [经] 增长的, 增量的 
 100.sery[]:n. (Sery)人名；(俄)谢雷；(科特)塞里 
 101.environmentalist[in,vaiәrәn'mentlist]:n. 环保人士 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

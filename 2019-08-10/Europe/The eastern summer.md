@@ -11,6 +11,7 @@
 And yet the events of this summer prove many of the western European clichés about eastern Europe wrong. States scarred by communism are not incapable of producing strong civil-society movements. Slavs and Turks do not have some innately “Asiatic” preference for authoritarian leadership. Nothing lasts forever. History never ended. 
 Eastern Europe’s liberal marchers and voters deserve more support from the continent’s west. While protesters on the streets of Moscow are being beaten and countries like Ukraine and Georgia are striving for independence, Germany is embracing NordStream2, an unnecessary gas pipeline tailored to the Kremlin’s geopolitical and financial interests. Meanwhile Mrs Merkel and Emmanuel Macron are pouring cold water on North Macedonia’s hopes of joining the EU. The union spends far too much of its budget on misguided priorities like farm subsidies, and not enough on supporting independent media and civil-society organisations on its fringes. Dissenting voices in countries like the Czech Republic, Romania and Turkey receive scant coverage from western European politicians and journalists. That should change. 
 To assume eastern Europe is all Orbans, Erdogans and Putins is to do the region a grave injustice. This summer has proved that eastern Europe is in fact teeming with democrats and liberals willing to put their own interests on the line for their cause. If the EU stands for anything, if it truly values the promise of 1989, it will stand by them. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Charlemagne['ʃɑ:lә'mein]:查理曼大帝(742-814, 世称 Charles the Great或Charles I, 768-814为法兰克王, 800-814为西罗马帝国皇帝) 
@@ -141,4 +142,6 @@
 126.putin['putin]:n. 普京（人名） 
 127.injustice[in'dʒʌstis]:n. 不公平, 非正义的行为 [法] 不公正, 不公平, 权利侵害 
 128.teem[ti:m]:vi. 充满, 充足, 倾注 vt. 倒出 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

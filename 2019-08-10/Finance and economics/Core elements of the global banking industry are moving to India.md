@@ -13,6 +13,7 @@
 In the past few years UBS has opened three new centres in India. The most recent, in the western city of Pune, is in a building shared by Credit Suisse and Alliance and Northern Trust, a stone’s throw from others occupied by Barclays and Citi. Between Mumbai and Pune UBS now has 4,000 employees. A sophisticated recruiting effort looks beyond recent graduates to tap émigrés who might be tempted back home by the right opportunity. 
 Among the recent hires are a group of women returning to work after years away to care for children or ageing parents. Their careers have included stints at banks, rating agencies and a global pharmaceutical company, with expertise in risk analysis, quality control and product management. UBS’s research department hires staff with expertise in cloud computing, statistics, machine learning and automation. They have contributed to recent reports using, for example, web-scraping tools to understand trends in the pricing of air-conditioning, geospatial technology to map bank branches and population density, and analysis of corporate filings to map cross-shareholdings of corporations and uncover their vulnerability to a credit crunch. 
 UBS is perhaps unusually committed to innovation in India. But any large bank with operations in the country is making significant efforts in similar ways. With hindsight, given its prowess in computer engineering, all this will look obvious. But bankers say they have been startled by how fast India, notwithstanding its local challenges, has become an intellectual force that is now shaping their global futures. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -88,4 +89,6 @@
 71.hindsight['haindsait]:n. 枪的表尺, 事后聪明 
 72.banker['bæŋkә]:n. 银行家, 庄家 [经] 银行业者, 银行家 
 73.notwithstanding[.nɒtwiθ'stændiŋ]:adv. 虽然, 尽管 prep. 尽管 conj. 虽然 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

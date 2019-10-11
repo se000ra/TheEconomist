@@ -10,6 +10,7 @@
 Yet it is also true that mass shootings were common before Mr Trump took office and will continue after he has gone. The El Paso shooter’s main fixation was immigration, but he also wrote in his manifesto about excessive corporate power and environmental damage. The Dayton shooter was not a Trump supporter at all. In such cases it is impossible to know whether the ideology makes the person violent, or whether the violent desires come first and the half-baked justification follows after. 
 If motive can be hard to attribute precisely, and policy correspondingly hard to design, the same is not true of opportunity. White nationalists can be found in many Western countries, as can politicians who exploit racial divisions. But in a society where someone with murderous intent can wield only a kitchen knife or a baseball bat, the harm he can do is limited. When such a person has access to a semi-automatic weapon, which can hold 100 rounds of ammunition and discharge them in under a minute, it is grievous—and hence, lamentably, more seductive. 
 The answer is obvious: restrict the ownership of certain types of guns, as New Zealand did after the shootings in Christchurch, and introduce proper background checks. Such measures will not prevent all gun deaths. The constitution will not be rewritten and too many weapons are in circulation. Yet given the number of fatalities, even a 5% reduction would save many innocent lives. Mass shootings in America have become like deforestation in Brazil or air pollution in China—a man-made environmental hazard that is hard to stop. Such hazards are not cleaned up overnight. That should not prevent people from making a start.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -76,4 +77,6 @@
 62.fatality[fә'tæliti]:n. 不幸, 厄运, 致命性, 死亡者, 厄运, 天命 
 63.deforestation[di:.fɒ:ri'steiʃәn]:n. 采伐森林, 森林开伐 [法] 砍伐森森 
 64.Brazil[brә'zil]:n. 巴西 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

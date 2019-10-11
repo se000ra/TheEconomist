@@ -11,6 +11,7 @@
 The first goal is to use the technology to help people overcome such ailments as blindness and paralysis. Neuralink is, however, clearly aiming for a bigger market than this. It has also designed a small device that would sit behind someone’s ear, picking up signals from the implanted chip and passing them on as appropriate. In a few years, using a brain implant to control your devices may be as de rigueur among San Francisco’s techno-chics as wearing wireless earbuds is today. Ultimately, Mr Musk predicts, neural lace will allow humans to merge with AI systems, thus enabling the species to survive. 
 Though, as this announcement shows, Mr Musk does have a habit of presenting himself as the saviour of the human race (his desire to settle Mars seems motivated partly by fear of what might, in the future, happen to Earth), the idea that some machines at least will come under the direct control of human brains seems plausible. The biggest obstruction to this happening will probably not be writing the software needed to interpret brainwaves, but rather persuading people that the necessary surgery, whether by sewing machine or otherwise, is actually a good idea.■ 
 Correction (July 18th 2019): Neuralink’s new chip can handle signals from ten times as many electrodes as the best current systems, not 30 times as many, as we first wrote. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.interface['intәfeis]:n. 分界面, 接触面, 界面 [计] 接口, 界面 
@@ -78,4 +79,6 @@
 63.plausible['plɒ:zibl]:a. 貌似真实的, 貌似合理的, 说得煞有其事的 [法] 花言巧语的, 似乎有理的 
 64.obstruction[әb'strʌʃәn]:n. 障碍, 妨碍, 闭塞物 [医] 梗阻, 不通 
 65.brainwave['breinweiv]:n. 脑(电)波, 灵感 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

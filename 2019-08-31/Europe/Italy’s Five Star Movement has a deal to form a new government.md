@@ -9,6 +9,7 @@
 But there are snags. The M5S intends to seek its members’ approval in an online ballot. If they vote against the alliance, it will probably force a general election. Italy can ill afford that. It could take until November to hold the vote, and parliament has to approve a budget by year’s end. That will be tricky: €23bn ($25bn) in deficit cuts are needed to meet EU limits. Otherwise, value-added-tax rates will have to be raised. 
 Moreover, in over a week of negotiation, the Five Stars and PD seemed to have agreed on little more than the prime minister’s name. The M5S’s founder, Beppe Grillo, suggested the cabinet might include other technocrats. 
 Perhaps most important, the two parties have sharply different cultures. Though most Five Star activists lean left, they disdain the liberal elite and see the PD as its embodiment. That was not a problem with the League, though it backed some policies they disliked. The fate of Italy’s new government may show which is the stronger bond—ideological affinity or a populist temperament.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -57,4 +58,6 @@
 44.embodiment[im'bɒdimәnt]:n. 具体化, 化身 
 45.affinity[ә'finiti]:n. 吸引, 姻亲关系, 类同 [化] 亲合力; 亲合能; 亲合势; 近似; 类似 
 46.Populist['pɔpjulist]:n. 民粹派的成员 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -5,6 +5,7 @@
 ![image](images/20190608_int102.png) 
 ![image](images/20190608_int201.png) 
 ![image](images/20190608_int401.png) 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.disruption[dis'rʌpʃәn]:n. 分裂, 崩溃, 瓦解 
@@ -12,4 +13,6 @@
 3.commodity[kә'mɒditi]:n. 农产品, 商品, 有用的物品 [经] 商品, 货物, 日用品 
 4.indicator['indikeitә]:n. 指示器, 指示剂, 指标 [计] 指示器 
 5.Jun[dʒʌn]:六月 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 Still, adapting a mannered—and often bawdy—European art form to local tastes is a challenge. “The risk is that you disorientate audiences,” says Farid Rahi, CEO of Opera Lebanon (itself founded in 2015). “You need a very simple theatrical language.” Sex and religion cause particular problems. “When we staged ‘La Traviata’ [Verdi’s opera about a Parisian courtesan], we had water instead of wine,” Mr Fanni recalls. The production in Muscat emphasised the heroine’s “dignified journey to death rather than her libertine lifestyle.” 
 As well as European classics, the ROHM offers works from the Middle East, such as “Antar and Abla”, an Arabic opera commissioned by Opera Lebanon. Mr Fanni’s ultimate aim is to replace the imported shows that have hitherto dominated the repertoire with in-house productions. The Teatro Carlo Felice in Genoa provided the chorus and musicians for “Lakmé”, but the ROHM made the sets. Mr Fanni hopes soon to mix Omani musicians with the foreign players who occupy the orchestra pit now. 
 The complexion of the audience is also changing—slowly. When the ROHM was inaugurated during the Arab spring, protesters decried the project’s profligacy. Local interest in opera has risen; but even now, only around 15% of punters are Omani. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -93,4 +94,6 @@
 78.decry[di'krai]:vt. 反对, 责难, 诽谤, 诋毁 
 79.profligacy['prɒfligәsi]:n. 放荡, 不检点, 浪费 
 80.punter['pʌntә]:n. 用篙撑船的人, 船夫, 赌博者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

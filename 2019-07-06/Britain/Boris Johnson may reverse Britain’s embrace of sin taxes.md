@@ -8,6 +8,7 @@
 Awkwardly, the answer to both questions is probably that they do. Although the Johnson campaign cites a dissenting study, on the whole there is good evidence that sin taxes change people’s behaviour. In the case of alcohol and tobacco, for example, economists tend to find that a 1% increase in prices is associated with a 0.5% decline in sales. But because poor people tend to spend a higher proportion of their income than others on things deemed sinful, such taxes hit them hardest. 
 Mr Johnson’s plans are likely to go down well with the Conservative Party members whose votes he is courting. Health campaigners may be less impressed. On the same day as his announcement, a report by Cancer Research UK found that obesity caused more cases of cancer than tobacco in Britain. As for targeting the poor, advocates for sin taxes sometimes argue this is in fact an advantage of the policies, because the poor will disproportionately reap the promised health benefits of having their behaviour changed. 
 This ignores their associated loss of personal choice, however. It also misses a point that Mr Johnson understands very well: the thing about sinful behaviour is that it is often pleasurable. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.boris['bɔris]:n. 鲍里斯（男子名） 
@@ -43,4 +44,6 @@
 31.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
 32.UK[ju: 'kei]:n. 联合王国 
 33.pleasurable['pleʒәrәbl]:a. 快乐的, 愉快的, 舒适的, 心情舒畅的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

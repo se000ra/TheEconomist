@@ -6,6 +6,7 @@
 The oddity that upsets Mr Kono does not stem from the West attempting to impose its norms on Japan. When Matthew Perry, an American naval officer, forced Japan to end its self-imposed isolation in 1854, he had no qualms about referring to the Japanese officials he was threatening as they referred to themselves. Instead it was local elites who, after the Meiji Restoration of 1868, when Japan was rapidly modernising by imitating Western institutions and mores, took it upon themselves to reverse the order of their names for foreign consumption. The intention was to disassociate Japan from the rest of Asia and signal its advanced status to Westerners. 
 Mr Kono is no nationalist firebrand. He speaks fluent English and is hearteningly open-minded. Indeed, the cause is not really a nationalist one: even at the height of Japanese expansionism during the second world war, Japanese stuck to the convention he is now challenging. The cabinet and the wider population are split on the issue. Some organisations, such as Japan’s national football team, already put family names first in English. 
 The debate is an illustration of Japanese culture’s unique, and sometimes awkward, blend of east and west, which stems not only from the Meiji era but also from the American occupation after the second world war. The Japanese love both baseball and shogi (Japanese chess); sushi and doughnuts. Mr Kono argues that the switch to indigenous practice should occur in time for an impending series of showcase events including the Olympics, which Tokyo is hosting next year. But others would argue that Japan’s relaxed and largely unselfconscious blending of foreign and local customs should be the main exhibit.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.flip[flip]:vt. 掷, 弹, 轻击, 空翻 vi. 用指轻弹, 抽打, 蹦跳 n. 抛, 弹, 筋斗 a. 无礼的 [计] 翻转 
@@ -54,4 +55,6 @@
 44.sery[]:n. (Sery)人名；(俄)谢雷；(科特)塞里 
 45.showcase['ʃәukeis]:n. 陈列橱 [经] 商品陈列所, 货物陈列架 
 46.unselfconscious[ʌnself'kɔnʃәs]:a. 自然的, 不装腔作势的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

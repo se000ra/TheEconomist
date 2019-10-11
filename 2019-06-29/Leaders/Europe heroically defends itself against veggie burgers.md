@@ -9,6 +9,7 @@
 This linguistic rigour should be extended through both time and space. The Holy Roman Empire, as Voltaire pointed out, was neither holy, nor Roman, nor an empire; La Manche has no sartorial connections; the Mediterranean is not the centre of the Earth; there is no horticulture in the Big Apple. They need renaming. 
 Not all the union’s governing structures are taking their linguistic responsibilities seriously enough. When earlier this year Donald Tusk, president of the European Council, spoke of “concrete measures” to extend the single market and a “level playing field”, listeners might reasonably have looked forward to a multi-billion-euro infrastructure project to shift French and Italian mountaintops to the low-lying bits around Brussels. 
 The Treaty of Rome speaks of the need to respect member states’ culture (no, nothing to do with yogurt) and bind them together (please put the string away). In view of those aspirations, Europe’s leaders need to get on board with this reform. Not literally, obviously. It’s not a ship. Never mind.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.heroically[hə'rəʊɪklɪ]:adv. 英雄地; 超人地; 冒险地; 庞大地 
@@ -64,4 +65,6 @@
 51.Rome[rәum]:n. 罗马 
 52.yogurt['jɔ^әt]:n. 酸乳酪 [医] 酸乳 
 53.aspiration[.æspә'reiʃәn]:n. 热望, 志向, 渴望 [医] 吸入; 吸[引], 吸引术 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

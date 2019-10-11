@@ -11,6 +11,7 @@
 Reconstruction will be slow and expensive. The government plans to appeal for “hundreds of millions, if not billions” of dollars of aid. The economy, based on tourism and offshore banking, could take years to recover. The Royal Oasis resort on Grand Bahama, wrecked in 2004 by hurricanes Frances and Jeanne, is still derelict. Matthew shut down the Grand Lucayan on the same island in 2016. Still mostly closed, its ballroom sheltered people from Dorian.  
 The first half of this year’s hurricane season was quiet. Among the far-flung effects of El Niño events, which are oscillations in climate caused by changes in the Pacific, are stronger upper-level westerly winds in the Atlantic, which prevent hurricanes from forming. But the effects of this year’s El Niño diminished in July, allowing Dorian to form. More ferocity may be in store. Tropical Storm Fernand has reached the Mexican coast. 
 The Caribbean may have to come to terms with more destructive storms. In 2017 Irma smashed up the north-eastern Caribbean, then Maria devastated Puerto Rico and Dominica. By warming the surface of the Atlantic, climate change should make hurricanes stronger. It may have played a role in slowing Dorian to a cruel crawl. A recent study by NASA and the National Oceanic and Atmospheric Administration found that the number of slow-moving hurricanes in the North Atlantic has been climbing since the 1940s. Dorian is unlikely to be the last of its kind. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Caribbean[.kæri'bi:әn]:n. 加勒比海 a. 加勒比海的, 加勒比人的 
@@ -65,4 +66,6 @@
 50.Dominica[,dɔmi'ni:kә]:n. 多米尼加(西印度群岛岛国) 
 51.NASA['næsә]:国家航空和宇宙航行局(美国) [电] 国际航空和太空总署的同义字 
 52.oceanic[.әuʃi'ænik]:a. 海洋的, 产于海洋的, 在海洋中生活的, 广阔的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

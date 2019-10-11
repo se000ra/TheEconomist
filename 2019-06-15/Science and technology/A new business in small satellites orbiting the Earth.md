@@ -15,6 +15,7 @@
 Managing all those extra satellites gets tricky when the companies launching them have to get their orbits perfect the first time. Currently, companies get only one shot. D-Orbit, an Italian company, has built a “carrier” satellite that is designed to boost already-launched smallsats to their correct configuration. 
 Perhaps the most futuristic new problem for the space business is the risk of debris. The concern is that, with so many new satellites in orbit operated by so many different companies, the chance of losing control of one goes up. A collision could be disastrous, producing a wave of debris with a high chance of wiping out other satellites, potentially crippling the whole commercial low-Earth orbit ecosystem at a stroke. Astroscale, a Japanese company, is tackling this problem by building a prototype craft capable of being launched at short notice in order to grab any malfunctioning satellite and pull it down into the atmosphere where it will burn up before it can collide with anything. The “rescue” craft will use computer vision to lock onto the out-of-control satellite and match velocity with it, then latch onto it magnetically. The company, which has raised $132m in the past few years, is planning a demonstration of its technology next year. 
 Earth’s orbits suddenly look busier than ever before. Companies are going into space because it offers a different vantage point, allowing them to gather valuable new, previously-unaffordable information. TUBSAT’s “new market areas” are at last open for business.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.orbital['ɒ:bitәl]:a. 轨道的, 眼眶的 [化] 轨道 
@@ -96,4 +97,6 @@
 77.magnetically[]:adv. 有磁力地；有吸引力地 
 78.demonstration[.demәn'streiʃәn]:n. 示范, 实证 [医] 示教, 实物教授 
 79.vantage['væntidʒ]:n. 优势, 有利情况 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

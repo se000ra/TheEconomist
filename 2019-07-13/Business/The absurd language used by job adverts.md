@@ -12,6 +12,7 @@
 Alas, another newish management mantra is “bring your whole self to work”. This slogan, dreamed up by Mike Robbins, a motivational speaker, seems well intentioned. Workers should not have to suppress their personalities. They should not hide the fact that they are gay, for example, or caring for children or elderly relatives at home. 
 But it is easy to see how the slogan can be turned into the idea that workers should give 100% commitment all the time. That is asking too much. It is great when people enjoy their work but the fact is a lot of people are doing their jobs to pay the bills, and dreaming of the few weeks in the year when they can take a holiday. They may have hobbies and interests outside work, but the word “outside” is key. Those are the moments when the company has no claim on its employees. Workers should be allowed to leave parts of themselves at home. 
 Job applicants should take their cue from the kind of advertisements that companies place. Think of it as a first date. If the other person started talking of marriage and how many children you will have together, you might avoid seeing them a second time. So if a job advert talks about passion or superheroes, run away faster than a speeding Batmobile. Being a ninja should be reserved for teenage mutant turtles. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bartleby[]:[网络] 巴特比；巴特白；老板是空气 
@@ -63,4 +64,6 @@
 47.teenage['ti:nidʒ]:a. 十三岁到十九岁的 
 48.mutant['mju:tәnt]:n. 突变体 [化] 突变型 
 49.turtle['tә:tl]:n. 海龟 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

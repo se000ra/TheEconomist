@@ -15,6 +15,7 @@
 Charlene Chu of Autonomous Research has long estimated that bad loans in China are much higher than reported: more like 20% of bank assets rather than the official 2%. She thinks this year’s turbulence is a preview of what lies ahead. But she also says that China has ways to delay the reckoning, potentially for a long time. When defaults spread to brokerages in June, regulators brought them and their creditors, mostly banks, together in emergency meetings. “It is a rare tool that Chinese authorities have,” says Ms Chu. “They called in all parties, and said no one is defaulting any more.” 
 Even if China can prevent widespread defaults, its banks’ newfound risk aversion poses dangers itself. Small banks had been big lenders to small companies, which in turn are big drivers of growth. Now, the outlook for all is more subdued. 
 At Hengfeng it is no coincidence that, when not engaged in self-criticism, bankers are talking up their role in helping small firms. In a recent news broadcast, Hengfeng’s chairwoman was shown visiting a local food company. She gazed over a rice field, trimmed to look like Tiananmen, complete with a portrait of Mao. A slogan was cut into the field: “I love my motherland”. In banking as in farming, it is good to know which way the wind is blowing. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bail[beil]:n. 保释, 拎环, 杓, 栅栏 vt. 保释, 舀水 
@@ -85,4 +86,6 @@
 66.aversion[ә'vә:ʃәn]:n. 厌恶, 讨厌的事, 讨厌的人 [医] 厌恶, 移转, 移位 
 67.subdue[sәb'dju:]:vt. 使服从, 压制, 减弱, 抑制, 克制 
 68.banker['bæŋkә]:n. 银行家, 庄家 [经] 银行业者, 银行家 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

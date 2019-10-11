@@ -12,6 +12,7 @@
 The populist label also fits both Jair Bolsonaro of Brazil and Andrés Manuel López Obrador of Mexico. But when Mr Bolsonaro was elected, investors sensed that he might defer to technocratic advisers such as Paulo Guedes, now his economy minister, who has a doctorate in economics from the University of Chicago. Sure enough, Mr Bolsonaro recently shepherded through Brazil’s lower house a pension reform that is vital to the country’s fiscal stability. The real rallied. Meanwhile, Mr López Obrador’s finance minister abruptly resigned. He complained bitterly that technocrats had been sidelined in favour of unqualified types. The peso wobbled. 
 The leader who is hardest to place on the scale is Narendra Modi of India. He has all the elements of a strongman: strident nationalism, personality cult, enfeebled opposition. He appears to value technocrats. As prime minister and, before that, as chief minister of Gujarat, he has relied on a small band of trusted civil servants. And though he is no fiscal hawk, he seems to grasp that the budget has limits. But there are marks against him. He lost two well-regarded central-bank governors in his first term as prime minister. His madcap idea to withdraw banknotes from circulation in 2016 was anything but orthodox. 
 The autocrat-plus-technocrat model is not rock-solid. A frailty is that stability is less valuable if it is not married to policies to promote economic growth. Such reforms often, or usually, founder on vested interests on which the autocrat depends. But if living standards are not growing, there will be demand from voters for old-style economic populism. And that always ends badly. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.buttonwood['bʌtnwʊd]: 美洲悬铃木 
@@ -103,4 +104,6 @@
 87.founder['faundә]:n. 创立者, 建立者 vt. 使沉没, 使摔倒, 弄跛, 浸水, 破坏 vi. 沉没, 摔到, 变跛, 倒塌, 失败 
 88.voter['vәutә]:n. 选民, 投票人 [法] 选民, 选举人, 投票人 
 89.alway['ɔ:lwei]:adv. 永远；总是（等于always） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -36,6 +36,7 @@
 But even if there can be no deals, there should at least be dialogue. During the cold war, America and the Soviet Union appreciated that risk reduction and escalation control required a sound understanding of the other side’s nuclear thinking. Yet America and China do not appear to have held talks on space security for three years. Just as the two sides have agreements on encounters between warships at sea, they could flesh out norms for safe distances for proximity operations. That could include requirements to use transponders on all civilian satellites and to provide prior notice of any planned inspections. Many military space operators would be keen on this. If more civilian satellites broadcast their location and behaved predictably, suspicious behaviour would be easier to pick out. 
 Finally, the fact that there is no law of space war does not mean that the customary laws of war do not apply in space. They apply there as surely as they do on the high seas. How they do so—how to balance humanity and military necessity in a domain without humans—is unclear. But such challenges have been met before. The Tallinn Manual did a comparable job for cyberspace in 2013. The Woomera Manual, spearheaded by four universities in Australia, America and Britain, and the MILAMOS project, led by one in Canada, hope to do the same for space. 
 The act that established NASA in 1958 declared loftily that “it is the policy of the United States that activities in space should be devoted to peaceful purposes for the benefit of all mankind.” Even then, that was a half-truth. But space has since become a sinew of terrestrial military power in ways that were unimaginable even when Apollo 11 touched down in 1969. The point is not that the next war will be fought in space, as though it is a battlefield unto itself; it is that the next war may not spare it. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -227,4 +228,6 @@
 187.Apollo[ә'pɒlәu]:n. 阿波罗(太阳神), 美男子 
 188.battlefield['bætlfi:ld]:n. 战场, 沙场 
 189.unto['ʌntu, 'ʌntә, 'ʌntu:]:prep. 到, 对, 直到 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

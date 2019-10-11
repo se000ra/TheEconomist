@@ -8,6 +8,7 @@
 Onno Selbach, the first student to move in, says he learnt to be more patient as a result of the experience; the pace of life is slower at the home. The scheme has helped attract prospective residents. The home now has a waiting list, which it previously did not. And students are queuing up. When two left the home in April, 27 applied to replace them. 
 Humanitas is not the first institution to urge old and young people to live together. Municipalities across Spain and care homes in Lyon, France, and Cleveland, Ohio, have also experimented with the idea. A team from Finland visited Deventer and was inspired to start a similar scheme. 
 Such initiatives could help combat loneliness, an increasing problem across the rich world. The very old, migrants, the sick or disabled, and singletons are most at risk of feeling lonely. It goes hand in hand with social isolation. About 18% of adult EU citizens—some 75m people—see friends or family at most only once a month. Nearly half of Britons over the age of 65 say that television or pets are their main form of company. Loneliness is also reckoned to have serious health consequences: a study from 2015 found that lonely people had on average a 26% higher risk of dying in its seven-year study period than those who were not lonely. And the problem may only get worse. The share of people who are aged over 80 will more than double in the EU by 2080. Social isolation is becoming more common partly because people are marrying later. Creating a space for the elderly to mingle with youngsters can lift spirits—and help cash-strapped millennials. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Dutch[dʌtʃ]:n. 荷兰人, 荷兰语 a. 荷兰的 
@@ -43,4 +44,6 @@
 31.reckon['rekәn]:vt. 计算, 总计, 估计, 认为, 猜想 vi. 数, 计算, 估计, 依赖, 料想 
 32.mingle['miŋgl]:v. (使)混合 
 33.millennials[mɪ'leniəl]:adj. 一千年的；一千年至福的 [网络] 千禧世代；千禧之子；千禧一代 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

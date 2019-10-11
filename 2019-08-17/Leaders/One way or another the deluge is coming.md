@@ -12,6 +12,7 @@
 Authorities must also stop pretending that entire coastlines can be defended. Unless you are Monaco or Singapore, they cannot. Elsewhere, people may need to move to higher ground. Bangladesh, for instance, is displacing 250,000 households. 
 All this requires co-ordination between different levels of government, individuals and companies, not least to prevent one man’s levee from diverting water to a defenceless neighbour. Market signals need strengthening. Credit-raters, lenders and insurers are only beginning to take stock of climate risks. Making the disclosure of risks mandatory would hasten the process. And poor, vulnerable places need support. Just $70bn a year of the $100bn in pledged climate aid to help them tackle the causes and impact of global warming has materialised. Less than one-tenth of it goes to adaptation. This must change. 
 Actuaries calculate that governments investing $1 in climate resilience today will save $5 in losses tomorrow. That is a good return on public investment. Rich countries would be foolhardy to forgo it, but can probably afford to. Many developing countries, by contrast, cannot. All the while, the water is coming. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.deluge['delju:dʒ]:n. 大洪水, 泛滥 vt. 使泛滥 
@@ -96,4 +97,6 @@
 80.resilience[ri'ziliәns]:n. 弹回, 有弹力, 恢复力 [化] 回弹; 弹性; 弹回性; 回能; 弹能 
 81.foolhardy['fu:lhɑ:di]:a. 愚勇的, 有勇无谋的 
 82.forgo[fɒ:'gәu]:vt. 摒绝, 放弃 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

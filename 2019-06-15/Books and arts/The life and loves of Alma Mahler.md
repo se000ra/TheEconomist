@@ -10,6 +10,7 @@
 This biography captures the turmoil of Alma’s affairs, her artistic disappointments, visceral appetites and the tragic deaths of three of her four children. She emerges as a tough, lively, cultured and wilful woman, who also composed highly regarded songs that were characteristic of her era; a modern performer describes them as “sensual, charming and surprising”. As Ms Haste says, these works have been overshadowed by Gustav’s genius. 
 This portrait of Alma is compelling; the feminist gloss, less so. Alma is known to have edited her diaries (and Gustav’s correspondence), making them unreliable records of her travails. His dominant streak does not account for her later behaviour. They were married for only nine years; Alma lived to be 85. 
 Did she have the tenacity and discipline to have been as prolific a composer as Gustav? She seems generally to have preferred more immediate forms of gratification. The sad truth, from a feminist perspective, is that, if Alma had actually led the life of a dedicated composer and forgone her sensational flings, she might now be a much less famous figure. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.alma['ælmә]:n. 阿尔玛（女子名）；舞女；歌女 
@@ -84,4 +85,6 @@
 70.dedicate['dedikeit]:vt. 献出, 贡献 
 71.forgo[fɒ:'gәu]:vt. 摒绝, 放弃 
 72.sensational[sen'seiʃәnl]:a. 使人感动的, 非常好的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -13,6 +13,7 @@
 Senior managers can also benefit from seeing what happens when their juniors head to the beach. Does office morale improve as soon as a mid-level manager disappears? If so, this suggests that he or she is not running the department well. Does an underling impress when standing in for their boss? In that case, they may be overdue a promotion. 
 Some Americans are reluctant to take a long holiday for fear that their employer will find they can easily manage without them. None of that nonsense at The Economist. Ambitious young writers will be eager to fill the vacant space left by this column with insights into the business world. The business editor will be relieved of the need to remove some of this writer’s questionable puns [much appreciated, ed.]. 
 Work can be irritating but, as any unemployed person will tell you, it is better than the alternative. It gives purpose to people’s days and, on occasion, can even be fun. But not every day. Some days it is better to be reading a paperback. By a pool, in the sunshine. Enjoy.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bartleby[]:[网络] 巴特比；巴特白；老板是空气 
@@ -58,4 +59,6 @@
 41.irritate['iriteit]:vt. 激怒, 使发怒, 使兴奋, 使发炎 vi. 引起不快 
 42.unemployed[.ʌnim'plɒid]:a. 失业的, 未被利用的 [经] 没有被雇用的, 失业的, 没有被利用的 
 43.paperback['peipәbæk]:n. 平装本, 纸面本 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

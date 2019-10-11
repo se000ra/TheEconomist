@@ -28,6 +28,7 @@
 BEN CLICKWashington, DC 
 The demise of the male tie is somewhat premature. It has a function that is necessary and desirable: the partial cover-up of an extended gut, of which we have many. 
 ANDREW RUTTERTucson, Arizona 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.antibiotic[.æntibai'ɒtik]:n. 抗生素 a. 抗生的 
@@ -146,4 +147,6 @@
 114.gut[gʌt]:n. 剧情, 内容, 内脏, 肚子, 海峡, 勇气 vt. 取出内脏, 毁坏...的内部 
 115.andrew['ændru:]:n. 安德鲁（男子名） 
 116.Arizona[æri'zәunә]:n. 亚利桑那州 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

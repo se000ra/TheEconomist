@@ -9,6 +9,7 @@
 Still, the party’s rise in the southern Republic has been steady and impressive, from no parliamentary seats in 1987, just after it stopped boycotting the Dublin parliament, to 14 seats in 2011 and 23 (of 158) in 2016. But Noel Whelan, a pundit, believes that Sinn Fein should have been able to pick up more seats from the post-crash collapse of Fianna Fail. 
 With an impressive front bench, a strong spread of candidates, youthful support and a good ground game, Sinn Fein is formidable on paper, yet a number of factors seem to be holding it back. Leo Varadkar’s government faces mounting disquiet over domestic issues from which Sinn Fein would normally make hay—a collapsing health service and a crisis in housing—but it is partially shielded, says Jennifer Todd, a political scientist at University College Dublin, by the Brexit stand-off with Britain: the government is reckoned to be playing its hand well. 
 Most observers agree that the legacy of the Troubles, in which Sinn Fein’s armed alter ego was the bloodiest participant, still haunts the party, 21 years after the IRA signed up for peace. William Murphy, a historian at Dublin City University, says that voters old enough to remember the Troubles are still wary of Sinn Fein. But he believes that this stigma, too, will pass if the party can prove itself in government, as it did for de Valera. Both Fianna Fail and Fine Gael insist they will not go into coalition with Sinn Fein, but few expect these promises to be kept if the arithmetic after the next election suggests otherwise. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.sinn[]: [人名] 辛恩; [地名] [德国] 辛恩; [地名] [德国] 辛恩河 
@@ -71,4 +72,6 @@
 58.wary['wєәri]:a. 谨慎的, 小心的, 机警的, 周到的, 唯恐的 
 59.stigma['stigmә]:n. 耻辱, 污名, 烙印 [医] 柱头; 小孔, 眼点; 气孔; 小斑; 特征 
 60.coalition[.kәuә'liʃәn]:n. 结合体, 结合, 联合 [经] 联合, 联盟 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

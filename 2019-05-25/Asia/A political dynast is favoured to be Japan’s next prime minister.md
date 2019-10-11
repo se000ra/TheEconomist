@@ -10,6 +10,7 @@
 Many Japanese take it for granted that Mr Koizumi will eventually become leader of the LDP and prime minister (the two jobs tend to go together); the question is when. The LDP’s leadership race involves votes among both its MPs and its broader membership. Polling suggests he is the most popular choice among the public; the media refer to him as Japan’s Macron. It helps that there are few strong alternatives. 
 Mr Koizumi has to tread a delicate line by being enough of an insider to gain support within the party, but enough of a critic to earn the respect of the public at large. He praises Mr Abe’s reforms, but did not vote for him in LDP leadership elections in 2012 and 2018. 
 Mr Koizumi is coy about whether he will stand in 2021: “Let’s see.” But he points out that on the one hand, young people are becoming estranged from politics, and on the other that the LDP attracts more young voters than any other party. “Japan is getting ready to see more young leaders in politics,” he says, with a dash of self-interest. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.cometh[]:[网络] 来了 
@@ -46,4 +47,6 @@
 32.coy[kɒi]:a. 腼腆的, 怕羞的, 羞怯的 
 33.estrange[i'streindʒ]:vt. 使疏远, 离间, 使离开 
 34.voter['vәutә]:n. 选民, 投票人 [法] 选民, 选举人, 投票人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

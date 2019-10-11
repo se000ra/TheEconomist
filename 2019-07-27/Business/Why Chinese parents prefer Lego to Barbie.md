@@ -9,6 +9,7 @@
 Lego has also astutely catered to local tastes. This year the firm launched three sets specifically for China, the first time it has done so for any country. Fans were delighted at the attention to cultural detail. One was a Chinese New Year’s Eve dinner kit, with tiny red envelopes and chunlian, lucky couplets on banners pasted around doorways. A dragon boat race set included a sticky-rice dumpling, a popular festival snack. The high-quality kits are pricey, costing up to 700 yuan ($100) apiece. 
 With Barbie, Mattel tried to localise in the wrong way. A former Chinese manager at the American company calls its promotion of a line of cheaper, flimsier dolls “arrogant”. Because no effort was put into making her locally relevant, Barbie held none of her usual aspirational appeal, even for spendthrift Chinese. In 2009 Mattel opened the world’s largest Barbie shop on a luxury shopping street in central Shanghai, stuffed with 800 dolls. The six-floor pink colossus confused Chinese parents by offering mothers a spa, designer fashion and “Barbietini” cocktails, and their daughters more age-appropriate attractions. It was a flop and shut two years later. 
 It is hard to convince prudish parents of the creative merits of frivolous dolls, and grown-up Chinese collectors prefer short and chubby Molly, a popular local poppet. The Chinese market for construction toys is six times bigger than for dolls. In Mr Zhu’s words, “there is no art to a Barbie”. Tellingly, Mattel’s most successful brand in China is a maker of educational baby toys, Fisher-Price, with a market share of 1.1%, according to Euromonitor, a data provider. Barbie, with 0.3%, comes a lowly 31st. By contrast, Lego’s 4.5% share puts it firmly in first place: a fortification that will serve it well, as China’s market for toys and video games, worth $45bn, overtakes America’s in the next few years.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lego[]:n. 乐高积木（商标名） 
@@ -74,4 +75,6 @@
 61.provider[prә'vaidә]:n. 供应者, 供养人, 伙食承办人 [计] 提供器 
 62.lowly['lәuli]:a. 地位低的, 卑下的, 谦卑的 adv. 位置低下的, 低声地, 谦逊地 
 63.fortification[.fɒ:tifi'keiʃәn]:n. 筑城, 防御工事, 要塞 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

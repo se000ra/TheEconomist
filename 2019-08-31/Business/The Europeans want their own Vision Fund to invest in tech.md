@@ -10,6 +10,7 @@
 The Brussels machinery could once be trusted to dampen fervour for such industrial policy. In February the European Commission, the EU’s executive arm, blocked a merger of the rail arms of Siemens, a German engineering giant, and Alstom of France on competition grounds, putting paid to Franco-German dreams of a continental titan. 
 Now the mood among Eurocrats is shifting. Margrethe Vestager, the bloc’s respected competition chief, who repeatedly kiboshed political efforts to mollycoddle favoured industries, is probably on her way out (of her current job; she will almost certainly stay in Brussels). Historically a French hobby-horse, dirigisme has found favour with German policymakers. Ursula von der Leyen, a German who will take over as commission president on November 1st, has spoken in the past of the need for Europe to “update our industrial policy”. Politicians of most stripes want to erect a Fortress Europe to defend companies from bullying by Trumpian America and assault by state-backed Chinese groups. 
 The mooted fund is far from investing its first euro. Ms von der Leyen has distanced herself from the idea. Soon after Politico, a news outlet, reported the proposal, the commission described it as “draft internal brainstorming”. Maybe. It seems pretty thorough in some respects, like how it might be funded (public money bolstered by private-sector investors) and ways it could “support” companies by taking direct stakes in them. In others, less so. Most notably missing is a list of promising high-tech candidates for the pot’s largesse. To bend the arc of progress European politicians need to grab onto something.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tech[tek]:n. 技术学院或学校 
@@ -75,4 +76,6 @@
 61.largesse[lɑ:'dʒes]:n. 慷慨的赠与, 慷慨赠与物, 慷慨的赏钱 
 62.arc[ɑ:k]:n. 弧, 弧形, 弓形, 弧光 [化] 弧 
 63.grab[græb]:n. 抓握, 掠夺, 强占, 东方沿岸帆船 vi. 抓取, 抢去 vt. 攫取, 捕获, 霸占 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

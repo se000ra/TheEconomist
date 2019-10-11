@@ -12,6 +12,7 @@
 First, the researchers needed to remove the varnish to avoid mixed ages from two different sources. Varnishes are often added later to paintings, so are not reliable for dating. Suitably cleaned up, the sample weighed only 58 micrograms. Nevertheless, this was enough to show that it contained an excess of 14C that was characteristic of when nuclear testing during the cold war added to the effects of cosmic rays, causing spikes in the usual background amount of the isotope in the atmosphere. 
 Detailed analysis revealed two possible periods for the binding medium’s manufacture: 1958-61 or 1983-89. That compares well with the real history of the painting. When he was convicted in 1990, after a decade of producing and selling fakes, Robert Trotter, an American artist, confessed that he had painted “Village Scene” in 1985. 
 Dr Hendriks’s experiment shows that it is now possible to date a sample of paint weighing no more than 200 micrograms. This could mean more paintings of disputed origin are offered for analysis—or maybe not if their owners are unwilling to contemplate bad news.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.forge[fɒ:dʒ]:n. 熔炉, 铁工厂 vt. 打制, 锻造, 伪造 vi. 锻造, 伪造 
@@ -60,4 +61,6 @@
 44.Robert['rɔbәt]:[法] 警察 
 45.trotter['trɔtә]:n. 小跑步的马, 快步走的人, 猪脚, (谑)脚 
 46.contemplate['kɒntempleit]:vt. 注视, 沉思, 盘算 vi. 冥思苦想 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

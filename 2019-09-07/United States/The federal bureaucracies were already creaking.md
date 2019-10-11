@@ -12,6 +12,7 @@
 Nor is the problem limited to departing personnel. Mr Trump’s penchant for installing people on an acting basis rather than formally nominating them, the unusually high number of unfilled positions, the headspinning rate of turnover among senior staff and the number of nominees he has had to withdraw—65, compared with 34 for Mr Obama at this point in his presidency—render government unstable. Agencies’ attention turns toward senior-staff turnover rather than their missions; recruits do not know who they will work for in six months. 
 Of course, not everyone in government is running for the exits. Mr Trump has plenty of fans among immigration police, whose former acting head praised the president for “taking the handcuffs off”. Morale, measured in annual surveys, is also comparatively high at the departments of Transportation and Health and Human Services, agencies that Mr Trump has either boosted or ignored. 
 If the Trump administration is upset about the hollowing out of American government, it does not show. The Agriculture Department is losing researchers after Sonny Perdue, the secretary, announced that two research agencies would move to Kansas City, not an unreasonable request in itself, but one which some see as a way to sideline inconvenient personnel. Mick Mulvaney, the president’s acting chief of staff, celebrated their departure at a Republican fundraiser, calling it “a wonderful way to streamline government”. But there is a difference between streamlining government and just not governing, which is what seems to be happening in swathes of America’s single-largest organisation.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.blight[blait]:n. 枯萎病 vt. 使染上枯萎病, 破坏 vi. 枯萎 
@@ -97,4 +98,6 @@
 81.fundraiser['fʌndˌreɪzə]:n. 资金筹集活动; 筹款人 
 82.streamline['stri:mlain]:n. 流线, 流线型 vt. 使成流线型, 使合理化 
 83.swathe[sweiθ]:vt. 绑, 裹, 包围 n. 带子, 绷带 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

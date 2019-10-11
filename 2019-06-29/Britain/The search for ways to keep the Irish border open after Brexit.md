@@ -9,6 +9,7 @@
 The EU’s fears are not being eased by the willingness of the two rival Tory leadership candidates to accept no-deal. Both Boris Johnson and Jeremy Hunt claim they could renegotiate the Brexit deal to remove the Irish backstop before October 31st. They also invoke imaginary technology to avoid any border controls. Even more incredibly, Mr Johnson argues that the border problem can be sorted out during a standstill transition period that is not on offer from Brussels, especially since he is simultaneously threatening not to pay Britain’s agreed exit bill of £39bn ($49bn). 
 Such contradictions fuel two other ideas. The first, promoted in a new Policy Exchange pamphlet by Lord Bew of Queen’s University, Belfast, is to dispute the claims in Brussels and Dublin that the Good Friday peace agreement depends on there being no hard border. Echoing many in the Democratic Unionist Party (DUP), Lord Bew argues that Mrs May’s Brexit deal itself is more of a threat to the peace process, and that smart border controls would be tolerable. Yet a majority of Northern Irish voters backed Remain in 2016 and support the backstop. That points to a strong preference for an invisible border with no checks or controls at all. 
 A second idea is to revert to the original December 2017 plan of a backstop covering Northern Ireland alone. This was scuppered because the DUP, on which Mrs May’s government relies for its majority, opposed customs checks in the Irish Sea. Arlene Foster, the DUP leader, is still against, though she also opposes a no-deal Brexit. Yet animals arriving in Larne from the British mainland already undergo checks. Controls at sea are less intrusive than on land. A Northern Ireland-only backstop would allow Britain an independent trade policy. For now, the next Tory prime minister would struggle to get such a thing through Parliament. But do not be surprised if it is revived in future. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Brexit[]:[网络] 英国退出欧盟 
@@ -76,4 +77,6 @@
 63.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
 64.intrusive[in'tru:siv]:a. 打扰的, 插入的 [法] 闯入的, 侵入的, 干涉的 
 65.revive[ri'vaiv]:vt. 使苏醒, 使复兴, 使振奋, 回想起, 重播 vi. 苏醒, 复活, 复兴, 恢复精神 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -16,6 +16,7 @@
 Which is more likely to be successful in the long term? California’s politicians are not blind to their state’s problems, but they seem unpragmatic. They are also encumbered by structural issues, such as the entrenched interests of unions, bureaucracy and laws allowing voters to approve major decisions in ballot measures. All this means it is much harder for the state to make the big changes required. They may also be less receptive to moderation and pressure to change because they have no fear of losing power to the Republicans in the near future. 
 Texas is in a position to adapt more quickly. Its politicians today lean further to the right than previous Republican administrations, which has put them out of step with the business community on practical issues such as immigration and education. But they, or their successors, seem more likely than their Californian counterparts to open themselves to change. The rising strength of the Democratic Party in Texas will also encourage this, as Republicans realise that, with a growing young, urban and Hispanic voter base that rejects a hard-right agenda, there is a risk of losing control. 
 “You don’t do these things because they’re nice to do. You do these things because they’ll help the entire state be more prosperous. Expanding the social-safety net and investing more in education would improve GDP prospects for Texas,” says Robert Kaplan who runs the Federal Reserve Bank of Dallas. He thinks Texan politicians will be pragmatic. “The culture of this state was one way 30 years ago, and 30 years from now it will likely be different. This is a very practical state.”◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Texas['teksәs]:n. 德克萨斯 
@@ -120,4 +121,6 @@
 100.Kaplan[]:n. 卡普兰（男子名） 
 101.dallas['dælәs]:n. 达拉斯（美国城市） 
 102.pragmatic[præ^'mætik]:a. 忙碌的, 爱管闲事的, 自负的, 固执己见的, 实际的, 务实的, 国事的, 国务的 [法] 闲断的, 固执己见的, 实用主义的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

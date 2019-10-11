@@ -11,6 +11,7 @@
 One is that new technologies take time to produce productivity and wage gains. It was several decades before industrialisation led to significantly higher wages for British workers in the early 1800s, a delay known as Engels’s pause, after the theorist of communism who observed it. Another lesson is that, even though it eventually increases the overall size of the economic pie, automation is also likely to boost inequality in the short run, by pushing some people into lower-paid jobs. Mr Frey is concerned that automation will leave many people worse off in the short term, leading to unrest and opposition, which could in turn slow the pace of automation and productivity growth. Everyone would then be worse off in the long run. This is the titular “technology trap”. Whereas many people assume he worries about a world with too many robots, Mr Frey is in reality more concerned about a future with too few. 
 To avoid the trap, Mr Frey argues, today’s policymakers should take advantage of the fact that this time around it is possible to see how things might play out, and manage the transition accordingly. In particular that means making greater use of wage insurance, to compensate workers who have to move to jobs with a lower salary; reforming education systems to boost early-childhood education and support retraining and lifelong learning; extending income tax credit to improve incentives to work and reduce inequality; removing regulations that hinder job-switching; providing “mobility vouchers” to subsidise relocation as the distribution of jobs changes; and changing zoning rules to allow more people to live in the cities where jobs are being created. 
 These are all sensible suggestions. Will anyone pay attention? Messrs Frey and Osborne had an unexpected smash hit with their study. But the bestselling books on artificial intelligence, robots and automation are the bleak ones, like Mr Ford’s. In part that is because fear sells, particularly if stoked by misunderstanding, whereas pragmatic expositions of policy proposals do not—or not nearly as well. “The Technology Trap” may well ensnare doom-seekers’ attention with its ominous-sounding title. But it should ultimately hearten anyone who reads it. Provided, that is, they read it more carefully than they read Mr Frey’s earlier work.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Schumpeter[]:n. 熊彼特（美籍奥匈帝国经济学家, 当代资产阶级经济学代表人物之一） 
@@ -95,4 +96,6 @@
 80.exposition[.ekspә'ziʃәn]:n. 阐述, 讲解, 说明, 博览会, 展览会 [经] 展览会, 集市, 义卖市场 
 81.ensnare[in'snєә]:vt. 以陷阱捕捉, 诱入圈套, 诱捕 
 82.hearten['hɑ:tn]:vt. 使振作, 激励 vi. 振作 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

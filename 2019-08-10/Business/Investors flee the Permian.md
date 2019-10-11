@@ -10,6 +10,7 @@
 ![image](images/20190810_WBC546.png) 
 The shale industry, whose shares prices used to track that of oil, down by 18% since April, now looks untethered (see chart). “Investors have decided it’s too volatile,” says Bob Brackett of Bernstein, a research firm. So they are diverting capital elsewhere. Occidental’s massively oversubscribed $13bn bond offering on August 6th shows fixed-income investors’ thirst for yield rather than an appetite for shale. 
 The energy behemoths have the balance-sheets to buy the wildcatters. But many, like ExxonMobil, have enough land in the Permian to keep them busy. They are in no hurry and, like others, wary of overpaying—reasonable enough in light of shale firms’ falling value. The market has punished recent acquirers, including Concho, which bought RSP Permian last year. Carl Icahn, an activist investor, calls the Anadarko purchase “a travesty” and is trying to sack four of Occidental’s board members. Rumours swirled in 2018 that Royal Dutch Shell would buy a company called Endeavor. No announcement has come. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.shale[ʃeil]:n. 页岩 
@@ -64,4 +65,6 @@
 50.swirl[swә:l]:n. 漩涡, 涡动 vt. 使成漩涡 vi. 打漩, 盘绕, 眩晕 
 51.Dutch[dʌtʃ]:n. 荷兰人, 荷兰语 a. 荷兰的 
 52.endeavor[in'devә]:n. 努力, 尽力 vi. 努力, 尽力 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

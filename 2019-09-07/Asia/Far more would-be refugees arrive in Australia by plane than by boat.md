@@ -9,6 +9,7 @@
 Most “plane people” hail from either China or Malaysia, and unlike those who brave the seas, few turn out to be real refugees. But instead of being dumped in offshore detention centres, they can live and work in Australia for the years it takes their applications to be processed. This has given organised syndicates a reason to orchestrate many such applications, knowing they can funnel the applicants into low-wage jobs in restaurants, farms and brothels while their cases are reviewed. 
 The government points out that most plane people are eventually sent home. But processing times have lengthened under its watch, strengthening the people-smugglers’ business model, notes Abul Rizvi, a former immigration official. It does not help that the tribunal to which asylum-seekers can appeal has been stripped of lawyers and filled with former political staffers. Its backlog has more than tripled over the past three years, to 22,000 cases, says Simon Jeans, a former employee. 
 For years, Mr Jeans argues, politicians on both sides “have accepted the leakage because the benefits of mass tourism outweigh the costs.” But Labor, which is trying to convince voters that it is not soft on illegal immigrants, is suddenly keen to make hay. “If the government was serious about securing our borders”, gripes Kristina Keneally, its home-affairs spokesperson, “it would be doing something about the blowout in airplane arrivals.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.refugee[.refju'dʒi:]:n. 难民, 流亡者 [法] 避难者, 流亡者, 难民 
@@ -72,4 +73,6 @@
 59.keneally[]:[网络] 基尼利；肯尼莉；肯尼利 
 60.spokesperson['spәukspә:sn]:n. 发言人, 代言人 
 61.blowout['blәuaut]:n. 爆裂, 喷出 [经] 井喷 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

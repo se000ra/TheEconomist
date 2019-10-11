@@ -7,6 +7,7 @@
 The prince was perhaps naive in thinking the letter would remain confidential in Brandenburg, a state ruled by a coalition of Social Democrats and Die Linke, an ex-communist party, which is preparing for hotly contested state elections. The public reacted with Jacobin fury. “The aristocracy is not noble, but evil,” fumed Tomas Fitzel of Rundfunk Berlin-Brandenburg, a local radio station. The aristocracy robbed and extorted for centuries, tweeted Kathrin Vogler, an MP for Die Linke, adding that aristocrats are lucky Germany is not France. 
 Like all families whose property was confiscated by the Russians and eastern Germany’s communist regime, the Hohenzollerns cannot claim their houses back. Yet according to legislation passed in 1994, they are entitled to restitution of mobile property, as well as the payment of compensation. The only exceptions are families that actively supported the Nazi regime. This is the sticking-point. 
 If the case goes to the courts it will not be pretty. Prince Wilhelm, the son of the last Kaiser, has been called a mouthpiece for Nazi propaganda. His brother August Wilhelm was a fervent Nazi. All parties are still hoping for a settlement out of court. It is very much in the prince’s interest to make it happen.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.hohenzollern['hәuәntsәlәn]:霍亨索伦王室(德国普鲁士王室, 1701-1918) 
@@ -57,4 +58,6 @@
 46.mouthpiece['mauθpi:s]:n. 发话筒, 代言人, (电话)送话口 [机] 钳口垫片 
 47.propaganda[.prɒpә'gændә]:n. 宣传, 宣传活动 [医] 宣传 
 48.fervent['fә:vәnt]:a. 热的, 炎热的, 热心的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

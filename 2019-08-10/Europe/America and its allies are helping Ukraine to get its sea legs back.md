@@ -10,6 +10,7 @@
 However, Ukraine needs more than arms. Its military culture prefers top-down orders and centralised planning to the initiative and autonomy favoured in NATO armed forces. “We still see remnants of the Soviet command structure,” says a Swedish officer who is mentoring the Ukrainians in the operations centre of the exercise. “We’re trying to teach an old dog new tricks.” He says that corruption seems to be down and the work ethic up. In past years, the operations room would shut down in the afternoon. “Some saw it as a vacation down here.” Now it runs around the clock, with Ukrainian officers doing more of the heavy lifting. 
 American and European support for Ukraine reflects a wider Western concern about the balance of power in the Black Sea. Russia had sent only one new warship to its Black Sea fleet between 1991 and 2014, says Dmitry Gorenburg, an expert at the Centre for Naval Analyses, a think-tank, leaving it “barely functional”. But since the seizure of Crimea Russia has put the fleet on steroids, adding half a dozen new submarines, three frigates and a slew of missile-toting boats. It has also stuffed Crimea full of missiles, including the S-400 air-defence system, making it far riskier for foreign ships and planes in wartime. 
 That is changing. Carney’s visit to the Black Sea was the fifth by an American warship this year. Ships from NATO’s standing fleets spent 120 days there in 2018, up from 39 in 2014 and 80 in 2017. There is a limit to such naval shows of force; the Montreux Convention, which dates back to 1936, sets caps on the number, tonnage and length of stay of foreign warships in the Black Sea. But there is pushback on land, too. In June the Pentagon announced a fresh $250m in military aid for Ukraine, bringing the total to $1.5bn over the past five years. In July America moved Reaper surveillance drones from Poland to Romania, putting the whole Black Sea within reach. And from October a Romanian will serve as NATO’s deputy secretary-general—the first official from a Black Sea littoral state to do so in nearly five decades. Those are comforting thoughts for Ukraine’s sailors. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.gunboat['gʌnbәut]:n. 炮舰, 炮艇 
@@ -102,4 +103,6 @@
 88.Poland['pәulәnd]:n. 波兰 
 89.Romanian[ru:'meiniәn]:n. 罗马尼亚人, 罗马尼亚语 a. 罗马尼亚的 
 90.littoral['litәrәl]:a. 海滨的, 湖岸的, 沿海的 n. 沿海地, 沿海地区 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

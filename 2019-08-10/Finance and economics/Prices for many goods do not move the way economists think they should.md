@@ -12,6 +12,7 @@
 But nimble firms have other options: the employment version of shaving a bit of chocolate from the bar. Some cut costs by boosting output per worker, often by driving workers harder. Tellingly, growth in output per worker now tends to fall in booms and rise during busts, precisely the opposite of the pattern 40 years ago, when inflation was high. Firms can respond to market pressures by reducing the benefits available to workers; Asda, a supermarket, recently announced plans to slash British workers’ holiday allowances. Or they can offer workers more tortuous schedules. Research published in 2017 suggests that being able to vary workers’ hours from week to week is worth at least 20% of their wages. On the flipside, during good times firms often opt to reward workers with office perks and one-off bonuses, rather than pay rises that cannot easily be clawed back during downturns. 
 If it happens on a sufficiently large scale, the practice of tweaking quality in lieu of price could play havoc with essential economic data. Statistical agencies do their best to account for changing product quality, but if adjustments are unexpectedly common or subtle then muted inflation figures could easily be concealing a more turbulent economic picture. Central banks watching for big swings in inflation or wage growth as a sign of trouble could be reacting to figures that bear far less relation to business conditions than they used to. 
 What’s more, the substitution of quality for price as firms’ main way of responding to changing market conditions weakens the case for keeping inflation low and stable. Inflation makes relative prices less informative, economists reckon, making it harder to decide what to buy and how to spend. Rather than clarity, low inflation has brought a different sort of confusion: one of shrinking chocolate bars and lost holidays. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
@@ -92,4 +93,6 @@
 76.informative[in'fɒ:mәtiv]:a. 提供消息的, 见闻广博的 
 77.reckon['rekәn]:vt. 计算, 总计, 估计, 认为, 猜想 vi. 数, 计算, 估计, 依赖, 料想 
 78.clarity['klærәti]:n. 清楚, 明晰 [化] 透明度; 透明性; 清晰性 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

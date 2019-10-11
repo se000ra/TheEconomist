@@ -12,6 +12,7 @@
 At dusk, in the shadow of Rome’s hyper-modern Tiburtina railway station, volunteers from another NGO, Baobab Experience, have just finished doling out food from a makeshift soup-kitchen to scores of Africans who are starting to bed down in the open. There was until recently an encampment on a nearby disused bus park where the migrants could pitch tents, but it was broken up on Mr Salvini’s orders. Most of the migrants are without papers. Some have dodged registration. Others have failed in their bid for asylum. Many are heading north. But not all: one man, who declined to give his name, said he had been caught without papers in France and returned to Italy. Andrea Costa of Baobab Experience says that in the previous 12 months the number of dublinati turning up at the soup-kitchen has increased tenfold. 
 According to the EU, there were 6,351 transfers to Italy last year. But that was less than a tenth of the number Italy was actually asked to take back. As Matteo Villa, of Italy’s Institute for International Political Studies, wrote in an article for Politico, a website, “Once migrants move to another EU country…it is very hard to send them back.” Many go to ground after being stopped. Officials in the country of arrival (Italy, in this case) can use bureaucracy to slow the process. And after six months the migrants become the responsibility of their new host state, giving a strong incentive for foot-dragging. 
 According to Mr Salvini’s own ministry, more than a quarter of a million immigrants who have entered the EU since 2015 through Italy (out of a total of around 480,000) have already been found in other member states, having somehow managed to cross borders ostensibly closed by France, Austria and Switzerland. He and other Italian politicians rail incessantly at the Dublin regime, arguing that it places an unfair burden on the EU’s frontier nations and that what is needed is a comprehensive system for the redistribution of migrants. In fact, despite Mr Salvini’s rhetoric, the “burden” is quietly shifting itself. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.trickle['trikl]:n. 滴, 细流 vi. 滴, 细细地流 vt. 使滴, 使小量流动 [计] 信息透露 
@@ -89,4 +90,6 @@
 73.redistribution['ri:distri'bju:ʃәn]:n. 重新分配, 再分发 [计] 重新分配 
 74.rhetoric['retәrik]:n. 修辞, 修辞学, 雄辩(术) 
 75.quietly['kwaiәtli]:adv. 安静地, 沉着地, 秘密地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

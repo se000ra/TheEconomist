@@ -15,6 +15,7 @@
 The race to succeed her is already approaching a full gallop. It is a measure of how big a mess the party is in that some 20 MPs have signalled that they are running, offering a bewildering range of policies. The favourite is Mr Johnson (see Bagehot). 
 It is still unclear what will happen when Mrs May does indeed resign—whether she will stay on while a successor is chosen, when the contest will conclude, and whether her successor will feel obliged to call a general election. But one thing is clear. For all Mrs May’s many failings as a politician, she was also the victim of powerful forces that show no sign of abating. 
 Award: The Economist’s Open Future initiative was named editorial campaign of the year at the British Media Awards this week. Read more about it at Economist.com/openfuture 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.theresa[ti'ri:zә]:n. 特丽萨（女子名） 
@@ -97,4 +98,6 @@
 78.successor[sәk'sesә]:n. 继承者, 接任者 [计] 后继 
 79.failing['feiliŋ]:n. 失败, 缺点 prep. 如果没有... a. 失败的 
 80.abate[ә'beit]:vt. 减少, 减轻, 减弱, 废除, 打折扣 vi. 减轻, 减弱, 减少, 失效, 被废除 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

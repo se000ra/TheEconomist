@@ -8,6 +8,7 @@
 This crisis has vividly shown how disillusioned Hong Kongers have become. It was different in 2003, when hundreds of thousands of people took to the streets in protest against a proposed anti-sedition law. Then the Communist Party had reason to hope that it could defuse the problem by allowing Hong Kong to shelve the bill, and encouraging the unpopular chief executive, Tung Chee-hwa, to resign (he did so in 2005). At the time, many people in Hong Kong still thought that the party would eventually fulfil its pledge to give them more democracy. In the meantime they could grudgingly put up with the appointment system, which ensured that Mr Tung’s successor was loyal to the government in Beijing. For his first few months in office the new man, Donald Tsang, enjoyed strong public support. Some pro-democracy politicians even felt hopeful. 
 Their optimism faded as the party’s intentions became clearer. During the “Umbrella Movement” of 2014, when protesters staged weeks of sit-ins to press for free and fair elections to the post of chief executive, China’s leaders dug in their heels. They made it plain that the “universal suffrage” Hong Kong had been promised would mean only the chance to vote for someone the party considers loyal. That is why Hong Kongers are without illusion today. They see Mrs Lam, who took over in 2017, as the party’s stooge—as they will see her successor, too. Without democracy, or a credible promise of it, no leaders in the territory will be seen as legitimate, severely limiting their ability to govern. 
 China’s leader, Xi Jinping, therefore has a stark choice. He can keep Hong Kong’s political system as it is and carry on trying to stifle the freedoms that Hong Kongers otherwise enjoy. The result would be more protests and probably more violence. Businesspeople would become more jittery, and Hong Kong’s reputation as a safe base from which to trade with the mainland would be at risk. Or Mr Xi can offer Hong Kong hope again, by setting out a timetable for real democratic reform. “We have to have the confidence that Hong Kong people can manage Hong Kong well,” goes a mantra of China’s leaders. It is time to let its people try. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.hong[hɔŋ]:n. （中国、日本的）行, 商行 
@@ -48,4 +49,6 @@
 36.businessperson['bɪznəspɜ:sn]:n. 商人 
 37.jittery['dʒitәri]:a. 极度紧张不安的 
 38.mantra['mʌntrә, 'mæn-]:颂歌, 咒语(尤指四吠陀经典内作为咒文或祷告唱念的) 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

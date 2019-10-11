@@ -39,6 +39,7 @@
 ![image](images/20190803_MAP002_0.jpg) 
 There are snags, of course. Rival power producers are often hostile. Ephrem Balole, the CEO of Virunga Energies, was jailed for three days this year for no good reason. Mr de Merode says the park could be financially self-sustaining by the end of 2022. Until then it needs donor funds, which could be a problem. As a British charity, the Virunga Foundation receives EU funds, but after Brexit it may not be eligible for them. 
 Congo’s mineral wealth is often exaggerated. Annual mineral exports are barely a quarter of a dollar per head, so even if they double, which is possible, Congo will still be poor. For the country’s 85m-100m people to prosper, they will need to produce other things. Industrialisation would require an adult literacy rate of 70-80% and an electricity supply of 300 kilowatts per person, argues Charles Robertson of Renaissance Capital. Congo’s literacy rate is already high enough, but its power supply is only a third of the necessary level. It could reach it by 2030 if big proposed dam projects are completed. Industrialisation could push the economic growth rate to 7-10% a year, Mr Robertson predicts. Yves Kabongo, an investor in Kinshasa, is more cautious. Industrialisation will take “a generation, to be optimistic”, he says. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.gunman['gʌnmәn]:n. 枪手, 持枪的歹徒, 制造枪械者 [法] 持枪歹徒, 持枪抢劫或杀人者, 枪炮工人 
@@ -291,4 +292,6 @@
 248.yve[]: [男子名] 伊夫日耳曼的法语同源词, 含义是“紫杉, 弓”(yew,bow) 
 249.Kabongo[]:[地名] 卡邦戈 ( 刚(金) ) 
 250.investor[in'vestә]:n. 投资者 [经] 投资者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

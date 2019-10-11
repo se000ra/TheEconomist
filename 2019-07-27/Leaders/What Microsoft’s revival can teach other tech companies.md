@@ -9,6 +9,7 @@
 Third, work with regulators rather than try to outwit or overwhelm them. From the start Microsoft designed Azure in such a way that it could accommodate local data-protection laws. Its president and chief legal officer, Brad Smith, has been the source of many policy proposals, such as a “Digital Geneva Convention” to protect people from cyber-attacks by nation-states. He is also behind Microsoft’s comparatively cautious use of artificial intelligence, and calls for oversight of facial recognition. The firm has been relatively untouched by the current backlash against tech firms, and is less vulnerable to new regulation. 
 True, missing the boat on social media means thorny matters such as content moderation pose greater difficulties for Facebook and Google. Still, others would do well to follow Microsoft’s lead. Apple has championed its customers’ privacy, but its treatment of competitors’ services in its app store may soon land it in antitrust trouble. Facebook and Google have started to recognise that with great power comes great responsibility, but each has yet to find its equivalent of Azure, a new business model beyond its original golden goose. Amazon, in its ambition and culture, most resembles the old Microsoft. 
 Even a reformed monopolist demands scrutiny. It should not be forgotten that Microsoft got where it is today in part through rapacity. Critics argue that in its battle with Slack, a corporate-messaging service which competes with a Microsoft product, it is up to some of its old tricks. A growing number of women at the firm are complaining about sexual harassment and discrimination. The new Microsoft is far from perfect. But it has learned some lessons that other tech giants should heed. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.reboot[ri:'bu:t]:[计] 重新启动 
@@ -68,4 +69,6 @@
 55.slack[slæk]:n. 松弛, 松懈, 淡季, 闲散, 家常裤 a. 松弛的, 不流畅的, 疏忽的, 无力的, 呆滞的, 软弱的, 漏水的 adv. 马虎地, 缓慢地 vt. 放松, 使缓慢 vi. 松懈, 减弱, 松弛 
 56.harassment['hærәsmәnt]:n. 困扰, 烦扰, 烦恼 [法] 折磨, 骚扰, 侵扰 
 57.heed[hi:d]:n. 注意, 留心 v. 注意, 留心 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

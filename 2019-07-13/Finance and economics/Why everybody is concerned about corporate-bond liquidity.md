@@ -12,6 +12,7 @@
 As the role of dealers has shrunk, the thirst for instant liquidity has increased. Derisory yields on the safest government debt have drawn investors towards riskier securities, including corporate bonds. A cheap and convenient way to invest in them is to buy an exchange-traded fund, or ETF. These are low-cost investment funds that hold a basket of bonds, usually mirroring a benchmark index. They trade on stock exchanges just as listed shares do. The ease of buying and selling bond ETFs is a big part of their appeal. They are also often used as depositories for spare cash. Studies are divided on whether ETFs make the underlying bonds more or less liquid. But there are concerns that in a stressed market, outflows from ETFs might make a bad situation worse. 
 And it is not hard to make a case that the corporate-bond market has become more fragile. Many firms in America have issued lots of bonds to buy back their own shares. With extra leverage comes more risk. Half of all investment-grade bonds have a credit rating of BBB. In a recession a chunk of those bonds will be downgraded to junk. Many mutual funds and ETFs can hold only investment-grade bonds. If a lot of bonds have to change hands quickly, that could easily overwhelm the market’s limited liquidity. Prices might fall a long way. 
 Just how messy the next big shake-out in the corporate-bond market is depends on many things: on how weak the economy gets; on how many BBB borrowers can avert a downgrade; on how quickly funds can be raised to buy at fire-sale prices. For now, it seems rational to hold bonds that afford a little extra yield. Smart-alecks say this will surely end badly. But who wants to hear that? 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.buttonwood['bʌtnwʊd]: 美洲悬铃木 
@@ -67,4 +68,6 @@
 51.overwhelm[.әuvә'hwelm]:vt. 淹没, 受打击, 制服, 压倒, 使不知所措 [法] 打翻, 倾覆, 覆盖 
 52.borrower['bɒrәuә]:n. 借用人, 剽窃者 [经] 借款人, 借用人 
 53.avert[ә'vә:t]:vt. 转开, 避免, 防止 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

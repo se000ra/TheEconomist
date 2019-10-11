@@ -12,6 +12,7 @@
 The most sensitive defence lines in the show, and in the country—the ones that demarcate the current Israeli-Palestinian conflict—are represented by “Gazelles, Separation Fence Herd, Jerusalem”, a film by Amir Balaban, an Israeli nature conservationist and documentary-maker (pictured), and by “25FT”, a collage of video and stills. Netta Laufer, an Israeli artist, put “25FT” together from military surveillance footage taken in the West Bank. Ms Laufer tries to recreate the experience of an Israeli soldier operating one of the cameras. As with Mr Balaban’s film, the images, in black-and-white night-vision, are not of humans, but the outlines of small animals moving across the contested landscape. 
 A critic for Haaretz, Israel’s liberal daily, questioned whether all these snapshots really counted as art (another hoary talking-point). Others have complained that the treatment of the controversial barrier is too mild. The occupation of the West Bank has lasted 52 years and counting; this is not the exhibition to dispel the widespread Israeli complacency over its effects. 
 But the intention was less grand and more subtle than that. “At first I thought the exhibition would be more political,” says Sefy Hendler, head of the university’s art department and the gallery’s director. But “we decided to try and escape the good guys-bad guys dichotomy”: in other words, to depict barriers, not erect them. Art “shouldn’t belong to the liberal crowd who come to gallery openings in Tel Aviv with a glass of wine,” Mr Hendler insists. “I’d much prefer to have military officers come here and perhaps leave with a more nuanced perspective.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Israel['izreil]:n. 以色列, 以色列后裔, 犹太人 
@@ -100,4 +101,6 @@
 84.hendler[]: [人名] 亨德勒 
 85.depict[di'pikt]:vt. 描述, 描写 
 86.nuance[nju:'ɑ:ns]:n. 细微差别 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

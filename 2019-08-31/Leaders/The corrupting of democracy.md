@@ -16,6 +16,7 @@
 Fortunately, there is a lot of ruin in a democracy. Neither London nor Washington is about to become Budapest. Power is more diffuse and institutions have a longer history—which will make them harder to capture than new ones in a country of 10m people. Moreover, democracies can renew themselves. American politics was coming apart in the era of the Weathermen and Watergate, but returned to health in the 1980s. 
 The riposte to cynicism starts with politicians who forsake outrage for hope. Turkey’s strongman, Recep Tayyip Erdogan, suffered a landmark defeat in the race for the mayoralty in Istanbul to a tirelessly upbeat campaign by Ekrem Imamoglu. Anti-populists from all sides should unite behind rule-enforcers like Zuzana Caputova, the new president of Slovakia. In Romania, Moldova and the Czech Republic voters have risen up against leaders who had set off down Mr Orban’s path. 
 The bravery of young people who have been protesting on the streets of Hong Kong and Moscow is a powerful demonstration of what many in the West seem to have forgotten. Democracy is precious, and those who are lucky enough to have inherited one must strive to protect it. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Populism['pɒpjulizm]:n. 平民主义, 民粹主义 
@@ -131,4 +132,6 @@
 111.kong[kɔŋ]:n. 含锡砾石下的无矿基岩；钢 
 112.demonstration[.demәn'streiʃәn]:n. 示范, 实证 [医] 示教, 实物教授 
 113.strive[straiv]:vi. 努力, 奋斗, 斗争 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

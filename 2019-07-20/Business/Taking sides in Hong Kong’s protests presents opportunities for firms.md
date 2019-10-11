@@ -11,6 +11,7 @@
 Firms with a presence on the mainland as well as in Hong Kong face the most delicate balancing act. Seeming to back protests may play well with Hong Kongers but backfires among mainland influencers. Last month Nike pulled a line of limited-edition trainers from being released in China after its Japanese designer’s opposition to the extradition bill prompted calls for a boycott on Chinese social media. 
 Many brands are studiously trying to stay neutral. On July 10th Pizza Hut, which had stopped advertising on TVB days earlier, issued a statement to explain that its promotion had simply ended as scheduled. Three days later Tempo, which makes toilet paper, posted on Facebook, which is popular in Hong Kong, and on Weibo, the mainland’s biggest microblogging site, that it would carry on advertising with TVB, earning it plaudits from the Global Times, a Communist Party newspaper. 
 Fearing a backlash Pocari’s mainland offices in Tianjin and Guangdong disassociated themselves from the Hong Kong branch. “We are two completely different entities,” they said in a statement. Headquarters in Japan has not weighed in publicly. On July 10th the Hong Kong arm posted a short statement on its Facebook page in which it apologised for any “inconvenience” caused by the conversation on July 9th. Marchers thirsting for undiluted political electrolytes may feel they are the ones who have been inconvenienced. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.hong[hɔŋ]:n. （中国、日本的）行, 商行 
@@ -86,4 +87,6 @@
 71.marcher[]:n. 边界地区居民, 行进者, 游行者, 行军者 
 72.undiluted[.ʌndai'lju:tid]:a. 未淡化的, 未稀释的, 未搀水的, 未冲淡的 [化] 未稀释的 
 73.electrolyte[i'lektrәlait]:n. 电解物, 电解质, 电解液 [化] 电解质 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

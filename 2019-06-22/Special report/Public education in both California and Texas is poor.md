@@ -17,6 +17,7 @@
 A recent report on public-school finance commissioned by the Texas government highlights the economic rationale for investing more in students. It calculates that each high-school graduate who does not go on to earn a certificate from a vocational or technical school, or a two- or four-year degree from a community college or university, misses out on $1m in lifetime earnings. “This represents a significant forgone opportunity cost approximating $200bn in lifetime earnings with each and every graduating class,” the report says. Others point out that imprisoning people costs far more than schooling them does, and the probability of incarceration rises when someone drops out or underperforms in school. 
 Overall, Texas seems more likely to pull ahead of California for two reasons. First, business and civic leaders are concerned about inadequate investment in students, which reduces the pipeline of skilled workers for the jobs companies are creating. “We’re not going to have a workforce without doing a vast amount better with the students that are in poor and minority districts,” says Margaret Spellings, former secretary of education under President George W. Bush. Texan politicians eventually tend to follow what businesspeople want. In May the state legislature approved a $6.5bn public-education bill, providing funding for sensible policies, such as expanding merit-pay programmes for teachers and giving school districts with high-needs kids the option to extend the school year. But more funding is still needed. 
 Second, political self-interest will focus attention on public education. Texas is seeing greater political competition for the first time in decades. Some Republicans believe that, without more investment and improvement in public education, voters could bring in the Democrats. If poor test results do not cause them to change their approach, the mathematics of politics might. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.California[.kæli'fɒ:njә]:n. 加利福尼亚 
@@ -106,4 +107,6 @@
 85.businessperson['bɪznəspɜ:sn]:n. 商人 
 86.democrat['demәkræt]:n. 民主人士, 民主主义者, 民主党党员 [经] 民主党 
 87.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

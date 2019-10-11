@@ -7,6 +7,7 @@
 Kimbanguists adhere to an ascetic lifestyle. Sex before marriage is banned, as are alcohol, tobacco and homosexuality. But this isn’t simple puritanism. Kimbanguists are also forbidden from sleeping naked, in case God calls on them at night. Pork is prohibited because pigs are vessels for evil spirits. Kimbanguists must pray eight times a day, fast twice a week and attend a nine-hour church service every Sunday. 
 The elder Kimbangu was sent by God “to save the black man”, says Seros Muyisa, a believer. But the saviour’s timing wasn’t great. When thousands of people flocked to Nkamba to catch a glimpse of Kimbangu performing miracles, the Belgians, who controlled Congo at the time, felt threatened. He was found guilty of undermining public security and died in prison 30 years later. 
 At a Kimbanguist service in Goma the congregation sits barefoot, wearing immaculate green and white uniforms. The colours symbolise hope and peace. Your correspondent is handed a green scarf, to cover her hair, and a wraparound skirt, because women are not supposed to wear trousers to church. A pastor stands at a green pulpit, booming out prayers through a microphone. A brass band plays at regular intervals. The apocalypse may be coming, but all seems remarkably calm.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.apocalypse[ә'pɒkәlips]:n. 启示, 天启 
@@ -46,4 +47,6 @@
 35.pastor['pæstә]:n. 牧师 
 36.pulpit['pulpit]:n. 讲道坛 
 37.remarkably[ri'mɑ:kәbli]:adv. 显著地, 引人注目地, 非常地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -24,6 +24,7 @@
 Some Democrats renewed their call to boycott Israel after two American congresswomen were barred from entering the country because they support sanctions against Israel. See article. 
 ![image](images/20190824_WWP002_0.jpg) 
 How serious was Donald Trump when he said he wanted America to buy Greenland? The president appeared to be joking when he posted a picture on Twitter of a golden Trump skyscraper imposed on the Danish territory’s landscape. But then he cancelled a state visit to Denmark because, he said, the prime minister had no interest in discussing the purchase and had been “nasty” to him. See article. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.apocalypse[ә'pɒkәlips]:n. 启示, 天启 
@@ -130,4 +131,6 @@
 102.Danish['deiniʃ]:n. 丹麦文 a. 丹麦的, 丹麦人的, 丹麦文的 
 103.landscape['lændskeip]:n. 风景, 山水, 风景画 vi. 从事景观美化 vt. 美化...景观 [计] 横向 
 104.Denmark['denmɑ:k]:n. 丹麦 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

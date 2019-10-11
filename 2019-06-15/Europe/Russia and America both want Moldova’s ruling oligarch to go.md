@@ -7,6 +7,7 @@
 Elections in February produced a hung parliament. Subsequent negotiations failed to produce a new government, but the likeliest outcome seemed to be either new elections or a deal between Mr Plahotniuc’s Democratic Party and the Russia-friendly Socialists. Then on June 3rd envoys from Russia, America and the EU arrived. Encouraged by the Russians, the Socialists struck a deal with a new pro-Western party that holds the balance of power in parliament. Untainted by accusations of corruption, it is led by Maia Sandu, a popular former education minister. 
 But Mr Plahotniuc is not giving up power easily. The constitutional court, still controlled by his Democrats, has moved to dissolve parliament and replace the Socialist president with an ally of Mr Plahotniuc’s. A TV station close to him broadcast a film of the old president apparently discussing illegal Russian party financing. He claims the words were taken out of context, but the old government is refusing to budge. Ms Sandu says that if it does not vacate government offices she will call her supporters onto the streets. Mr Popescu denies they are planning to storm the offices. “We are not commandos!” 
 Lacking international support, Mr Plahotniuc is losing his grip on power. But many suspect that the Russian strategy may be to get rid of him first, then eliminate Ms Sandu and take Moldova firmly back into the Russian sphere of influence. Her plan is also to deal with Mr Plahotniuc first and then defeat the Socialists at a new election. “I’m very optimistic,” she says. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.vlad[vlæd]:n. 弗拉德（男子名） 
@@ -43,4 +44,6 @@
 32.budge[bʌdʒ]:vi. 微微移动 vt. 推动 n. 羔羊皮 
 33.vacate[vә'keit]:vt.vi. 使空出, 搬出, 腾出, 不再使用/居住, 解除(职位), 撤离(阵地), 辞职, 退位 vt. 取消, 使作废 
 34.supporter[sә'pɒ:tә]:n. 支持者, 后盾, 迫随者, 护身织物 [法] 支持者, 赡养者, 抚养者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

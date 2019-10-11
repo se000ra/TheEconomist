@@ -12,6 +12,7 @@
 Ms Warren’s plan has a Trumpian echo, too: it was released under the banner of “economic patriotism”. It represents, according to her, “my commitment to a Green New Deal”—one that applies the analogy of wartime mobilisation during Franklin Roosevelt’s presidency to modern times. Hers is straightforward industrial policy, calling for $2trn of investment over the next ten years for research and development, with three-quarters of that vast sum spent through federal procurement. Ms Warren thinks that all this production would generate 1m jobs, which would pay at least $15 per hour and guarantee 12 weeks of paid family and medical leave. About $100bn of the money would be spent on a “Green Marshall Plan”, dedicated to exporting the clean-energy technology developed in America to other countries. 
 Curiously, both proposals dodge the question of a price on carbon, whether through direct taxation or a cap-and-trade scheme. Though research into more cost-effective technology for carbon capture and sequestration or solar power is helpful and necessary, a carbon price incorporating the negative externality of pollution would seem a simple first step. Mr Biden’s plan only nods towards the principle “that polluters must bear the full cost of the carbon pollution they are emitting” and says nothing more on the subject. Ms Warren’s plan does not mention it at all. 
 Both candidates employ clever staffers who know about carbon pricing. But they also employ strategists who note that carbon taxes are easily dismissed as energy taxes by political opponents. The lessons of 2010, when a Democratic effort to create a carbon market collapsed despite unified control of government, leading to an electoral backlash, have been well learned.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.democrat['demәkræt]:n. 民主人士, 民主主义者, 民主党党员 [经] 民主党 
@@ -102,4 +103,6 @@
 86.unify['ju:nifai]:v. 统一, 使成一体 
 87.electoral[i'lektәrәl]:a. 选举人的, 选举的, (有关)选举的 [法] 选举的, 选举人的, 由选举人组成的 
 88.backlash['bæklæʃ]:n. 后冲, 强烈反对 [电] 反撞, 逆栅流 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

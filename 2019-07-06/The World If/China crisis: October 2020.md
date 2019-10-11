@@ -21,6 +21,7 @@
 But Pentagon spokesmen have not addressed the details of the equipment at the heart of that first, deadly skirmish. An unnamed military official told CNN, however, that the alleged spy submarine was an “unmanned mobility capability” attached to the far end of a “multi-function towed array”. Such arrays are long, thin tubes packed with sophisticated electronics that can detect underwater threats from submarines, torpedoes and mines, and are designed to be towed behind warships. “The towed array was the prize,” the official said, comparing the unmanned vehicle to “the guy you see at the back of a long firetruck, steering it round corners.” 
 Mr Xi has yet to speak in public about the crisis, prompting speculation that he had been surprised by it, or even opposed it. That theory became less plausible after the People’s Daily carried a front-page photograph of the Sansha City Maritime Militia, depicting its leaders studying a letter from Mr Xi which urged them to build “a great maritime power.” Meanwhile the New York Times reported that China had recovered sections of the McCampbell’s towed array and shipped them to the mainland for analysis. Both presidential campaigns declined to comment. ◼ 
 Listen to a bonus scenario, on parenting in 2029, on “The world ahead”, our future-gazing podcast 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.clash[klæʃ]:n. 冲突, 撞击声, 抵触 vi. 冲突, 抵触 vt. 使发出撞击声 [计] 对撞 
@@ -152,4 +153,6 @@
 127.scenario[si'nɑ:riәu]:n. 剧本提纲, 情节, 剧本, 方案, 事态 [计] 方案 
 128.parenting['pεәrәntiŋ]:n. 父母对子女的养育 
 129.podcast[]:n. 播客 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

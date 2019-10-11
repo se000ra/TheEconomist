@@ -9,6 +9,7 @@
 Its slow shuffle towards a Remain position has already come at a cost. Of all front-rank politicians, Mr Corbyn is least trusted on Brexit, surveys show. Labour should have heeded Macbeth’s advice, says Marcus Roberts, a pollster with YouGov: if it were done when ’tis done, then ’twere well it were done quickly. “The longer this goes, the greater the scale of the damage,” says Mr Roberts. “Whatever you are going to do, do it hard, clean and now.” 
 Labour is betting that today’s polls bear little relation to how people might vote were an election called tomorrow. The party rallied by 20 points during the course of the general-election campaign in 2017. Brexit casts a pall over everything, says Mr McDonnell. When it is sorted, voters will return. Not all share his hopefulness. “Down” is how one aide describes the mood in the party. The optimism that gripped Labour in the wake of its 2017 performance is dead. 
 Compared with sorting out the Brexit mess, this week’s scrap with anonymous civil servants provided relief. Yet the story niggled for a reason. Thoughts are turning to the future of the party, and Mr Corbyn has no obvious heir on the left. Although younger MPs, such as Rebecca Long-Bailey, the 39-year-old shadow business secretary, are being primed as potential successors, they lack profile and experience. Bigger beasts, such as Emily Thornberry and Sir Keir Starmer, who are loyal to Mr Corbyn but do not share his views, look like stronger contenders. Those on Labour’s left should hope that Mr Corbyn is as fit as his fans say he is. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.discontent[.diskәn'tent]:n. 不满 
@@ -71,4 +72,6 @@
 58.Keir[kiә]:n. (kier之变体)漂染缸, 煮布锅 
 59.starmer[]:[网络] 斯塔默 
 60.contender[kәn'tendә(r)]:n. 参赛者, 争论者, 斗争者, 竞争者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

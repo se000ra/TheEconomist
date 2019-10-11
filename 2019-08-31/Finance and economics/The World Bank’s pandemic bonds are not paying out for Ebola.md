@@ -8,6 +8,7 @@
 If the insurance had been designed to cover all severe outbreaks it would have been “prohibitively expensive”, says Mukesh Chawla, who co-ordinates the World Bank’s pandemic emergency-financing facility. As well as the bond proceeds, the institution holds a smaller pot of money, which can be disbursed at the discretion of experts. It has already allocated $50m from this to tackling the Ebola outbreak, alongside $350m from other sources. 
 It is inevitably hard to design insurance for rare events. Indeed, says Andrew Farlow of Oxford University, it may be impossible to set triggers so that the bonds deliver when needed, at the same time as providing the returns that investors demand. Before the World Bank issued its bonds, consultants ran a computer simulation of half a million outbreaks of filoviruses (a group of viruses that includes Ebola). But pandemics are even harder to model than natural disasters such as hurricanes, for which a market in “catastrophe bonds” is well established. 
 In all insurance contracts the cost of cover exceeds the expected payout (otherwise insurers would go bust). For pandemic bonds and related swaps this risk premium is about $17m a year. That money would be better spent on public-health systems and surveillance to try to catch outbreaks earlier, says Olga Jonas, a fellow at the Harvard Global Health Institute who has previously worked on risk-financing at the World Bank. In Uganda, vigilance stopped Ebola from spreading. That saved lives, as well as investors’ millions. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.pandemic[pæn'demik]:a. 大流行的, 普遍的, 全世界的 [医] 大流行的, 大流行病 
@@ -53,4 +54,6 @@
 41.Jona[]:n. (Jona)人名；(瑞典)约纳；(塞、冰、意)约娜 (女名), 约纳 abbr. 日本有机和自然食品协会（Japan Organic & Natural Foods Association） 
 42.Harvard['hɑ:vәd]:n. 哈佛大学 
 43.vigilance['vidʒilәns]:n. 警戒, 警觉, 失眠症 [医] 不眠症, 警醒症 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -16,6 +16,7 @@
 That would set back China’s grand strategy for rare earths, seen in the hills around Ganzhou. Over the past few years it has shut scores of unlicensed mines. At a huge cost, it is trying to clean up local rivers. The big state-owned mining firm in the area has started filling in some of its pits with grass and shrubs. China is still excavating plenty of rare-earth elements, especially in the north, but it has decided that it can buy much of what it needs abroad, and spare its own environment. Last year, it became a net importer of rare-earth concentrate. 
 Instead, China has shifted its focus to rare-earth products, to increase its downstream advantage. In an industrial park on the edge of Ganzhou, the government is ploughing money into factories that make rare-earth magnets and alloys. This manufacturing is much cleaner than the mining, and captures more value. Tellingly, when Xi Jinping, China’s president, visited the city last month, news reports showed him at JL MAG, a magnet company, not a mine. 
 At another company in Ganzhou, a manager shows off several of its products: little disc magnets, each containing about 30% rare earths. When the magnets are smaller than a fingernail, it is hard to pull them apart. When they are slightly bigger, just wider than a thumb, it is impossible to do so. That is a good metaphor for what China ultimately wants from rare earths, and for its economy more generally: to reach a size where no country, not even America, can pull away. Cutting America off now would undercut that ambition. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -73,4 +74,6 @@
 53.disc[disk]:n. 圆盘, 唱片 vt. 灌唱片 
 54.metaphor['metәfә]:n. 隐喻 
 55.undercut['ʌndәkʌt]:n. 底切, 牛腰部下侧嫩肉, 下口, 下旋削球 vt. 廉价出售, 底切, 雕出, 下旋削球 vi. 切除底部 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

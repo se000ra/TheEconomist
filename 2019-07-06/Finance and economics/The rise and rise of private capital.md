@@ -12,6 +12,7 @@
 A gap in the supply of credit was left by capital-constrained banks. One manifestation is the popularity of leveraged loans—bond-like securities sold to syndicates of private investors. Easier than bank finance, and more flexible than junk bonds, they are the preferred fuel for LBOs. Other forms of private credit look a lot like bank credit. A syndicate may consist of just a handful of lenders. The loan is tailored. It might be for an office building, or to buy breathing space for a company to get back on track. 
 The growing supply of private forms of equity capital is even more remarkable. Young tech firms are almost spoilt for choice. Sovereign-wealth funds, family offices and even staid old pension funds now compete for stakes in newish, unlisted firms. Private-equity firms have $2.4trn waiting to be put to work, according to Preqin, a data-provider. A scarcity of buy-out targets means funds are increasingly reluctant to let go of good firms. The lifespan of some funds is being extended beyond ten years. 
 Even Henry Ford would applaud such patient capital. It is now received wisdom that ideas-rich firms are better suited to private capital than to public markets, with their endless disclosures and distracting spotlight. But that wisdom tends to play down the supply-side of capital markets. In fact “public markets are not inherently antithetical to tech,” says Ajay Royan of Mithril, a venture-capital firm based in Austin, Texas. Steve Jobs did fine in them. So did Bill Gates. What Silicon Valley takes today as a lasting norm might simply be the outgrowth of unusually low interest rates. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.buttonwood['bʌtnwʊd]: 美洲悬铃木 
@@ -75,4 +76,6 @@
 59.silicon['silikәn]:n. 硅 [化] 硅Si 
 60.norm[nɒ:m]:n. 基准, 模范, 标准, 准则, 平均数 [化] 定额 
 61.outgrowth['autgrәuθ]:n. 自然的发展, 结果, 副产物, 分枝 [医] 赘疣 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 “Crisis” may be too strong a word, but Ms Glendon is right to note the strain human rights are under, including from authoritarian leaders, ineffective international institutions and rights proliferation. An administration that wanted to lead a good-faith review of such worries could have drawn support from across the political spectrum. Ms Glendon’s illiberal views should not disqualify her from leading such an effort. Gay rights are a settled issue in America, and Mr Pompeo would struggle to restrict State Department support for them by more than the minimal steps he has already taken—by denying some embassies permission to fly flags to celebrate Gay Pride, for example. The problem is that there is not much reason to think the new commission is a good-faith effort. 
 Even beyond Mr Pompeo’s evangelical crowd-pleasing, the Trump administration has shown little interest in standing up to the worst rights-violators. Mr Pompeo only ever castigates abusers, such as Iran or Cuba, when it is politically convenient. Mr Trump appears to have no interest in the issue. And the administration’s attacks on international rights institutions look equally self-serving. Its argument for pulling out of the UN Human Rights Commission—a troubled body that had nevertheless been improving under American influence—was bogus. 
 The administration has a record of convening expert panels to score political points. One was given the impossible task of substantiating Mr Trump’s claim that his election saw massive vote-rigging. Another has been proposed—under one of the few climate-change deniers in an Ivy League science faculty—on global warming. That Ms Glendon’s panel looks like the latest example is, in a sense, nothing unusual. Despite the lofty ideals that attend them, rights claims are always made and resisted as part of broader political battles. Mr Moyn calls them “politics by other means”. Yet what is depressing in this case is how small the politics seem.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lexington['leksiŋtәn]:n. 列克星敦市（位于美国肯塔基州） 
@@ -95,4 +96,6 @@
 80.alway['ɔ:lwei]:adv. 永远；总是（等于always） 
 81.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
 82.depressing[di'presiŋ]:a. 抑压的, 沉闷的, 阴沉的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -20,6 +20,7 @@
 The local government is doing its bit. Haidian district, where Zhongguancun is located, recently opened a business park dedicated to fostering Chinese chip companies. The idea behind Zhongguancun IC Park (the IC stands for integrated circuit), according to Wu Chunyan, one of the park’s sales team, is that it will smooth the way for new chip companies, and not just through subsidised rents. It offers software for designing circuits, and handles licensing negotiations on behalf of its young tenants with other chip architecture firms such as Arm. Bitmain, a Chinese company which makes chips for mining Bitcoin, and GigaDevice, which makes memory chips, have already committed to moving in. Even though the campus seems quiet and somewhat empty, the canteen is bustling. 
 The latest crop of startups have set their sights on foreign markets. Rokae is planning to sell its robot arms to Europe. Mr Wang wants Generalized Aviation to flourish globally. They see the trade war not as a threat, but as an opportunity—to fill the gaps in Chinese supply chains and then compete in the West. But to become a world-shaping force like Silicon Valley, Zhongguancun will have to overcome Western concerns about the potential misuses of Chinese technology. So far, very few Chinese tech companies have managed to go global, Huawei and Bytedance being the most prominent. And Huawei, in particular, is under threat due to security fears raised by Western governments. 
 In the meantime, even Mr Wang cannot keep up with the pace of change in Zhongguancun. As he rides an escalator up into the last remnants of the electronics market, he sees that an entire floor has been emptied. He exclaims: “Oh no, they closed this one down?” The spaces which inspired him to go into the tech business are fading into history. “I feel a bit upset, but it’s ok,” he says. “Everything goes forward. We live life forwards, not in the past.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.silicon['silikәn]:n. 硅 [化] 硅Si 
@@ -145,4 +146,6 @@
 121.cannot['kænɒt]:aux. 无法, 不能 
 122.escalator['eskәleitә]:n. 电动扶梯, 自动扶梯 [机] 升降阶梯 
 123.remnant['remnәnt]:n. 剩余, 零料, 遗迹 a. 剩余的, 残余的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

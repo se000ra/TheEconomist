@@ -9,6 +9,7 @@
 Ms Crampton considers her subject from military, commercial and artistic perspectives. She writes of the Danish warlord Thorkell the Tall, who marched his army up both banks in the 11th century. She tells of the craze for pleasure-boat trips in the river’s upper reaches during the late 19th century, and dwells at length on William Morris, the Victorian Arts and Crafts revivalist. Morris railed against the new settlements along the Thames, along with the industrialisation that accompanied them. He disapproved of the hordes of day-trippers, though naturally he enjoyed his own outings on the water. 
 The estuary is Ms Crampton’s real delight, a vast area where river and sea merge that has never received the same attention as the Thames itself. She wonderfully evokes the shifting moods of the estuary’s waters. “I have never seen a painting or a photograph,” she writes, “that can fully capture the way light slides between mud and water, smudging sea and sand and sky together at the horizon.” She brings the same descriptive talent to bear on the adjacent marshes and mudflats. Some aspects of these vistas, she points out, have not changed very much since Charles Dickens and Joseph Conrad wrote about them in their books. 
 The estuary is also where Ms Crampton’s history reaches the present. As the capital’s rising population overspills its boundaries, estuary towns are expanding, complementing a giant wind farm and a new megaport. For all the city’s reliance on finance, the Thames remains a conduit for its commerce. Ms Crampton’s account of her lifelong relationship with this storied waterway is as elegant and sinuous as the river she loves. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Thame[]:泰姆（人名） 泰姆市（地名） 
@@ -65,4 +66,6 @@
 52.storied['stɒ:rid]:a. 传说上有名的, 以历史画装饰的, 分层的 
 53.waterway['wɒtәwei]:n. 航道, 水路 [法] 水道, 水路航道 
 54.sinuous['sinjuәs]:a. 弯弯曲曲的, 迂回的, 运动柔软的 [医] 纡曲的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 A second way is to study Mr Cummings’s voluminous blog postings. Mr Cummings is an inveterate champion of reforming Whitehall and taking on vested interests (which he calls “the blob”). But perhaps his most interesting recent musings focus on how Britain is falling behind in the race to apply science and technology to solving practical problems—for example, using big data to tackle crime and agri-tech to boost productivity on farms. 
 A third way is to study Mr Johnson himself. This is harder than you think. Though he has basked in the public eye for decades, Mr Johnson is a consummate shape-shifter. But a couple of things strike Bagehot about the prime minister in his current incarnation. One is that he sees himself as a liberal Tory who is fulfilling the party’s historical function of adjusting to the arrival of a new force in British life—in this case nationalist populism. Mr Johnson is likely to embrace a peculiar mixture of liberal causes (such as environmentalism) and populist ones (such as stiffer prison sentences). The second is that Mr Johnson sees politics through the prism of City Hall, his former base as mayor, just as Mrs May saw it through the prism of the Home Office, which she ran before Downing Street. His main focus other than Brexit is on basic public services such as policing and transport. He has a (sometimes fatal) fascination with big infrastructure projects. Leaving aside Europe—admittedly a big aside—Mr Johnson is intellectually closer to Michael Heseltine, with his enthusiasm for fixing the problems of the left-behind with state activism, than he is to Thatcher. 
 All this suggests that, if Mr Johnson survives the next few months, Britain will be bombarded with a strange mix of policies. A bit of liberalism here and a bit of populism there, a flurry of initiatives for left-behind Britain one moment and a flurry for high-tech Britain the next. The challenge for the Policy Unit will not be remaining at the heart of government. It will be trying to produce some coherence out of this mish-mash—and trying to turn hot air into concrete policies that have some impact on the real world. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Bagehot[ˈbædʒət]:白芝浩；巴杰特（人名） 
@@ -105,4 +106,6 @@
 90.bombard[bɒm'bɑ:d]:vt. 炮击, 攻击, 轰击 n. 射石炮 
 91.liberalism['libәrәlizm]:n. 自由主义 
 92.coherence[kәu'hiәrәns]:n. 黏合(性), 连贯性, 一致性 [化] 相干性 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

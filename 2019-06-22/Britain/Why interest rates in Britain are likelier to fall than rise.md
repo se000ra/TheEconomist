@@ -8,6 +8,7 @@
 Yet since then inflation has fallen a lot further than the MPC had believed it would. Data released on June 19th put the inflation rate in May at 2% on the nose. Companies may be doing a better job than expected at raising productivity, which allows them to absorb higher wage costs. The impact of sterling’s depreciation may also be fading faster than expected, suggested Michael Saunders, a member of the MPC, in a speech on June 10th. Companies may have passed on higher import prices to consumers in one go, rather than phasing them in slowly. 
 Lower-than-expected inflation also owes something to the level of demand in the economy. A trade war between America and China is causing global economic growth to slow (the Federal Reserve and the European Central Bank are expected to cut interest rates before long). Britain’s economy, highly exposed to trade, moves in tandem with world trends. Brexit is another drag. Postponing it from March 29th to October 31st headed off the calamity of a no-deal exit, but the delay has prompted some companies to hold off on investment until the outlook is clearer. In the past year capital spending by businesses has fallen in real terms. Consumer confidence remains low. The data released so far point to zero GDP growth in the second quarter of 2019, compared with an earlier forecast by the bank of 0.2%. 
 Some members of the MPC, including Mr Saunders and Andy Haldane, the bank’s chief economist, continue to insist that rate rises are around the corner. If Britain pulls off a smooth exit from the European Union by the end of October, business investment could bounce back. Another extension would prolong the uncertainty, however; and a no-deal Brexit would almost certainly force the bank to loosen monetary policy to gee up the economy, even as sterling depreciated again. The case for doveishness is strengthening. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -37,4 +38,6 @@
 25.uncertainty[.ʌn'sә:tnti]:n. 不确定, 不可靠, 不确定的事物 [化] 不确定度 
 26.gee['dʒi:]:n. 马, 家伙 interj. 向右, 前进, 哎呀(惊讶时所发声音) v. (使)向右转 
 27.depreciate[di'pri:ʃieit]:vi. 贬值 vt. 降价, 贬低 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

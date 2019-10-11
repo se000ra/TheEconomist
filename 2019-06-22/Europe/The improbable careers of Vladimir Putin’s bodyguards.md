@@ -11,6 +11,7 @@
 Guards have long played key roles in Russia’s political architecture. The FSO traces its modern history back to 1881. That was when Tsar Alexander III created a special guard service in the wake of his father’s assassination. “They have always protected the authorities from the people,” says Gennady Gudkov, a former KGB general. During the early Soviet era, Stalin’s bodyguard, Nikolai Vlasik, had a hand in everything from state policy to raising Stalin’s children (he was ultimately rewarded with a Gulag sentence). The guard service was later rolled into the KGB, where it became the Ninth Directorate. After the collapse of the Soviet Union, Alexander Korzhakov, Boris Yeltsin’s bodyguard, confidant and drinking buddy, built a new guard service on its ashes. He became one of the most powerful men in Moscow. “He would say: ‘Work is done for the day’,” Mr Korzhakov recalls, “and there would be a bottle of cognac for two.” 
 When Mr Putin came to power, he installed an old associate, Evgeny Murov, at the helm of the FSO. Under Mr Murov, the FSO took on a role of “watching over the innermost elite”, says Mr Galeotti. The agency’s leaders have done well: an investigation by the Organised Crime and Corruption Reporting Project and Novaya Gazeta, an independent Russian newspaper, claimed that a small coterie of FSO men have acquired oodles of prime real estate for a pittance. Though the FSO is said to have become less powerful since Mr Murov left his post in 2016, the rise of its alumni attests to its enduring influence. Some analysts even see Mr Dyumin as a candidate to succeed Mr Putin. 
 Yet whether the Musketeers can adjust to public roles remains to be seen. Few have demonstrated much aptitude as politicians. One ex-bodyguard became an internet meme last year after posting a bizarre video address challenging Alexei Navalny, Russia’s leading opposition politician, to a duel. Another flamed out as governor of Kaliningrad after just two months and was moved to become minister for emergency services. Earlier this month a third unexpectedly stepped down as governor of the Astrakhan region after less than ten months in the job. One thing, though, seems certain: whatever the order, Mr Putin’s Musketeers will heed his call. As Mr Dyumin himself put it, “there’s never been a time when he’s given me a task and I’ve said ‘no’.”◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.musketeer[.mʌski'tiә]:n. 火枪车, 步兵 
@@ -108,4 +109,6 @@
 93.unexpectedly[]:adv. 想不到的, 突然的, 意外的, 出乎意料的 
 94.astrakhan[æstrә'kæn]:n. 阿斯特拉罕羔皮, 俄国羔皮 
 95.heed[hi:d]:n. 注意, 留心 v. 注意, 留心 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

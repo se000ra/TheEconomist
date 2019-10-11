@@ -12,6 +12,7 @@
 Some political figures in the West argue that financial links with China count as a betrayal. Steve Bannon, who was once President Donald Trump’s adviser, talks of removing Chinese companies from American stock exchanges. Marco Rubio, a hawkish Republican senator, has accused MSCI of channelling American cash to the Chinese Communist Party by including state-owned companies in its benchmarks. 
 In fact closer financial links could have a beneficial effect, which is why longtime China-watchers like Mr Paulson back them so strongly. When Chinese firms have foreign shareholders or underwriters, their calculations change. They face tougher questions, as Alibaba, a Chinese e-commerce giant, is reminded on every earnings call. None of this will suddenly transform China into a free market but it will encourage its firms to be more open, to respond to market signals and to respect intellectual property. Chinese firms that use Western banks when they go abroad, as Huawei used HSBC, are less able to circumvent global rules on corruption and sanctions. 
 If America excludes China from the global financial system, China will eventually build an alternative to the dollar-based order that has dominated markets since 1945—which would then feed into a wider strategic rivalry. For the time being, despite the hostilities over trade and tech, China welcomes foreign investors and firms. That is to be celebrated. There is more to be gained from building connections than cutting them off.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -85,4 +86,6 @@
 69.sanction['sæŋkʃәn]:n. 核准, 制裁, 处罚, 约束力 vt. 制定制裁规则, 认可, 核准, 同意 
 70.rivalry['raivlri]:n. 竞争, 对抗 [医] 拮抗 
 71.hostility[hɒs'tiliti]:n. 敌意, 敌对, 反对 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

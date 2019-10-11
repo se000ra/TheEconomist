@@ -10,6 +10,7 @@
 The paper is part of a recent trend among economists to improve estimates of the incomes of the rich. That work is much needed, since Britain’s two official measures of overall inequality—one from the Office for National Statistics (ONS) and the other from the Department for Work and Pensions (DWP)—have limited success in guessing the incomes of the well-off. Both suffer from the problem that very rich people are particularly likely to under-report their income. Some evidence finds that the very well-off are less likely to answer surveys, since they believe they are too busy to do so. They may also have earnings from a variety of sources, which can make it hard to keep track of everything that is gushing in. An ONS study published in February suggests that survey data capture only about half the income of someone who has just made it into the richest 0.5%. 
 Since the rich command a disproportionately large share of overall income, getting them wrong is a disproportionately big problem. Both the ONS and DWP suggest that, somewhat surprisingly, since the early 1990s overall income inequality (as measured by the Gini coefficient) has not changed much. Could these conclusions be skewed by a poor understanding of just how rich the richest are? 
 In an effort to get to the bottom of this, academic researchers have sought to combine tax data with survey data. (Wonks at the DWP already do this, though their methodology is widely agreed to be flawed.) Calculations in a paper published earlier this year by Stephen Jenkins of the London School of Economics and the late Tony Atkinson, formerly of Oxford University, show a marked increase in overall inequality since the mid-1990s, in contrast to the stability shown by official statistics. Such work is at an early stage. But it suggests that a better understanding of the 0.01% may reveal that the gap between rich and poor has been widening more than many people thought. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.V[vi:]:[计] 溢出, 变量, 向量, 检验, 虚拟, 垂直 [医] 钒(23号元素) 
@@ -58,4 +59,6 @@
 44.Atkinson[]:n. 阿特金森（姓氏） 
 45.formerly['fɒ:mәli]:adv. 从前, 以前 
 46.Oxford['ɒksfәd]:n. 牛津, 牛津大学 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

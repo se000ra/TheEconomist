@@ -9,6 +9,7 @@
 “The Republic” is haunted by the fear that democracies eventually degenerate into tyrannies. Democracy is the most alluring form of government: “the diversity of its characters, like the different colours in a patterned dress, make it look very attractive.” But it is inherently unstable. Citizens are so consumed by pleasure-seeking that they beggar the economy; so hostile to authority that they ignore the advice of experts; and so committed to liberty that they lose any common purpose. 
 As democracies collapse under the pressure of their contradictions, panicked citizens look for salvation in a demagogue. These are men who love power, but cannot control their own desires for “holidays and dinners and parties and girlfriends and so on”. Plato calls them the “most wretched of men because of the disorder raging within them”. Citizens are so consumed by fear that they think these wretches have magical abilities to solve the country’s problems and restore proper order. Demagogues get their start by “taking over a particularly obedient mob”, before seizing control of the country. But the more power they acquire the worse things become, “for the doctor removes the poison and leaves the healthy elements in the body, while the tyrant does the opposite.” 
 Democracies have proved more durable than Plato imagined. And his cure for the problems of democracy—the rule of philosopher-kings, who are expected to hold their wives and children in common—is eccentric to put it mildly. But he is right that character matters. Politicians can change their advisers or their policies, but character is sticky. He is also right that democracies can suddenly give way to populist authoritarianism. Most have taken the precaution of constructing constitutional protections to save themselves from Plato’s nightmare (America has been shielded from President Donald Trump’s wilder ideas by the Bill of Rights and the separation of powers). Britain is unusual in relying on the good character of its leaders—Lord Hailsham worried in 1976 that constitutional protections were so minimal that the government is an “elective dictatorship”. The best way to prepare for a Johnson premiership is to re-read “The Republic”, hoping Plato is wrong but preparing for the fact that he may be right. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Bagehot[ˈbædʒət]:白芝浩；巴杰特（人名） 
@@ -95,4 +96,6 @@
 82.elective[i'lektiv]:a. 选举的, 根据选举的, 选修的 n. 选修课程 
 83.dictatorship[dik'teitәʃip]:n. 独裁者之职位, 独裁, 独裁政权 [法] 专攻, 独裁权 
 84.premiership['premjәʃip;pri'miә-,'pri:m-]:n. 总理职位, 首相职权, 首相职位, 总理职权 [法] 总理职位 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

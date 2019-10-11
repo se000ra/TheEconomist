@@ -11,6 +11,7 @@
 Another inherited headache is that coca production rose in Mr Santos’s final years, exacerbating turf wars over cocaine exports. “You can’t build a lasting peace with 200,000 hectares of coca,” says Mr Duque. His government wants the constitutional court to lift a ban on spraying the crop with herbicide. “Spraying is not a silver bullet,” he says. “But it has to be a tool. Some areas of coca are protected by landmines and snipers.” 
 Mr Duque’s main challenge is to develop clear policies of his own. They should start with security. Much of the countryside remains unsafe. Some 135 demobilised guerrillas have been murdered. Community leaders are also being killed. Colombia needs to rethink security policy for a post-FARC era, with greater use of intelligence and civilian co-operation. The new army commander, General Nicacio Martínez, issued orders that seemed to encourage his forces to increase the body count—a throwback to a controversial policy under Mr Uribe. There is no evidence that killings have risen. But that approach is misguided. 
 Mr Duque “has yet to find his own feet,” says Malcolm Deas, a British historian of Colombia, who suggests that he formalise his relationship with Mr Uribe, for example by confining it to scheduled meetings. He could complement that by developing his own political base in the centre. He has time to become a good president. But the clock is ticking. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bello[]:n. 贝罗（姓氏） 
@@ -79,4 +80,6 @@
 64.historian[hi'stɒ:riәn]:n. 历史学家, 记事者 
 65.formalise['fɔ:məlaɪz]:vt. 使（协议、计划等）成书面文字形式; 使成为正式, 使具有一定形式 
 66.complement['kɒmplimәnt]:n. 补足物, 补语, 补数 vt. 补充, 补足 [计] 补码; 反相器; 补数 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

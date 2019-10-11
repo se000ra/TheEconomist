@@ -11,6 +11,7 @@
 At a party congress in December the SPD must decide whether to do just that. The question will therefore hover over the party’s leadership contest, which starts in earnest in September. Winning in Brandenburg would help continuity candidates like Olaf Scholz, Germany’s vice-chancellor and finance minister, who changed his mind about running when the thinness of the field became embarrassing. Mr Woidke, a Scholz supporter, calls the discussion over staying in government “superfluous”. But some of Mr Scholz’s rivals are already urging a walkout. Poor election results will help them make their case. 
 The CDU, meanwhile, has begun to lose its way as Mrs Merkel, who will leave office before the next election, steps away from front-line politics. Annegret Kramp-Karrenbauer, who took over the party leadership from the chancellor last December, stumbles from one gaffe to another, most recently hurting the CDU’s election campaigns by condemning a prominent right-wing member popular in the east. Her missteps mean she is no longer a shoo-in to run as the party’s candidate for chancellor at the next election. Should the CDU do poorly this weekend, it is Ms Kramp-Karrenbauer who will take the blame rather than Mrs Merkel, who has removed herself from the election fray. The new party leader’s rivals are circling. 
 The gloom in Berlin also infects the local contests. The national SPD’s weakness is “of course a burden”, admits Mr Woidke. In fact, he and Mr Kretschmer have good economic stories to tell in their own states. But it is hard to gain purchase in such a febrile political atmosphere. After many years of stability under Mrs Merkel, there is a whiff of change in the air. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.coalition[.kәuә'liʃәn]:n. 结合体, 结合, 联合 [经] 联合, 联盟 
@@ -86,4 +87,6 @@
 71.gloom[glu:m]:n. 忧郁, 暗处, 幽暗 vi. 变忧沉, 变黑暗 vt. 使忧郁, 使黑暗 
 72.febrile['fi:brail]:a. 发热的, 热病的, 热性的 [医] 热性的, 发热的 
 73.whiff[hwif]:n. 一吹, 一吸, 一阵, 一点点, 一口烟 vi. 轻轻地吹, 喷气, 三击不中出局, 垂钓 vt. 吹送, 喷出, 吸, 使三击不中出局 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

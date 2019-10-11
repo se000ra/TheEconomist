@@ -8,6 +8,7 @@
 To be more adventurous in their use of quinoa foodmakers need a more dependable supply, says Shrene White, general manager of Ardent Mills, America’s biggest flour-maker. Its adoption as an ingredient in higher-margin processed food has been hampered by volatile prices and inconsistent produce. A truckload imported by Andean Naturals, which is based in California and buys from thousands of Bolivian farms, can contain half a dozen different quinoa varieties. These behave differently when processed, and so are hard to convert reliably into flour or snacks. 
 To remedy this, last year Ardent Mills launched a unit that works with breeders and food scientists to sponsor American growers, starting in its native Colorado and the Pacific north-west. It is eyeing California. Andean Naturals is testing a 32-hectare site in the state. It wants, optimistically, to convert 5% of California’s 223,000 hectares of rice fields to quinoa by 2025. France and Spain already have 3,000 hectares each. Early results look encouraging. Food producers are launching more quinoa snacks, says Ms White. Kellogg’s, the inventor of cornflakes, adds quinoa from Andean Naturals to frozen meals and cereal bars. A Nevadan subsidiary of Kameda Seika, Japan’s largest maker of rice biscuits, sprinkles it on its crackers. The Honest Kitchen, a startup in San Diego, uses it to enrich dog food. 
 Sergio Núñez de Arco, Andean Naturals’ boss, expects the market for processed quinoa (outside its Andean home) to grow from $900m today to $2.2bn by 2025. South American exporters want a bite. Since its first shipment to China in December, Sindan Organic, a Bolivian firm, has dispatched 700 tonnes to the country—5% of its sales. Its boss gushes about the potential of China’s 1.4bn mouths. Health-conscious Chinese urbanites may take to the trendy grain, he believes—especially if it comes in readily munchable form. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bump[bʌmp]:n. 撞击, 肿块 vt. 碰撞 vi. 撞, 颠簸而行 
@@ -76,4 +77,6 @@
 64.urbanite['ә:bәnait]:n. 城市居民 
 65.trendy['trendi]:a. 随潮流的, 时髦的, 赶潮流的 
 66.munchable[]:[网络] m able。 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

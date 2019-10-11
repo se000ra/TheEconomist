@@ -8,6 +8,7 @@
 The main problem is that SOAS has struggled in a more competitive environment. The old system of state grants helped support universities that did a lot of language teaching. Nowadays in England most of their funding comes from tuition fees, and since 2015 universities have been free to recruit as many students as they want. In the words of an internal SOAS memo, rival institutions “went growth-mad”, with King’s College and Queen Mary University London hoovering up students. SOAS initially responded by lowering its admission standards to attract more applicants. It has since changed tack, raising the bar in order to maintain its position in league tables. Insiders say the school has been slow to tap donors to make up the shortfall. “It’s not a terribly capitalist institution,” is the verdict of one. 
 The university promises measures to turn things round, including investments in the estate, better teaching and more overseas education. It says that applications for next year are looking perkier. Yet after last year’s disastrous admissions cycle, an extra £2.6m ($3.3m) had to be cut from academic staffing costs by 2021-22, on top of planned cuts of £3.4m since 2017-18. 
 If things don’t improve, SOAS may have to lay on fewer courses, or perhaps even be absorbed by another institution. “There’s no way of teaching languages like Burmese or Zulu profitably,” accepts Justin Watkins, a linguistics professor at the university. But if the school ends up going under, “something will have been lost that will be very hard to reacquire.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.SOS[esәj'es]:紧急呼救信号 [计] 独立操作系统 
@@ -60,4 +61,6 @@
 48.Watkin[]:n. (Watkin)人名；(英)沃特金 
 49.linguistic[liŋ'^wistik]:a. 语言的, 语言学的 [计] 语言的, 语言学的 
 50.reacquire[ˌrɪə'kwaɪə]: [医]再获得, 再得到 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

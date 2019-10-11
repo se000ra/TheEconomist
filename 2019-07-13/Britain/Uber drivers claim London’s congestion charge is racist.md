@@ -8,6 +8,7 @@
 Black-cab drivers have little sympathy for their rivals. The number of private-hire drivers in the city has almost doubled since Uber arrived in 2012. “There’s too many of them on the road. Something needs to be done,” complains Miles, as he chomps on a sandwich outside a small green hut, known as a cabmen’s shelter, on the Embankment. The congestion charge was extended to cover minicabs to do just that. Research carried out on behalf of TFL predicts that it will cut private-hire traffic by 6%, but overall traffic by just 1%. 
 Indirect discrimination is permissible if it is a “proportionate means” to achieve a “legitimate aim”. It is, for example, fair to make trainee firefighters pass a fitness test before they jump into burning buildings, even though such a test discriminates against old people. But the IWGB argues that there are other ways to achieve the legitimate aim of reducing traffic—such as raising the congestion charge for all drivers—and that a fall in the supply of minicabs may harm people with disabilities who do not need a wheelchair.  
 TFL responds that the most price-sensitive traffic has already been priced out of the city, so a rise in the congestion charge for all would make little difference. Taxi drivers will hope it is a winning argument. In exchange for learning the Knowledge, a gruelling feat requiring them to remember 25,000 roads and 100,000 landmarks, they earn perks such as the right to pick people up off the street (whereas minicabs must be booked) and to drive in bus lanes. If minicab drivers have their way, the incentive to spend all those hours memorising road names will be a little less strong. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.uber['ju:bә]:[医] 乳房 
@@ -44,4 +45,6 @@
 32.incentive[in'sentiv]:n. 动机 a. 激励的 
 33.memorise['meməraiz]:vt. 记住, 熟记, 记录, 存储 
 34.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

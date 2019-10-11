@@ -3,6 +3,7 @@
 ![image](images/20190824_BRP005_0.jpg) 
 > print-edition iconPrint edition | Britain | Aug 24th 2019 
 IN HIS FIRST weeks in office, Boris Johnson said he would not negotiate with the EU unless it removed the Irish backstop from the Brexit deal. This week he wrote to Donald Tusk, the European Council president, with the same demand, before going to Berlin and Paris to see Angela Merkel and Emmanuel Macron ahead of the G7 summit in Biarritz. EU leaders said Mr Johnson had no realistic alternative for averting a hard Irish border. Mrs Merkel seemed to suggest he should find a solution within 30 days. Yet some think Mr Johnson’s true goal is a no-deal Brexit on October 31st which he can blame on the EU.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.boris['bɔris]:n. 鲍里斯（男子名） 
@@ -21,4 +22,6 @@
 14.realistic[riә'listik]:a. 现实的, 逼真的, 现实主义的, 实在论的 
 15.avert[ә'vә:t]:vt. 转开, 避免, 防止 
 16.Mr['mistә(r)]:先生 [计] 存储器回收程序, 多重请求 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

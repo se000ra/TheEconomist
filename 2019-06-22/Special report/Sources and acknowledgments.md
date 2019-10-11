@@ -18,6 +18,7 @@
 Texas Commission on Public School Finance, “Funding for Impact: Equitable Funding for Students Who Need It Most”. 
 United Way, “Alice: A Study of Financial Hardship in Texas” 
 United Way, “Struggling to Stay Afloat: The Real Cost Measure in California 2018” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Texas['teksәs]:n. 德克萨斯 
@@ -97,4 +98,6 @@
 75.migration[mai'greiʃәn]:n. 移民, 移往, 移动 [计] 迁移 
 76.lone[lәun]:a. 孤单的, 孤立的, 单身的, 寂寞的 
 77.equitable['ekwitәbl]:a. 公平的, 公正的 [法] 公平的, 公正的, 平衡法的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

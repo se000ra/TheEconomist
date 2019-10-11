@@ -10,6 +10,7 @@
 For example, in the year to March 2006 American house prices rose by 8%. Our model expected growth would slow to 0.3% in the year to September 2007. That was too sanguine: prices actually fell by 4.7%. But it still would have served as an early warning. 
 According to our model, conditions today are not similar to those of 2006. Across ten countries, the average of its median estimates for the year to June 2020 is an appreciation of 2.3%. The model does not rule out a downturn: there is a one-in-seven chance that Italian prices will fall by at least 5%. But the most likely scenario is that the rally has room left to run. ◼ 
 Sources: OECD; BIS; IMF; national statistics; The Economist 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.graphic['græfik]:a. 生动的, 轮廓分明的, 绘画似的, 图解的 [计] 图形的 
@@ -35,4 +36,6 @@
 21.rally['ræli]:n. 重振旗鼓, 集合, 群众集会, 跌停回升 v. 重整旗鼓, 集合, 恢复精神, 团结, 挖苦, 嘲笑 
 22.BI[bai]:[计] 成批输入, 总线接口 [医] 铋(83号元素) 
 23.statistic[stә'tistik]:n. 统计量 a. 统计的, 统计学的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

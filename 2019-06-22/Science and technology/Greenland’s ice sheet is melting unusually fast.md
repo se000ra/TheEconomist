@@ -8,6 +8,7 @@
 Several things are to blame. First, a natural cycle known as the North Atlantic Oscillation is encouraging ice-melt. Then there is long-term warming driven by rising greenhouse-gas emissions. Third, climate change has also weakened the jet stream, permitting a warm and humid weather system to settle over north-eastern Greenland. As a result of all this, the seasonal ice-melt began two weeks early. And according to data published on the Polar Portal, a Danish climate-research website, Greenland is currently losing 3bn tonnes of ice a day. That is roughly three times the average for mid-June in the period from 1981 to 2010. 
 The three previously recorded losses at this scale, in 2002, 2007 and 2012, each portended a record shrinkage of the sheet’s volume at the end of the summer. This year’s is likely to do the same. As Thomas Mote of America’s National Snow and Ice Data Centre observes, although a switch in the weather could still turn things around, the early melt will result in darker snow and ice, which absorb more sunlight and hasten the melting process. 
 Jason Box of the Geological Survey of Denmark and Greenland reckons that if this year is anything like 2012 (which set the current record for ice melt), melting ice from Greenland will raise the sea level by a millimetre. That is on top of the 2.5mm-a-year rise brought about by other causes, such as thermal expansion of the oceans in response to global warming. Greenland may not be green yet, but it is far less icy than in Erik’s time.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -41,4 +42,6 @@
 29.reckon['rekәn]:vt. 计算, 总计, 估计, 认为, 猜想 vi. 数, 计算, 估计, 依赖, 料想 
 30.thermal['θә:ml]:a. 热的, 热量的, 温泉的 n. 上升温暖气流 
 31.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

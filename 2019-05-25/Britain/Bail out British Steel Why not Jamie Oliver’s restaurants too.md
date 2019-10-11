@@ -10,6 +10,7 @@
 Another is that the company’s collapse will affect its suppliers and customers, and drive up the welfare bill. IPPR, a think-tank, suggests that in addition to the jobs lost directly, a further 7,000 workers in the supply chain are in jeopardy. Yet it is hard to see why this should not apply to Mr Oliver’s restaurants, too. Laid-off waiters will claim welfare payments. Food suppliers will lose a big client. If these were sensible grounds for a bail-out, any failing company would be entitled to one. 
 There may be no serious case for bailing out British Steel. There is a good case, however, for helping the workers affected by its closure. Mr Oliver’s unfortunate staff will probably find new jobs quickly. The chain’s outlets are mainly in bustling cities with plenty of other opportunities. Across the country, vacancies in hospitality are higher than in any other sector. The prospects for British Steel’s workers look much worse. They are concentrated in a small area (Scunthorpe’s population is around 80,000). The steelworks’ closure will whack the local economy, making it harder still to find new work. After the closure of its own steelworks, Redcar suffered a local depression. Employment slumped, particularly among men. Even today median wages remain lower than in 2015. 
 That calls for the state to supply extra education and training in areas affected by the closure of British Steel. The government’s preferred programme to do this, its “rapid response service”, has a tiny budget. It was deployed in Redcar, to no great effect. Nationalising British Steel is no more sensible an idea than taking over Mr Oliver’s restaurants. But a large portion of help is needed for the steelworkers, subito. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.V[vi:]:[计] 溢出, 变量, 向量, 检验, 虚拟, 垂直 [医] 钒(23号元素) 
@@ -59,4 +60,6 @@
 45.slump[slʌmp]:n. 暴跌, 垂头弯腰的姿态 vi. 猛然掉落, 陷入, 衰落(经济等) 
 46.median['mi:diәn]:a. 中央的, 中间的, 正中的 n. 正中动脉, 中位数, 中线 
 47.deploy[di'plɒi]:v. 展开, 配置 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

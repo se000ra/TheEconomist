@@ -13,6 +13,7 @@
 Whether power-generation from high-altitude winds actually can compete with existing turbines remains to be seen. The potential is certainly there. Airborne Wind Europe, an industry group based in Brussels, calculates that the wind blows fast enough at heights of around 500 metres for this form of energy production to work almost anywhere in Europe. Lower down, however, the strongest winds are often found in coastal areas. These are places where population densities are frequently high and land for onshore wind farms is thus expensive, while building those farms offshore increases the awkwardness of construction and maintenance. 
 The mechanics of kite-flying, however, are more stressful than those of a wind turbine revolving smoothly and regularly. Flying tight figures-of-eight in gusty winds while pulling on a tether requires a robustness of structure and a precision of control that go beyond those involved in conventional aeronautics. And if, despite all precautions, a tether were to snap, measures would need to be in place to bring both it and the kite once attached to it safely back to earth. Moreover, air-traffic-control authorities will doubtless have something to say if their airspace seems likely to be invaded by fleets of giant kites. 
 Regardless of all this, high-altitude wind generation is an intriguing idea. In a world searching hard for alternatives to fossil fuels, it seems a promising option. The next few years should show whether or not that promise can be realised.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.innovative['inәjveitiv]:a. 革新的, 创新的, 富有革新精神的 
@@ -72,4 +73,6 @@
 55.aeronautics[.єәrә'nɒ:tiks]:n. 航空学, 飞行术 [机] 航空学 
 56.intrigue[in'tri:g]:n. 阴谋, 复杂的事 vi. 密谋, 私通 vt. 激起...的兴趣, 用诡计取得 
 57.fossil['fɒsәl]:n. 化石, 古物 a. 化石的, 陈腐的, 守旧的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

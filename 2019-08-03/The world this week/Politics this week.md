@@ -22,6 +22,7 @@
 India’s parliament approved a law banning Muslim men from divorcing their wives simply by saying the word talaq three times. Few Muslim countries permit this, and the Supreme Court had declared it unconstitutional. But the opposition held up the measure for a year, arguing that punishing men who divorced their wives in this way by sending them to prison was too harsh. 
 ![image](images/20190803_WWP002.jpg) 
 The government of India said that the country’s tiger population had risen by a third since 2014, to almost 3,000. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.rainforest['rein'fɔrist]:[生态]雨林 
@@ -128,4 +129,6 @@
 102.disarmament[dis'ɑ:mәmәnt]:n. 裁军 [法] 裁军, 解除军备 
 103.talaq[]:[网络] 离婚；塔拉克 
 104.unconstitutional['ʌnkɔnsti'tju:ʃәnәl]:a. 违反宪法的, 不符合宪法的 [法] 违反宪法的, 违宪的, 不合宪法规定的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

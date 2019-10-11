@@ -7,6 +7,7 @@
 The American public’s preferences on policy have long shown an allergy to whatever the occupant of the White House is trying to do. In this respect public opinion is like a thermostat: when policy gets too hot, Americans turn the temperature down. When the government drifts too far right, Americans want to move back to the left, as happened in the 2018 mid-term elections. 
 ![image](images/20190615_USC914.png) 
 Mr Stimson is careful not to suggest that the leftward swing is only a reaction to Donald Trump’s presidency. He points out that the policy preferences he sees now “are the issues of American politics of earlier generations, the New Deal and Great Society agenda”. Mr Trump has done little to shift policy on Social Security, for example, so increasing leftiness on that issue may reflect real attitude-changes rather than thermostat-tweaking. On policy preferences at least, America is moving leftwards.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ideology[.aidi'ɒlәdʒi]:n. 思想体系, 意识形态, 观念学, 空论 [医] 观念学, 观念形态 
@@ -24,4 +25,6 @@
 13.allergy['ælәdʒi]:n. 变应性, 反感, 厌恶 [化] 变态反应; 变应性 
 14.occupant['ɒkjupәnt]:n. 占有者, 居住者, 占用者 
 15.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

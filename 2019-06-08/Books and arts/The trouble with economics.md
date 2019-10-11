@@ -11,6 +11,7 @@
 The idea that all human actions can be reduced to a calculation of self-interest is a bleak one. And it is not true. In Britain, for example, people give blood out of a sense of civic duty. Studies show that blood donation declines when rewarded by money; worse still, money induces donors to withhold details of medical conditions. In a Swiss village, support for siting a nuclear-waste dump nearby fell when the residents were offered compensation; they did not like the idea of being bribed. 
 The author neatly subverts the cynicism of some economists, such as the public-choice school which believes that politicians and officials are more interested in advancing their own interests than in the public good. By the same logic, he says, public-choice economists may be advancing their theories simply to boost their academic careers and their chances of a lucrative book contract. 
 But it is unfair to tar all economists with the same brush; Becker’s views came in for lots of criticism from within the profession, for instance. On the left, Thomas Piketty, Joseph Stiglitz and Tony Atkinson have all worried about inequality; Mariana Mazzucato has pointed to the crucial role played by governments in long-term investment. And Mr Aldred is strangely dismissive of behavioural economists, who accept that humans are not desiccated calculating machines, and—in the hope of encouraging people to pay their taxes, or to save for their old age—tweak their recommendations accordingly. “Licence to be Bad” is a powerful tirade, but it is too sweeping in its condemnations. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.dismal['dizmәl]:a. 阴沉的, 凄凉的, 令人忧郁的 n. 低落的情绪, 沼泽 
@@ -83,4 +84,6 @@
 68.desiccate['desikeit]:vt. 使干, 干贮 vi. 变干 
 69.tirade['taireid]:n. 激烈的长篇演说 
 70.condemnation[kɒndem'neiʃәn]:n. 非难, 宣告有罪, 非难的理由 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

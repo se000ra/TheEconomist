@@ -10,6 +10,7 @@
 Within minutes, every major news channel in the world was leading with the news. President Donald Trump tweeted in approval. “Show Europe whose BOSS. Very good decision! WELL DONE MARK FACEBOOK.” Sputnik, a Russian online news outlet, noted wryly that Facebook was still available in Russia. 
 More than 380m people—16% of the company’s users—had just lost access to their friends, families and loved ones. The EU’s economy was sure to take a hit. Businesses built on selling through Instagram would disappear overnight. Small firms that relied on WhatsApp to stay in touch with customers would be cast adrift. 
 Within hours of Facebook’s move, Europe’s politicians found themselves under enormous pressure to find a compromise, and fast. Acting with unusual speed, the EU arranged a summit for noon that day. For all the grumbling about Facebook’s power and influence over commerce, politics and social activity, having to do without it was, millions of Europeans suddenly realised, unthinkable. Facebook had succeeded in demonstrating its indispensability. Ironically, it had also highlighted its extraordinary power—and the need to constrain it through regulation. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.facebook[]:n. 脸谱网 
@@ -57,4 +58,6 @@
 43.indispensability[]:n. 不可缺少, 责无旁贷 
 44.ironically[]:adv. 冷嘲地, 挖苦地, 讽刺地, 令人啼笑皆非地 
 45.constrain[kәn'strein]:vt. 强迫, 限制, 关押 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

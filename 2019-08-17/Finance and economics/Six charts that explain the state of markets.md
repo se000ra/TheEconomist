@@ -7,6 +7,7 @@
 Nervous investors are reaching for the safety of the dollar. The yen and Swiss franc, habitual sanctuaries, are among the few currencies that have risen against it (chart 3). The price of gold, another haven, is at a six-year high. That of copper, a barometer of global industry, is down from its recent peak (chart 4). 
 Faced with uncertainty, the go-to market for equity investors is America’s. It has left others in the dust (chart 5). MSCI’s emerging-market share index leans heavily towards “Factory Asia” (China, South Korea and Taiwan), which is in the eye of the trade-war storm. Europe’s markets lean towards banks and carmakers, which suffer in downturns. 
 Investors fret that the rich world is slowly becoming Japanese, with economies that are too feeble to generate inflation. Forecasts of inflation in the swaps market have fallen sharply (chart 6). A fear in 2008 was that deflation might take root. The fear remains. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.commonplace['kɒmәnpleis]:n. 寻常事, 老生常谈, 普通的东西 a. 平凡的, 普通的 
@@ -32,4 +33,6 @@
 21.fret[fret]:n. 烦躁, 磨损, 焦急, 网状饰物 vi. 烦恼, 不满, 磨损 vt. 使烦恼, 腐蚀, 使磨损, 使起波纹 
 22.inflation[in'fleiʃәn]:n. 胀大, 夸张, 通货膨胀 [化] 充气吹胀; 膨胀 
 23.deflation[di'fleiʃәn]:n. 放气, 缩小, 通货紧缩 [医] 放气, 解除气胀 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

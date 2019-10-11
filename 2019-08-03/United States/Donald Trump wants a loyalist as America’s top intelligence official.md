@@ -11,6 +11,7 @@
 But what Mr Ratcliffe lacks in experience he makes up for in devotion to Mr Trump. Mr Ratcliffe falsely accused Robert Mueller, during his congressional testimony, of having exceeded his brief as special counsel. He propounded the conspiracy theory that “there may have been a secret society” of federal agents working against Mr Trump. The New York Times uncovered embellishments to his biography, including one claim that he “arrested 300 illegal aliens in a single day” (prosecutors do not have powers of arrest), and another that he “convicted individuals funnelling money to Hamas” (he did not). 
 Mr Ratcliffe’s nomination is not assured. Earlier this year Mr Trump tried to nominate two unqualified partisans, Stephen Moore and Herman Cain, to the Federal Reserve’s board of governors; both withdrew their names because they lacked enough congressional support. At least a few Republican senators may similarly quail at handing a difficult, non-partisan job to a lightly qualified politician. 
 Yet just the floating of Mr Ratcliffe’s name highlights the contempt that Mr Trump has for America’s intelligence services. He says Mr Ratcliffe’s job would be to “rein…in” the intelligence services that have “run amok”, by which he seems to mean that they offered views that displease him. That is worrying; some of America’s greatest foreign-policy debacles have stemmed from politicised intelligence. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.loyalist['lɒiәlist]:n. 忠诚的人, 反对独立者, 反佛朗哥派的人 
@@ -78,4 +79,6 @@
 63.amok[ә'mɔk]:adv. 乱砍乱杀, 杀气腾腾地横冲直撞 [医] [抑郁后暴发]杀人狂 
 64.debacle[dei'bɑ:kl]:n. 崩溃, 大失败 
 65.politicise[pɒ'lɪtɪsaɪs]:vt. 使政治化, 使具有政治性; 使对政治有兴趣 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

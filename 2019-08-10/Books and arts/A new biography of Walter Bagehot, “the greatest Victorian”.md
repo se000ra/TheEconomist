@@ -14,6 +14,7 @@
 This is very much a warts-and-all portrait, not a hagiography. Mr Grant presents Bagehot as a man rather than just as an editor: as a supplicant who forged a close relationship with James Wilson, the founder of The Economist; as a lover who successfully wooed Wilson’s eldest daughter, Eliza, with perfectly crafted letters; as a husband who ate seven meals a day (“with a snack in the interstices”) and spent beyond his means; as a failed parliamentary candidate, getting barracked as he delivered lofty speeches and even indulging in a bit of bribery, despite denouncing graft in the pages of his newspaper; as an inveterate leg-puller who once wrote a 213-word sentence in praise of the contention that “short views and clear sentences” were the coming thing in English letters. 
 Mr Grant recognises that Bagehot had weaknesses as well as strengths. He repeatedly predicted that the South would win the American civil war, in part because the North was led by an incompetent country lawyer—and then effortlessly transformed himself into a fan of Abraham Lincoln when the Union won. He indulged in numerous conflicts of interest—for example advising Gladstone to continue to allow local banks to issue their own currency when he was a substantial shareholder in Stuckey’s, a bank that did just that. Asked to support a petition to found a women’s college of Oxbridge calibre, he demurred on the ground that women were not suited to high-level jobs. Two thousand years hence things might have changed, he said, but at present they would only “flirt with men and quarrel with each other”. 
 Bagehot survives these misjudgments with his reputation intact. He does so partly because his glittering prose makes it a pleasure to read even his most mistaken opinions. But he does it too because he was right far more than he was wrong. He was right about the dangers of crowd psychology in both finance and politics. He was right about the importance of “animated moderation” in political life. And he was right that civilisation is a delicate construct that requires skilful—and sometimes cynical—statecraft if it is to be saved from self-destruction. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.sage[seidʒ]:n. 圣人, 哲人, 鼠尾草属植物 a. 贤明的, 明智的 
@@ -127,4 +128,6 @@
 109.animate['ænimeit]:vt. 使有生气, 赋予生命 a. 有生命的, 有生气的 
 110.moderation[.mɒdә'reiʃәn]:n. 缓和, 适度, 温和 [化] 慢化 
 111.civilisation[,sivilai'zeiʃən;-li'z-]:n. 文明, 文明世界, 文化, 开化, 教化 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

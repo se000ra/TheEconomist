@@ -13,6 +13,7 @@
 That may suggest that Mrs von der Leyen is also not guaranteed the majority she needs to secure the commission presidency. That vote is due to take place between July 15th and 18th. If she fails, leaders will have to return to the drawing board. They might then turn to Margrethe Vestager, the liberal competition commissioner who was a Spitzenkandidat in all but name and fairly widely acceptable. Otherwise the options are few. 
 But if she does succeed, what sort of a commission president will Mrs von der Leyen make? It is true that after five years of her as defence minister, the German armed forces are still plagued by equipment shortages and technical faults. German opposition parties are holding an investigation into her extensive and expensive use of consultancies. Yet her job is known as a graveyard of careers for good reason—the problems long predate her tenure—and Mrs von der Leyen has done well to survive in it. Multilingual and instinctively Atlanticist, she is respected by NATO colleagues for having fought for budget increases for Germany’s armed forces and presiding over expanding German military missions in places like Mali and Lithuania. She has recently warned against European complacency about China’s rise and intentions. Addressing MEPs in Strasbourg on July 3rd she struck a conciliatory tone in comments in German, French and English. 
 There may have been better candidates for the commission job—for example, Ms Vestager—but there were certainly far inferior ones. Likewise, Ms Lagarde, Mr Michel and Mr Borrell are all competent figures. The Spaniard will be the most heavyweight person to hold the foreign-policy role since its creation in 2009. Europe runs on compromises like this one. It could do worse. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.EU[]:[化] 富集铀; 浓缩铀 [医] 铕(63号元素) 
@@ -113,4 +114,6 @@
 96.Spaniard['spænjәd]:n. 西班牙人 
 97.heavyweight['heviweit]:n. 重量级拳击运动员, (非正式)有影响的要人 a. 最重量级的 
 98.creation[kri:'eiʃәn]:n. 创造, 创作物, 发明 [化] 产生 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

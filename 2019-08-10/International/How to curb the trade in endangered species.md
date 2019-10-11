@@ -24,6 +24,7 @@
 Rhino horn is another example. China has banned its sale since 1993; and demand for its use in traditional Chinese medicine (for fevers, rheumatism and gout) has fallen. But it has picked up in Vietnam on nonsensical rumours it can cure cancer. Tiger-bone remedies are being replaced by lion- and leopard-bone ones. And so on. 
 Moreover, although China is trying to curb illegal trade, it is also promoting TCM as one of its civilisation’s great contributions to the world. It has indeed made breakthroughs, such as artemisinin, now a widely used defence against malaria. Very few of its cures come from animals and the official pharmacopoeia has been purged of illegal (and useless) treatments such as rhino horn and tiger bone. But some TCM practitioners still prescribe them, so conservationists are alarmed that in May the World Health Organisation gave TCM respectability by including diagnoses for 400 conditions in its influential International Classification of Disease list. 
 Efforts to cut demand for illegal products have had an impact, and attitudes are changing. Sharks’-fin soup, for example, is no longer a fixture at Chinese banquets, and more and more diners know it is at best a controversial taste. But as endangered species dwindle further, the market for many products is still robust. Trafficking in them remains, in Mr Collis’s phrase, “a low-risk, high-reward crime”. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.curb[kә:b]:n. 抑制, 勒马绳, 边石 vt. 抑制, 束缚, 勒住 
@@ -170,4 +171,6 @@
 142.diner['dainә]:n. 用餐者 
 143.robust[rәu'bʌst]:a. 健康的, 强健的, 要用力气的, 坚定的, 粗野的 [计] 健壮性 
 144.trafficking[ˈtræfikɪŋ]:n. 非法交易 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

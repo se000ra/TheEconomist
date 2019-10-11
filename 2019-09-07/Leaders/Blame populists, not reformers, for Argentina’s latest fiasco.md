@@ -10,6 +10,7 @@
 Mr Macri and the IMF made mistakes (see article). To avoid a public backlash Mr Macri decided to narrow the budget deficit gradually, testing the bond market’s patience rather than the electorate’s. In hindsight he should have balanced the books sooner. Perhaps the IMF should have made a smaller loan (coupled, presumably, with an earlier debt restructuring). But it hoped that a large bail-out would restore investor confidence, allowing Argentina to recover without spending all the money the fund had promised. 
 On top of the tactical errors by the government, what finally broke investors’ confidence was the spectre of populists returning to power. Alberto Fernández and his controversial running-mate, Ms Fernández (they are not related and he is more moderate than she), triumphed in a primary vote on August 11th and are almost certain to win October’s election. Investors’ fear of what the opposition would do led to panic and capital flight, and led the government to do some of those things itself, including delaying debt repayments and imposing currency controls. 
 Although Mr Fernández has drained Mr Macri of power, he has been reluctant to act as Argentina’s next leader himself. He has instead struck vague and contradictory positions. If he wins, Mr Fernández will not be formally inaugurated until December. Until then Argentina will face a damaging political vacuum. The outgoing government is introducing measures, including price freezes and handouts, to try to protect the population from the shock rippling through the economy. But the situation is still dire, and the new man will still face the long-term problem that defeated Mr Macri: how to bring Argentina’s economy back in line with market realities. A large part of the electorate and the probable next president seem keen to dodge that question. Until it is confronted, decline and crisis will beckon.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Populist['pɔpjulist]:n. 民粹派的成员 
@@ -80,4 +81,6 @@
 66.electorate[i'lektәrit]:n. 选民, 有选举权者, 选区 [法] 选民, 选举团, 选区 
 67.dodge[dɒdʒ]:v. 避开, 躲避 n. 诡计, 躲藏 
 68.confront[kәn'frʌnt]:vt. 使面对, 对抗, 遭遇, 使对质, 比较 [法] 对证, 使对质, 比较 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

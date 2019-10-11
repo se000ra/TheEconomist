@@ -14,6 +14,7 @@
 Strikingly, none of the accused—the main actors in the drama—protested or tried to clear their names; instead they helpfully implicated themselves in fantastical crimes. Some were rewarded for their convincing performances. Leonid Ramzin, a professor of engineering, was cast as a leader of the imaginary conspiracy, but his death sentence was commuted to ten years in prison. He was amnestied in 1936 and later showered with awards. Meanwhile, the prosecutor, Nikolai Krylenko, was himself arrested in 1937 during the Great Terror. He falsely confessed, too—and was executed soon afterwards. By then, the era of co-productions with Stalin’s prisoners was over. 
 Russia and separatist Ukraine are not the Soviet Union, but justice is still suborned to theatre, and facts to interests. Mr Iampolski argues that in this nihilistic climate, “inscription”—the act of committing things to paper or the screen—becomes the main form of legitimacy. In this way propaganda, including Russia’s demonisation of Ukraine, makes falsehoods credible. Yet even (or especially) now, scrupulous film-makers can expose lies instead of spreading them, as Mr Loznitsa shows. 
 At the end of “Donbass” the grumbling extras prepare for another stunt. A soldier enters the trailer and ruthlessly shoots them all dead. A TV crew soon arrives to report on this latest confected-but-real atrocity. Mr Loznitsa’s camera dispassionately surveys the scene from above. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ukrainian[ju(:)'kreinjәn]:a. 乌克兰的；乌克兰人的 
@@ -132,4 +133,6 @@
 114.ruthlessly['ru:θləslɪ]:adv. 无情地, 冷酷地, 残忍地 
 115.atrocity[ә'trɒsiti]:n. 残暴, 凶恶, 暴行 [法] 暴行, 残酷, 残忍 
 116.dispassionately[dɪs'pæʃənətlɪ]:adv. 不动感情地, 冷静地; 平心静气 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

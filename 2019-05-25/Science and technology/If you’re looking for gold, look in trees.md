@@ -11,6 +11,7 @@
 Leaves collected immediately around a known deposit that lies beneath ten metres of rock contained traces of gold, validating the approach. Further samples were taken 40 metres apart around known deposits, and at wider spaces farther out. This turned up several anomalies, where gold seemed to be present but other tests had shown nothing. “The usual calcrete [surface sample] testing was saying ‘Don’t drill here’,” says Colin Rose, Marmota’s executive chairman, “but the tree sampling was saying ‘Drill here’.” 
 Then came the pay-off. Drilling revealed a five-metre-thick vein with 27g of gold per tonne, more than 30 metres below the surface. A metre-thick inner layer held an impressive 105g per tonne. Five grams per tonne is considered high-grade. 
 Marmota is keen to explore further. In the outer sampling zone, the company found four anomalies in an area where only one potential seam had been identified. They have yet to be drilled but plans are afoot. Prospecting with trees is starting to look less like a scientific curiosity and more like a golden opportunity. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.commercially[]:adv. 商业上；通商上 
@@ -49,4 +50,6 @@
 34.tonne[tʌn]:n. 吨, 公吨 [经] 吨 
 35.afoot[ә'fut]:a. 徒步的, 在进行中的, 活动中的 adv. 徒步, 在进行中 
 36.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

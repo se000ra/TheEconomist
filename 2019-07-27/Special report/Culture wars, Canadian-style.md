@@ -10,6 +10,7 @@
 But when new rights collide with old ones, the consequences can be contentious. Ontario’s highest court has said that doctors who object to abortion and euthanasia must, against their conscience, refer patients to doctors willing to perform them. This will force many such doctors out of the profession, warned Ryan Wilson, president of Canadian Physicians for Life. British Columbia’s human rights tribunal is considering several complaints by someone who identifies as a woman against female beauticians who refused to wax her scrotum. She claims they are discriminating on the basis of gender identity. 
 In 2016, as parliament was debating Bill C-16, Jordan Peterson (pictured), then a little-known psychology professor at the University of Toronto, warned that it could make criminals of people who use a pronoun that a transgender person does not like. Authoritarianism, he said, is “started by people’s attempts to control the ideological and linguistic territory”. The fining of Mr Whatcott, who went beyond using an unwanted pronoun but was not deemed a criminal, does not vindicate Mr Peterson, but it suggests he has a point. 
 Meghan Murphy, who founded Feminist Current, a website, argues that Bill C-16 was “rushed through with no discussion…about how it would affect women and girls”. It probably encouraged Vancouver to cut off funding for the rape centre. “Canada likes to consider itself very liberal and accepting,” she says. But “we can’t just accept and include when it’s harming other groups”. Having discovered lots of new rights, Canada is grappling with how to honour them all.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.liberalism['libәrәlizm]:n. 自由主义 
@@ -71,4 +72,6 @@
 57.feminist['feminist]:n. 男女平等主义者 
 58.rape[reip]:n. 抢夺, 掠夺, 强奸, 葡萄渣, 芸苔 vt. 掠夺, 抢夺, 强奸 
 59.grapple[græpl]:v. 抓住, 掌握 n. 抓住, 系紧, 掌握, 与...扭打 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

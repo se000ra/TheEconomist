@@ -13,6 +13,7 @@
 The fairs are a bit more open—yet they too are circumscribed by inconsistent censorship that drives authors and publishers to distraction. In 2014 Saudi authorities confiscated the works of Mahmoud Darwish, the Palestinian national poet, which it labelled “blasphemous” (Darwish was an ardent secularist). He is no longer forbidden; instead the authorities are on the lookout for anything that might expose citizens to subversive politics. In Riyadh last year they closed a stall that sold books “sympathetic” to the Muslim Brotherhood, an Islamist group banned in Saudi Arabia. 
 Governments deny any contradiction in all of this. “You have freedom of speech, as long as your speech is moderate,” says an Emirati official. That, of course, is an arbitrary and subjective distinction. Kuwait is the most open of the Gulf states, with a raucous parliament and vibrant print media; all the same, last year Kuwaiti intellectuals started leaking memos from the information ministry, which make for darkly funny reading. Censors do not appear to read all the books they ban—no surprise, since they blacklist about two per day. Instead they just look for keywords. A lone reference to “angels” can merit a crackdown on blasphemy grounds. 
 So can the word “pee”, which, ironically, is thought to be the reason Mr Busais’s award-winning novel is banned in his home country. It is another telling example of a paradox taking hold across the Gulf. From Jeddah to Sharjah, governments have never done more to promote culture—and yet, artists and writers agree, the cultural climate has never been worse. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -122,4 +123,6 @@
 105.ironically[]:adv. 冷嘲地, 挖苦地, 讽刺地, 令人啼笑皆非地 
 106.paradox['pærәdɒks]:n. 似非而是的论点, 自相矛盾的话, 悖论, 怪人怪事 [化] 佯谬 
 107.Jeddah[]:n. 吉达（沙特阿拉伯地名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

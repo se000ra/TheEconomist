@@ -11,6 +11,7 @@
 As this highlights, the government had too many economic cooks following different recipes. They wanted, variously, to slash inflation, increase economic growth and tighten the budget. Some wanted a weaker peso (for growth) and others a stronger one (to fight inflation). They should have accepted that the price of fiscal gradualism was tighter money. 
 Populist politicians are often skilled at explaining away economic reverses and persuading voters that they feel their pain. Technocrats find that harder. Mr Macri’s re-election campaign was based on fear, that the return of Ms Fernández would turn Argentina into Venezuela. She deftly defused that. By opting to run for vice-president behind Mr Fernández, a more moderate Peronist, she turned the election into a referendum on Mr Macri’s economic record. 
 Mr Macri’s advisers trusted in social media and marketing, and failed to see the strength of sentiment on the Argentine street. “What happened was that the government ended up with no politics and couldn’t explain anything,” Mr Fernández told Clarín, a newspaper. Everything suggests Argentina will end up with him. Many fear the worst. But Argentina’s current circumstances leave little room for populist excess. And Mr Fernández is not his namesake.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bello[]:n. 贝罗（姓氏） 
@@ -76,4 +77,6 @@
 61.sentiment['sentimәnt]:n. 感情, 感伤, 情操, 情绪, 感想, 意见 [医] 情感, 情操 
 62.argentine['ɑ:dʒәntain]:n. 银, 银白色金属, 银白色鱼鳞, 阿根廷人 a. 银的, 银色的, 阿根廷的 
 63.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

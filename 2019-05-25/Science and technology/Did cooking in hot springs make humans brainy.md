@@ -8,6 +8,7 @@
 Trapped inside the Olduvai sandstones, the researchers found distinctive but unusual biological molecules that are often interpreted as biomarkers for heat-tolerant bacteria. Some of these thrive in water between 85 and 95°C. The molecules’ presence suggests that an ancient river within the gorge was once fed by one or more hot springs, fitting nicely with its location within the geologically active East African Rift. The findings are published in a paper posted to the online bioRxiv preprint server. 
 Dr Summons and his colleagues say the hot springs would have provided a convenient “pre-fire” means of cooking food. In Rotorua in New Zealand, the Maori have traditionally cooked food in geothermal springs (see picture), either by lowering it into the boiling water or by digging a hole in the hot earth. Similar methods exist in Japan and Iceland, so it is plausible, if difficult to prove, that early humans might have used hot springs to simmer meat and roots. 
 Richard Wrangham, a primatologist at Harvard University who devised the cooking hypothesis, is intrigued by the idea. Nonetheless, fire would have offered a distinct advantage to humans, once they had mastered the art of controlling it since, unlike a hot spring, it is a portable resource. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.geothermal[,dʒi(:)әu'θәmәl]:a. 地温的, 地热的 
@@ -56,4 +57,6 @@
 44.Harvard['hɑ:vәd]:n. 哈佛大学 
 45.intrigue[in'tri:g]:n. 阴谋, 复杂的事 vi. 密谋, 私通 vt. 激起...的兴趣, 用诡计取得 
 46.nonetheless[,nʌnðә'les]:conj. 然而, 尽管, 不过 adv. 不过, 仍然, 尽管如此, 然而 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

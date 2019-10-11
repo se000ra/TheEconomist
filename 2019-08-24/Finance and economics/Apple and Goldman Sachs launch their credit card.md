@@ -10,6 +10,7 @@
 The card does pay 3% cash when used to buy Apple products, but compared with other retail store cards this is a little stingy. Amazon, another technology titan, offers 5% back on its store card (including purchases at Whole Foods, its trendy supermarket chain), which is issued by JPMorgan Chase. Other retailers, such as Crate and Barrel, a homewares store, offer as much as 10%. 
 These perks may improve. On launch day Apple announced that spending on Uber, a ride-hailing app, and Uber Eats, its food-delivery service, would also qualify for 3% cash. More may be added, the tech company has said. But the Apple card has some catching-up to do. 
 For Apple fans, this may not matter much. But it may be that Apple, by trying to please everyone, will end up pleasing too few Americans to break into the fiercely competitive credit-card market, in which there are already 1bn active cards. The gorgeous design, and the cachet of Apple and Goldman, will surely seduce many customers into trying the card. But when it comes to cold cash calculations, the geeks and the Wall Streeters may not have done enough to secure their lasting devotion.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.byte[bait]:n. 字节, 位组 [计] 字节 
@@ -57,4 +58,6 @@
 43.seduce[si'dju:s]:vt. 唆使, 怂恿, 引诱, 诱奸 [法] 勾引, 诱惑, 诱奸 
 44.geek[gi:k]:n. 做低级滑稽表演的人 
 45.streeter[]: [人名] [英格兰人姓氏] 斯特里特 Street的变体; [地名] [美国] 斯特里特 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

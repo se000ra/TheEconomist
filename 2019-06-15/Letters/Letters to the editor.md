@@ -24,6 +24,7 @@
 CHRISTOPH STEINBRUCHELNashville, Tennessee 
 Those who are sympathetic to Bartleby’s intelligent critique of presenteeism at work (“The joy of absence”, May 18th) should also remember Woody Allen’s quip that 80% of success is showing up. 
 YACOV ARNOPOLINLondon  
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Brazil[brә'zil]:n. 巴西 
@@ -135,4 +136,6 @@
 107.woody['wudi]:a. 多树木的, 木质的 
 108.quip[kwip]:n. 妙语, 遁辞, 讽刺 v. 说讽刺话, 嘲弄 
 109.yacov[]:[网络] 亚科夫 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

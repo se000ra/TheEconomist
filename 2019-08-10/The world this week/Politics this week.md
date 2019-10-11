@@ -22,6 +22,7 @@
 Italy’s government tightened the laws on dealing with migrants, sharply increasing the fines that can be imposed on NGOs that rescue people at sea and bring them to Italy without permission. The government had to present the vote as an issue of confidence, but easily prevailed. See article.  
 ![image](images/20190810_WWP002.jpg) 
 Powered by kerosene in a backpack, Franky Zapata flew across the English Channel on a hoverboard. The French inventor, who demonstrated his device at this year’s Bastille Day parade, took 22 minutes to make the 35km (22-mile) crossing. A handy alternative to the Eurostar when it is next disrupted by weather/strikes/ technical issues. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.abyss[ә'bis]:n. 深渊, 深邃, 地狱 
@@ -135,4 +136,6 @@
 109.bastille[bæ'sti:l]:n. 城堡；牢狱 
 110.eurostar['juərəustɑ:]: 欧洲之星（一条连接英国伦敦圣潘可拉斯车站与法国巴黎北站、里尔以及比利时布鲁塞尔南站的高速铁路服务） 
 111.disrupt[dis'rʌpt]:a. 分裂的, 中断的 vt. 使分裂, 使瓦解 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

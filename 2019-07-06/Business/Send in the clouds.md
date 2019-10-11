@@ -14,6 +14,7 @@
 But what is interesting about the Microsoft case study (which is mostly free of such management jargon) is that it highlights the practical changes needed to transform a company. Microsoft could have been a classic victim of “creative disruption”, so dependent on an existing technology (personal computers) that it failed to manage the shift to a world dominated by mobile devices. But the shift has only been successful (so far) because it has involved not just strategic insight, but a change in approach across the workforce. 
 Microsoft can still trip up. Tech companies are like the Red Queen in Lewis Carroll’s “Through the Looking Glass”—constantly running to stay in the same place. IBM successfully shifted from hardware to services in the 1990s, but has struggled to get its revenues to grow or to lift its share price in recent years. 
 In the long run Microsoft’s fortunes may depend on whether acquisitions like LinkedIn, a career site, or GitHub, a software-development startup, prove to be wiser than its failed bet on Nokia’s mobile-phone business earlier in the decade. But Microsoft has already shown that, even in a big organisation, culture change is possible. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bartleby[]:[网络] 巴特比；巴特白；老板是空气 
@@ -69,4 +70,6 @@
 51.GitHub[]:[网络] 源码托管；开源项目；控制工具 
 52.startup[]:[计] 启动 
 53.organisation[,ɔ: ^әnaizeiʃən; - ni'z-]:n. 组织, 团体, 体制, 编制 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

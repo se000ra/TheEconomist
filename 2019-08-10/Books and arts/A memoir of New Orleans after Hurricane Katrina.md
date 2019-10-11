@@ -10,6 +10,7 @@
 Often she combines a childhood observation with adult awareness to disconcerting effect. The police department’s disrespect for her neighbourhood is captured in one stark image: “Our side of Wilson Avenue, the short end, seems a no-matter place where police cars routinely park, women’s heads bobbing up and down in the driver’s seat.” She introduces readers to an alternative urban geography mapped around her family’s lives. “You will pass run-down apartment complexes…where growing up, my brothers made allegiances and enemies…you will see Natal’s Supermarket, which is really only a corner store, where Mom sent me as a kid to buy ‘liver cheese’.” 
 This tour of New Orleans stands in critical contrast to the “disaster bus tours” that now haunt neighbourhoods flooded by Katrina. “Imagine”, Ms Broom writes, “that the streets are dead quiet, and you lived on those dead quiet streets, and there is nothing left of anything you owned”—and then tourists appear “in an air-conditioned bus snapping pictures of your personal destruction.” Those “yous” draw readers in, before the bus reminds them that they, like the tourists, are really guests. 
 A recurring irony in “The Yellow House” is Ivory Mae’s refusal to invite outsiders into her home. Once a proud host, she grew ashamed of the Yellow House as it aged. “You know this house not all that comfortable for other people,” she constantly reminds her daughter. The house itself may no longer stand, but in her book Ms Broom proudly opens its doors. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.memoir['memwɑ:]:n. 传记, 实录, 追思录, 回忆录, 自传 [化] 研究报告 
@@ -56,4 +57,6 @@
 42.outsider[' aut'saidә]:n. 外人, 局外人, 非会员, 外行, 门外汉, 比赛中获胜可能性不大的选手 [经] 外船公司 
 43.constantly['kɒnstәntli]:adv. 不变地, 不断地, 时常地 
 44.proudly['praudli]:adv. 傲慢地, 自大地, 得意洋洋地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

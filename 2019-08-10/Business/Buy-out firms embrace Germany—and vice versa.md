@@ -8,6 +8,7 @@
 German conglomerates have long been happy to offload unwanted parts to private-equity companies. Siemens sold its dentistry-equipment arm to Permira, a British firm, in 1997. KKR bought Hensoldt from Airbus. Buy-out firms are also becoming an important source of capital for the Mittelstand, the small and medium-sized companies that constitute the German economy’s backbone. Thousands of these enterprises already have private-equity firms among their shareholders. 
 This year 250 private-equity fund managers surveyed by PwC, a consultancy, named Germany as Europe’s most promising market by a long way. They are drawn by its stable politics, skilled workforce and steady economic growth. Nine in ten told PwC that Germany will be interesting for private-equity investments in the next five years (one-third as many said the same about Brexit Britain). Eight out of ten said they will increase their German holdings. 
 The number and size of private-equity deals in Germany are both smaller than in Britain or America. “The market has matured but remains relatively uncharted,” says Steve Roberts, PwC’s head of private equity in Germany. That leaves more opportunities for the cash-rich locusts to swarm around. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lederhosen['leidә,hәuzәn]:n. 皮短裤 
@@ -59,4 +60,6 @@
 47.steve[]:n. 史蒂夫（男子名） 
 48.Robert['rɔbәt]:[法] 警察 
 49.equity['ekwiti]:n. 公平, 公正 [经] 权益, 产权 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

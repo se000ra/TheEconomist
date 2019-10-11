@@ -8,6 +8,7 @@
 Adding to the combustible mix is the return to Kyrgyzstan, the day after Mr Atambayev’s arrest, of Omurbek Babanov. Mr Babanov was the main opposition challenger in the election of 2017, when Mr Jeyenbekov—in a harbinger of his hostility to political adversaries—personally threatened to lock him up. Small wonder that Mr Babanov had fled abroad after he was placed under investigation on charges of incitement and seeking to overthrow the state. He was not arrested when he flew into Bishkek from Moscow to a hero’s welcome. But the security service warned that the incitement charge remained valid (the other investigation is dormant). 
 Russia—which has a military base in Kyrgyzstan and considers the country, which borders on China, its geopolitical backyard—has entered the fray. Before Mr Atambayev’s arrest, Vladimir Putin, Russia’s president, made a show of support by receiving the former leader of Kyrgyzstan in the Kremlin, while urging that country to rally around Mr Jeyenbekov. After Mr Atambayev’s surrender, Russia urged restraint. Dmitry Medvedev, its prime minister, suggested Kyrgyzstan had “reached its limit” of revolutions. 
 Mr Jeyenbekov undoubtedly agrees, as he jealously guards his power while mulling the unenviable fates of his predecessors. Kyrgyzstan’s democratic credentials—which were seriously eroded under Mr Atambayev—have been weakened further under Mr Jeyenbekov’s rule, as he jails opponents with almost as much abandon as Mr Atambayev did. Mr Jeyenbekov may be moving to consolidate his power and clear the field of rivals before parliamentary elections that are due to be held next year. Before then, there will be a lot more turbulence in Kyrgyzstan’s politics. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Atambayev[]:阿坦巴耶夫 
@@ -74,4 +75,6 @@
 62.parliamentary[.pɑ:lә'mentәri]:a. 国会的, 议会的, 议会制度的 
 63.turbulence['tә:bjulәns]:n. 混乱, 动荡, 骚乱, 紊流 [化] 湍流; 紊流 
 64.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

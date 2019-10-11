@@ -14,6 +14,7 @@
  
 In fact, the bill is mounting. America could have built a global coalition to press China to reform its economy, but it has now squandered precious goodwill. Allies looking for new trade deals with America, including post-Brexit Britain, will worry that a presidential tweet could scupper it after it has been signed. Retaliation in kind has begun. China has begun its own blacklist of foreign firms. And the risk of a clumsy mistake that triggers a financial panic is high. Imagine if America banned the $1trn of Chinese shares trading in New York, or cut off foreign banks. 
 In the long run the American-led network is under threat. There are hints of mutiny—of America’s 35 European and Asian military allies, only three have so far agreed to ban Huawei. Efforts to build a rival global infrastructure will accelerate. China is creating its own courts to adjudicate commercial disputes with foreigners (see Chaguan). Europe is experimenting with building a new payments system to get round the Iran sanctions, which could in time be used elsewhere. China, and eventually India, will be keen to end their dependence on semiconductors from Silicon Valley. Mr Trump is right that America’s network gives it vast power. It will take decades, and cost a fortune, to replace it. But if you abuse it, ultimately you will lose it.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.disruption[dis'rʌpʃәn]:n. 分裂, 崩溃, 瓦解 
@@ -119,4 +120,6 @@
 101.adjudicate[ә'dʒu:dikeit]:v. 判决, 宣告, 裁定 
 102.sanction['sæŋkʃәn]:n. 核准, 制裁, 处罚, 约束力 vt. 制定制裁规则, 认可, 核准, 同意 
 103.dependence[di'pendәns]:n. 依赖, 依存, 信赖 [医] 依赖(如对药物的依赖,即瘾或癖), 从属, 偏利共生 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

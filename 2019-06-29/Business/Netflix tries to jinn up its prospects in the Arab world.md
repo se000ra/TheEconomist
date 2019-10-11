@@ -7,6 +7,7 @@
 Will “Jinn” make this wish come true? Not necessarily. A dearth of Arabic shows is not the only reason why Netflix finds itself, unusually, having to catch up with others. It has been slower than it has elsewhere to forge deals with broadband and mobile providers, which market its service to customers. STARZ Play Arabia, the regional leader part-owned by Lionsgate, an American entertainment company, has made these left and right, as well as licensing lots of Arabic-language shows. 
 Netflix is now busily buying more local content and sealing new partnerships. It is testing cheaper mobile-only packages in Egypt. But outside the Gulf, where it competes with STARZ, digital infrastructure is mostly too shoddy, incomes too low and mobile data too pricey for similar schemes. 
 The region’s prickly authorities raise hurdles, too. Even in relatively permissive Jordan, state-run media reported that officials want to censor “Jinn” for “lewd scenes” that offend public morals. In January Netflix took down an episode of “Patriot Act with Hasan Minhaj”, a current-affairs comedy show, in Saudi Arabia after its government accused the show of violating an anti-cybercrime law. The episode discussed the murder in Turkey of a Saudi journalist by Saudi security forces. Such constraints are unlikely magically to disappear.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.magical['mædʒikәl]:a. 魔术的, 有魔力的, 不可思议的 
@@ -57,4 +58,6 @@
 46.saudi['sajdi]:a. 沙乌地阿拉伯（人或语）的 
 47.constraint[kәn'streint]:n. 强制, 约束 [计] 约束 
 48.magically[]:adv. 用魔法地；如魔法般地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

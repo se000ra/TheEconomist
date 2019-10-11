@@ -14,6 +14,7 @@
 She may well supplant Mr Sanders as the main threat to Mr Biden from the left. Whether she could woo enough moderate voters to mount a serious challenge is harder to predict. It is certainly possible. Yet such voters are mainly concerned with beating Mr Trump, and may consider Ms Warren too left-wing for that, which would be reasonable. Or they might consider her too like Mrs Clinton, as a woman in her 60s, which would not be. 
 That suggests Ms Warren’s ideas may get less attention than they deserve on the left. Meanwhile they are being studied by reform-minded Republicans, grappling with the rejection of conservative verities that Mr Trump represents. Tucker Carlson of Fox News described Ms Warren’s industrial policy as “like Donald Trump at his best”. Senator Marco Rubio wrote a column applauding its aims, while concluding that a “radical progressive movement” would not fulfil them. This illustrates a paradoxical feature of the political divide: a combination of intellectual flux and partisan rigidity. 
 Despite her past Republicanism, Ms Warren could not win votes on the right without repudiating her party in some way; by opposing mass immigration, for example. Yet her critique of American capitalism is quietly inspiring conservative thinkers. It is an odd time, when ideas cross parties more easily than people.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lexington['leksiŋtәn]:n. 列克星敦市（位于美国肯塔基州） 
@@ -111,4 +112,6 @@
 93.critique[kri'ti:k]:n. 评论文章, 评论 
 94.quietly['kwaiәtli]:adv. 安静地, 沉着地, 秘密地 
 95.thinker['θiŋkә]:n. 思想者, 思想家 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

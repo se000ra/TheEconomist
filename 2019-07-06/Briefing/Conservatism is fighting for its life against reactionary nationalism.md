@@ -33,6 +33,7 @@
 Yet in the first decades of the 21st century the most politically salient ways in which life is changing have to do with things that nobody in the rich democracies voted for. More people in poor countries than ever before can see media images of the West and can afford to try to get there. China has an economic model that produces goods others want to buy. Women have more political power and more freedom to choose how to live their lives. Family structures are changing, as people marry later or not at all. The climate is changing in ways that carry the risk of catastrophe in the absence of radical action. Politicians from conservative traditions might do something about some of this. But these are not changes they can easily control. 
 In America, some Roman Catholic conservatives have decided that there is no way back to the way things were—what they call the “dead consensus”. This, they argued in an article for First Things, a journal, is not necessarily a loss. “Yes, the old conservative consensus paid lip service to traditional values. But it failed to retard, much less reverse, the eclipse of permanent truths, family stability, communal solidarity, and much else.” They may have a point. They do not have a plan. It was not the presence of business people and libertarians in the Republican coalition of yore that prevented it from stopping the sort of things these people disapprove of. They are not the sort of thing politics stops. 
 Burkean conservatives are not the only enemies of reactionary nationalism; it is opposed by liberals and the left as well. That said, old-fashioned conservatives may still have the best chance of mounting a victory of moderation. If they do not, they may have the most to lose. As Hayek had it, they risk finding themselves dragged along a path not of their choosing.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.conservatism[kәn'sә:vәtizәm]:n. 保守, 守旧性, 保守主义, [the]保守党的主张和政策, 保守党 [医] 保守性 
@@ -281,4 +282,6 @@
 244.coalition[.kәuә'liʃәn]:n. 结合体, 结合, 联合 [经] 联合, 联盟 
 245.yore[jɔ:, jɔә]:n. 从前, 往昔 
 246.moderation[.mɒdә'reiʃәn]:n. 缓和, 适度, 温和 [化] 慢化 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

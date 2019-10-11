@@ -17,6 +17,7 @@
 He also risks a rough ride at the five-yearly review conference, next spring, of the Nuclear non-Proliferation Treaty (NPT). It will be an acrimonious affair if the nuclear powers are not seen to be doing their bit to contain the spread of weapons. There is already a deep split over the Treaty on the Prohibition of Nuclear Weapons, approved by the UN General Assembly in 2017, which seeks to delegitimise nukes. “If the United States and Russia can’t show up in 2020 and at least say we’ve extended New START, and hopefully say we’ve extended and are engaged in further discussion, we’re going to be in bad shape,” says Lynn Rusten of the Nuclear Threat Initiative, an advocacy group in Washington, DC. 
 Erosion of the NPT could give more countries an excuse to join the nuclear club. The number of nukes in the world has come down, but could swell again in the absence of controls or trust. Alexey Arbatov, from the Institute of World Economy and International Relations in Moscow, bemoans a lack of understanding of the history of nuclear arms control among the world’s leaders today. That could result in miscalculation. “Saving the INF treaty and START while there is still time would be much easier and more productive than searching for palliatives after their demise,” he concludes in the current issue of Survival, the journal of the International Institute for Strategic Studies. 
 Time, though, is running out. Finding a way to re-engage with Russia before it is too late will not be easy. But it would probably matter more than those steps across the border at Panmunjom. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.diplomacy[di'plәumәsi]:n. 外交, 外交手腕, 交际手段 [法] 外交, 外交手腕, 权谋 
@@ -128,4 +129,6 @@
 107.arbatov[]:[网络] 阿尔巴托夫 
 108.miscalculation[]:n. 算错, 失算, 估计错误 [计] 计算错误, 算错 
 109.palliative['pælieitiv]:a. 缓和的, 减轻的, 掩饰的 n. 辩解, 缓和物 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -13,6 +13,7 @@
 None of this, however, has brought the new currency under the government’s spell. In March the economy suffered from Cyclone Idai, which displaced 16,000 households and damaged crops that were already suffering from severe drought. The water shortage has also parched the country’s hydroelectric dams, contributing to widespread power cuts. Last week the state electricity utility said it cannot import more electricity from South Africa and Mozambique until it has settled its $80m debts to their producers. Its search for dollars may have contributed to the latest sharp turn in the exchange rate. 
 Over the weekend the Reserve Bank said it would step in, selling some of the $500m it has reportedly borrowed from the African Export-Import Bank, a multilateral lender based in Cairo. And on May 21st it did so. But this support for the local currency was overwhelmed by another revelation. The central bank said Zimbabwe’s petrol companies would no longer receive dollars at highly favourable rates, leaving them unsure if they could cover their costs. The confusion has prompted long queues at petrol stations, a further loss of confidence and another dash for dollars. 
 The new currency is becoming less widely used as well as cheaper. Shops and even schools are increasingly demanding dollars in payment, or setting zollar prices forbiddingly high. Inflation surpassed 75% in the year to April. If the government cannot restore faith in its own currency, the country may once again adopt America’s instead. That should restore price stability: Zimbabwe’s inflation averaged less than Japan’s from 2012 to 2016. But it would also obliterate many households’ zollar savings, create a shortage of small bills and coins, and limit the room for macroeconomic manoeuvre. The dollar has a simple name. But redollarisation could be as ugly as it sounds. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.zollars[]:[网络] 佐荷 
@@ -89,4 +90,6 @@
 72.obliterate[ә'blitәreit]:vt. 擦去, 冲刷(掉), 消灭, 忘掉, 盖销(邮票等) [法] 灭迹, 消灭, 涂抹 
 73.macroeconomic[-mik]:n. 整体经济 
 74.manoeuvre[mә'nu:vә]:n. 调遣, 演习, 策略 vi. 调动, 演习, 用策略 vt. 调动, 操纵 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

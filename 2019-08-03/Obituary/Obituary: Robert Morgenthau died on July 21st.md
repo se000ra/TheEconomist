@@ -11,6 +11,7 @@
 His success rate was impressive. Three-quarters of his cases ended in convictions. Some were controversial, such as his prosecution of a player for the Giants on a gun rap, which brought him death threats from fans; or of Bernhard Goetz, who had shot at four young blacks who threatened him in the subway, for no more than gun-possession. Some people claimed he was indifferent to blacks, but it wouldn’t fly: he not only hired plenty as prosecutors in the DA’s office but, on war service in the navy, he had brought in four blacks as gunners on one of his ships and resolutely refused his captain’s orders to demote them. Pressure always made him even more stubborn than he naturally was. 
 He liked to get convictions. Any DA did. Yet he didn’t count them up like notches on a gun, because he cared about justice more. In 1990, for example, he secured the convictions of five teenagers, four black and one Latino, for the beating and rape of a young woman in Central Park. They went to prison, but 12 years later another man confessed to the crime. Immediately, as DA, he ordered a new investigation with DNA testing, which had not been available before. The testing came back 100%, so the ball game was over. His prosecution had failed, but justice had been done, and this exoneration pleased him just as much as his successes. 
 It all fell under the head of doing something useful with his life, part of a plea bargain he had made with the Almighty when, in 1944, his ship USS Lansdale had been sunk under him by German torpedoes. Once spared, he became a lawyer, then such a prosecutor that he inspired the DA hero of “Law and Order”, a hit TV series. But he might have been a farmer, for his not-so-secret other life was on his grandfather’s 270 acres of orchards upstate at East Fishkill. There he spent his summers as a boy, escaping the heat of the city, and there with the same purpose he worked later, in overalls, returning to Manhattan with eggs and hard cider to sell. The long arm of the law, which criminals dreaded, also reached to prune apple trees and pick a fruit or two. McIntosh were best. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Robert['rɔbәt]:[法] 警察 
@@ -114,4 +115,6 @@
 99.cider['saidә]:n. 苹果汁, 苹果酒 [建] 苹果汁 
 100.prune[pru:n]:n. 洋李, 李子干, 深紫红色, 傻瓜 vt. 修剪, 砍掉, 删除 vi. 删除, 删节 
 101.McIntosh['mækintɒʃ]:n. 麦金托什苹果 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

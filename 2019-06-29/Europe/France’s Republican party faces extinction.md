@@ -9,6 +9,7 @@
 This is the existential problem now facing the party. In 2017 Mr Macron all but eradicated the Socialists on the left. In 2019 he has done the same to the Republicans on the right. The upending of party politics, which some considered two years ago to be a blip, has instead been entrenched. French politics is now being played out between Mr Macron and Ms Le Pen, as it was in the 2017 run-off. “There’s no space left between them,” argues a former Republican now in Mr Macron’s government, who insists that the Republicans have “no future” at all. 
 Laurent Wauquiez, architect of the failed rightward lurch, has resigned as leader. A caretaker, Christian Jacob, looks likely to take over. Party membership is down to just 70,000 or so—a fifth of the figure in 2007, when Mr Sarkozy was elected president. Many local Republican mayors, who face re-election next year, fret that the party is so damaged that they will lose their jobs. Mr Macron is courting them assiduously. As is Ms Le Pen, who recently launched an “appeal” to them to join her in an alliance instead. 
 Some moderates, including Valérie Pécresse, president of the greater Paris region, and Xavier Bertrand, regional president in northern France, reckon that there is nonetheless a gap for them on the right—but outside the Republicans. Both have quit the party. Watching this disarray, meanwhile, is the wily Mr Sarkozy. This week he published “Passions”, a memoir, keeping himself in the public eye. With a corruption trial pending, however, Mr Sarkozy is unlikely to return to politics. And the party he revived now looks set for a long spell in the political wilderness he once knew so well. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.wilderness['wildәnis]:n. 荒野, 荒地, 大量 
@@ -80,4 +81,6 @@
 67.corruption[kә'rʌpʃәn]:n. 腐败, 堕落, 贪污 [计] 论误 
 68.pending['pendiŋ]:a. 未决定的, 待决的, 行将发生的, 向外伸出的 prep. 在等待...之际, 直到...时为止, 在...期间, 在...过程中 
 69.revive[ri'vaiv]:vt. 使苏醒, 使复兴, 使振奋, 回想起, 重播 vi. 苏醒, 复活, 复兴, 恢复精神 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

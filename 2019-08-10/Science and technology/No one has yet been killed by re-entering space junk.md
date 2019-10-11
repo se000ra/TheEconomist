@@ -20,6 +20,7 @@
 OHB System has yet to find a customer for a satellite fitted with such containment cabling. It would add weight, and thus cost. Moreover, some dislike the notion of increasing the amount of material that will strike Earth, even if that increase reduces the chance of a death. But a related approach is under study at Thales Alenia. This firm may begin encasing in a single package the lenses and other components of optical systems that currently often hit the ground as a spray. 
 Something no one seems to be asking in all this, is what an appropriate level of safety for satellite re-entries actually is. The original reason for picking 10,000 to one as an acceptable risk level has been lost in the mists of time. To a given individual in Earth’s human population of 7.5bn, it translates into one chance in 75 trillion per re-entry. This is vanishingly small, even in a world where re-entries are numbered in the hundreds per year. 
 On the other hand, any death delivered from outer space in this way would be headline news, and might result in calls for the rules to be tightened still further. So far, the satellite business has a pretty good safety record. It would like to keep things that way.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.debris['deibri:]:n. 碎片, 残骸 [医] 碎屑 
@@ -115,4 +116,6 @@
 91.trillion['triljәn]:n. 大量 [经] 兆 
 92.vanishingly['væniʃiŋli]:adv. 消遁似地,难以察觉地 
 93.tighten['taitn]:vt. 勒紧, 使变紧 vi. 变紧, 绷紧 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

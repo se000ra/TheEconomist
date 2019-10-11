@@ -13,6 +13,7 @@
 One prong of China’s approach has become clearer: stern demands for business to fall into line. Cathay Pacific, Hong Kong’s home-grown airline, is the most obvious victim. Its parent, Swire Pacific, has roots in Hong Kong’s early colonial history. Many of its ground staff and cabin crew have taken part enthusiastically in marches; one pilot was even arrested for rioting. Only last week Cathay’s chairman said of the firm’s employees: “We certainly wouldn’t dream of telling them what they have to think about something.” 
 The group’s tune has changed following relentless attacks by the Chinese government and state media for allegedly supporting the protesters. An online boycotting campaign against Cathay has garnered over 17m views. China has banned Cathay planes flying into the mainland from taking crew members who have joined illegal protests or “overly radical activities”. Since August 11th Cathay has had to submit the names of all crew before getting permission to fly. Now management says that any staff found to be participating in illegal protests will be fired (two pilots have been). A Swire statement condemning illegal actions and resolutely supporting Hong Kong’s government reads like a Communist Party declamation. Poor Cathay, its shares buffeted, now faces a possible boycott from angry Hong Kong democrats too. It is yet one more example of a hardening of lines. People in Hong Kong are coming under pressure to take sides. 
 The hardening is evident on the front lines of the territory’s young demonstrators. For weeks, a legislator and social worker, Fernando Cheung, has acted as a mediator, attempting to de-escalate confrontations between protesters and police. He has had some success. But at the airport this week, Mr Cheung admits, both sides, swearing and yelling, “wanted to get rid of me as soon as possible”. The next steps in the crisis, he adds, “do not look pretty”. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.hong[hɔŋ]:n. （中国、日本的）行, 商行 
@@ -86,4 +87,6 @@
 69.cheung[]:n. 张（香港拼音） 
 70.mediator['mi:dieitә]:n. 调停者, 传递者, 基督 [医] 间介器, 传递器, 介质, 传递质介体 
 71.confrontation[.kɔnfrʌn'teiʃәn]:n. 对抗；对质；面对 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

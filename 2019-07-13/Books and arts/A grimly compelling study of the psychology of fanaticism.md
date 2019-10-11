@@ -10,6 +10,7 @@
 Mr Huber uses many such vignettes to portray the atmosphere of a nationwide epidemic that seems to have claimed at least 20,000 lives (and perhaps many more). An officer on leave from serving in a concentration camp burbled drunkenly about inmates who were electrocuting themselves: “I’ll end up running into those wires myself.” In smouldering Demmin, a doctor presented his maid with a parcel she assumed was poison; in fact it was a parting gift of two wedding rings, offered hours before he and his wife and daughter ended their lives. The maid was left to write to the couple’s son, a prisoner of the British, recounting his family’s extinction. 
 In the second half of his book, Mr Huber switches tack to give a broad sweep of the Nazi era, tracing the dark exhilaration that overtook previously sane individuals as they came to feel that Hitler could solve all their problems. He describes the denial or glib justifications with which people reacted to the persecution of Jews; some readers may feel he should have dwelled more on that subject. Closer to his main theme, he pinpoints reactions to the assault on the Soviet Union in June 1941. Some had a bleak sense the invasion might fail, others still believed devoutly in the military and moral superiority of the Reich. As news emerged of the atrocities the invaders were committing, and the titanic reverses they began to suffer, some Germans experienced cognitive dissonance. Their faith in Nazism’s ultimate triumph grew all the more fervent. 
 Thus the book hints at a deep truth about war at its dirtiest. When people sense crimes are being committed in their name, they can become even more fanatical in their devotion to the cause, so that an all-out drive for victory, or else martyrdom, seem the only ways these sins can be redeemed. Although he does not make the links explicit, the background Mr Huber sketches provides some important context for the suicides. They were not simply driven by fear of the Red Army’s depredations. They reflected the implosion of a Nazi fantasy which had grown even more zealous as its evil became more obvious. Self-destruction did not signify a search for honour or redemption, but rather the collapse of a twisted idea of what honour meant. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.grimly['grimli]:adv. 严格地, 冷酷地, 可怕地 
@@ -90,4 +91,6 @@
 76.implosion[im'plәuʒәn]:[化] 爆聚; 内向爆炸 
 77.signify['signifai]:vt. 象征, 预示 vi. 要紧, 重要 
 78.redemption[ri'dempʃәn]:n. 赎回, 赎身, 偿还, 拯救 [经] 偿还, 买回, 赎回 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

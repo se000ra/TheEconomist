@@ -10,6 +10,7 @@
 Huawei’s second, unpersuasive solution involves trying to convince outsiders that, given the right written and verbal assurances from the state, firms from China can, as it happens, be trusted not to help Chinese spies steal secrets. Thus Huawei bosses note assurances from the Chinese foreign ministry that no law exists that could make Chinese firms install backdoors in digital devices, for spies to use. Asked about national-security laws requiring firms to assist Chinese intelligence services, they retort that such laws do not apply outside China’s borders. A company executive grumbles that Western sceptics seem to doubt that China is run according to the rule of law. At times, a cultural gap in perceptions is detectable. Huawei veterans recall their firm’s early years, when state-owned enterprises bullied private businesses, and on occasion lobbied government officials to deny Huawei the right to seek overseas business. China is so much more open now, such veterans say, lamenting that outsiders cannot see this, or prefer to focus on remaining differences with the West. 
 Alas, it is not credible to claim that promises or laws bind the Communist Party and its security apparatus. The party explicitly claims “absolute leadership” over courts, calling judicial independence a Western error. Then there is the exceptional size of China’s visible machinery of repression and surveillance. Given that security services in every country tend to be like icebergs, with still-larger hidden parts, it is reasonable to be exceptionally wary of China’s. 
 A more convincing approach would see Huawei admit that China is different and concede that some party commands cannot be defied. That agreed, Huawei could then focus on making high-tech products and systems designed for use in a world of low or non-existent trust. Huawei bosses cannot make that argument, because party leaders would be incensed. Those turreted castles are impressive. But outside those manicured grounds is China.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.huawei[]: 华为 
@@ -115,4 +116,6 @@
 101.defy[di'fai]:vt. 藐视, 挑衅, 使落空 n. 挑战 
 102.incense['inseins]:n. 香, 香气, 奉承 vi. 焚香 vt. 用香焚, 使发怒 
 103.manicure['mænikjuә]:n. 修指甲术, 修指甲, 修指甲师 vt. 修指甲, 修剪 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

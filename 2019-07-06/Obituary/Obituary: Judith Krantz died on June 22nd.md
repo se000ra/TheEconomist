@@ -10,6 +10,7 @@
 Based broadly on Giorgio’s, a boutique that opened in Beverly Hills in 1961 and changed the experience of shopping on the West Coast, it tells the story of Billy, a wealthy young widow whose own shop, Scruples, is saved from collapse by a talented young French-Irish designer, Valentine, and Spider Elliott, a charming lothario who sleeps with as many customers as he can just as soon as he has measured them up. A retailing case study with added steam, it was read by millions by the poolside. Over the next two decades she delivered a new book every second year, including a “Scruples 2”, with her husband turning them into successful television series. 
 Being successful took discipline. So did keeping in shape. Three times a week, she did Pilates with a trainer, which helped her maintain her weight at a steady 104 pounds for nearly 50 years. She wore a size 6 above the waist, size 8 below. She bought her clothes in a size 8 and had them altered. Her walk-in closets held what she liked to call her many-hued bouquet of Chanel jackets, which she wore to promote her books, and trousers that, like those of her fictional characters, she had tailor-made as soon as she could afford it. Skirts were for serious lunches, board meetings and public speaking. Unlike her heroines, who stride forward on killer heels, she preferred flats—Prada or Miu Miu. 
 Krantz’s novels came after the drug-filled “Valley of the Dolls” and before the servility and handcuffs of “Fifty Shades of Grey”. Unlike those two books, hers were suffused with warmth, which is the real reason they were so popular. No amount of money or sex could take the place of friendship, loyalty and a girlie heart-to-heart. “Sex [you] could, and did, get everywhere,” she once wrote. “Warmth was rare.”◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.judith['dʒu:diθ]:n. 朱迪思（女子名） 
@@ -111,4 +112,6 @@
 97.handcuff['hændkʌf]:vt. 给...戴上手铐 n. 手铐 
 98.suffuse[sә'fju:z]:vt. 遍布, 弥漫, 充满 
 99.girlie['gә:li]:n. 少女 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

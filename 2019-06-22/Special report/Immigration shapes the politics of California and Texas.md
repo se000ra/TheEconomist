@@ -23,6 +23,7 @@
 In Texas businesspeople are also rooting for a revamped national immigration policy that would allow more immigrants to work lawfully. The last big immigration bill was passed in 1986 when Ronald Reagan was president, and a smaller bill in 1990, but more recent bipartisan attempts at federal immigration reform have been defeated. “What would cause Texas to really boom is a good immigration bill,” says Ross Perot junior, a businessman, who believes a shortage of workers is the biggest constraint on building. 
 The Dallas area, for example, is short of at least 20,000 workers, which causes delays of around two months and an additional cost of $6,000 for every new home, according to the Dallas Builders Association. A report by the Centre for Houston’s Future calculated that allowing for more immigration could result in $67bn more in GDP by 2036, around one-sixth of Houston’s economic output. 
 Immigration and climate change are two areas where chief executives and Texas’s political leadership are not seeing eye to eye. According to Evan Smith of the Texas Tribune, “There is more daylight between the business community and elected leadership than there has been in a long time.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -152,4 +153,6 @@
 125.evan['evən]:n. 埃文（男子名） 
 126.smith[smiθ]:n. 铁匠, 金属品工匠 [机] 锻造工, 上手 
 127.tribune['tribju:n]:n. 护民官, 军团指挥官, 公民权利保护者, 讲坛 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

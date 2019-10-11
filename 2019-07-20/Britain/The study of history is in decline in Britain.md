@@ -11,6 +11,7 @@
 The study of history is also a safeguard against myopia. Modernity shrinks time as well as space; people live in an eternal present of short-term stimuli and instant gratification. History teaches them to broaden their horizons and shift their perspectives. On a more mundane level, history can be a safeguard against outright idiocy. The Northern Ireland secretary, Karen Bradley, might not have expressed surprise that Protestants and Catholics in the province vote along sectarian lines if she had spent, say, an hour studying the history of the province over which she presides. 
 There are glimmers of hope. Britain still has historians with a genius for bringing their subject alive, such as Tom Holland, Sir Simon Schama and Dame Mary Beard. History festivals are booming. The decline in the number of students reading the subject has not been as precipitous as in America. But these are no more than glimmers. A striking number of Britain’s bestselling historians either don’t have academic jobs (like Mr Holland) or face brickbats and backbiting from their fellow professionals (as Dame Mary does). The public’s voracious appetite for military history, so clearly demonstrated during the D-day celebrations, is catered for almost entirely by non-academics such as Sir Max Hastings and Sir Antony Beevor. Historians need to escape from their intellectual caves and start paying more attention to big subjects such as the history of politics, power and nation-states. The extraordinary times that we are living through demand nothing less. ■ 
 Vacancy: The Economist is looking to hire a staff writer to cover British economics. Journalistic experience is not necessary; the ability to write clearly and entertainingly is. For details of how to apply, visit economist.com/britainjob2019. The deadline is August 4th. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Bagehot[ˈbædʒət]:白芝浩；巴杰特（人名） 
@@ -113,4 +114,6 @@
 98.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
 99.journalistic[,dʒ\\: nә'listik]:a. 新闻业的, 新闻工作者的, 报刊特有的, 新闻工作的 
 100.entertainingly[,entə'teiniŋli]:adv. 有趣地；使人愉快地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

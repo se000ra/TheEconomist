@@ -11,6 +11,7 @@
 A survey by Comres and CNN last September found that 34% of Europeans said they had heard little or nothing of the Holocaust. Education and explanation are understandably at the heart of the European Jewish Congress’s recently published action plan to tackle anti-Semitism. It proposes a clearer definition of the phenomenon, new guidelines for schools and more funding for teaching and researching the Holocaust. But that will be an uphill struggle. Ignorance and indifference are laying fresh tracks on which anti-Semitic hatred can travel. 
 How to derail the train? Law enforcement must crack down systematically on anti-Semitic crimes. Leaders must shun politicians who blur the boundaries between mainstream politics and anti-Semitic filth. Educators and civil-society organisations must spread the lessons of the past. All must play their part in bridging the divide between memorials and everyday life. “Only when the generation that survived the war is no longer with us,” said Angela Merkel last year, “will we discover if we have learned from history.” 
 Sebald’s novel should act as inspiration. Austerlitz’s trip to Terezin, to his first reckoning with his past after decades of denial, is prompted by the resonances of the oppressive violence of the past in the buildings he encounters on his travels. He is particularly obsessed with Europe’s great train stations: places of happiness, but also silent witnesses to exploitation and oppression, to soldiers marching off to war, to exile and deportation. In Sebald’s Europe the past cannot merely be contained by designated places of memory. It seethes and writhes insistently, barely below the surface of everyday life. To learn the lessons, that surface must be broken.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Charlemagne['ʃɑ:lә'mein]:查理曼大帝(742-814, 世称 Charles the Great或Charles I, 768-814为法兰克王, 800-814为西罗马帝国皇帝) 
@@ -120,4 +121,6 @@
 105.seethe[si:ð]:vi. 冒泡, 沸腾 vt. 使煮沸, 使浸透 n. 翻腾 
 106.writhe[raið]:n. 扭动, 盘绕, 苦恼 vt. 扭曲, 缠绕 vi. 蠕动, 扭动身体, 盘绕, 遭受苦难 
 107.insistently[ɪn'sɪstəntlɪ]:adv. 坚持地, 强求地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

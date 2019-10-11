@@ -10,6 +10,7 @@
 That limited space is why some economists also expect the bank to restart QE later in the year. Daniele Antonucci of Morgan Stanley, a Wall Street firm, expects the bank to announce monthly purchases of government and corporate debt of €45bn. But the bank’s self-imposed limit on the share of a country’s sovereign debt it can own, of 33%, means this pace probably cannot be sustained beyond a year. 
 This ceiling would need to be lifted if any expansion of QE is to seem credible to investors, reckons Spyros Andreopoulos of BNP Paribas. Though QE’s legality is questioned in Germany, in December the European Court of Justice ruled that the ECB was acting legally, appearing to give it room to raise its limit up to 50%. (The case returns to German courts at the end of the month, but judges are expected to bow to the ECJ.) In any case the bank would need to rethink another self-imposed rule, says Mr Andreopoulos: that it avoid holding shares of individual securities large enough that it can sway the outcome of investor votes on any future debt restructuring. 
 Even with all this, the ECB’s ability to cope alone with a serious downturn would be limited. Even as Mr Draghi assured markets he had the firepower, he warned that without fiscal support monetary easing risked being slow to boost the economy, with possible unwanted side-effects. Negative borrowing costs across many member states make the case for dusting off fiscal tools even more obvious. But Europe’s governments guard their ammunition more jealously than central bankers do. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.exploration[.eksplә'reiʃәn]:n. 探险, 踏勘, 探测 [医] 探察 
@@ -63,4 +64,6 @@
 49.ammunition[.æmju'niʃәn]:n. 军火, 弹药 [机] 弹药 
 50.jealously[]:adv. 嫉妒, 羡慕, 留心, 戒备 
 51.banker['bæŋkә]:n. 银行家, 庄家 [经] 银行业者, 银行家 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

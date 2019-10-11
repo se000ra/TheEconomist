@@ -6,6 +6,7 @@
 Walk around the streets of Seoul or any other South Korean city, and there is a real risk of bumping into people whose eyes are glued to their smartphone screens. Insurers estimate that around 370 traffic accidents annually are caused by pedestrians using smartphones. That figure does not include those who bump into lamp posts and the like while perusing the latest cat videos. 
 The government initially tried to fight the “smombie” (a portmanteau of “smartphone” and “zombie”) epidemic by distributing hundreds of stickers around cities imploring people to “be safe” and look up. This seems to have had little effect even though, in Seoul at least, it recently replaced the stickers with sturdier plastic boards. 
 Instead of appealing to people’s good sense, the authorities have therefore resorted to trying to save them from being run over. Early last year, they began to trial floor-level traffic lights in smombie hotspots in central Seoul. Since then, the experiment has been extended around and beyond the capital. For the moment, the government is retaining old-fashioned eye-level pedestrian lights as well. But in future, the way to look at a South Korean crossroads may be down. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.smombie[]:[网络] 僵尸 
@@ -37,4 +38,6 @@
 27.implore[im'plɒ:]:vt. 恳求, 哀求 
 28.sturdy['stә:di]:a. 强健的, 健全的 [医] 羊晕倒病, 羊蹒跚病 
 29.hotspot[]:n. 热区；热点 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

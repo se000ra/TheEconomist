@@ -7,6 +7,7 @@
 The Raptors benefit from good marketing. They appointed Drake, a rapper who has tattoos of the Toronto area code 416 and the CN Tower, as their “global ambassador” in 2013. His courtside antics are now part of the spectacle. It also helps that Torontonians, 46% of whom are immigrants, are better reflected by the multiracial Raptors than the nearly-all-white Toronto Maple Leafs, an ice hockey team. The Raptors’ biggest fan is a turbaned Sikh who has been to every home game in their 24-year history. 
 But probably the best explanation for the new fandom is the sweet taste of victory. No Canadian ice hockey team made the National Hockey League finals this year. The Raptors have made the playoffs of the NBA every year since 2014. Kawhi Leonard, an American who joined the team last year, has pushed them to unexpected heights. 
 According to the most recent census, ice hockey is still the sport Canadians are most likely to play. Basketball came fifth. But fans with a sense of history know that it was a Canadian, James Naismith, who invented basketball. Perhaps it is time for the game to come home?◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.dunk[dʌŋk]:vt. 浸一浸, 泡一泡 
@@ -48,4 +49,6 @@
 37.census['sensәs]:n. 户口普查 vt. 实施统计调查 
 38.jame[]: 灰岩井 
 39.naismith[]: [人名] [苏格兰人、英格兰人姓氏] 内史密斯 Naysmith的变体 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

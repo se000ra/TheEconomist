@@ -9,6 +9,7 @@
 How Homo sapiens spread from Africa to dominate the world is a story that once looked simple, but is getting rapidly more complex. Genetic data suggest most people alive today who are not African or of recent African descent can trace their ancestry to one or a few “out of Africa” migrations that began about 60,000 years ago into Asia, and thence spread to Australia, Europe and the Americas. More detailed analysis, though, shows that on the way through these places some of those ancestral humans interbred with other human species, now extinct, including Neanderthals. 
 Fossils also show that Homo sapiens was present in the Middle East well before 60,000 years ago. Not, however, as long ago as the inhabitant of Apidima whose remains Dr Harvati has now analysed. Why, having reached Greece, Homo sapiens did not continue to spread into the rest of Europe and thus take it over 170,000 years earlier than happened in reality is a mystery—perhaps one on which future fossil discoveries will shed a little light. 
 Correction (July 11th 2019): An earlier version of the title of this piece incorrectly stated that the oldest known Homo sapiens was Greek. In fact this story is about the earliest specimen found outside of Africa. This has been updated 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.HOMO['hәumәu]:[化] 最高占据轨道; 最高占据分子轨道; 最高已占分子轨道 [医] 人属 
@@ -41,4 +42,6 @@
 28.Neanderthal[ni'ændәtɑ:l]:a. 穴居人的 
 29.incorrectly[]:adv. 错误地；不适当地 
 30.update[ʌp'deit]:vt. 更新, 使现代化 n. 更新 [计] 更新 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

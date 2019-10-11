@@ -9,6 +9,7 @@
 Where the meth is going is not clear. Much probably travels back to Iran. In July Brigadier-General Masoud Zahedian, Iran’s counter-narcotics chief, complained that four tonnes of the stuff had been seized on his country’s border with Afghanistan since March. But Afghanistan also has its own domestic demand. Meth is popular in Pakistan, too. Some might find its way farther afield. 
 How might this new drug affect Afghanistan’s war economy? Opium and its profits permeate the conflict, providing not just livelihoods for poor farmers, but also funding for insurgents and easy money for corrupt officials. Ephedra, known locally as oman, could be a new source of wealth in areas which have so far not cashed in on opium. The bush grows best above 2,500 metres (8,200 feet), and is thus suited to different provinces from opium. But no one knows for sure where ephedra is being farmed in Afghanistan or in what quantities. The UN plans to start satellite and ground surveys to measure the crop, just as it does with opium poppies. 
 Afghanistan’s innovative producers are not the first to use ephedra to make meth. Chinese and Burmese villagers have been known to do so as well. But Afghanistan’s lawlessness and its ready-made distribution networks, thanks to the other drugs produced in the country, along with the extremely low cost of farming, could soon make it a fearsome competitor in the global meth business. ■. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.meth[meθ]:n. 甲安菲他明（一种兴奋剂） 
@@ -68,4 +69,6 @@
 55.Burmese[.bә:'mi:z]:n. 缅甸人, 缅甸语 a. 缅甸的, 缅甸人的, 缅甸语的 
 56.lawlessness['lɔ:ləsnəs]:n. 不服从法律; 不受法律制约; 未实施法律; 目无法纪 
 57.fearsome['fiәsәm]:a. 吓人的, 可怕的, 害怕的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

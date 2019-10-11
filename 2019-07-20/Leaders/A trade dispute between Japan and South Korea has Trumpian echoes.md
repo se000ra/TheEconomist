@@ -10,6 +10,7 @@
 The broader geopolitical context makes Japan’s self-harm even more reckless. Regional supply chains are already under assault. South Korean and Japanese companies are scrambling to find alternatives to China as a manufacturing base to avoid American tariffs. Mr Trump has threatened both countries with import duties on their cars. 
 Ultimately, it is up to South Korea and Japan to repair relations. But America’s waning interest in diplomacy does not help. And Mr Trump is normalising the use of trade weapons in political spats. His tactics teach others how to find an excuse for these actions: by citing national security. Japanese media have suggested that South Korea has allowed the shipment of sensitive chemicals to North Korea, a far-fetched claim but one that could feature in a defence of its export restrictions. Under a different president, America would be doing more to bind together Japan and South Korea, two indispensable allies. Barack Obama pushed the Trans-Pacific Partnership that included Japan, and that South Korea was expected to join eventually. One of Mr Trump’s first acts was to ditch that deal. 
 It is not too late to defuse the situation. The commercial damage has been limited so far. Japan is aware that, notwithstanding America’s current tactics, export controls look bad; it is thus susceptible to pressure from other trading partners. The two countries will discuss their disagreement at the World Trade Organisation later this month. This is shaping up to be a test of whether the global trading system can, despite great strains, still soothe tensions—or whether it is being supplanted by a new, meaner order, in which supply chains are weaponised and commerce is purely an extension of politics.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Korea[kә'riә]:n. 朝鲜, 韩国 
@@ -65,4 +66,6 @@
 51.supplant[sә'plɑ:nt]:vt. 排挤掉, 代替 
 52.meaner[miːn]:vt. 表示…的意思；意思是；作…解释：；意味着；即是： vi. 用意；怀有特定用意；有重要意义；有重要性；有影响： 
 53.weaponised['wepənaiz]:vt. 把…改装成武器；使…武器化 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

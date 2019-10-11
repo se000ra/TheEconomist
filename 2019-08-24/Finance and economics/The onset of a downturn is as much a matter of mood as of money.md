@@ -10,6 +10,7 @@
 At its heart this behaviour is a matter of mass psychology, or “animal spirits”, as John Maynard Keynes put it. Economies are great chains of earning and spending, held together by shared expectations that all will continue as normal. People spend their incomes freely, on everything from homes to haircuts, in the belief that their jobs will not disappear and their incomes wither. Consequently, builders and stylists have jobs and incomes from which they too can spend. Faith in economic expansion is self-fulfilling. But it is not invulnerable. Contagious pessimism can flip an economy from one equilibrium to another, in which cautious consumers spend less and hiring and investment fall accordingly, validating the initial outbreak of pessimism. Shocks can precipitate a switch in sentiment by weakening links in the great chain. But if the public is confident enough of the durability of an expansion then even a big shock may not halt it. Conversely, if the mood in markets and on Main Street is sour enough, even a modest nudge may push an economy into a slump. 
 Over the past century, as governments assumed responsibility for preventing downturns, economic expansions grew longer and recessions became milder and less frequent. When drooping demand threatens an economy, governments and central banks use fiscal and monetary policy to deliver an offsetting rise in spending. But their commitment to fighting recessions also plays a psychological role. The credible promise to resist downturns gives markets confidence that the economy will keep up its strength. 
 Confidence, though, is slippery. It may wane as interest rates fall, leaving central banks less room to jolt economies out of their pessimism, and as government policymakers fumble their fiscal tools. It may wilt in the face of leaders’ erratic and self-defeating behaviour. Recessions, to no small degree, are a state of mind. You don’t need a conspiracy theory to see that just now the world’s mood is troubled.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.onset['ɒnset]:n. 开始, 攻击, 进攻 [医] 起始, 开始 
@@ -99,4 +100,6 @@
 85.fumble['fʌmbl]:n. 摸索, 笨拙的行动, 漏球 vt. 摸索, 乱摸, 笨拙的处理, 漏接(球) vi. 摸索, 笨手笨脚, 漏球 
 86.wilt[wilt]:v. (使)枯萎, (使)衰弱, (使)畏缩 n. 枯萎, 衰弱, 憔悴 
 87.erratic[i'rætik]:n. 古怪的人, 漂泊无定的人 a. 不稳定的, 奇怪的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

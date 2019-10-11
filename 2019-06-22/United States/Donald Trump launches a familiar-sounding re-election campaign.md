@@ -14,6 +14,7 @@
 Mr Trump may yet find a way to fill this void. A trade deal with China or a cut in illegal immigration could help. Yet it is likely that identity politics, in the form of fierce rhetoric on guns, crime and immigration, will dominate his campaign. Mr Trump warmed up for his appearance in Orlando by vowing to round up “millions of illegal aliens”—starting “next week”. He also refused to retract his demand for five black teenagers convicted of assaulting and raping a jogger in Central Park to be executed—though they were exonerated by DNA evidence and freed 17 years ago. Outside the Amway Centre a white chauvinist crew called the Proud Boys flashed “white power” signs at reporters. 
 Though these are early days, in short, it seems highly probable that Mr Trump will re-run his previous campaign. To hear him, it seems to be 2016 still. He persists in whipping up his supporters with denunciations of Hillary Clinton (“Lock her up!” they screamed in Orlando). By far the biggest uncertainty, perhaps the only one, therefore concerns who the Democrats send out to face him in her stead. 
 Betting markets put his chances of re-election at 50%, which reflects uncertainty about who the Democrats will pick. Though incumbency gives him a boost, absent some game-changing event Mr Trump would struggle against a strong opponent. His hopes may depend on the Democrats putting forward another dud, too weak or compromised to survive his attacks. Do not put it past them.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -101,4 +102,6 @@
 83.stead[sted]:n. 代替, 接替, 有利, 用处, 好处 vt. 对...有利 
 84.incumbency[in'kʌmbәnsi]:n. 任职, 义务, 任职期 [法] 职责, 义务, 在职 
 85.dud[dʌd]:n. 衣服, 哑弹, 无用物 a. 无用的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

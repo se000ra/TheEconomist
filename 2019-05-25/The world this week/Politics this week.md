@@ -19,6 +19,7 @@
 In Washington, the State Department claimed there were signs that the regime of Bashar al-Assad in Syria used chemical weapons while trying to retake Idlib province from rebels. America and its allies would respond “quickly” if this were proven, said officials. 
 America is to unveil the economic component of its peace plan for Israel and the Palestinians at a conference in Bahrain in late June. Saudi Arabia and the United Arab Emirates said they would participate. The Palestinians called for a boycott of the meeting. 
 The graduating class at Morehouse College in Atlanta sat up and paid attention during a commencement speech when the speaker announced a pledge to pay off their student loans. Robert Smith, a technology investor and former banker said by Forbes to be the richest black person in America, made his gift to “ensure we have all the opportunities of the American dream”. College debt has ballooned over the past two decades in America, and is an issue on the campaign trail. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Brexit[]:[网络] 英国退出欧盟 
@@ -142,4 +143,6 @@
 119.smith[smiθ]:n. 铁匠, 金属品工匠 [机] 锻造工, 上手 
 120.banker['bæŋkә]:n. 银行家, 庄家 [经] 银行业者, 银行家 
 121.forbes['fɔ:bz, 'fɔ:bis]:n. 福布斯（美国出版及媒体集团）；福布斯（美国著名财经杂志）；福布斯（姓氏） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

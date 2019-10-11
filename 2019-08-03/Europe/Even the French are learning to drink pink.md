@@ -8,6 +8,7 @@
 Why the French craze for rosé? One answer is the change in diets. In recent years even the French have begun to eat less steak and other red meat, which they traditionally accompany with red. As a simpler—and, the purists would say, blander—wine, rosé is seen as a lighter drink, particularly when chilled in summer. It is especially popular among the under-25s, the age group most likely to be vegetarian, according to the Organisation Internationale de la Vigne et du Vin. 
 A second, and perhaps more surprising, reason is the emergence of winemakers seeking to take rosé upmarket. A bottle of top-end Garrus rosé from the Château d’Esclans, a Provençal wine estate, for instance, sells at an improbable €100 ($110). Such wines, or so their producers hope, are helping to lend rosé the cachet it has lacked until now. “From the start, we wanted to make a more complex, structured, serious rosé,” says Ms Rolet; “Now, almost unexpectedly, we find that it’s through our rosé that people find us.” 
 And then there is the celebrity image. Almost all the Côtes de Provence wines, made along France’s Mediterranean fringe, are rosés. For millennials, the pale pink hue, backlit by sun, is considered highly “Instagrammable”. “It’s a fashion that has come up from Saint-Tropez,” says a winemaker farther inland, dismissively. Brad Pitt and Angelina Jolie own the Château de Miraval in Provence, which produces a premium rosé. Other aspirational brands, such as Minuty, are popular—often by the magnum—on the yachts and in the beach clubs of the Riviera. Such bottles sell not so much a pale pink liquor as a glamorous lifestyle fantasy. The promise, as it were, of la vie en rosé—to which even the French, it seems, are not immune. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -67,4 +68,6 @@
 55.vie[vai]:vi. 争, 竞争, 争胜 vt. 提出...来竞争, 以...作较量 
 56.en[en]:n. 字母N, (铅字)半方 prep. 在...中, 作为 
 57.immune[i'mju:n]:a. 免疫的, 免除的, 不受影响的 n. 免疫者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

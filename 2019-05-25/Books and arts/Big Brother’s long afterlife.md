@@ -9,6 +9,7 @@
 As Mr Lynskey says, Orwell wrote “1984” not as a prophecy but as a warning, to galvanise action so that the future he described never came to pass. He succeeded; the book became a weapon in the Western fightback against totalitarianism in the 1940s and beyond. Yet, as Mr Lynskey relates, by the 1970s it had become so proverbial as to be colonised by gormless television shows and indifferent pop-music albums. Its wholesale appropriation by pop culture blunted its political force. 
 When the Soviet Union fell, Orwell’s oeuvre might have become a historical curiosity. After all, mid-century writing that was meant to expose the despotism of both the communist left and fascist right should have become irrelevant; history was deemed to have ended. That is not how it turned out, for history or Orwell. 
 Disappointingly, the section on his modern resonance is the weakest part of Mr Lynskey’s book. He devotes only a brief passage to the Orwellian echoes in Donald Trump’s presidency: the lies that warp reality, the obsolescence of facts, the divergent information universes of Fox News and CNN. The obvious implication—that the totalitarian methods chronicled by Orwell 70 years ago are now being recycled by supposed democrats—should concern everyone. But it awaits a more rigorous analysis than the one offered here. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.afterlife['ɑ:ftәlaif]:n. 来世, 下半生 
@@ -59,4 +60,6 @@
 46.totalitarian[.tәutæli'tєәriәn]:a. 极权主义的 n. 极权主义者 
 47.chronicle['krɒnikl]:n. 年代记, 记录, 编年史 vt. 把...载入编年史 
 48.rigorous['rigәrәs]:a. 严厉的, 严酷的, 严格的, 苛刻的, 严密的, 精确的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

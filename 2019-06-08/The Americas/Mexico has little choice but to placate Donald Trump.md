@@ -14,6 +14,7 @@
 Some aides and nearly all economists will advise Mr Trump that tariffs will impede economic growth. The US states that benefit most from trade with Mexico are Republican-voting ones. The Mexican government is drawing up retaliatory tariffs that would target Trump-supporting states, such as Texas and Arizona, if talks fail. Some Republican senators are nervously mulling a vote to block the tariffs. 
 The new dispute with Mexico could also unravel one of Mr Trump’s previous self-proclaimed triumphs. His replacement of NAFTA (“perhaps the worst trade deal ever made”) with the United States-Mexico-Canada Agreement (“a very, very good deal”) may not now be ratified until after the US elections in 2020. It will sail through Mexico’s congress, but many will be wondering what the point of it is. Mexicans now know that if they appease this president, the deal they get will only last until he needs a new political boost. Other countries will have noticed this, too. ◼ 
 Award: Sarah Maslin, our Brazil correspondent, has won the gold prize for foreign reporting in the Engine MHP 30 to Watch: Young Journalist Awards, for her coverage of gangs in El Salvador, Jair Bolsonaro and refugees from Venezuela. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tariff['tærif]:n. 关税, 关税表, 价格表, 收费表 vt. 课以关税 [计] 价目表 
@@ -112,4 +113,6 @@
 94.jair[]:[网络] 睚珥；贾伊尔；睢珥 
 95.refugee[.refju'dʒi:]:n. 难民, 流亡者 [法] 避难者, 流亡者, 难民 
 96.Venezuela[,vene'zweilә]:n. 委内瑞拉 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

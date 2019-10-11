@@ -9,6 +9,7 @@
 Nor, alas, was Pilecki treated as a hero by Poland’s post-war communist regime. His resistance activities, under the direction of the émigré leadership in London, led to his arrest and torture—which was so bad, he told his family, that Auschwitz was “just a game” in comparison. His work fighting the Nazis counted for nothing in this new tyranny. He was executed on May 25th 1948; his body has never been found. 
 Jack Fairweather’s meticulous and insightful book is likely to be the definitive version of this extraordinary life (even if, slightly jarringly, he calls his subject by his first name, Witold). The author, a British former foreign correspondent now living in America, has tracked down survivors, unearthed archival documents and obtained family papers. He has woven them together with Pilecki’s own powerful accounts, written after his escape from Auschwitz in 1943, to draw a sympathetic and imaginative picture of wartime Poland under Nazi occupation. The book is all the more powerful for the restraint with which he describes Nazi atrocities and Western shilly-shallying. And it is all the more welcome for its projection of an often-missed view of the war, in which Poles take a leading and positive role, rather than being mere bystanders, victims or accomplices. The maps and pictures are illuminating. 
 This is not, as its publicity bumf claimed, “the first account” of an “untold story”. In fact, Pilecki’s deeds are already the subject of films, much journalism and many books, mostly in Polish but also in English and Italian. For his part, though, the author scrupulously cites these sources in his admirably comprehensive notes. He ends the book by reiterating Pilecki’s frustration that he had failed to deliver his message effectively. Then, as now, non-Western stories and viewpoints are all too often overlooked. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.witold[]:[网络] 愚蠢 
@@ -85,4 +86,6 @@
 72.reiterate[ri:'itәreit]:vt. 反复地说, 重申, 反复地做 [法] 重述, 重申, 反覆地做 
 73.frustration[frʌs'treiʃәn]:n. 挫折, 顿挫 [医] 挫折 
 74.effectively[i'fektivli]:adv. 有效地, 有力地, 实际上 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

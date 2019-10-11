@@ -10,6 +10,7 @@
 Yet there is now much speculation that Mr Trump’s team will somehow sell the farm in the working-level discussions that the leaders promised to restart. One rumour circulating in Washington suggests that Mr Trump will agree to lift sanctions in exchange for a mere freeze of North Korea’s nuclear programme, without surrendering the bombs it has already made. American officials have forcefully denied any such prospect. There have been hints, however, that America might accept a staggered deal, in which it gradually eases up on North Korea in return for a series of small concessions, rather than a one-off trade of complete disarmament for across-the-board relief from sanctions. 
 Such gradualism has not worked with North Korea in the past. It would discomfit many in Japan and South Korea (though not Mr Moon). Moreover, it is far from clear whether Mr Kim is ready to offer more—or submit to the kind of intrusive inspections that enforcing such a deal would require. 
 But there is a prior obstacle to striking any deal, however daring or flawed. In a top-down diplomatic dance led by strongmen, lower-level negotiators know that they and their counterparts have little authority. Even if reports that a furious Mr Kim had some of his negotiating team executed after the shambles in Vietnam are exaggerated, it would be a brave apparatchik who agreed to anything much on Mr Kim’s behalf. Mr Trump is not as violent, but just as mercurial. How can working-level talks get anywhere? 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.banyan['bænjәn]:n. 印度榕树 [医] 榕树, 孟加拉榕 
@@ -85,4 +86,6 @@
 71.shamble['ʃæmbl]:vi. 蹒跚地走, 摇摇晃晃地走, 摇晃不稳 n. 蹒跚 
 72.apparatchik[,æpə'rætʃɪk]:n. 共产党官员；职业政党工作人员 
 73.mercurial[mә:'kjuәriәl]:a. 水星的, 敏捷的, 活泼的, 水银的 n. 汞剂 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

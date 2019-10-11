@@ -11,6 +11,7 @@
 Two reasons stand out. American politicians must live in the places they represent, and ideally come from there as well. The local accent proves you are not “carpet-bagging”, or swanning into a winnable seat. In England in 2015, less than half of MPs were born in the regions they represented; still less in the actual constituency. Some who have the same strong regional accents as their voters say they meet constituents who can hardly believe they are talking to an MP. 
 The second reason is the dominance of London in Britain’s politics, economy and culture. Paris similarly dominates France, and politicians are mostly expected to minimise regional accents in politics there, too. Germany is like America, a newer and federal state, with local power bases and an economy spread more evenly across the country. For a Bavarian politician to sound anything other than Bavarian would be a betrayal; to adopt the distinctive accent of a native Berliner would be downright bizarre. 
 Other parts of British life, notably the BBC, have opened up to different accents. Parliament has more of them than it did in recent decades. But Downing Street lags behind. In an age of disdain for distant elites, opening up room for leaders to sound like their voters might just help a loathed political establishment survive a populist age. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.johnson['dʒɔnsn]:n. 约翰逊（姓氏） 
@@ -103,4 +104,6 @@
 88.elite[ei'li:t]:n. 精华, 精锐, 中坚分子 
 89.loathe[lәuð]:vt. 厌恶, 憎恶 
 90.Populist['pɔpjulist]:n. 民粹派的成员 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

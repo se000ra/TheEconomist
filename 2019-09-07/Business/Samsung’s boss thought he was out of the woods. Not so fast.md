@@ -8,6 +8,7 @@
 The ruling is also troubling for Samsung, which is already struggling with falling semiconductor prices, the fallout from the trade war between America and China and Japanese export restrictions on three chemicals that are essential for chipmaking. Mr Lee is not directly in charge of day-to-day decision-making at the company. But strategic decisions about how to deal with these and future challenges may still be delayed until his fate is certain. Lawmakers, long cowed by South Korea’s most powerful company, may push through pending legislation that would curtail the company’s ability to restructure in a way it deems best for transferring control from Lee senior, who has not been seen in public since falling ill in 2014, to his son. 
 The verdict may also catch the attention of another erring chaebol leader. Shin Dong-bin, the boss of Lotte, a Korean-Japanese conglomerate best known for its duty-free shops, is awaiting a ruling on the suspension of his sentence in a related influence-peddling case (he maintains his innocence). If the judges take their cue from Mr Lee’s case, he too could face a longer prison term. 
 Advocates of corporate reform hope that the verdict will convince Samsung and other conglomerates to make good on their vows to improve transparency and corporate governance, which would benefit them in the long term. Mr Lee’s previous jail term, while bad for the company’s reputation, had little impact on Samsung stocks, suggesting its fortunes are not necessarily tied to his. A decent corporate structure would help the company more than the scion’s swift return to the helm.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.prodigal['prɒdigl]:n. 浪费者 a. 浪费的, 挥霍的, 丰富的 
@@ -60,4 +61,6 @@
 48.corporate['kɒ:pәrit]:a. 社团的, 合伙的, 公司的 [经] 团体的, 法人的, 社团的 
 49.vow[vau]:n. 誓约, 誓言, 许愿 vi. 起誓, 发誓, 郑重宣言 vt. 立誓, 起誓要, 郑重地宣布 
 50.governance['gʌvәnәns]:n. 统治, 统辖, 管理 [法] 统治, 管理, 支配 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

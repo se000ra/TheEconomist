@@ -9,6 +9,7 @@
 Until recently such fakery had required hundreds of images to conjure a convincing clip. But deepfake technology has rapidly improved. ZAO’s winning claim is that, as its slogan promises, it takes “just one photo for you to star in all the world’s shows”. But for the best result, ZAO requires precise facial mapping, which users can feed into the app by following prompts to blink and move their mouths about. 
 When ZAO’s grasping terms of service came to light, many users were alarmed at the idea of these biometric data being misused. Facial verification is being widely tested in China: to pay in supermarkets, glide through the gates at railway stations and even withdraw cash. On September 1st Alipay, a big payment app, assured users that “images created through face-swapping apps, no matter how realistic, cannot trick our system”. The government, too, has taken note. On September 4th it summoned Momo, a Chinese dating-app giant with ties to ZAO, to explain itself and launched an inquiry into the company’s “data-safety issues”. 
 The state’s reaction continues its clampdown that began in January on non-consensual harvesting of personal information (by private firms, that is). Citizens are increasingly anxious about online fraud. More than four-fifths of respondents to a survey last year by the China Consumers’ Association said they had suffered from data theft. In an unusual case in May, a man from Jiangxi province sued Tencent, the internet giant behind WeChat, for sharing his personal data across its many services without his approval. The court ruled in the plaintiff’s favour—and ordered Tencent to stop the practice.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.netizens[nə'taɪzənz]:abbr. Internet citizens 网络公民 
@@ -65,4 +66,6 @@
 52.Jiangxi['dʒjɑ:ŋ'ʃi:]:江西(位于中国长江中、下游南岸) 
 53.sue[su:]:vt. 控告, 起诉, 请求 vi. 提出诉讼, 提出请求 
 54.Tencent[]:[网络] 腾讯；腾讯公司；腾讯控股 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

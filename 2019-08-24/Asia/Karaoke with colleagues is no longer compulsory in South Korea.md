@@ -7,6 +7,7 @@
 Industry analysts expect the decline in the number of noraebang, which has been accelerating for a couple of years, to speed up. Nearly 33,000 of them survive (down from a peak of more than 35,000 in 2011). But more than 1,400 shut in 2018, and 650 went during the first quarter of this year alone. Similar trends are afoot in Japan, the home of karaoke, where desperate owners have reportedly resorted to renting out their unused parlours as temporary offices during the daytime. 
 Karaoke is not dying. South Koreans are relieved that their careers no longer hinge on jangling a tambourine for their tone-deaf bosses. But many still like to use their newly won spare time for singing. Places aimed at groups are shutting down, but “coin noraebang” for individuals and couples are becoming popular with teenagers, students in their 20s and older single professionals. Unlike old-school karaoke parlours, they tend to be above ground, well lit and colourfully decorated. Rather than pay hourly rates of between 15,000 and 20,000 won ($12-17), users can sing individual songs for as little as 500 won. Kim, a 24-year-old conscript from Seoul, says it is a good way to kill time on his own. “I love singing but I’m not very good at it, so practising alone also makes it less embarrassing when I’m with my friends.” 
 The move towards belting out tunes on one’s lonesome does not seem to have affected musical preferences. Apart from current hits, the noraebang charts are dominated by old-school ballads and cheesy Western pop staples. Even as Seoul’s basements are refitted for other purposes, South Koreans and their guests will continue to come up with off-key renditions of Queen.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.croon[kru:n]:v. 低声歌唱, 低唱, 低吟 n. 低唱, 低吟, 轻哼 
@@ -47,4 +48,6 @@
 36.cheesy['tʃi:zi]:a. 干酪质的, 俊俏的, 优秀的 [医] 干酪样的 
 37.staple['steipl]:n. 主要产物, 常用品, 主要要素, 原料, 订书钉, 钩环 a. 主要的, 重要的 vt. 分级, 钉住 
 38.refit[.ri:'fit]:v. 整修, 改装 n. 整修, 改装 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

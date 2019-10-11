@@ -8,6 +8,7 @@
 Sex between male soldiers is illegal, and men continue to be sent to jail for it. Many mainstream politicians are vocal homophobes, which appeals to some Confucian traditionalists and evangelical Christians. (Of the 30% of South Koreans who identify as Christian, more than half are members of conservative Protestant congregations.) The leader of the main opposition party recently stressed that he was opposed to homosexuality and that South Korea needed to protect its “beautiful family values”. 
 Most South Koreans oppose same-sex marriage, and the government has no plans to recognise it. Young people, however, are more liberal than their elders. More than half of those in their 20s think gay people should be allowed to wed, so no doubt they will be able to some day. 
 For now, though, gay life in South Korea can be miserable. “Some of my friends have killed themselves, others have been forced into psychiatric wards or conversion therapy,” says Kim Hye-yeon, a 20-something from Busan. “There’s nowhere for us to go, nobody to protect us.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.heckler['heklә]:n. 激烈质问者 
@@ -48,4 +49,6 @@
 36.psychiatric[saiki'ætrik; (?@) si-]:a. 精神病学的, 医精神病的 [医] 精神病学的 
 37.therapy['θerәpi]:n. 治疗 [医] 疗法, 治疗 
 38.kim[]:n. 金姆（人名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 That approach came back in the late 1950s, when Brazil was enjoying a precarious period of democracy. Under Juscelino Kubitschek, a dashing social democrat, the country rushed not just to industrialise but to embrace the modern in general. As well as bossa nova, that impulse included the minimalist palaces of Oscar Niemeyer that adorned Brasília, the new capital; the concretist movement of poets and artists such as Mira Schendel and Lygia Clark; and, later, cinema novo, in which film directors adopted the techniques of Italian neorealists to address Brazil’s social divides. 
 As Mr Veloso told the Guardian in 2013, “what was revolutionary about bossa nova is that a third-world country was creating high art on its own terms and selling that art around the world. It remains a dream of what an ideal civilisation can create.” 
 The dream did not last long. A military coup in 1964 brought the curtain down on the bossa nova era. Now Brazil’s restored democracy is headed by Jair Bolsonaro, a socially conservative Pentecostalist who is openly nostalgic for military rule. In its sensitivity, disciplined search for perfection and openness to foreign influence, bossa nova was everything that Mr Bolsonaro’s vision of Brazil—vulgar, hate-filled and nationalistic—is not. Muzak rules. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bello[]:n. 贝罗（姓氏） 
@@ -128,4 +129,6 @@
 113.sensitivity[.sensә'tiviti]:n. 敏感, 灵敏度 [计] 灵敏度 
 114.perfection[pә'fekʃәn]:n. 完美, 完成, 极端 [经] 完整性 
 115.openness['әupәnnis]:n. 公开；宽阔；率真 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

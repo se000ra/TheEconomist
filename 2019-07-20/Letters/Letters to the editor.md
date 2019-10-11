@@ -29,6 +29,7 @@
 JOHN HARRISLondon 
 I know just the man to lead Wells Fargo (“The hottest seat in banking”, June 22nd). A Mr Herbert Anchovy (aka Michael Palin) was looking to leave his job as an accountant for a more exciting career as a lion tamer. His counsellor (John Cleese) suggested he make that transition by taking an intermediate role as a banker. I imagine that, after a few visits to Congress, lions will seem the more friendly to whoever becomes Wells Fargo’s new boss. 
 PETER GALLIGANNew York 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.hong[hɔŋ]:n. （中国、日本的）行, 商行 
@@ -131,4 +132,6 @@
 98.transition[træn'ziʃәn]:n. 转变, 转换, 变迁, 过渡时期, 临时转调 [化] 跃迁 
 99.peter['pi:tә]:vi. 逐渐消失, 逐渐减少 
 100.york[jɔ:k]:n. 约克郡；约克王朝 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

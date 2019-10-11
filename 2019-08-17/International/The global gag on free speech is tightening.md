@@ -38,6 +38,7 @@
 The habit of trying to silence opposing views, instead of rebutting them, has spread off campus. In Portland, Oregon, this weekend, far-right extremists are planning to rally, their “antifa” (anti-fascist) opponents are expected to try to stop them, and both sides are spoiling for a fight. When the same groups clashed in June, a conservative journalist, Andy Ngo, was so badly beaten that he was hospitalised with a brain haemorrhage. 
 Similar intolerance has spread to Europe, too. French “yellow jacket” protesters have repeatedly beaten up television crews. In Britain any discussion of transgender issues is explosive. In September, for example, Leeds City Council barred Woman’s Place UK, a feminist group, from holding a meeting because activists had accused them of “transphobia”. (The feminists do not think that simply saying “I am a woman” should confer on biological males the right to enter women’s spaces, such as changing rooms and rape shelters.) 
 “It’s nearly impossible to have a free debate [on this topic]. I’ve never seen anything like it,” says Ruth Serwotka, a co-founder of Woman’s Place UK. Today, the group only tells members where meetings will take place a couple of hours in advance, to avoid disruption. Feminists who question “gender self-identification” (the notion that if you say you are a woman, you should automatically be legally treated as one) are routinely threatened with rape or death. Some have faced organised campaigns to get them sacked from their jobs, barred from Twitter or arrested. In March, for instance, Caroline Farrow, a Catholic journalist, was interviewed by British police after someone complained that she had used the wrong pronoun to describe a transgender girl. Another feminist, 60-year-old Maria MacLachlan, was beaten up by a transgender activist at Speakers’ Corner in London, where free speech is supposed to be sacrosanct. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.censor['sensә]:n. 检查员 vt. 检查, 审查, 删改 
@@ -312,4 +313,6 @@
 270.Maria[mә:'raiә, mә'riә]:n. 玛丽亚（女名） 
 271.maclachlan[]: [人名] 麦克拉克伦 
 272.sacrosanct['sækrәusæŋkt]:a. 极神圣的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

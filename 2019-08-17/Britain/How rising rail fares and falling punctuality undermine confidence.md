@@ -18,6 +18,7 @@
 On shorter lines, the open-access approach is harder to pull off. Busy commuter routes have such tightly packed services that arranging a timetable around several companies would be a recipe for chaos. So an alternative approach is to grant concessions in which a single operator signs a contract to run all services on a line, and sometimes to maintain the track as well. London’s Docklands Light Railway, which has the happiest rail passengers in the capital, is run like this by Keolis, a French firm. Three of Britain’s four most punctual rail firms are concessions. 
 Granting concessions doesn’t give passengers a choice about how they travel. Yet an element of competition can be introduced by re-opening alternative lines that were closed half a century ago. In 2016 Chiltern Railways opened a London-Oxford line that had been closed by British Rail in the 1960s, when rail use was in decline. Within a few months the incumbent on a rival line, GWR, cut ticket prices and introduced free Wi-Fi. Some have proposed re-opening a 40-mile stretch of the Great Central Railway between Aylesbury and Rugby to provide competition for the West Coast mainline between London and the north. 
 There may be little case for turning back the clock to the 1980s, before privatisation. But going back even further, to the days when passengers had a real choice of which line to take, is a promising alternative.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.punctuality[.pʌŋktʃu'æliti]:n. 严守时间, 正确 
@@ -95,4 +96,6 @@
 73.incumbent[in'kʌmbәnt]:a. 现任的, 依靠的, 负有义务的 n. 领圣俸者, 在职者 
 74.GWR[]:abbr. 地理加权回归（Geographically Weighted Regression）；气水比（Gas Water Ratio）；英国大西铁路（Great Western Railway） 
 75.Aylesbury['eilzbәri]:爱斯勃雷鸭 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

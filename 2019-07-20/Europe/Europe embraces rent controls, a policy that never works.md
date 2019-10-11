@@ -10,6 +10,7 @@
 Critics argue that instead of trying to fix prices, cities should allow more homes to be built. Sebastian Czaja, an MP for the Free Democratic Party in Germany, says Berlin needs “a construction offensive”. The city has grown by about 50,000 people a year since 2011, but added only 10,000 new apartments per year. Berliners are not helping themselves: they have voted against developing a field the size of Monaco near the city centre, and halted plans to build on a huge patch of farmland nearby. Amsterdam is struggling to meet supply, too. It aims to build 1m new homes by 2030, but issued fewer than 10,000 permits last year. 
 Rents in German new-builds are high partly because building regulations have become extremely stringent, says Michael Voigtländer of the German Economic Institute. Frédéric Cherbonnier of the Toulouse School of Economics says that in Paris large rent subsidies, which total 1% of GDP in France, have helped to push up prices and should be cut, since the benefits largely accrue to landlords, not renters. 
 High rents are unlikely to come down soon. The European Central Bank is maintaining ultra-low interest rates, and urban migration will continue. If politicians really want to help renters, they should favour concrete-mixing, not price-fixing. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -66,4 +67,6 @@
 52.accrue[ә'kru:]:vi. 自然增加, 产生 [经] 应计, 产生, 出现 
 53.renter['rentә]:n. 承租人, 佃户, 出租人 [经] 租赁人, 租户, 出租人 
 54.migration[mai'greiʃәn]:n. 移民, 移往, 移动 [计] 迁移 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

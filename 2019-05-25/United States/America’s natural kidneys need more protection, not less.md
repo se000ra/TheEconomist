@@ -10,6 +10,7 @@
 Water overloaded with nutrients is a curse. It takes roughly two weeks for a drop entering the Wabash river in Indiana to wend its way, via the Mississippi, to the Gulf of Mexico. Each summer algae blooms in the river, fed by nitrates. As these die they feed bacteria which suck oxygen from the water. The result, when the Mississippi gushes into the brine of the Gulf, is a huge oxygen-free dead zone. Last summer the hypoxic area covered 2,700 square miles. 
 As the cost of losing wetlands is better understood, the case for protecting them should strengthen. Mr Ward fears the reverse is happening. The Environmental Protection Agency last year proposed a rule to redefine—and almost certainly reduce—which waters come under the Clean Water Act. Its final plan, which will probably appear this autumn, is expected to give landowners and officials, rather than scientists, more say on whether a body of surface water counts as a flowing stream worth looking after. 
 Protection of many wetlands, in turn, depends on their being close to protected streams. If the EPA pushes on with its plan this year, as much as 39% of the existing wetlands in the Wabash river basin could lose federal protection, estimate Mr Ward and his colleagues in a recent paper. States could continue to protect water. But without strict federal rules, “I doubt all states would protect wetlands as they do now,” says Mr Ward. Idyllic corners such as Muscatatuck may become more precious than ever, and the dead zone in the Gulf of Mexico may grow. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.endanger[in'deindʒә]:vt. 危及 [法] 使危险, 危及 
@@ -69,4 +70,6 @@
 55.landowner['lændәunә]:n. 地主 [法] 土地所有人, 地主 
 56.Epa[]:[经] 环保协会 
 57.idyllic[ai'dilik]:a. 田园诗的, 牧歌的, 悠闲的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

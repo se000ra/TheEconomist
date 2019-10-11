@@ -11,6 +11,7 @@
 There were hiccups, of course, to do with women, who threw themselves at him although Hazel was waiting not-so-patiently at home, and with his children, for whom he couldn’t spare enough time in his 16-to-20-hour working days. Because he felt low he nearly threw away the second election in 1984, and in 1987 a sharp downturn forced him to cut spending in almost every department. Cabinet could be a bloody circus, steaming with egos, especially when he and Keating fell out over Keating’s pet consumption tax. The Labor Party was a difficult horse to ride. He couldn’t just jab his spurs into its flanks, but had to coax it along, firmly pointing in a centre-left free-market direction. With Medicare and social security there was no problem; liberalising the economy was harder graft, but business and the banks lined up eagerly behind him. Once tariffs and exchange controls were swept away, Australia became a proper citizen of the world and he, as first citizen, had that world at his feet. Not that he exalted himself. At The Lodge, his official residence, he opened his own car door and sat beside the driver, just two government workers together, Bede and Bob. 
 Leaving was difficult. He made a fair fist of life afterwards, going into business consultancy, becoming a multimillionaire and marrying the beautiful mistress who was also his biographer. But he wasn’t leading the country any more. He had told Keating, who badly wanted his job, and whom he never knew whether to tell off or pat on the head, that he would leave a year after he won the 1990 election. When the time came he changed his mind, so Keating brought him down as party leader. He was never voted out by the Australian people. 
 Many assumed he changed his mind because he loved being in power. Not so, he insisted. It was because Keating had described Australia to him as the arse-end of the world. He couldn’t put the country into the hands of someone who felt that way for a second. It rightly belonged to a bloke who couldn’t love it enough. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bob[bɒb]:vt. 剪短, 敲击 vi. 振动, 上下跳动 n. 短发, 悬挂的饰品, 浮子, 摆动, 轻敲, 5便士 
@@ -96,4 +97,6 @@
 81.biographer[bai'ɒgrәfә]:n. 传记作者 
 82.rightly['raitli]:adv. 合适地, 正当地, 正确地 
 83.bloke[blәuk]:n. 小子, 家伙 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

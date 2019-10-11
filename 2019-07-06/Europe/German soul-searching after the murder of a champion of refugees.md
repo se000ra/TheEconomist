@@ -9,6 +9,7 @@
 Far-right extremism surged during the refugee crisis in 2015 and has not come down. One manifestation is the rising popularity of the Alternative for Germany (AfD), which started as a Eurosceptic protest party in 2013 but has turned into a hard-right outfit akin to Austria’s Freedom Party. “The AfD are enablers of right-wing terror,” says Hajo Funke, a specialist in xenophobic extremism at the Free University of Berlin. The party’s radical wing has got the upper hand. Even though the AfD talks about expelling extremists such as Björn Höcke or Andreas Kalbitz, its ultranationalist leaders in Thuringia and Brandenburg, it has never actually kicked anyone out. 
 The AfD’s reaction to the Lübcke tragedy seemed to confirm the party’s reputation. In Bavaria’s parliament, an AfD politician refused to stand for a minute’s silence in Mr Lübcke’s honour. Wolfgang Gedeon, an AfD deputy in Baden-Württemberg’s state parliament, belittled far-right terrorism as “birdshit” compared with the threat posed by the far left and radical Islamists. 
 This was too much for Annegret Kramp-Karrenbauer, the CDU party leader, who said any politician hoping that her party might join a coalition government with the AfD in the future “should close their eyes and think of Walter Lübcke”. Her resolve will be tested in the autumn, when Saxony, Brandenburg and Thuringia vote in state elections. Polls show the AfD tied for first place in the first two and being supported by around 20% in Thuringia. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.xenophobic[,zenәj'fәjbik,,zi:-]:a. 畏惧和憎恨外国人的 [法] 仇外的, 恐惧外国人的 
@@ -72,4 +73,6 @@
 59.Islamist[iz'lɑ:mist]:n. 伊斯兰教主义者；回教教徒 
 60.coalition[.kәuә'liʃәn]:n. 结合体, 结合, 联合 [经] 联合, 联盟 
 61.Saxony['sæksәni]:n. 光毛呢 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

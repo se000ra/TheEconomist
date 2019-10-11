@@ -14,6 +14,7 @@
 Looming over each twisting plot is Jackson Lamb, the scruffy and flatulent Falstaff of the undercover world. This dinosaur spook, once based in Berlin, runs his “crew of misfits” with a heavy yet protective hand. An “overweight, greasy has-been”, Lamb is a grotesque and a flawed champion. Mr Herron stresses that “I’m not into wish-fulfilment. I don’t think a bunch of heroes will save society.” Lamb, though, will cross almost any line to save his own agents. Even they, sociopathic losers and charmless geeks alike, strive to do the decent thing. “There’s a level of romance operating there,” he admits. “Their frustrations and thwarted desires come from wanting to do good.” Cynicism and hypocrisy intensify the higher readers ascend on Mr Herron’s ladder of power. 
 External threats—far-right thugs, rogue veterans, even North Korean honeytraps—do impinge on Lamb’s shabby domain. When Brexit begins to loom over the clandestine affairs of an “increasingly isolated island state”, espionage by and against other European powers comes to the fore. Mostly, though, Mr Herron’s dysfunctional crew suffers from a sort of auto-immune condition. Their closed community generates toxic antibodies that devour it from within. The self-inflicted chaos, suspicion and inertia—and the brutal self-interest that lurks beneath—acidly capture the national mood. 
 Although their comic zest seldom falters, the topical bite of the books has sharpened. “Joe Country”, in which one of Lamb’s underlings imagines a country led by Judd as “a mash-up of ‘The Handmaid’s Tale’ and ‘It’s a Knockout’” (a notoriously puerile British game-show), feels like the bleakest volume yet. Its gags still sparkle. The stage, however, darkens. “As a human being, and a citizen of this country, I deplore almost everything that’s going on in public life,” Mr Herron says. “As a novelist with a bent towards the satirical, it’s a gift.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Mick[mik]:n. 爱尔兰人 
@@ -177,4 +178,6 @@
 159.gag[gæg]:n. 箝口物, 箝制言论, 讨论终结 vt. 阻塞, 压制言论自由, 使窒息, 使呕吐, 插科打浑, 欺骗 vi. 窒息, 作呕, 欺骗, 插科打浑 
 160.darken['dɑ:kn]:vt. 弄暗, 使模糊 vi. 暗下来, 颜色变深 
 161.deplore[di'plɒ:]:vt. 悲悼, 哀叹, 对...深感遗憾 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

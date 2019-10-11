@@ -13,6 +13,7 @@
 In the countryside men from the Imbonerakure sit at the roadside, demanding that passers-by display their election-tax receipts. Burundians are also being strong-armed into building offices for the ruling party. A young man says that the thugs accosted him one morning saying: “Pay us money or go and prepare the bricks.” 
 Lacking a free press, Burundians anonymously post pictures of maimed bodies on a Facebook group, with comments detailing attacks by the Imbonerakure or police. Mr Nkurunziza apparently plans to keep a promise he made after his election victory in 2015: that his enemies “will be scattered like flour thrown in the air”. ◼ 
 Journalist wanted: We are looking for a new writer, based in Africa, to strengthen our coverage of the continent. For further details please go to:www.economist.com/africawriter 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.pummel['pʌml]:vt. 击, 打, 揍 
@@ -66,4 +67,6 @@
 49.facebook[]:n. 脸谱网 
 50.apparently[ә'pærәntli]:adv. 表面上, 清楚地, 显然地 
 51.coverage['kʌvәridʒ]:n. 覆盖的范围, 保险总额, 新闻报导 [化] 可达范围; 覆盖度 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

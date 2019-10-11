@@ -14,6 +14,7 @@
 ![image](images/20190713_AMC391.png) 
  Inflation has plummeted, to a still stratospheric 445,482% (see chart). This is partly because hyperinflations always “run out of steam”, says Mr Rodríguez. The central bank also dampened inflation by forcing banks to raise reserves. But these moves towards saner economic policies have so far done little to ease hardship for most people. 
 The main hope for a political transition, and it is a faint one, lies with talks between the opposition and government, which resumed in Barbados this week. It is hard to imagine a resolution to Venezuela’s agony that does not include Mr Maduro’s departure and a plan to hold elections with international monitoring. If that is to happen, the president will have to sleep less and worry more. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bloody['blʌdi]:a. 血腥的, 嗜杀的, 有血的 
@@ -118,4 +119,6 @@
 100.transition[træn'ziʃәn]:n. 转变, 转换, 变迁, 过渡时期, 临时转调 [化] 跃迁 
 101.Barbados[bɑ:'beidәus]:n. 巴巴多斯(岛) 
 102.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -16,6 +16,7 @@
 The current weakness of the British economy is really a story about investment, which has stagnated since 2017. Capital spending on transport equipment and computers is dropping. The decline in housing transactions explains why investment in homes, which accounts for a quarter of the total, is also looking weak. Builders report that it is easier to find workers and materials than it was a few months ago, suggesting that they have plenty of spare capacity. And the market for paint is again flashing red: last year British firms’ sales of the stuff dropped by 2.4%. 
 The housing market could well get worse before it gets better. Help to Buy, a government lending initiative which has boosted house prices and transactions, will start to be wound down in 2021. Yet this is but a gentle gust in comparison with the tornado of a no-deal Brexit, which could strike on October 31st. The Bank of England recently outlined a possible scenario in which no-deal was associated with a one-third drop in house prices. Another recession which starts in the housing market may not be far away. ■ 
 Vacancy: The Economist is looking to hire a staff writer to cover British economics. Journalistic experience is not necessary; the ability to write clearly and entertainingly is. For details of how to apply, visit economist.com/britainjob2019. The deadline is August 4th. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.wobble['wɒbl]:n. 摆动, 摇晃, 不稳定, 抖动 vi. 摇晃, 摇摆, 游移不定 vt. 使摇摆, 使颤动 
@@ -72,4 +73,6 @@
 52.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
 53.journalistic[,dʒ\\: nә'listik]:a. 新闻业的, 新闻工作者的, 报刊特有的, 新闻工作的 
 54.entertainingly[,entə'teiniŋli]:adv. 有趣地；使人愉快地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 The asset class is also winning converts away from private equity. Finding acquisition targets can be tough in emerging markets, as owners of growing businesses, often families, are loth to give up control. Exiting them is even trickier. Prospective buyers are rare and thin capital markets complicate IPOs. All this hard work erodes returns to investors, says Holger Rothenbusch of CDC Group, the British government’s overseas-investment arm. By contrast, debt investments, which rarely dilute shareholders, tend to be self-liquidating. Most also produce regular cash flows. That pleases liability-driven investors like insurers. Returns can be juicy: low teens for senior loans, higher for distressed debt. 
 There are pitfalls. Lending to a company rarely gives firms a board seat, making it harder to spot problems and scold management than if funds held an equity stake. And when things do go wrong, creditors’ ability to enforce agreements or seize collateral can be weak. “I’ve had to try to bring things to an Indian court,” says a former fund manager. “It’s basically impossible.” Some try to protect themselves by booking capital offshore; others limit themselves to high-quality borrowers and sponsors. 
 Another issue is currency risk. With liabilities in dollars, most funds want to be paid in the same currency. But few companies earning in an emerging-market currency can afford to buy multi-year dollar hedges. That often restricts funds’ investable market to infrastructure projects backed by government guarantees, or companies pricing their wares in dollars, such as exporters or oil producers. To fuel a real investor frenzy, the asset class needs a stronger pipeline of deals. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -67,4 +68,6 @@
 52.ware[wєә]:n. 物品, 器具, 货物, 商品, 陶器 vt. 留心, 小心 a. 知道的, 意识到的, 留神的 
 53.exporter[ik'spɒ:tә]:n. 出口商, 输出者, 出口公司 [经] 出口商, 输出者 
 54.frenzy['frenzi]:n. 疯狂, 狂暴, 狂怒 [医] 暴怒, 狂乱 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

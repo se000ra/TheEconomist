@@ -28,6 +28,7 @@
 But thinking Mr Assad would genuinely campaign against corruption is like imagining Mr Trump crusading for civility. The issue is not restitution but redistribution. Mr Putin wants some of the billions of dollars Russia has lent Syria repaid. Mr Assad is shaking down cronies to cover the bill. His regime likes to portray itself as standing against an “imperialist” West. But it is in thrall to Russia and Iran. 
 Indeed, almost from the start, the Syrian war was fought on false premises. Mr Assad cast his opponents as terrorists. Western powers misled the rebels to believe they would have help. Turkey pretended not to see tens of thousands of foreign fighters streaming across its borders. The delusions continue today, whether in Russia and Turkey mooting deals to save Idlib or European states thinking they have “leverage” over Mr Assad. But no amount of foreign aid will extract democratic reforms from a blood-soaked dictator who burned his country and gassed his people to stay in power. Nor will it convince many of the refugees who fled Syria to return. 
 It is far too late for a happier ending. The Syrians who took part in the uprising—as rebels, activists and the like—realise this. Scattered to the wind in exile, they have, in a sense, moved on: there are jobs to find, languages to learn, lives to build. But they also doubt this is truly the end. The abuse and corruption that caused the uprising in 2011 have only worsened. The regime is isolated, bankrupt and hollow. “Assad ran a police state,” says one former activist who found asylum in Europe. “Now he looks like a prisoner.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Sep[]:九月 
@@ -213,4 +214,6 @@
 181.worsen['wә:sn]:vt. 使更坏, 使恶化 vi. 变得更坏, 恶化 
 182.bankrupt['bæŋkrʌpt]:n. 破产者 a. 破产的 vt. 使破产 
 183.asylum[ә'sailәm]:n. 庇护, 收容所 [医] 养育院 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

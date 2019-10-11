@@ -15,6 +15,7 @@
 Issaias does not face much international pressure. In November the UN lifted an arms embargo first imposed in 2009. He has also mended fences with Sudan and Somalia, and has drawn closer to the United Arab Emirates and Saudi Arabia. 
 Even so, he seems concerned about the possibility of protests. He appears less frequently in public. He has shut down health centres run by the Catholic church (apparently because its bishops criticised him) and is arresting people at random. Social media have been blocked for weeks. Some internet cafés have been closed. “The government seems to fear the Sudan revolution might happen in Eritrea,” muses an employee at the agriculture ministry. 
 Yet unlike in Sudan, where protests forced out a veteran despot, Omar al-Bashir, there are few young folk left in Eritrea. Barely 1% of the population uses the internet, so it is hard to organise protests online. “It will not be done on the streets,” says Zecarias Gerrima, a former journalist who is now in exile. A coup is more likely, though Issaias may be able to hang on. His country, meanwhile, is emptying.  
+<<<<<<< HEAD
 -- 
  单词注释:
 1.gulag[^u:'lɑ:^]:[俄]古拉格(集中营) 
@@ -92,4 +93,6 @@
 73.omar['әjmɑ:(r)]:n. 奥马尔（男子名） 
 74.online[]:[计] 联机 
 75.coup['ku:]:n. 砰然的一击, 妙计, 出乎意料的行动, 政变 [医] 发作, 中, 击 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

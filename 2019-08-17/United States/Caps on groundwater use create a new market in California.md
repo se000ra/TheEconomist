@@ -8,6 +8,7 @@
 “Water is an asset and markets would allow you to allocate it in the right way,” says Edgar Terry, a farmer in Ventura County, 50 miles south of the San Joaquin Valley. If landowners lease pumping rights to others for more than they would earn from using the water to grow additional crops, they benefit. Buyers may make larger profits from the additional crops they can grow than the water costs them. Towns or industrial users may pay landowners for additional pumping rights. The scarce resource would flow towards its most efficient use. 
 Given the potential benefits of a market-based approach, non-profits such as the Environmental Defence Fund, the Fresh Water Trust and the Nature Conservancy have stepped in to advise the GSAs on how to set up markets around California. Mr Terry’s wells, like others in Ventura, are equipped with meters, which send data to an online platform. The local water manager can check that everyone has complied with their respective cap. Participants who want to buy additional water can place a bid online. Those who want to sell do the same. A system matches bids and offers. 
 Allocating pumping rights is the hardest part. Californian law allows landowners to use the groundwater under their property. But since a water basin connects all landowners underground, it suffers from the tragedy of the commons. When users cannot agree how to allocate quotas, courts will have to settle the dispute. Mr Terry and the market pioneers in Ventura County are trying to avoid this. “We tried to produce something that could plausibly be an adjudication,” says Matthew Fienup, an economist who helped set up the market in Ventura. “So if we end up in a courtroom we can just say, ‘Look, here’s our agreement, and get a stamp’.” If they can make it work, Mr Terry and friends may create a model for the rest of the state.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.groundwater['graundwɒ:tә]:n. 地下水 
@@ -51,4 +52,6 @@
 39.Matthew['mæθju:]:n. 马太, 马太福音 
 40.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
 41.courtroom['kɒ:trum]:n. 法庭, 审判室 [法] 法庭, 审判室 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

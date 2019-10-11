@@ -15,6 +15,7 @@
 Indian critics of privatisation, who far outnumber its fans, point out that private companies often seem little better than state-run ones. New telecoms providers may be cheap but service is poor, with frequent outages and dropped calls. Messy collapses of private firms—for example Jet Airways, India’s biggest private-sector carrier, in April—leave millions of customers in the lurch. 
 India’s Thatcherite contingent argue that such problems could be solved with less state intervention, not more. Competition among private-sector firms, they say, often hinges on rights which the government allocates in an opaque manner. Mobile operators and airlines need spectrum or airport slots. Both are in the government’s gift. 
 India’s central government still directly controls 339 enterprises. Over two dozen of them approved for sale by the administration of Narendra Modi, the incumbent prime minister who appeared on course for re-election as The Economist went to press, remain stuck in bureaucratic limbo because he did not want to anger powerful trade unions and politically connected suppliers ahead of the poll. It should let them go. Or let them quietly die. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.stealth[stelθ]:n. 秘密行动, 秘密, 鬼祟 [法] 秘密行动, 鬼祟 
@@ -81,4 +82,6 @@
 62.limbo['limbәu]:n. 地狱边缘, 监狱, 忘却 [法] 监狱, 拘禁, 忘却 
 63.supplier[sә'plaiә]:n. 供应者, 供给国, 供应商 [化] 承制厂; 供应厂商 
 64.quietly['kwaiәtli]:adv. 安静地, 沉着地, 秘密地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

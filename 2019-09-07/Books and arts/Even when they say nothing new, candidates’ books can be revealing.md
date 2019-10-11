@@ -13,6 +13,7 @@
 Her fellow ex-prosecutor, Amy Klobuchar, has produced a much stranger book. She calls herself (and her book) “The Senator Next Door”, which, like the cover image of her with a cup of coffee and a newspaper, is meant to convey everyday relatability. And indeed, Ms Klobuchar did have a modest upbringing. Yet her prose seems most alive when she is listing the impressive jobs held by her friends or rehashing old grievances. Readers will learn the names of the school principal who sent her home in fourth grade for wearing trousers, of the neighbours who failed to chain their scary dog and of a teacher who predicted an average future because young Amy coloured in a bunch of grapes poorly. 
 Pete Buttigieg, Cory Booker and Marianne Williamson have written kinder books. Mr Buttigieg says he would have been a novelist had he not run for office, and it shows in his eye for character and detail in “Shortest Way Home”. Mr Booker defies literary conventional wisdom: making nice people interesting is notoriously hard, and even harder when the nice person himself is narrating, but in “United” Mr Booker comes across as both generous and a shrewd observer. He seems to lack ruthlessness, which speaks well of him as a man but less so as a contender. 
 Ms Williamson does not lack ruthlessness so much as experience, attention to detail and (in “A Politics of Love”) an ability to speak in anything other than patchouli-scented clichés. “Spirituality is the path of the heart” and “love is the nutrition of the gods” are phrases more worthy of a fortune cookie than of a would-be president. As for her plea to “break free of the rationalism constraining our politics”, the current occupant of the White House has accomplished that neatly already. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.prose[prәuz]:n. 散文 v. 写散文 a. 散文的, 平凡的 
@@ -116,4 +117,6 @@
 99.constrain[kәn'strein]:vt. 强迫, 限制, 关押 
 100.occupant['ɒkjupәnt]:n. 占有者, 居住者, 占用者 
 101.neatly['ni:tli]:adv. 整洁地, 干净地, 匀称地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 Here, he worked fast. Incipient panics got short shrift: “No tsunami seen in Banggai. Please don’t spread hoaxes.” Fake images were denounced. (“This eruption is in South America. Ignore and don’t spread.”) Talk of “portents” was firmly shot down. (“The mountain peak is clouded with altocumulus lenticularis…due to a whirlwind at the top…No connection with mysticism or politics ahead of the election.”) As a result, he helped Indonesians feel safer. Jokowi, the president, publicly praised him, which was almost as good a moment as when he at last met the singer Raisa, on whom he had such a crush that he included her Twitter handle in more than 90 of his disaster tweets. He claimed his only motive was to get them retweeted to her 8m followers. Of course! 
 With all this whirling round him, he was also cheerfully facing disaster of another sort. In 2018 he was diagnosed with Stage 4 lung cancer, though he had never smoked. He could not have foreseen it; Nature was unpredictable. Science helped him understand it, but could not cure it. Allah had planned it, just as He had planned that others should die in earthquakes and tsunamis. Many Indonesians, he had discovered, found it more comforting to think that way. So, after the first cruel shock, did he. His tweets of destroyed places now included MRI scans of his lungs. 
 Among the 350 people he had not been able to save from Merapi was the guardian of the mountain. Slowly, his house had filled up with grey ash. Before the rest of the villagers made their way down to safety, he simply told them his time had come to go. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.volcanoe[]:[网络] 狙击步枪；火山的 
@@ -95,4 +96,6 @@
 80.Allah['ælә]:n. 安拉 
 81.mri[]:abbr. 核磁共振成像（Magnatic Resonance Imaging）；机读信息（Machine Readable Information）；中等度肾功能不全（Moderate Renal Insufficiency） 
 82.guardian['gɑ:diәn]:n. 看守者, 监护人, 保护人 a. 保护的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 ![image](images/20190615_EUC230.png) 
 The governing parties face dilemmas balancing climate protection with their traditional economic goals. The CDU wants to avoid harming industry, already smarting from high energy prices, and is wary of the powerful motorists’ lobby. The SPD fears for its industrial voter base. Many of the coal mines earmarked for closure lie in Germany’s east, where the hard-right Alternative for Germany is popular. 
 All this bolsters the Greens, with their crystal-clear pitch, made from the safety of opposition. The party gains from voters’ climate worries, but also from their frustration with a fractious coalition. Yet its success in soaking up votes from across the political spectrum hints at shaky foundations. It cannot remain all things to all voters. “We know our support is fragile,” says Kerstin Andreae, a Green MP. The party’s influence, however, is not. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.coalition[.kәuә'liʃәn]:n. 结合体, 结合, 联合 [经] 联合, 联盟 
@@ -84,4 +85,6 @@
 69.kerstin[]:n. (Kerstin)人名；(瑞典)谢斯廷；(德、英)克斯廷 云芝多糖k 
 70.andreae[]:n. (Andreae)人名；(德)安德烈埃 
 71.MP[]:国会议员, 下院议员 [计] 宏处理程序, 维护程序, 线性规划, 微程序, 多处理器 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 Boris Johnson, who succeeded Theresa May as prime minister midway through the tanker crisis, has adopted a confrontational position towards the EU regarding Brexit. He has also courted Mr Trump, who is holding out the prospect of a post-Brexit trade deal to help cushion the British economy. 
 That leaves Britain’s Iran policy in a parlous position. Should Mr Johnson keep siding with the Europeans, he may anger America, risking the promise of a trade deal. But if he backs Mr Trump and heaps pressure on Iran, he could cause the collapse of the nuclear deal and a spat with Europe. “You can’t maintain that post-Brexit you’ll be a loyal ally of European nations in matters of security and ditch 20 years of Iran policy by moving over to the American side,” says Sir Richard Dalton, Britain’s ambassador to Iran in 2003-06. 
 So far Mr Johnson has sought a balance. Whereas Mrs May tried to organise a European security mission for the Gulf, Mr Johnson signed up to an American-led scheme. John Bolton, Mr Trump’s national security adviser, noted with pleasure that the choice “reflects a change from the prior government”. But the Adrian Darya 1’s release shows that even Mr Johnson is unwilling to break with Europe and join Mr Trump in throttling Iran. At least not yet. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.geopolitic[,dʒi:әjpә'litik]:a. 地理政治学的 
@@ -90,4 +91,6 @@
 75.bolton['bәultәn]:a. 可用螺栓固定的 
 76.adviser[әd'vaizә]:n. 顾问, 劝告者, 指导教师 [法] 顾问, 劝告者 
 77.throttle['θrɒtl]:n. 节流阀, 节气阀, 喉咙 vt. 扼喉咙, 使窒息, 压制, 使节流 vi. 窒息, 节流, 减速 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

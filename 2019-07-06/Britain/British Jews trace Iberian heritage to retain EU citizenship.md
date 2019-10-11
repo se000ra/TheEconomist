@@ -9,6 +9,7 @@
 Among their reasons for wanting an EU passport before Brexit, some Sephardim cite concerns about rising anti-Semitism. Dr Rachamim believes the referendum unleashed racism that had been simmering under the surface. “Even though the Holocaust didn’t directly affect my family, I always felt there was this thread of fear that it would happen again,” she says. 
 Britain’s equality watchdog is investigating whether the opposition Labour Party illegally discriminated against Jews. Jewish leaders recently condemned the party’s “disgraceful step backwards in its half-baked ‘fight’ against anti-Semitism,” after it readmitted (and later re-suspended) Chris Williamson, an MP accused of showing prejudice towards Jews. 
 Portuguese Jewish groups advertise what they say is a friendlier environment in their country. The Jewish Community in Porto claims there is “no anti-Semitism in the city”, making it perhaps the “best safe haven for Jews in Europe.” Mr Mendoza, a ninth-generation Londoner, is wary of such language, noting that it could even inadvertently reinforce anti-Semitic tropes which cast Jews as rootless wanderers. “My family unpacked their bags over 300 years ago. It sounds a little bit hysterical to me, to be honest,” he says. Most Sephardim claiming citizenship in Iberia come from countries such as Turkey or Venezuela, where political conflict is of a different order to that in Britain. “The whole world is very strange at the moment,” he concedes. “But for Jews, England has been, since the times of Cromwell, a good place to live.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Portugal['pɒ:tʃugl]:n. 葡萄牙 
@@ -82,4 +83,6 @@
 69.Venezuela[,vene'zweilә]:n. 委内瑞拉 
 70.concede[kәn'si:d]:vt. 承认, 退让 vi. 让步 
 71.cromwell['krɔmwәl]:n. 克伦威尔（姓氏） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

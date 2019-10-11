@@ -9,6 +9,7 @@
 The restructuring is a start in itself. The four core businesses notionally returned 1.7% last year and the bad bank, much of which Deutsche hopes to run off briskly, lost 6%. A more stable business model should mean lower funding costs. Still, an 8% return might be the bare minimum that shareholders expect. According to the European Banking Authority, a supervisor, four-fifths of European banks estimate their cost of equity to be above that mark. Even at a spruced-up Deutsche, costs will soak up 70% of revenues. That beats today’s 90%-plus, but the best banks do far better. 
 The targets may also be hard to hit. Granted, Deutsche has met Mr Sewing’s cost-cutting goals so far; and he says his projection for revenue growth is “conservative”, just 2% a year. But European banking is far from lucrative. Interest rates are rock-bottom and growth is slow. Worse, in Germany an army of public-sector and co-operative banks tussle for the custom of savers and companies. Michael Rohr of Moody’s notes that Deutsche’s revenues have dropped since its last strategic revamp, in 2015. Quitting equity trading, he adds, makes Deutsche’s investment bank even more reliant on fixed income, where fee pools have been shrinking. 
 Sensible as Mr Sewing’s plan looks, because Deutsche has fallen short so often investors will take some convincing. After it was unveiled, the share price fell to new lows, of just a fifth of net book value. “It is different this time,” Mr Sewing told journalists on July 8th. It has to be. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.threadbare['θredbeә]:a. 衣服磨薄了的, 穿旧了的, 衣着褴褛的, 俗套的, 乏味的 
@@ -67,4 +68,6 @@
 54.reliant[ri'laiәnt]:a. 依赖的, 信赖的 
 55.investor[in'vestә]:n. 投资者 [经] 投资者 
 56.unveil[.ʌn'veil]:vt. 揭开, 揭幕, 除去...的面纱 vi. 显露, 除去面纱 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

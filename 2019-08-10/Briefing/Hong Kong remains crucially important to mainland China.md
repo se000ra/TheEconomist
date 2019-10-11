@@ -33,6 +33,7 @@
 A hopeful scenario does exist for Hong Kong. According to an adviser to Mrs Lam, if the streets grew calm it would be possible to imagine the government presenting once more a package of political reforms that it first offered five years ago. It would include allowing universal suffrage in choosing the chief executive. In 2014 democrats in the legislature rejected the package, partly because, in effect, only party-approved candidates would be allowed to run. This time, says Anson Chan, a former chief secretary who now backs the democratic cause, a deal could be done, so long as a timetable for universal suffrage were agreed. Mrs Lam should consider this option. After all, her crisis of legitimacy comes, at heart, from not being elected by Hong Kong. All her unelected predecessors ended their terms in failure too. 
 Indeed, some democrats are urging hothead protesters to rethink their tactics. Attacking police stations, they say, just plays into the hands of the authorities. A more valuable battleground is emerging: elections for the territory’s district councils in November. While ordinarily such elections have to do with matters such as rubbish collection and bus lanes, in the current climate they will be a referendum on political values. Unless democrats move from the streets to the campaign stump, says Kevin Yam, a lawyer and columnist, the pro-establishment camp, whose grass-roots organisations in housing estates and the villages of the New Territories is funded by the central liaison office, risks dominating. Should that camp win, Mr Yam argues, it will say: “you see, we [not you] are the silent majority.” 
 If the violence continues, avenues for peaceful advocacy and dissent will be blocked by one side or the other. At best this scenario would entail a long tearing of Hong Kong’s social fabric and a relentless decline in the territory’s economy. At worst it could mean the end of Hong Kong as it has long been imagined, as soon as the armoured anti-riot vehicles roll out of the garrison compound. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.turmoil['tә:mɒil]:n. 骚动, 混乱 
@@ -222,4 +223,6 @@
 185.advocacy['ædvәkәsi]:n. 拥护, 支持, 鼓吹, 辩护, 辩护术 [法] 辩护, 拥护, 提倡 
 186.relentless[ri'lentlis]:a. 无情的, 冷酷的, 残酷的 
 187.armour['ɑ:mә]:n. 甲胄, 装甲, 潜水服 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

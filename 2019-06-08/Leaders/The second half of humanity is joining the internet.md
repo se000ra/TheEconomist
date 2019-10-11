@@ -9,6 +9,7 @@
 Despite these firms’ punchy valuations, they are still looking for sustainable business models. Reliance Jio, an Indian firm, has sunk $37bn into building a high-speed mobile network and acquiring a big base of mostly poor users. Each Facebook user in Asia generates only $11 of advertising revenue a year, compared with $112 for a North American one. The combined revenue of all the internet firms in emerging markets (excluding China) is perhaps $100bn a year. That is about the same size as Comcast, America’s 31st-biggest listed firm by sales. 
 Nonetheless, the impact of these firms on business will get bigger in two ways. First, they will grow fast—although whether fast enough to justify their valuations remains to be seen. To maximise their chances, many are offering not just a single service (such as search or video), as Western firms tended to in their early years, but a bundle of services in one app instead, in the hope of making more money per user. This approach was pioneered in China by Alibaba and Tencent. Go-Jek in Indonesia offers ride-hailing, payments, drug prescriptions and massages. Facebook is pushing a digital payments system in India through its chat service, WhatsApp (see article). 
 The second is that in the emerging world, established firms are likely to be disrupted more quickly than incumbents were in the rich world. They have less infrastructure, such as warehouses and retail sites, to act as a barrier to entry. Many people, especially outside the big cities, lack access to their services entirely. Beer, shampoo and other consumer-goods firms could find that as marketing goes digital, new insurgent brands gain traction faster. Banks will be forced to adapt quickly to digital payments or die. Viewed this way, there is a huge amount of money at stake—the total market value of incumbent firms in the emerging world, outside China, is $8trn. If you thought the first half of the internet revolution was disruptive, just wait until you see the second act. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.humanity[hju:'mæniti]:n. 人性, 人类, 博爱 
@@ -75,4 +76,6 @@
 62.insurgent[in'sә:dʒәnt]:a. 谋叛的, 起义的, 澎湃的 n. 起义者, 叛乱者 
 63.traction['trækʃәn]:n. 曳, 牵引, 牵引力 [医] 牵引 
 64.disruptive[dis'rʌptiv]:a. 分裂的, 破坏(性)的 [计] 击穿的, 中断的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

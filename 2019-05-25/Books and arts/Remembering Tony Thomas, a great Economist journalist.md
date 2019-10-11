@@ -9,6 +9,7 @@
 In London, as Business Affairs editor for six years, he kept a spike in his office to receive poor copy. (Ever the country boy, he also killed a stray mouse with it.) He wrote an enthusiastic survey on golf, ran Books & arts, and with the then-editor, Rupert Pennant-Rea, a soft Harare man, introduced a sports page. Its failure disappointed him. But then, at Books & arts, he was already doing “the best job on the paper”. 
 Meanwhile he used his clear eye, first, to turn writers’ dross into good vigorous prose, and second to spot young talent when it turned up. Several of today’s senior editors were hired by him. He took pride in that, and them. 
 His move to a whitewashed cottage in Crickadarn in 1998 seemed sudden, prompted by a cancer prognosis that he delightedly outlived by many years. But Wales was the land his great-grandparents had left for southern Africa; and there he turned his voracious appetite for life to becoming an honorary Welshman. He was a vice-president of the Erwood agricultural show, grew vegetables of prize-winning size, was teaching himself Welsh and found in Mattie (short for Matabele), a spirited Welsh springer, the perfect dog. But, like any journalist worth their salt, he loaded the sofa at weekends with every decent London paper he could get. For though he might have left the world of news, it, like The Economist, never left him. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tony['tәuni]:a. 高贵的, 时髦的 
@@ -60,4 +61,6 @@
 47.Mattie['mæti]:n. 马提（男子名）；玛蒂（女子名） 
 48.Matabele[,mætә'bi:li]:n. 马塔贝列人(居住在非洲津巴布韦的祖鲁人)(亦作Matabeli, Matabili) 
 49.springer['spriŋә]:n. 跳的人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

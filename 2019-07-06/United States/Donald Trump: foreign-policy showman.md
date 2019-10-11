@@ -11,6 +11,7 @@
 The only way the president looks able to unlock the dramatic progress he craves, on any of these fronts, would be by making further concessions: for example, by agreeing to a weak trade pact with China or a replica of Mr Obama’s Iran deal. Yet he could in that case expect a backlash from within his own party. Marco Rubio, one of several Republican senators who consider foreign policy a safe space from which to criticise the president, called the concessions on Huawei a “catastrophic mistake”. 
 This reflects a broader dilemma for Mr Trump. Because he now has little prospect of expanding his support—beyond the large minority of Americans who are not offended by him—he must at all costs keep the Republican coalition together. He is therefore constrained by politics as well as the poor progress of his deal-making efforts: both are stuck. The daily controversies Mr Trump generates, including this week’s Trump show on the steps of the Lincoln Memorial, are meant to mask that reality. 
 It is depressing how well the tactic is working. By rising to the daily bait, Mr Trump’s opponents are doing as he is: whipping up their supporters, without in any way impressing the other side. To be fair, it is hard not to be thus riled; the controversies Mr Trump stirs, including over his politicising of Independence Day, are often real scandals. Yet his critics risk losing sight of his actual record. It suggests an administration that is less unstable than many believe; but one with weak support and signature policies, fully 18 months out from an election, that are mostly running into the sand.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lexington['leksiŋtәn]:n. 列克星敦市（位于美国肯塔基州） 
@@ -126,4 +127,6 @@
 111.supporter[sә'pɒ:tә]:n. 支持者, 后盾, 迫随者, 护身织物 [法] 支持者, 赡养者, 抚养者 
 112.rile[rail]:vt. 搅浑, 惹怒, 使焦急 
 113.fully['fuli]:adv. 十分地, 完全地, 充分地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

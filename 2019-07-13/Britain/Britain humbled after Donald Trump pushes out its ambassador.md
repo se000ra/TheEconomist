@@ -14,6 +14,7 @@
 Britain is also at loggerheads with Iran. On July 4th it seized a tanker off Gibraltar that it suspected of smuggling Iranian oil to Syria, provoking threats of retaliation. Sure enough, a week later three Iranian vessels tried to impede a British tanker as it sailed out of the Gulf, before the Royal Navy’s HMS Montrose drove them away. 
 The contrast with France is striking. As Britain waits by the EU’s exit door and focuses on its leadership contest, President Emmanuel Macron has not been idle. He largely got his way in the recent share-out of top EU jobs. And on July 6th he agreed with Iran’s president, Hassan Rouhani, on conditions for talks to save the nuclear deal of 2015, the Joint Comprehensive Plan of Action (JCPOA). Britain’s Foreign Office merely says it is “co-ordinating with other JCPOA participants regarding the next steps under the terms of the deal”. 
 The trade secretary, Liam Fox, is meant to be paving the way for a future deal with America, but in Washington this week he had a front-seat view of how fraught handling this administration might be. Rolling out the red carpet for Mr Trump in London last month did not change that (just as Sir Kim predicted). Nor would having a Brexiteer as the next ambassador. The EU, meanwhile, has been busy doing actual trade deals: its pact with Japan came into force in February and last month it reached agreements with Mercosur, a big Latin American trade club, and Vietnam. Global Britain has a lot of catching up to do. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -102,4 +103,6 @@
 84.pact[pækt]:n. 契约, 协定, 条约 [化] 合同 
 85.mercosur[]:abbr. Mercado Comun del Sur 南方共同市场 
 86.Vietnam[.vjet'næm]:n. 越南 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 What’s not to like? Mr Zuckerberg’s initiative, which has been cooking in Menlo Park for 18 months, has two problems (see article). First, it could disturb the stability of the financial system. America’s biggest bank, JPMorgan Chase, has 50m digital clients. Libra could easily have ten times that number. Were every Western depositor to move a tenth of their bank savings into Libras, its reserve fund would be worth over $2trn, making it a big force in bond markets. Banks that suddenly saw lots of deposits leave for Libras would be vulnerable to a panic over their solvency; they would also have to shrink their lending. And the prospect of huge sums flowing across borders will worry emerging countries with a fragile balance of payments. 
 That is where the second danger comes in: the Libra’s governance. It will be run by a Swiss association, initially controlled by the consortium, a bit like James Bond’s nemesis, SPECTRE. It will be independent of Facebook, though the social-media firm will supply lots of Libra users and could end up holding sway. Though Facebook says it is talking to regulators, the assumption seems to be that Libra can ultimately transcend governments and central banks. Facebook also promises that it will safeguard users’ data. Caveat emptor. 
 Mr Zuckerberg used to move fast and break things. This time he is moving slowly and giving advance notice. But that cannot disguise how, though digital money has the potential to change the world for the better, it could also do a lot of harm. Governments let social media run riot. Facebook is about to discover that they will not make the same mistake with money.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.libra['laibrә]:n. 磅, 天秤座 [医] 磅 
@@ -78,4 +79,6 @@
 65.zuckerberg[]:扎克伯格 
 66.cannot['kænɒt]:aux. 无法, 不能 
 67.riot['raiәt]:n. 暴动, 喧闹, 放纵 vi. 发动, 暴动, 纵情, 放荡 vt. 浪费, 挥霍 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -10,6 +10,7 @@
 Perhaps the most intriguing finding concerns Brexit. There is a strong association between a ward’s position on the new index and its vote to leave. The correlation is more than three times stronger than that between the Leave vote and the conventional deprivation-index ranking. This could bolster the argument of those who reckon cultural and social factors—as much as economic ones—determine people’s satisfaction with the status quo. 
 Bartley Green is typical. It is only six miles from central Birmingham but the bus journey takes at least half an hour. Buses have been cut and there are two pubs where once there were six, says John Lines, a councillor. Laura Smith was a youth worker until her job was axed. Now, she says, “there’s nothing for the kids”. Her disabled daughter is due to start at school this week, but she is still waiting for a place on the bus to be confirmed. “If we have to take taxis, it’s £30 [$37] a day.” Only 27% of voters turned out in the last local election. In the Brexit referendum, two-thirds voted Leave. 
 The data do not capture everything. In Bartley Green, volunteers have enabled the library to expand from opening one day a week to two days. They run coffee mornings and sewing classes and use social media to encourage the isolated to join in. In the Henley ward of Coventry, another left-behind place, locals were so riled by the negative publicity of their billing on the multiple-deprivation index that they made a calendar with pictures of their community groups, like armchair exercise classes for the elderly. Such places might lack many amenities that other Britons take for granted, but they are not short of pride. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.banlieue[bɑ:n'ljә]:n. 郊区 
@@ -65,4 +66,6 @@
 51.publicity[pʌb'lisiti]:n. 名声, 宣传, 公开场合 [经] 宣传, 广告 
 52.billing['biliŋ]:n. 节目次序, 广告 [经] 开票(发票,帐单) 
 53.Briton['britәn]:n. 大不列颠人, 英国人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

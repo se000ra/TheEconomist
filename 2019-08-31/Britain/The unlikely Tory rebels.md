@@ -11,6 +11,7 @@
 The rebels should be under no illusion about how difficult their job is. This is not a normal government. It is dominated by brutal ideologues who will use any smear (“traitor”, “collaborator”, “fifth-columnist”) to defeat their opponents. On August 28th Mr Johnson made the extraordinary move of asking the queen to suspend Parliament from September 11th to October 14th, in an attempt to reduce the number of days that MPs have to prevent a no-deal exit on October 31st—a move that Mr Hammond described as a “constitutional outrage” and “profoundly undemocratic”. 
 But the rebels have two important things on their side. The most obvious is numbers. Suspending Parliament is a sign of Mr Johnson’s weakness, not his strength. The prime minister has a working majority of only one. The bulk of MPs are opposed to a no-deal Brexit. And Parliament has a good record of winning its battles with the executive. Mrs May lost three times, despite throwing all the government’s time and resources for two years behind getting her deal through. The second thing on the rebels’ side is fear. Several senior members of Mr Johnson’s government are privately terrified that his “do or die” tactics may sink the economy and destroy the Conservative Party for a generation. As Brexit day approaches and the pound sinks, bankruptcies rise, shortages loom and civil disorder resumes in Northern Ireland, the people who crack may not be the Europeans but some unexpected Johnson loyalists. 
 The rebels’ deeper problem is what happens to them after October 31st. The Eurosceptics reshaped British politics because they had a single aim and unflinching determination. The Euro-moderates are united on little other than preventing no-deal. Some want a second referendum to overturn Brexit, some want a version of Mrs May’s deal, and some may even want a long-term realignment of politics which would consign the Brexiteers to a party of their own. The alliance could easily fracture as rapidly as it has formed. It is worryingly easy to lose control of a party to the men and women of conviction. It is much more difficult to win it back. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Bagehot[ˈbædʒət]:白芝浩；巴杰特（人名） 
@@ -111,4 +112,6 @@
 96.consign[kәn'sain]:vt. 交付, 储蓄, 委托, 寄存 [经] 托卖, 寄存, 寄销 
 97.fracture['fræktʃә]:n. 破碎, 骨折 v. (使)破碎, (使)破裂 
 98.worryingly['wʌrɪɪŋlɪ]:adv. 焦虑地, 烦恼地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

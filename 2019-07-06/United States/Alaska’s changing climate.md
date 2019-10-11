@@ -8,6 +8,7 @@
 Climate change is also affecting how trees and other plants release pollen. Rising temperatures and increasing atmospheric carbon-dioxide concentrations are intensifying pollen seasons, much to the chagrin of allergy sufferers. In Alaska, where temperatures are warming at twice the national average, the change is getting up people’s noses. “Increased carbon dioxide will drive pollen levels,” says Jeffrey Demain of the Allergy, Asthma and Immunology Centre of Alaska, who began pollen counts here nearly 25 years ago. His clinic treats patients with especially pernicious pollen-related symptoms. 
 More carbon dioxide in the atmosphere spurs plant growth. The pollen season is extending as well. Trees release pollen in the spring after a short stretch of frost-free days. Because the last frosts of spring are occurring earlier in the year, trees are blasting out pollen earlier as well. And because warming temperatures are keeping autumn frosts at bay later into the year, plants continue to release pollen for weeks longer than in years past. And in Alaska, where trees are moving north into formerly treeless landscapes, the geographic reach of pollen is changing. 
 Already this year, Alaska has seen record temperatures, more than 20 degrees Celsius (40 degrees Fahrenheit) above normal. And each year atmospheric carbon dioxide concentrations increase. While spruce pollen is irritating to local residents, the massive pollen release could be a boon to the region’s forests, which have been decimated in recent years by beetle and aphid infestations brought on by rising temperatures. The yellow mist rising from the trees looks like an indicator of a rapidly changing environment, which is leaving its mark on human health, local forests and the tideline. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -63,4 +64,6 @@
 51.infestation[.infe'steiʃәn]:n. 骚扰, 大批出没, 横行 [医] 侵染, 感染 
 52.indicator['indikeitә]:n. 指示器, 指示剂, 指标 [计] 指示器 
 53.tideline[]: （海滩上的）潮汐线 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

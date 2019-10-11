@@ -11,6 +11,7 @@
 Ms Lagarde’s comments over the years suggest that she will steer broadly the same course as Mr Draghi. She supported his pledge to do “whatever it takes” to preserve the euro and was an early advocate of quantitative easing, says Andrew Benito of Goldman Sachs, an investment bank. 
 But can she make the weather, rather than be shaped by it? Whereas Ms Lagarde’s role at the fund is broad—she would opine on matters ranging from global inequality to sexual harassment—her new job is narrower, and more technical. Mr Draghi may have been able to make bold policy calls because he understood markets and economics so well. 
 All this makes the team at the bank more important. But Ms Lagarde joins its six-strong executive board just as it sheds expertise. When she starts in November, the board will have as many lawyers as economists. Like her, Luis de Guindos, the vice-president who joined last year, is a former minister with no prior monetary experience. Benoît Cœuré, the Frenchman in charge of market operations, leaves in December. Philip Lane, the chief economist and a former academic, may find himself deploying a powerful hand on the tiller. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.christine['kristi:n]:n. 克莉丝汀（女子名） 
@@ -77,4 +78,6 @@
 62.philip['filip]:n. 菲利普（男子名） 
 63.deploy[di'plɒi]:v. 展开, 配置 
 64.tiller['tilә]:n. 耕种者, 分蘖 vi. 分蘖 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -15,6 +15,7 @@
 Last year the Lanka Microfinance Practitioners’ Association, a group of established lenders, published a code of conduct. This covers basics, such as checking how many loans a prospective borrower already has and stating the interest rate upfront. But the code is voluntary and covers only the group’s 66 members; it thinks there are at least 5,000 unregulated firms. Worried about damage to its reputation from predatory lending, it wants the authorities to oversee all firms. A Microfinance Act, introduced in 2016 after ten years of lobbying, is weak, covering only deposit-taking lenders. Just three are registered under it. A Credit Regulatory Act is being written but could take two years to pass. 
 Last year the government wrote off business loans of up to 100,000 rupees given to women in drought-affected areas and capped interest rates at 35%. But the relief applied only to each person’s biggest loan from a registered lender. Enforcing the cap fell to borrowers, few of whom knew about, let alone understood, the rule. 
 One-off measures will not do, says Ms Bansal: Sri Lanka needs properly enforced rules that prevent over-indebtedness and ensure fair treatment of borrowers. Until then, microfinance will be a cause not for hope but for despair. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.microfinance[]:n. 小额信贷 
@@ -85,4 +86,6 @@
 66.oversee[.әuvә'si:]:vt. 向下看, 了望, 监督, 偷看到 [法] 监察, 监督, 俯瞰 
 67.lobby['lɒbi]:n. 大厅, 休息室, 游说议员者 vi. 游说议员, 游说 vt. 游说 
 68.regulatory['regjulәtәri]:a. 受控制的, 统制的, 调整的 [经] 规则的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

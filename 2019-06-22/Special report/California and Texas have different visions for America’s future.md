@@ -21,6 +21,7 @@
 That may not hold for ever. Texas is already changing. “Outsiders think Austin is a blue bubble and the rest of Texas is tumbleweeds,” says Ann Beeson of the Centre for Public Policy Priorities, a left-leaning think-tank. “People have a huge misunderstanding of how giant, progressive and diverse our cities are.” 
 Nor should California, which frequently creates political winds that then sweep across the country, be discounted. It experienced an anti-tax backlash in the 1970s and an anti-immigrant push in the 1990s, both of which spread nationally. It legalised abortion six years before Roe v Wade, the historic Supreme Court decision, in a bill signed by Reagan, then governor. “So much of what we aspire to as a country resides in California,” says Austin Beutner, a former businessman who is superintendent of Los Angeles Unified School District. “Laws go east to west. Values go west to east.” 
 Much of America’s future rides on California’s and Texas’s success. This special report will look in detail at how the states are approaching business, taxation, public education, social welfare, the environment, and policies toward immigrants. It will ask which state’s model is likely to prove more fruitful in the long term. “There are 50 labs in the United States, and you can watch the California and Texas experiment,” says Ross Perot junior, a successful Texan businessman. “That’s the American way.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.California[.kæli'fɒ:njә]:n. 加利福尼亚 
@@ -152,4 +153,6 @@
 127.taxation[tæk'seiʃәn]:n. 课税, 征税, 抽税, 税款, 估定的税额 [经] 征税, 纳税, 税制 
 128.ros[]:abbr. 只读存储器（Read-Only-Storage）；活性氧（Reactive oxygen species） 
 129.Perot[]:佩罗（人名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 ![image](images/20190907_FNC687_1.png) 
 If yields predict returns, that might seem to imply that astute investors can sell stocks when yields (and expected returns) are low and buy them back when yields are high. In practice, the signal from yield is too weak to be relied upon to catch turning points profitably. But what matters to a lot of investors is not so much what stocks will return in the short run, but how much extra they will return over safe bonds in the long run. This extra reward is the equity risk premium—and to Mr Cochrane’s way of thinking the discount rate, the risk premium and the expected return on equities “are all the same thing”. One forward-looking measure of the equity risk premium shows a wide variation over time (see chart). Investors with a long-term horizon might profitably use such variations to decide on the mix of risky stocks and safe bonds to hold in a portfolio. The higher the risk premium on stocks, the more the odds favour investors tilting their portfolio away from bonds. 
 A question for academic research is why exactly expected returns (or, if you prefer, discount rates) on stocks vary so much. One explanation is that, as memories of the previous market crash fade, people get more comfortable owning equities—until the next bear market makes them rethink. In his address Mr Cochrane argued that in a market slump a typical investor is inclined to ignore the high premiums offered by stocks because he fears for his job. The correlation between employment income and stock prices is to blame. Future returns are remarkably hard to predict. Yields may only be a weak guide to them; but they are the best we have.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.buttonwood['bʌtnwʊd]: 美洲悬铃木 
@@ -51,4 +52,6 @@
 36.slump[slʌmp]:n. 暴跌, 垂头弯腰的姿态 vi. 猛然掉落, 陷入, 衰落(经济等) 
 37.correlation[.kɒrә'leiʃәn]:n. 相互关系, 相关, 关联 [医] 相关, 联系 
 38.remarkably[ri'mɑ:kәbli]:adv. 显著地, 引人注目地, 非常地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -13,6 +13,7 @@
 Such uncertainties magnify the dangerous risk: the use of force in space. America’s unparalleled ability to project force on Earth depends on its extensive array of satellites. Other nations, knowing this, have built anti-satellite weapons, as America has itself (see Briefing). And military activity in space has no well-tested protocols or rules of engagement. 
 America, China and India are rapidly increasing their destructive capabilities: blinding military satellites with lasers, jamming their signals to Earth or even blowing them up, causing debris to scatter across the cosmos. They are also turning their armed forces spaceward. Mr Trump plans to set up a Space Force, the first new branch of the armed forces since the air force was created in 1947. On the eve of the annual Bastille Day military parade on July 14th Emmanuel Macron, France’s president, also announced the formation of a new space command. 
 It is a mistake to promote space as a romanticised Wild West, an anarchic frontier where humanity can throw off its fetters and rediscover its destiny. For space to fulfil its promise governance is required. At a time when the world cannot agree on rules for the terrestrial trade of steel bars and soyabeans that may seem like a big ask. But without it the potential of all that lies beyond Earth will at best wait another 50 years to be fulfilled. At worst space could add to Earth’s problems.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.exploration[.eksplә'reiʃәn]:n. 探险, 踏勘, 探测 [医] 探察 
@@ -95,4 +96,6 @@
 78.cannot['kænɒt]:aux. 无法, 不能 
 79.terrestrial[tә'restriәl]:n. 地球上的人 a. 地球的, 陆生的, 陆地的, 人间的 
 80.soyabean[]:[医] 大豆 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

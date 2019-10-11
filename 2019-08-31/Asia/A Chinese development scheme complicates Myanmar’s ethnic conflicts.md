@@ -10,6 +10,7 @@
 The lessons for a “peace process” that has become an industry, sucking in millions of dollars from international donors and involving no end of foreign experts, are not salutary. The efforts of the country’s putative leader, Aung San Suu Kyi, have been undermined both by the army and by distrust among ethnic groups of her National League for Democracy. Meanwhile, the army’s own Nationwide Ceasefire Agreement of 2015 excludes the biggest militias. Years of broken promises to ethnic groups have not helped. 
 It is a hugely complex mosaic. Ethnic groups with grievances towards an overweening army and state live in overlapping territories. Ethnicities and identities often commingle and change, a process spurred by social media, migration and urbanisation. The economic rackets in both army- and rebel-held areas are predatory and extractive, involving drugs, jade, timber and human-trafficking. The dynamics, as Thant Myint-U, a historian, has put it, are less like Syria today than Chicago in 1926. 
 Persuading Myanmar’s myriad ethnic groups to lay down arms with promises of equitable development will be fiendishly hard. Yet now comes a new dimension: pressure from China to hasten plans, stretching from Shan state to Rakhine, for a China-Myanmar Economic Corridor of roads, railways, pipelines and a port. China wants an outlet to the Bay of Bengal. It claims the investment will be a boon for Myanmar, incentivising peace and development. Yet the corridor runs right through the country’s most restive—and inequitable—areas. And so the northern group’s August attacks may prove a harbinger. Far from helping extinguish Myanmar’s conflicts, Chinese money may simply spray fuel on the fire. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.banyan['bænjәn]:n. 印度榕树 [医] 榕树, 孟加拉榕 
@@ -104,4 +105,6 @@
 90.incentivising[]:[网络] 激励 
 91.harbinger['hɑ:bindʒә]:n. 通告者, 预告者, 先驱, 预兆 vt. 预告, 充做...的前驱 
 92.extinguish[ik'stiŋgwiʃ]:vt. 熄灭, 使消亡, 压制, 使减色 [医] 消灭 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -37,6 +37,7 @@
 An alternative to this approach would be to have companies say what purpose they had beyond shareholder value and then hold them to it. This is the approach Mr Mayer of Oxford recommends for Britain: a legal requirement for companies to have a purpose in their articles of association and provide measures to prove it is being fulfilled. Stating the purpose in such a way as to make it open to such measurement, though, would prove hard. 
 As capitalism takes flak from all sides, it is hard for those in the business and investing class to object to firms voluntarily doing their bit to tweak the system. But when reliable returns are put at risk, things can change. Last year Jason Perez, a police sergeant in Corona, California, had enough. His state could no longer afford wage increases for police and other public servants partly because CalPERS, one of the world’s biggest pension funds, was underfunded. It had also been an early standard bearer for ESG investing. In 2001 it dumped tobacco stocks—which then outperformed. 
 By 2017, CalPERS was underfunded to the tune of $139bn. Its ESG strategy had cost only about $2bn. But Mr Perez took the reasonable view that a couple of billion was real money. “Eleven people in my family are in law enforcement and I had to make sure their pensions were protected,” he says. To that end he campaigned for a board seat at CalPERS on the basis of letting the fund invest in law-abiding, profit-maximising companies purely on the basis of potential returns. Pitted against the fund’s chief ESG guru, Priya Mathur, he won. However companies reset and refine their purposes in the years to come, they will still need to perform for people like Mr Perez.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -264,4 +265,6 @@
 223.priya[]:n. (Priya)人名；(印)普里亚 
 224.mathur[]:n. (Mathur)人名；(德、西、印)马图尔；(英)马瑟 
 225.reset[.ri:'set]:n. 重新设定, 重新组合, 重排版 vt. 重新设定, 重置, 重新组合 vi. 重置, 清零 [计] 重置, 清零 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

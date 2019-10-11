@@ -9,6 +9,7 @@
 The state government wants to lure richer travellers. A convention centre opened in the capital in 2017. People who attend business conferences there spend twice as many nights as do typical tourists and five times as much money per day, says Juan Carlos Rivera, the state’s tourism secretary. Unlike leisure travel, which spikes in winter, conferences are not seasonal. Mr Rivera expects more five-star chains to open alongside boutique hotels. 
 Tourism is unlikely to enrich the poorest citizens. They live in villages far away from resorts and cities. San José del Pacifico is an exception. Nor do tourists help the state budget much. Value-added tax flows to the federal government. A tax on hotels will bring in only 50m pesos ($2.6m) this year, says Alejandro Murat, the governor. 
 Still, Oaxaca is planning for more visitors. The airport is adding more gates and a second floor, enabling more flights. A motorway from the capital to Puerto Escondido, planned since 2006, will open by 2022. That will cut the journey between the state’s two tourist hotspots from seven hours to 90 minutes, says Mr Murat. Tourists will no longer need to take the winding, forested road on which San José del Pacifico sits. For some, the magic mushrooms will still make the trip worthwhile. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.pobre[]:n. (Pobre)人名；(西)波夫雷 
@@ -64,4 +65,6 @@
 51.Puerto[]:n. 垭口, 港口, 山口 n. (Puerto)人名；(西)普埃尔托 
 52.escondido[,eskən'di:dəu]:n. 埃斯孔迪多（美国加利福尼亚州圣迭戈县中西部的一个城市） 
 53.hotspot[]:n. 热区；热点 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

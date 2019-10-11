@@ -7,6 +7,7 @@
 But the Emiratis wanted out even before this crisis. They worry about the reputational costs of a war that has killed tens of thousands of civilians and caused famine and cholera outbreaks. Last month America’s Senate voted to block an $8bn arms deal with Saudi Arabia and the UAE. The war has also caused fissures within the UAE, a confederation of seven emirates. Dubai, the glitzy business hub, is unhappy with the steep financial cost. 
 Many Emiratis feel the fighting has run its course. They are the most important partner in the coalition. Though the UAE’s army is much smaller than Saudi Arabia’s, it is a more capable fighting force. Emirati troops did most of the heavy fighting on the ground in South Yemen, while Saudi jets provided often ineffectual air support. 
 The Houthis are not popular in the south, where locals grate at northern control (South Yemen was a separate state until 1990). It would be much harder to oust the Houthis from the capital, Sana’a, and the northern highlands where their movement originated. The coalition’s offensive has also stalled around the western port of Hodeida, where the UN brokered a tense ceasefire. Unable to advance, the Saudis have of late been looking for a negotiated peace deal, though with little success. Without the support of the UAE, the prospects of a Saudi victory look remote. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.UAE[]:阿拉伯联合酋长国 
@@ -52,4 +53,6 @@
 41.broker['brәukә]:n. 掮客, 经纪人 [经] 经纪人, 掮客 
 42.ceasefire[ˈsi:sfaɪə(r)]:n. （通常指永久性的）停火, 停战; 停火命令 
 43.saudi['sajdi]:a. 沙乌地阿拉伯（人或语）的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

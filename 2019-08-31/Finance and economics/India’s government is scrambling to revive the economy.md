@@ -13,6 +13,7 @@
 Perhaps sensing that this lack of alarm was having the opposite effect on everyone else, the government has unveiled a plethora of measures intended to revive the economy. It relaxed a local-sourcing requirement for foreign retail brands like Apple and IKEA. It unenhanced the foreign-investor surcharge and removed an “angel tax” on the funds raised by startup firms. It will try to revive the car industry by buying more vehicles for its departments. It will urge public-sector enterprises to pay suppliers more punctually and cough up GST refunds within 30 days. 
 To help non-bank lenders, it will enable them to offload more of their assets by guaranteeing a greater quantity of loans that are bundled into securities and sold. Its National Housing Bank will give extra support to illiquid housing lenders. Aided by the handover of 1.7trn rupees ($24bn) in profits and excess capital from the central bank (see article), it will also hasten to inject a previously announced sum of 700bn rupees of fresh capital into public-sector banks. That would, according to S&P Global Ratings, be “sufficient for now”. 
 The response was piecemeal, lacking a grand plan, strategic vision or large-scale mobilisation of public money. But for now, corporate India will settle for a government that has belatedly seen fit to respond to its complaints. In terms Mr Jaitley might have appreciated, this was not a slow-cooked feast that anyone would savour, but a thali, a platter of mixed dishes, offered in the hope of keeping everyone going. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.meagre['mi:^ә(r)]:a. 瘦的, 不毛的, 贫乏的, 贫弱的, 少量的, 力量不够的, 质不高的, 量不足的 
@@ -107,4 +108,6 @@
 90.savour['seivә]:n. 滋味, 气味, 食欲 vi. 有...的滋味 vt. 品味, 加调味品于, 使有风味, 尝到 
 91.thali['tɑ:li]:n. (印度装食物用的)大浅盘 
 92.platter['plætә]:n. 大浅盘, 主菜盘 [计] 底板 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

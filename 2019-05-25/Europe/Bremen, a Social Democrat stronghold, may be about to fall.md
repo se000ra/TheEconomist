@@ -10,6 +10,7 @@
 Bremen has plenty of well-paying jobs in sectors like aerospace, but many workers live and pay taxes in surrounding Lower Saxony, commuting daily into the city. Mr Meyer-Heder says a priority will be to entice them back by redeveloping areas like Neustädter Hafen, a port with a lease that is up for renewal in 2027. Thousands more flats are needed, and a dozen new schools planned. Investment is constrained by Bremen’s vast debts, a legacy of public hiring sprees enacted to help laid-off labourers. But from 2020, a tweak to Germany’s system of redistribution from rich to poor states will channel over €400m ($447m) to Bremen each year, on top of the €700m subsidy it already gets. 
 Mr Meyer-Heder’s likeliest partner in government are the Greens, with the liberal Free Democrats making up the numbers. For his part, Mr Sieling is pushing for a left-wing coalition with the Greens and far-left Die Linke. 
 That is not the only national resonance. Losing Bremen after seven decades would be a “knife to the heart” of the SPD, says Lothar Probst, a local political scientist. Andrea Nahles, the SPD leader, may struggle to keep her job, especially if the party suffers in the European elections too. Rarely can Bremen have roared so loudly. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bremen[]:n. 不来梅港市（德国地名） 
@@ -76,4 +77,6 @@
 62.probst[]: [人名] 普罗布斯特 
 63.andrea['ændriә,ɑ:n'dreiә]:n. 安德里亚（男子名） 
 64.Nahles[]:纳勒斯 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

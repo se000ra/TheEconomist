@@ -8,6 +8,7 @@
 Mr Clifford didn’t light up. At 98, the last surviving worker remains relatively hale and won’t retire. Three days each week he attends to visitors at the monument’s gift shop. Always in blue denim shirt and pale baseball cap, he poses for photographs, although Carolyn, his wife, confides he hates cameras. “I couldn’t be better,” he says, but he declines even handshakes from children or much conversation. The inquisitive are told all their questions have already been answered in his book, on sale for $12. It includes a baseball card. 
 Most wonder about prosaic matters. Was it hard toil? (Yes.) Was he scared, swaying in the wind by Lincoln’s beard or Teddy Roosevelt’s chin? (No, but he was young and less thoughtful.) Did it get unbearably cold? (Never enough to need long underwear.) To those curious about his place in history, he says little. Would he liken himself to those who laboured at Stonehenge, the pyramids or China’s Great Wall? He hasn’t considered it. 
 A ranger addresses one topic he neglects. Mount Rushmore arguably produces the greatest returns of any public project, he tells a small crowd. The grand scheme finished under-budget and earlier than many expected. It cost less than $1m (in 1940s money) and even posted back a $388 surplus to the federal government. The site now draws 2.3m tourists yearly, quite a boon in a rural spot. Visitors may come for centuries yet. After the dust settled, Mr Clifford and his fellow workers left a towering legacy. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.rushmore[]:n. 拉石茂山 
@@ -61,4 +62,6 @@
 49.arguably['ɑ:ɡjuәbli]:adv. 可论证地；可争辩地；正如可提出证据加以证明的那样地 
 50.boon[bu:n]:n. 恩惠 
 51.legacy['legәsi]:n. 祖先传下来之物, 遗赠物 [经] 遗产, 遗赠物 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

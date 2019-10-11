@@ -9,6 +9,7 @@
 In the longer term the picture is blurrier still. Counterintuitively, bans may end up benefiting Bayer. Last month the company announced that it will spend €5bn to research alternatives to glyphosate-based weedkillers. That could position it ahead of rivals when the popular weedkiller is eventually phased out. 
 If, that is, Bayer survives that long. Some investors, including Elliott, a feisty American hedge fund, have called for the company to excise the toxic agribusiness from a healthy drugmaker (Bayer’s original operation). To reassure investors the company’s management is cutting 12,000 jobs and has considered selling its animal-health, sun-cream and foot-care businesses. But it has resisted a full split, having fought hard to combine the two firms. 
 A separation would contain the legal risk to a smaller unit. Analysts at AB Bernstein, a research firm, who recommend a split, point out that research overlap and technology transfer between the health and crop businesses are minimal. Bayer’s valuation is so low that a willing buyer may come forward. Many shareholders may pounce on the opportunity to rid themselves of the migraine. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.remorse[ri'mɒ:s]:n. 懊悔, 良心不安, 自责, 同情 [法] 悔恨, 自责, 懊悔 
@@ -74,4 +75,6 @@
 61.shareholder['ʃєә.hәuldә]:n. 股东 [法] 股东, 股票持有人 
 62.pounce[pauns]:n. 猛扑, 爪 vi. 猛扑, 突袭 vt. 扑住 
 63.migraine['mi:^rein, 'mai-]:n. 严重的周期性偏头痛 [医] 偏头痛 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

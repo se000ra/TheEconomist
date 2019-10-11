@@ -24,6 +24,7 @@
 The decision to expand Trans Mountain could provoke more protests at Burnaby. Alone it will not solve Alberta’s problem. Another pipeline is needed to free producers from factoring the cost of rail transport into prices, says Trevor Tombe of the University of Calgary. The likeliest option is one called Line 3 to Minnesota, which exists but needs replacement. Opposition to that comes mainly from America. Alberta will seethe, but it is unlikely to secede. “Canada exists to try to address some of these challenges,” says Mr Tombe. 
 Although Mr Trudeau has lost recent battles, he could yet win the war. Canada is warming twice as fast as the rest of the world. Voters are starting to notice. The country is already getting rainier, and thus more vulnerable to flooding. Mr Kenney cancelled an event at a petrol station on May 30th to tout the repeal of the carbon tax because wildfires were raging near Edmonton, Alberta’s capital. 
 Nearly 80% of Canadians think pollution pricing should be among the tools their government employs to fight climate change, according to a recent poll by Abacus Data. In the election, it may be that climate alarm will count for more than affordability anxiety. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.wedge[wedʒ]:n. 楔子, 楔形物, 起因, 导致分裂的东西 vt. 楔住, 挤进, 楔入 vi. 楔入, 挤进 
@@ -160,4 +161,6 @@
 132.edmonton['edmәntәn]:n. 埃德蒙顿（加拿大西南部城市） 
 133.abacus['æbәkәs]:n. 算盘 [计] 算盘 
 134.datum['deitәm]:n. 论据, 材料, 资料, 已知数 [医] 材料, 资料, 论据 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -8,6 +8,7 @@
 Strange people are common in football. This is mainly because, as a rule, buying a club is a bad idea if you plan on making money. In the Championship, the second tier of English football, wages swallow 106% of turnover, according to Deloitte, a consultancy. It is little better in League One (confusingly, the third tier), where wages make up 94% of turnover. In 2017, the last year accounts are publicly available, Bury reported a loss of £2.8m from revenues of £4.7m. (By contrast Manchester United, whose ground is a 55-minute hop on a tram from Bury, had a turnover of £590m last year and operating profit of £44m.) 
 Unsurprisingly, dire financial straits are common at the bottom of the football pyramid, where there are smaller crowds and less money is to be made from sponsorship and broadcasting rights. Bury was one of ten sides to become insolvent in 2002, when a TV deal for lower-league clubs fell apart. Since then, English football clubs have entered insolvency proceedings another 27 times. Yet outright collapse is rare. Before Bury, the last club to be kicked out of the league was Maidstone United in 1992. 
 Comebacks are possible. A resurrected Maidstone is clawing its way back up the footballing ladder. Groups of Bury fans have already discussed setting up a “phoenix” club. Bury has a famous history. Until last season it held the record for the biggest FA Cup final victory, with its 6-0 thrashing of Derby County in 1903. If the fans have their way, it may still have a future.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -58,4 +59,6 @@
 46.FA[fɑ:]:(英国)足球协会, 战地救护车, 野战救护队, 野战炮, 野战炮兵, 美术, 急救 [医] 脂肪酸 
 47.thrash[θræʃ]:vt. 打, 使逆行, 胜过, 推敲, 鞭打 vi. 打谷, 痛打, 剧烈扭动, 逆行 n. 打谷, (划水)鞭状动作 
 48.derby['dɑ:bi]:n. 德比(英国中部都市), 德比赛马, 大赛马 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

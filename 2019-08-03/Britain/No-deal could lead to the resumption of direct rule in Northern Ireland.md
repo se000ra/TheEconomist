@@ -10,6 +10,7 @@
 Direct rule would take Northern Ireland right back to where it was two decades ago, before the Good Friday Agreement. That would further exacerbate relations between the British and Irish governments, and would infuriate nationalists in Northern Ireland, where anti-London sentiment is running high. This is partly because nationalists tend to be pro-EU, and partly because they regard the Johnson government, like that of his predecessor Theresa May, not as an impartial arbiter but as an ally of the DUP. There are fears that violence could resume. 
 Mr Johnson’s priorities seem clear enough. While his first contact with the Irish prime minister was confined to that 15-minute phone call, he spent much of an evening in Belfast dining with leaders of the DUP.■ 
 Correction: In “Pastures old” in our issue of July 27th, we accidentally merged two regiments, referring to the “regimental goat of the Royal Welsh Guards”. It belongs to the Royal Welsh, not to the Welsh Guards. Our apologies to both regiments, and the goat. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Brexit[]:[网络] 英国退出欧盟 
@@ -57,4 +58,6 @@
 43.regiment['redʒimәnt]:n. （军队）团, 大量（人或物） v. 组编成团，组织，严格管制 
 44.regimental[.redʒi'mentl]:a. 团的, 附属于团的 n. 团服, 军服 
 45.Welsh[welʃ]:a. 威尔士的 n. 威尔士人 vi. 赖赌帐, 逃避责任 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

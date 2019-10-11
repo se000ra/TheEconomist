@@ -11,6 +11,7 @@
 Despite these efforts, anxiety could turn to alarm, and sluggish growth descend into recession. Three warning signals are worth watching. First, the dollar, which is a barometer of risk appetite. The more investors reach for the safety of the greenback, the more they see danger ahead. Second come the trade negotiations between America and China. This week President Donald Trump unexpectedly delayed the tariffs announced on August 1st on some imports, raising hopes of a deal. That ought to be in his interests, as a strong economy is critical to his prospects of re-election next year. But he may nevertheless be misjudging the odds of a downturn. Mr Trump may also find that China decides to drag its feet, in the hope of scuppering his chances of a second term and of getting a better deal (or one likelier to stick) with his Democratic successor. 
 The third thing to watch is corporate-bond yields in America. Financing costs remain remarkably low. But the spread—or extra yield—that investors require to hold risker corporate debt has begun to widen. If growing anxiety were to cause spreads to blow out, highly geared firms would find it costlier to roll over their debt. That could lead them to cut back on payrolls as well as investment in order to make their interest payments. The odds of a recession would then shorten. 
 When people look back, they will find plenty of inconsistencies in the configuration of today’s asset prices. The extreme anxiety in bond markets may come to look like a form of recklessness: how could markets square the rise in populism with a fear of deflation, for instance? It is a strange thought that a sudden easing of today’s anxiety might lead to violent price changes—a surge in bond yields; a sideways crash in which high-priced defensive stocks slump and beaten-up cyclicals rally. Eventually there might even be too much exuberance. But just now, who worries about that?■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.brace[breis]:n. 支柱, 曲柄, 支撑, 一对 vt. 紧缚, 支撑, 激励 vi. 打起精神 [计] 花括号 
@@ -93,4 +94,6 @@
 78.surge[sә:dʒ]:n. 巨涌, 汹涌, 澎湃 vi. 汹涌, 澎湃, 颠簸, 猛冲, 突然放松 vt. 使汹涌奔腾, 急放 [计] 电压尖峰 
 79.cyclical['siklik(e)l]:a. 周期的, 轮转的, 循环的, 轮列的, 轮卷的, 环状的, 环的, 组诗的, 始末的 [计] 循环的 
 80.rally['ræli]:n. 重振旗鼓, 集合, 群众集会, 跌停回升 v. 重整旗鼓, 集合, 恢复精神, 团结, 挖苦, 嘲笑 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

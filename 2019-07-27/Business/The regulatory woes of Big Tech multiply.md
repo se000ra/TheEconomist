@@ -11,6 +11,7 @@
 This last point in particular worries Republicans. They view these giants as liberal bastions, which will discriminate against right-wing views in efforts to rid their platforms of extreme and hateful content. This month President Donald Trump held a “Social Media Summit” where right-wing bloggers aired their grievances. In a sign of how far critics will go, Peter Thiel, a successful tech investor and sometime defender of Mr Trump, recently speculated that Google had been “infiltrated” by Chinese intelligence services (despite a Trump tweet promising to “take a look”, his administration later dismissed the idea). 
 Whether these are just acts of intimidation ahead of presidential elections next year remains to be seen. If Facebook’s settlement with the FTC is any guide, Big Tech could still emerge mostly unscathed. The large fine and its new privacy bureaucracy notwithstanding, Facebook does not have to change its data-collection practices and is off the hook for any more claims that it violated the previous FTC settlement. 
 In a twist, Microsoft, the world’s most valuable listed firm, with a market capitalisation of over $1trn, has hardly been touched by the techlash. It has learned hard lessons from going through the regulatory wringer at the turn of the century: look beyond the cash cow (Windows); rapaciousness ultimately does not pay; and work with regulators. Another Hemingway quote is less well-known among geeks: “The world breaks everyone and afterward many are strong at the broken places.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.crosshair['krɔ:sheə]: 十字准线, 瞄准线 
@@ -77,4 +78,6 @@
 62.rapaciousness[rәˊpeiʃәsnis]:n. 强夺;贪婪 
 63.Hemingway['hemiŋwei]:海明威(①姓氏 ②Ernest, 1899-1961, 美国小说家, 曾获1954年诺贝尔文学奖) 
 64.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

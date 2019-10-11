@@ -9,6 +9,7 @@
 Mr Basha has been trying to prove that Mr Rama was helped by organised-crime bosses to win the last general election, in 2017. Mr Rama denies it and says he will sue the journalist who is making the allegations in a German paper. On June 17th Mr Basha was in his turn called to answer allegations about illegal party financing. Mr Basha says the charges are false. 
 In 1997 there was a complete collapse of law and order in Albania when citizens seized tanks and forced the then president, Sali Berisha, Mr Basha’s mentor, to resign. Democracy has enough of a foothold to make this very unlikely to happen again; all the same, politics in Albania is a nasty business. The main parties are tied to clans with unsavoury connections. Mr Basha claims that the enemies of organised-crime bosses allied to the Socialists have made overtures to him, which he has rebuffed. “It is not the collusion of government and organised crime, it is a fusion,” he says. But Mr Rama says that if such accusations were true the European Commission would not have recommended the opening of EU accession talks, albeit that EU leaders decided to postpone them. 
 However chaotic the current situation, at least Albania’s courts, under the aegis of the European Commission, are being cleaned up a bit. Judges and prosecutors are being screened for unexplained wealth, links to organised crime and general proficiency. Out of 140 screened so far, only 53 have been given the all-clear. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Albania[æl'beiniә]:n. 阿尔巴尼亚 
@@ -66,4 +67,6 @@
 53.prosecutor['prɒsikju:tә]:n. 实行者, 告发者, 公诉人 [法] 原告, 起诉人, 检举人 
 54.unexplained[]:[法] 未经说明的, 未经解释的 
 55.proficiency[prә'fiʃәns]:n. 精通, 熟练, 精练 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

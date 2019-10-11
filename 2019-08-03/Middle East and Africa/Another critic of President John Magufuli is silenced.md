@@ -9,6 +9,7 @@
 Other critics of the regime, including opposition MPs, are frequently arrested. One MP, Tundu Lussu, was shot in 2017 in an assassination attempt. Companies such as Acacia Mining have been shaken down for huge tax bills. 
 The repression is hurting Tanzania. Earlier this year the IMF warned that authoritarianism and arbitrary policies were crimping growth in what was once one of the continent’s fastest-growing economies. Mr Magufuli, naturally, blocked the report’s release. 
 But it is the human cost that is most apparent. Tanzania was until recently a relatively liberal country in a region dotted with tyrannies. Under Mr Magufuli that reputation is in tatters. It is a story that Mr Kabendera has told. He seems to be paying the price for that.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tyranny['tirәni]:n. 专制, 暴政 [法] 苛政, 暴政, 专横 
@@ -49,4 +50,6 @@
 36.crimp[krimp]:n. 诱人当兵的人, 拳曲, 鬈发 vt. 诱...去当兵, 使拳曲, 使有褶 
 37.tyranny['tirәni]:n. 专制, 暴政 [法] 苛政, 暴政, 专横 
 38.tatter['tætә]:n. 破布条, 破衣服, 梭编工人 vt. 把...扯碎 vi. 变破烂 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

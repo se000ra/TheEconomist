@@ -9,6 +9,7 @@
 It would be unfair to pin all the blame on the outgoing boss. All carmakers must contend with slowing sales in China, trade tiffs and costly investments required to cope with tighter emissions rules and upheavals such as electric vehicles (EVs), self-driving cars, carsharing and other mobility services. Daimler, the maker of Mercedes and BMW’s arch-rival, has also seen its margins shrink and last month issued its third profit warning in a year. But Mr Krüger has been slow to adapt BMW to changing trends in technology and consumer taste. Blingier Mercedes have outshone conservative Beemers, and Daimler overtook BMW as the world’s biggest premium carmaker in 2017. Early to the spot the craze for SUVs, BMW has failed to exploit it; for every ten cars it makes, six are saloons, the market for which is shrinking fast. For all Mr Krüger’s talk of BMW as a “tech company” it has not produced a cutting-edge EV since the i3 and i8, two innovative vehicles introduced under Mr Reithofer. Daimler, Audi and Jaguar all have. 
 At least BMW no longer appears to be asleep at the wheel. It wants to launch 25 new electric and hybrid vehicles by 2023, two years earlier than previously planned. On July 9th it presented a battery-powered version of its popular Mini hatchback. A tie-up with Daimler to pool investments in mobility services, and with Jaguar Land Rover to develop EVs, has met with the approval of analysts. Such manoeuvres, combined with a focus on more lucrative models, could help BMW to cut a cumulative €12bn in costs over the next four years and restore margins to a healthy 8-10%, insists Nicolas Peter, its chief financial officer. 
 But rivals are not standing still. Many have more ambitious targets for EVs. BMW’s plans for a world of ride-sharing and self-driving cars—where the appeal of luxury motors is less obvious—do not differ radically from those of competitors. Re-engineering the “ultimate driving machine”, as BMW styles itself, for the new age will not be easy for whoever replaces Mr Krüger. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bmw[]:abbr. 德国宝马汽车公司（Bavarian Motor Works） 
@@ -70,4 +71,6 @@
 57.peter['pi:tә]:vi. 逐渐消失, 逐渐减少 
 58.ambitious[æm'biʃәs]:a. 有野心的, 抱负不凡的, 雄心勃勃的 
 59.radically['rædikәli]:adv. 根本地, 完全地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

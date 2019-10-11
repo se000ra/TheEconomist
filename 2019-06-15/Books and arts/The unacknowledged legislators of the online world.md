@@ -16,6 +16,7 @@
 Others think the focus on what may be published misses the bigger question of which posts get amplified—by being shared, liked or “ratioed” (the current term for a wave of negative comments). Last week Carlos Maza, a reporter for Vox.com, pilloried YouTube for refusing to take down videos by Steven Crowder, a conservative YouTuber who had mocked him using homophobic slurs. As well as complaining about the slurs themselves, Mr Maza said he had been subjected to online harassment by some of Mr Crowder’s many followers. This raises the difficult question of whether platforms should impose stricter rules on influential personalities. 
 A different approach was suggested last year by Tarleton Gillespie, a consultant, in his book “Custodians of the Internet”. Part of the problem, he says, is that both users and companies have got it wrong: content moderation is not a peripheral inconvenience, but “in many ways, the commodity that platforms offer”. Increasingly, these sites are where people conduct their lives, and the task of keeping them within acceptable bounds of discourse, and excluding the unconscionable, may be the most important thing the firms do. It is too demanding for harried box-tickers. 
 Facebook has recently raised moderators’ pay; YouTube has limited their exposure to disturbing videos to four hours a day. But in general, as Ms Roberts chronicles, moderators are treated as low-skilled labour. She is particularly good at depicting how the strange international network of content moderation mirrors the class divides of other globalised industries. Just as it dumps some of its nastiest refuse in poor countries, the West leaves it to them to sort much of the internet’s yuckiest trash. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.guardian['gɑ:diәn]:n. 看守者, 监护人, 保护人 a. 保护的 
@@ -150,4 +151,6 @@
 130.globalise[]:使全球化（英式英语） 
 131.yuckiest[]:adj. 〈非正式〉脏的；丑的；令人讨厌的 [网络] 怎么翻译及发音 
 132.trash[træʃ]:n. 垃圾, 废物 vt. 丢弃 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

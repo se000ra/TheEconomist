@@ -18,6 +18,7 @@
 Will the Huawei ban alter it? Many firms will speed up efforts to bypass China—for instance by building factories in places like India or Mexico. (Mr Trump’s threat last week to slap tariffs on Mexican imports may give them pause.) Samsung has already moved most of its smartphone production to Vietnam. Retaliation by China may hasten the process. When in 2010 it cut export quotas for rare earths, a set of obscure minerals used in magnets and other electronic components, of which 70% is produced in China, this quickly led to a search for alternative sources and substitute materials. Days after the Huawei ban Xi Jinping, China’s president, paid a much-publicised visit to a rare-earths facility. 
 Whether or not it responds in kind, China will redouble efforts to become technologically independent. Huawei has said it will soon release its own mobile operating system to supplant Android. The government is likely to pump even more money into the country’s chip industry. 
 Optimists argue that interdependence will be disarmed once it has served its purpose in the latest Sino-American trade tussle. But the damage has been done. As Mr Shih says, many companies feel they can no longer rely on Chinese suppliers. And the Chinese realise that America can use the supply chain to wage economic war. Hawks in Washington and Beijing may dream of two “techno-spheres” of influence. To globalised technology firms, it feels like a nightmare.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.rife[raif]:a. 流行的, 盛传的, 充满的 
@@ -137,4 +138,6 @@
 115.disarm[dis'ɑ:m]:vt. 解除武装, 裁军, 缓和 vi. 放下武器 
 116.tussle['tʌsl]:n. 扭打, 争斗, 论争 vi. 扭打, 打斗 
 117.globalise[]:使全球化（英式英语） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

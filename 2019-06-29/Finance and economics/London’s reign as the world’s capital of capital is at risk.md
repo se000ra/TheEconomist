@@ -40,6 +40,7 @@
 Such confident views are typical of the City. Yet there is more than a whiff of complacency. Passporting is not all the City is losing: also gone is its reputation for political stability and predictability. British governments of all stripes have long supported financial services. But Brexit’s toxic politics changed that. Mrs May earned a reputation for being hostile to the City. Boris Johnson, her probable successor, said “fuck business” in pursuit of a hard exit.  
 The shadow chancellor, John McDonnell, has recently begun courting the City. But the Labour Party’s plans, which include heavy taxes on the rich, giving a tenth of big firms’ equity to workers and nationalising utilities and rail, are viewed with dread. Mr McDonnell is rumoured to be plotting retroactive capital controls and clawbacks of bankers’ compensation from the crisis—though he insists that strong economic growth under a Labour government would mean no need for capital controls. 
 Some hear echoes from history. In the 18th century Amsterdam’s financiers used to lead the world, but they lost faith in the city’s future under Napoleon and moved to London. For a financial hub facing the twin threats of an acrimonious Brexit and a hard-left government, that is a lesson worth heeding. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Brexit[]:[网络] 英国退出欧盟 
@@ -257,4 +258,6 @@
 213.Napoleon[nә'pәuljәn]:n. 拿破仑 
 214.acrimonious[ækri'mәunjәs]:a. 尖刻的, 讥讽的, 激烈的 
 215.heed[hi:d]:n. 注意, 留心 v. 注意, 留心 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

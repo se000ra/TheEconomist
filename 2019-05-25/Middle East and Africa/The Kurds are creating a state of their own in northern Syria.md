@@ -16,6 +16,7 @@
 Meanwhile, the threat of IS lingers. The jihadists set up impromptu checkpoints on highways. A ban on motorbikes in war-shattered Raqqa has only partially succeeded in curbing attacks on infrastructure. Officials describe camps crammed with displaced and disgruntled Arabs as potential incubators of jihadism. Many women in the region, still fearful of IS, continue to wear niqabs. 
 The Kurds are reassured by the presence of America. Some 2,000 of its troops are spread across the territory. Its warplanes buzz overhead and its forces deter the Turks. President Donald Trump appears to have backtracked from his tweet in December ordering a pullout from Syria. But uncertainty over America’s intentions complicates life for the Kurds. The local administration has found it harder to recruit and retain Arabs. Even the Kurds are hedging their bets. Rojava’s leaders recently went to Damascus for talks with Mr Assad’s intelligence chief. The founder of the PKK, Abdullah Ocalan, has urged them to “take account of Turkish sensitivities”. 
 Kurdish leaders in Syria aspire to be America’s permanent ally, like the Kurds next door in Iraq. But Rojava, unlike the Kurdish autonomous region in Iraq, lacks UN recognition. “You don’t know how long it’s going to last,” says a teacher in Qamishli. “You feel it’s built on sand.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Kurd[kuәd]:n. 库尔德人 
@@ -125,4 +126,6 @@
 105.sensitivity[.sensә'tiviti]:n. 敏感, 灵敏度 [计] 灵敏度 
 106.aspire[ә'spaiә]:vi. 渴望, 立志于 
 107.UN[ʌn]:pron. 家伙, 东西 [经] 联合国 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 Estranged allies of the BJP have come under the cosh, too, including two prominent figures in Hindu nationalist politics in the state of Maharashtra. But the Congress party has received the most attention. The CBI just arrested a nephew of Kamal Nath, the chief minister of the state of Madhya Pradesh, on charges of money-laundering. The ED filed similar charges against two former Congress chief ministers on August 27th. 
 Congress is certainly not squeaky clean: a long “season of scams” marred its most recent period in power and was one of the main reasons for its drubbing in 2014. But aggrieved Congress workers point out that the police do not seem to be chasing any current BJP leaders. In several instances, the legal troubles of Congress members seemed to evaporate after they defected to the ruling party. Mr Modi, claims Praveen Chakravarty, a Congress official, is not really interested in stamping out corruption, nor even in persecuting individual politicians. Instead, Mr Chakravarty insists, he is “creating a climate of fear” in an attempt to quell all criticism. 
 Mr Chakravarty alleges a second malign motive behind the anti-corruption campaign. He maintains that the government is ginning up a “moral crusade” to distract attention from the ailing economy. Growth has fallen to its lowest level since the Congress party’s last year in office. The current finance minister, Nirmala Sitharaman, has just overhauled her first budget in an apparent panic (see article). But Mr Modi won a second five-year term just months ago. He has plenty of time to repair the economy—and to fight corruption, whether selectively or not. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.vault[vɒ:lt]:n. 拱顶, 窖, 地下室, 撑竿跳, 穹窿 vt. 做成圆拱形, 撑竿跳过 vi. 成穹状弯曲, 跳跃 
@@ -90,4 +91,6 @@
 77.nirmala[]:[网络] 修女酒店；马拉修女；玛拉修女 
 78.overhaul[.әuvә'hɒ:l]:vt. 分解检查, 翻修, 精细检查, 彻底革新 n. 分解检查, 精细检查, 大检修 
 79.selectively[]:adv. 有选择地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

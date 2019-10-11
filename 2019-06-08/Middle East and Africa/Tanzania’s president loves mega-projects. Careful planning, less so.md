@@ -15,6 +15,7 @@
 Mr Magufuli faces few checks. “He is allowed to make all the decisions, from the smallest to the biggest,” says Daniel El-Noshokaty, the resident director for the Konrad Adenauer Foundation, a think-tank associated with Germany’s centre-right CDU party. If feasibility studies are carried out, they are rarely published. Donors suspect the president based his decision to build his huge dam on a viability study carried out by the Norwegian government in 1980. Yet not only did Norway abandon the project, because it did not make financial sense, but water levels have since fallen by 25% due to climate change and upstream irrigation, says Zitto Kabwe, an economist and opposition MP. 
 Only a booming economy would allow Mr Magufuli to pay for his projects without taking on unsustainable debt. The president points to official figures showing an expanding tax base and annual economic growth of 7%. Sceptics note that government data are unreliable and that questioning them could soon be a criminal offence. The International Monetary Fund (IMF) reckons the economy will grow by just 4% in 2019, one percentage point above population growth. Tax revenues ticked up by 3.1% last year, not nearly enough to fund the president’s dreams. The IMF warned in a recent report (whose release was blocked by Tanzania) that a big increase in spending on mega-projects could leave the country struggling to repay its debts. 
 Far from boosting the economy, Mr Magufuli is shackling it. Private investment has been scared off by limits on foreign ownership, a ban on international arbitration to settle contract disputes and a delay in paying VAT refunds. Executives working for multinational firms have been arrested, and ludicrously high fines imposed on spurious grounds (Acacia Mining, a British firm, was told to pay $190bn—more than three years of Tanzania’s GDP—for allegedly undervaluing gold exports). Tanzanian businessmen have been strong-armed into surrendering assets to the state. Tour operators and farmers complain of lower profits due to new taxes and rule changes. Unless Mr Magufuli changes course, one day the only elephant left in the Selous may be a white one. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.john[dʒɔn]:n. 盥洗室, 厕所, 嫖客 
@@ -113,4 +114,6 @@
 94.undervalue[.ʌndә'vælju:]:vt. 低估...之价值, 低估, 看轻 [经] 低估, 降低...价值 
 95.Tanzanian[,tænzə'niən]:a. 坦桑尼亚的 坦桑尼亚人 
 96.asset['æset]:n. 资产, 有益的东西 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

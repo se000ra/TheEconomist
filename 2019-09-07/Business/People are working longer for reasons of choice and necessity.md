@@ -15,6 +15,7 @@
 These statistics indicate that age discrimination in the workforce has been reduced, if not entirely eliminated. Some countries now have laws prohibiting discrimination on the grounds of age, although surveys suggest older workers still feel disadvantaged, particularly when it comes to promotion.  
 Two issues seem to hold employers back. The first is that older workers tend to command higher salaries, because of the seniority system. The OECD suggests that the premium for long tenure should be reduced. The second is a skills deficit; one in three 55- to 65-year-olds in OECD countries either lacks computer experience or cannot pass technology tests. 
 Such deficits can be tackled with proper training, organised by the government or by companies themselves. But the over-55s should take it upon themselves to keep up with technological changes. Become a silver surfer. Your livelihood may depend on it.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bartleby[]:[网络] 巴特比；巴特白；老板是空气 
@@ -51,4 +52,6 @@
 32.technological[.teknә'lɒdʒikl]:a. 技术的 [经] 工艺的, 技术的 
 33.surfer['sә:fә]:n. 冲浪运动员 
 34.livelihood['laivlihud]:n. 生计, 营生, 生活 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

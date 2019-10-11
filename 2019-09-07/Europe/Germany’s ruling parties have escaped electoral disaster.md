@@ -8,6 +8,7 @@
 ![image](images/20190907_EUC679.png) 
 Many members of the Saxon CDU, perhaps the country’s most conservative branch, grumble about the cordon sanitaire their leadership has erected around the AfD. But the populists’ radicalisation makes co-operation impossible: Andreas Kalbitz, the AfD’s leader in Brandenburg, was plagued throughout the campaign by evidence of past links to neo-Nazi groups. That he nonetheless secured a score of 24%, including 100,000 previous non-voters, ought to concentrate minds. The party doubled its score in Brandenburg, and nearly tripled it in Saxony. In Saxony it came first among every age group below 60. This may represent the limit of its support, which has in fact been flat for two years. But electoral maps of the two states show their eastern halves painted almost entirely in the party’s royal blue. 
 That has fuelled an anxious national conversation about the persistence of Germany’s east-west divisions. November 9th will mark the 30th anniversary of the fall of the Berlin Wall (just two weeks after Thuringia, a third eastern state, holds an election). What ought to be a moment to celebrate German unity may become an occasion to highlight its rifts. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.meltdown['meltdaun]:[经] 销毁(货币等), 变卖(财产) 
@@ -54,4 +55,6 @@
 42.Berlin[bә:'lin]:n. 柏林, (软质)柏林毛线 
 43.Thuringia[θjjә'rindʒiә]:图林根州[德意志联邦共和国州名] 
 44.rift[rift]:n. 裂口, 空隙 vi. 裂开 vt. 使分开, 使割开 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

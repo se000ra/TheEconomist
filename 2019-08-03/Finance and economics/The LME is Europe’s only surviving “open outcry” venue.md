@@ -11,6 +11,7 @@
 Is all this fuss and noise strictly necessary? Only perhaps a tenth of trades that are cleared through the LME are agreed on in the Ring. Most are done over the phone or on the LME’s electronic trading platform. When HKEX acquired the LME in 2012, it must surely have thought it would soon be rid of the Ring. It is a costly pageant. Screen-based trading has lower overheads and is more profitable for the exchange. A lot of Ring trades are lending or borrowing between odd dates—from next Tuesday to Monday a fortnight hence, say. Only specialists want to make those kinds of bets. 
 Yet they are needed to underpin a system of daily contracts that extend out to the three-month contract. They are too complex to be carried out on-screen. Daily pricing matters to the miners, smelters and manufacturers who produce or consume the metals being traded. Long-term supply arrangements are based on LME prices. So the Ring survives. It is like a poker room—a loss-leader in a casino full of more profitable slot machines. 
 Some things have changed: daytime drinking is now banned. But the LME is still the place to find liquidity of the right sort. Trading could scarcely be more transparent (once you can speak the argot). Prices are trusted worldwide. Traders can feint, but must play fair. Tomorrow they will be face-to-face with the same people. You can’t help wishing that all financial markets were like this. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.buttonwood['bʌtnwʊd]: 美洲悬铃木 
@@ -59,4 +60,6 @@
 44.daytime['deitaim]:n. 白天, 日间 
 45.argot['ɑ:gәu]:n. 行话, 俚语, 黑话 
 46.feint[feint]:n. 伪装, 假装, 假托, 佯攻 vi. 装作, 假装, 佯攻 a. 假的, 虚饰的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

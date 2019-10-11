@@ -13,6 +13,7 @@
 Give Russia some credit, say boosters. Macro-stability is not a given. Central banks have come under political attack in other emerging markets—India, South Africa and Turkey—and now in America, too. Optimists say that plans to cut red tape and increase public investment will lift Russia’s GDP growth potential. 
 Still, for the unwary investor, Russia is a snare. Even old hands can be caught out. Michael Calvey, the American boss of Baring Vostok, a private-equity firm, was arrested in February amid a conflict with an investment partner who has connections to the security services. Despite testimonials from the boss of Sberbank and the founder of Yandex, Mr Calvey remains under house arrest. 
 Realists say it is the big-picture stuff that holds the economy back. Establishing the rule of law and property takes political will. But it takes time, too. In the early 1990s a prominent Western economist was asked how Russia could become a thriving market economy. His advice? “Get yourselves another history.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.buttonwood['bʌtnwʊd]: 美洲悬铃木 
@@ -81,4 +82,6 @@
 64.founder['faundә]:n. 创立者, 建立者 vt. 使沉没, 使摔倒, 弄跛, 浸水, 破坏 vi. 沉没, 摔到, 变跛, 倒塌, 失败 
 65.realist['riәlist]:n. 现实主义者, 写实主义者, 实在论者 
 66.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -33,6 +33,7 @@
 ![image](images/20190720_LDD001_0.jpg) 
 You mentioned China’s plan to land someone on the Moon by 2035 (“The next 50 years in space”, July 20th). This may be a repeat visit by China. According to legend one Wan Hu became the world’s first astronaut more than 4,000 years ago by tying 47 fireworks to his chair. The shear impact of his landing on the Moon caused the formation of a large crater, which is named after him. 
 TED PAULWeymouth, Dorset 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -147,4 +148,6 @@
 110.crater['kreitә]:n. 火山口, 环行山, 弹坑 [化] 焊口; 火山石; 弧坑; 焰口 
 111.ted[ted]:vt. 翻晒 
 112.dorset['dɔ:sit]:n. 多塞特（人名）；多尔塞特棉粗平布 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

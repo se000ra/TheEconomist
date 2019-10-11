@@ -12,6 +12,7 @@
 Speaking at the division’s headquarters a few days before she took command, General Yeager, who is amiable but direct, added: “As far as I’m aware, there’s no other occupation where you know you’re going to make exactly the same amount of money as the male doing the work that you’re doing. And I didn’t have to negotiate that—it’s just part of the plan.” Though she is heartened by the increasing number of women joining military ranks, she says she is keen for the trend to continue until the armed forces more closely resemble the country they serve. 
 That will take time. The Army and Marine Corps adopted a “leaders first” policy in 2013, prioritising recruiting female officers ahead of female enlisted personnel, with the intention of building a cadre of female leaders. That process was expected to take two decades, notes Monica Medina of Georgetown University. Although over 500 women now hold jobs previously closed to them, the army has more than a million soldiers. Tests conducted by Britain’s defence ministry suggested that only 1% of serving women there could pass physical tests for service in the infantry. 
 Even so, having witnessed Ms Yeager make history on a sunny Saturday morning, Captain Gerrelaine Alcordo, a 35-year-old who works in public affairs for the 40th Infantry Division, was overflowing with optimism. As politicians and uniformed men and women milled about the base, she exclaimed: “Now little girls can say, ‘Oh my god, I can do that!’ If I had a daughter and she was here I would be like: ‘You can do that. You can be in the infantry, you can go into combat roles and be powerful.’”◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.laura['lɔ:rә]:n. 劳拉（女子名） 
@@ -68,4 +69,6 @@
 52.georgetown['dʒɔ:dʒtaun]:n. 乔治城（圭亚那首都） 
 53.overflow[.әuvә'flәu]:n. 溢值, 超值, 泛滥 v. (使)泛滥, (使)溢出, (使)充溢 [计] 上溢; 溢出 
 54.optimism['ɒptimizm]:n. 乐观主义, 乐观, 乐天 [医] 乐观主义, 乐观 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

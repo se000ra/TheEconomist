@@ -8,6 +8,7 @@
 The appointment of Muhammad Hamdan Dagalo (known as Hemedti) to the council is particularly worrying. The paramilitary commander is said to be one of the richest men in Sudan, having strong-armed his way into the gold business. He is also intensely feared. His Rapid Support Forces (RSF) grew out of the Janjaweed, a militia responsible for genocide in Darfur. The RSF led a bloody crackdown on protesters in June, killing more than 100. The generals may worry that real reform will lead to accountability. It is notable that Mr Bashir is on trial only for corruption—not torture or murder, in which the armed forces and security services were complicit. 
 Sudan is huge and disunited. Rebel leaders in Darfur, Blue Nile state and South Kordofan rejected the power-sharing agreement, arguing that it did too little to accommodate them. The generals have tried to cut separate deals with these groups. “Given the junta’s desire to divide and rule, the civilian opposition cannot afford to be seen as excluding the rebels from the transition,” says the International Crisis Group, a think-tank. But the opposition is itself divided. Some factions have rejected the agreement because of the role of former junta members and the failure to hold them accountable for past violence. 
 The new government faces immediate challenges, not least a collapsing economy. It will try to convince America to remove Sudan from its list of state sponsors of terror, which would open it up to foreign investment. The IMF and World Bank might then help Sudan deal with a mountain of public debt. All that will take time. Meanwhile, Sudanese people are suffering from shortages of food, fuel and electricity. Anger over a spike in the price of bread sparked the first protests against Mr Bashir last year. More unrest may be unavoidable. But for now, at least, there is hope. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Khartoum[ka:'tu:m]:n. 喀土穆（苏丹首府） 
@@ -62,4 +63,6 @@
 50.IMF[]:国际货币基金组织 [经] 国际货币基金 
 51.spike[spaik]:n. 长钉, 鞋钉, 钉状物, 尖峰状物, 穗 vt. 以大钉钉牢, 用尖物刺穿, 阻止, 弃置不用 [计] 尖峰信号 
 52.unavoidable[.ʌnә'vɒidәbl]:a. 不可避免的, 不得已的, 不能作废的 [医] 难免的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -15,6 +15,7 @@
 Clinics in America and beyond are also accused of playing up success. Like motorists and asset managers, most claim above-average results. As for their newfangled extras, the British regulator, which uses a traffic-light system to grade 11 popular IVF add-ons, has yet to give one a green light, meaning it is both safe and effective. The newer breeds of fertility firm are similarly criticised for misleading customers. In fact, existing egg-preservation techniques are expensive, invasive, often ineffective—and regularly oversold. 
 In Britain just 41 “ice babies” were born in 2016 using the mother’s own frozen eggs, not nearly enough for reliable statistics, so egg-freezers often cite success rates from defrosted eggs of donors, an unrepresentatively young, healthy sample. Prelude, an American company which recently merged into a bigger venture offering treatment and preservation, promises, improbably, to help families have “as many healthy babies as they want, whenever they want”. Extend Fertility, another American firm, advertises egg-freezing “for the price of a healthy snack”. Celmatix claims that its tests help people “dramatically improve their chances of conceiving”. Modern Fertility concedes it cannot predict the future, but offers a “fertility timeline” that some customers may treat as a bespoke egg timer. Some startups give Instagram influencers subsidised treatments in exchange for touting the service to millennial followers. 
 None of which dampens the fertility industry’s appeal to women, men—or investors. Many will be disappointed: prospective parents, because too many of them will still, despite fertility businesses’ promises, be unable to conceive; and, with nothing like the emotional toll, those pouring money into these firms. But the methods—and providers’ prospects—are bound to improve with time. With luck, the capital currently flowing into research on reproduction, a surprisingly mysterious aspect of human biology, will hasten the process. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.fertility[fә'tiliti]:n. 肥沃, 丰饶, 生产力 [医] 生育力 
@@ -144,4 +145,6 @@
 125.toll[tәul]:n. 通行费, 代价, 钟声 vt. 征收, 敲钟, 鸣钟, 勾引, 引诱 vi. 征税, 鸣钟 
 126.currently['kʌrәntli]:adv. 现在, 当前, 一般, 普通 [计] 当前 
 127.reproduction[.ri:prә'dʌkʃәn]:n. 再现, 复制, 生殖, 繁殖, 复制品 [医] 生殖, 复现(心理) 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -12,6 +12,7 @@
 Many in the protest movement are sympathetic to those who ransacked Legco, while disavowing the violence. On July 2nd Joshua Wong, one of the leaders of the Umbrella Movement, who on June 17th emerged from a third stint in jail, posted to Twitter that Mrs Lam suspended the extradition bill only after police clashed violently with protesters around Legco, on June 12th. “Months of Hong Kongers and the world expressing concern did not matter to her at all until she saw blood,” he tweeted. He also has called for Mrs Lam to resign. 
 Demonstrators should be careful what they wish for. Some veterans of the democracy movement have privately told foreign contacts that Mrs Lam’s resignation as chief executive is something to fear, because only the fiercest of hardliners would be willing to take her job in the present climate. Others worry, too, that the Liaison Office would exert more influence, pushing Hong Kong towards more political integration with the mainland. 
 Yet China has its own reasons to fear an early change of chief executive before the end of Mrs Lam’s first term in 2022. To remove Hong Kong’s leader now would be to re-open the painful question of how chief executives are chosen—a process which involves a pro-establishment selection panel and endorsement by Communist Party bosses in Beijing, rather than anything approaching a free, democratic election. That would provide more tinder for protests. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.protester[]:n. 抗议者, 持异议者, 拒付者 [经] 反对者 
@@ -86,4 +87,6 @@
 70.hardliner[ˌhɑ:d'laɪnə(r)]:n. 强硬路线者 
 71.integration[.inti'greiʃәn]:n. 综合, 与环境协调的行为, 集成 [化] 集成; 整合 
 72.endorsement[in'dɒ:smәnt]:n. 支持, 认可, 背书 [经] 背书, 担保, 保证 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

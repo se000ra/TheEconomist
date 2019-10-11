@@ -9,6 +9,7 @@
 To test the idea’s effectiveness, the trio needed a way of measuring the strength of the contact between falling water drops and their new surface. Their solution was to use the heat transferred from surface to water while they were in contact as a proxy for contact strength. They therefore showered the surface, while it was at room temperature (20°C), with water chilled to 3ºC. While doing so they monitored the resulting drop in the surface’s temperature. This proved to be 40% less than that experienced over the same period by a standard superhydrophobic surface which they used as a control. 
 The reduced transfer of heat from surface to droplets showed that the water bowls greatly reduced interaction between the two. In other words, the surface’s hydrophobicity had been increased. Moreover, further tests showed that even if a droplet landed on the edge of a water bowl, rather than dead centre, it was still repelled more effectively than by a flat surface. 
 Dr Varanasi and his colleagues believe that, using lasers and other modern manufacturing techniques, it should be possible to carve water bowls into a wide variety of surfaces. Potential applications range from preventing the icing of aircraft wings by freezing rain to reducing the corrosive effects of brine from ocean spray—and even helping people stay snug and dry inside waterproof clothing. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -50,4 +51,6 @@
 37.corrosive[kә'rәusiv]:a. 腐蚀的, 腐蚀性的, 有害的 n. 腐蚀物, 腐蚀剂 
 38.brine[brain]:n. 盐水, 海水, 海 vt. 用浓盐水处理 
 39.snug[snʌg]:a. 舒适的, 温暖的, 整洁的, 紧身的, 隐藏的 vt. 使整洁干净, 使紧身, 隐藏 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

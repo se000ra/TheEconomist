@@ -9,6 +9,7 @@
 Both guerrilla leaders claim the government of Iván Duque, who campaigned to modify the peace deal as a presidential candidate, wants to destroy any chance of peace in Colombia. Sadly, Mr Santrich’s disappearance has probably done more damage. Thousands of victims are waiting for him to appear before the JEP to account for his role in the FARC’s kidnapping business. Without his testimony they might never know why they or their family members were taken hostage. 
 The JEP is the backbone of the peace deal, but it has been plunged into a reputational crisis. The most radical members of the Democratic Centre, the president’s party, say Mr Santrich’s behaviour proves that it is a sham court which wants to let the FARC off the hook. They want a referendum to eliminate the JEP and even modify the entire justice system through a constitutional assembly. 
 Worse yet, Mr Santrich has discredited his old comrades who vehemently defended his innocence. The FARC’s political party is more divided than ever, between those defending the peace deal and those who regret it. By abandoning his seat he has left his party without a crucial vote in congress. Former militants are scared they will be punished for their boss’s crimes: funding for reintegration projects could be slashed or public anger could hinder their return to normal life. The peace deal’s supporters are begging him to show up. But the authorities reckon Mr Santrich is gone for good. He has dealt a blow to Colombia’s peace deal on the way out. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jesus['dʒi:zәs]:n. 耶稣 
@@ -58,4 +59,6 @@
 45.slash[slæʃ]:v. 猛砍, 乱砍 n. 猛砍, 乱砍, 删减 [计] 斜线 
 46.hinder['hindә]:a. 后面的 v. 阻碍, 打扰 
 47.reckon['rekәn]:vt. 计算, 总计, 估计, 认为, 猜想 vi. 数, 计算, 估计, 依赖, 料想 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

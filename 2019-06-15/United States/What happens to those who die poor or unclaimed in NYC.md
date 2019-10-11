@@ -7,6 +7,7 @@
 Those who die without the means to pay for a funeral, which costs nearly $9,000 on average, end up on Hart Island. Nearly two-thirds had next of kin who opted for a public burial. In all about 1m people lie there. The earliest victims of AIDS were buried there in 1985, far away from the other graves. Hart Island may be the largest cemetery for victims of the epidemic. During heavy rains bones are sometimes washed away and end up on nearby beaches. 
 The island, which has a stark beauty, is under the jurisdiction of the city’s Department of Corrections. Four days a week eight inmates from Rikers, New York’s biggest jail, travel to the island to dig graves and lower coffins into them. They are paid a $1 an hour. 
 Because of Hart Island’s close connection with jail and prisoners, it is difficult for relatives (or anyone else) to visit. “It is clear to me we can do better, much better for the people buried on Hart Island,” says Corey Johnson, the Speaker of the city council. “This needs to be changed immediately.” He is backing a bill that would transfer operations to the Parks Department, create an office to help those who need help with a burial and make travel to the island easier. The city also needs to think about what to do when Hart Island is full. The Department of Corrections says there will only be space for eight or ten more years.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.unclaimed[.ʌn'kleimd]:a. 无人认领的, 未经要求的, 无人领取的 [经] 没有人来领取的 
@@ -44,4 +45,6 @@
 33.rikers[]:[网络] 里克斯；雷克斯；雷克斯岛监狱 
 34.corey['kәjri, 'kɔ:ri]:n. 科里（等于Cory） 
 35.johnson['dʒɔnsn]:n. 约翰逊（姓氏） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

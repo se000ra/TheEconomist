@@ -9,6 +9,7 @@
 The pound’s recent fall started in April, shortly after the EU agreed to delay Brexit to October 31st. Some traders worried that it would brook no further delay. Yet global factors played a greater role. Around May traders began to panic about the effect of a trade war between America and China on global economic growth. That prompted “derisking”—moving assets out of countries highly reliant on inflows of foreign capital. Britain, which runs a large current-account deficit, saw its currency depreciate. But so did Australia and New Zealand, points out Kamal Sharma of Bank of America Merrill Lynch. Both countries also run large current-account deficits. 
 Since then worries about the trade war have eased—to be replaced by a fresh concern, the health of Britain’s economy. In June the statistics office alarmed analysts by revealing that GDP had fallen in April by 0.4%, although May was better. Other survey data suggest that Britain registered no economic growth in the second quarter of the year (see Britain section). Together with a series of data releases showing that measures of domestically generated inflation are soft, that makes it less likely that the Bank of England will raise interest rates. 
 Sterling’s fall has accelerated in the past week, as the two contenders to replace Mrs May have vied to sound more macho on the need to leave the EU on October 31st, with or without a withdrawal deal. Even now, few if any analysts believe that a no-deal exit is the most likely outcome. But many are on the brink of changing their mind. If no-deal starts to be priced in, the pound will have much further to fall. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Brexit[]:[网络] 英国退出欧盟 
@@ -48,4 +49,6 @@
 35.macho['mɑ:tʃәu]:[医] 结节型皮肤利什曼病 
 36.withdrawal[wið'drɒ:l]:n. 提款, 撤退, 退回, 撤消, 退隐, 戒毒过程 [医] 戒除, 脱瘾 
 37.brink[briŋk]:n. 边缘, 陡岸 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

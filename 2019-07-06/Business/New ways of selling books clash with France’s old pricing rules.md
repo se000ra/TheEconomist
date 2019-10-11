@@ -9,6 +9,7 @@
 Amazon claims its practices are legal. But booksellers are fuming, and their political allies with them. “This is a major preoccupation,” complained Franck Riester, the culture minister, at a booksellers’ shindig this week. He says new legislation may be needed. 
 Defenders of the fixed-price principle (which has spread to other parts of Europe) say it helps keep independent bookshops viable. Over 100,000 new and reissued titles were released in France last year, in part because bookshops make a decent margin on bestsellers and can take a punt on edgier fare. 
 Others are not so sure. Even with a plethora of subsidies, bookshops are among the least profitable retail businesses. Books are expensive in France—an odd way to encourage people to buy more. For now, constraining the market in the name of l’exception culturelle remains an article of faith for French policymakers. “On the internet you find what you look for,” Mr Riester told his literary allies. “But only in a bookshop do you find what you were not looking for.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.clash[klæʃ]:n. 冲突, 撞击声, 抵触 vi. 冲突, 抵触 vt. 使发出撞击声 [计] 对撞 
@@ -50,4 +51,6 @@
 37.constrain[kәn'strein]:vt. 强迫, 限制, 关押 
 38.culturelle[]:[网络] 益生菌；益生菌品牌；益生菌系列 
 39.policymaker['pɔlisi.meikә]:n. 政策制定者；决策人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

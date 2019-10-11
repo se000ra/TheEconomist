@@ -17,6 +17,7 @@
 The second question concerns the reach of American power. The tangled nature of chip-industry supply chains, says Mr Ernst, means that many non-American companies make use of American parts or intellectual property. They may therefore consider themselves covered, wholly or partially, by the ban. Take Arm, a Britain-based firm whose technology powers chips in virtually every phone in the world, including those made by HiSilicon. Arm says that it will comply with the Commerce Department’s rules. That suggests that Arm will not grant Huawei new licences. It is unclear if Arm will offer support for existing licences, however. As Arm’s technology advances, Huawei risks being left behind. 
 Other non-American companies are as important. One industry insider with contacts in Taiwan says that American officials are pressing Taiwan Semiconductor Manufacturing Company (TSMC), a big and cutting-edge chipmaker, to drop Huawei, which is its third-biggest customer. That would be a crushing blow, for Chinese chip factories are not up to the task of manufacturing HiSilicon’s sophisticated designs. TSMC’s only peer is Samsung—and South Korea is another of America’s allies. TSMC said on May 23rd that it would continue supplying Huawei for now. 
 Even if the optimists are right, and the ban is lifted in exchange for trade concessions, a return to business as usual seems unlikely. America has twice demonstrated a willingness to throttle big Chinese companies. Trust in American technology firms has been eroded, says Mr Triolo. China has already committed billions of dollars to efforts to boost its domestic capabilities in chipmaking and technology. For its rulers, America’s bans highlight the urgency of that policy. Catching up will not be easy, believes Mr Ernst, for chips and software are the most complicated products that humans make. But, he says, if you talk to people in China’s tech industry they all say the same thing: “We no longer have any other option.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -105,4 +106,6 @@
 84.capability[.keipә'biliti]:n. 能力, 性能, 约束力 [化] 能力 
 85.chipmaking['tʃip,meikiŋ]:adj. 半导体制造的 n. 半导体(元件)制造，集成块制造 
 86.urgency['ә:dʒәnsi]:n. 紧急, 催促 [法] 紧急, 迫切, 紧急之事 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

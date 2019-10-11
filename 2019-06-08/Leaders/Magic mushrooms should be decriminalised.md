@@ -9,6 +9,7 @@
 Few will oppose the careful process leading up to the licensing of the drug. But there are worries, even among some of psilocybin’s proponents, about decriminalisation. The drug, it is argued, has a powerful effect on the brain, and not enough is yet known about it. Some people—those with a familial history of schizophrenia, for example—should not take it at all. Researchers fear that a few spectacular accidents involving the drug will reignite the moral panic that slammed the door on the first wave of research. 
 Accidents will surely happen. They always do when people mess with their brains. Depending on the country, 12-34% of recreational users of psilocybin have a disturbing experience, and sometimes these have lasting effects. But a large-scale study of Americans showed no association between taking psychedelic drugs and mental health problems. Psilocybin has potential both to heal people’s ills and to give them pleasure. A third of volunteers in a study rated the mystical experience it induced as the most profound of their lives, and another third put it in the top five. It is also, by the standards of other mood-altering substances, pretty safe. It is not addictive, there is no known lethal dose, and—unlike alcohol—any damage is usually restricted to those who take it. 
 Certainly, moves to decriminalise psychedelics should be accompanied by campaigns to educate people about the risks. Those who take them should get the setting right—a safe place, with benevolent people and a sober friend around. But humanity should celebrate the fact that it has such powerful medicine available to it, rather than jailing people for taking it.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.decriminalise[di:'kriminəlaiz]:vt. [主英国英语] =decriminalize 
@@ -75,4 +76,6 @@
 62.lethal['li:θәl]:a. 致命的 n. 致死因子 
 63.benevolent[bi'nevәlәnt]:a. 善意的, 慈善的 
 64.humanity[hju:'mæniti]:n. 人性, 人类, 博爱 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

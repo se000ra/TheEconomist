@@ -12,6 +12,7 @@
 If investors are one impediment to big deals, antitrust regulators are the other. Over the past two decades they have been a walkover, but there are signs this is changing. The merger of Sprint and T-Mobile, two mobile-network operators, still awaits approval after a long delay. Even if the Department of Justice gives it the green light, a coalition of state attorneys-general has pledged to fight the deal, which they say will reduce choice for consumers. 
 The mood has also shifted against big tech firms. An emerging consensus among antitrust types is that these should be blocked from scooping up smaller firms because of the worry that it would eliminate potential rivals. Past deals that sailed through, such as Facebook’s $18bn takeover of WhatsApp in 2014, or Microsoft’s $24bn purchase of LinkedIn in 2016, would probably face a rougher ride from the antitrust police now. A de facto ban on tech firms doing big takeovers could depress deal activity for years, given that they are now the biggest firms in America by market value and are blessed with cash-rich balance-sheets. 
 Mergers and acquisitions have come in waves ever since the first frenzy of consolidation in the late 19th century. The past two decades have seen one of the greatest waves ever as executives have sought to build corporate giants with market power over consumers, applauded by investors and enabled by trustbusters. The dealmaking in 2019 suggests that this long swell is finally subsiding. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.investor[in'vestә]:n. 投资者 [经] 投资者 
@@ -95,4 +96,6 @@
 79.facto[]:[法] 实际上, 事实上 
 80.frenzy['frenzi]:n. 疯狂, 狂暴, 狂怒 [医] 暴怒, 狂乱 
 81.subside[sәb'said]:vi. 沉淀, 沉降, 平息 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

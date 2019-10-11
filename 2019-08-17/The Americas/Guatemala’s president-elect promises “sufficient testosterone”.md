@@ -10,6 +10,7 @@
 Fear not, says Mr Giammattei. His government will have “the sufficient level of testosterone” to tackle organised crime. His mano dura approach extends to a ban on conjugal visits for prisoners (they will have to “settle among themselves”, he says). To boost growth, Mr Giammattei promises to summon up a “wall of investment”. He plans to build a high-speed train across the country’s hinterlands to its cities and ports. He has promised more social programmes for rural women, a pledge once unthinkable from a Guatemalan right-winger. Special economic zones and tax reform are among the wheezes his wonks propose. 
 Yet the most immediate problem Mr Giammattei will face is how to manage the safe-third-country deal reached by Mr Morales and Donald Trump last month, which will force asylum-seekers passing through Guatemala to take refuge there rather than in the United States. It is unpopular and possibly unconstitutional. Mr Giammattei has hinted that he wants to tweak the deal. To accept it, he may need political cover from America in the form of renewed aid (Mr Trump cut it off this year) or assurances that Guatemalans will get more permits to do farm work in the United States. 
 One less headache will be the departure of CICIG and its top-notch lawyers next month, allowing Mr Giammattei to rest easier. The president-elect insists that the fight against corruption will continue. If CICIG has done its job equipping local institutions, says a future cabinet member, then Guatemala should be well placed to fight graft on its own. Whether it will depends on whether Mr Giammattei has the cojones to do it. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.testosterone[te'stɒstәrәun]:n. 睾丸激素 [化] 睾酮 
@@ -78,4 +79,6 @@
 64.tweak[twi:k]:n. 拧, 扭, 焦急 vt. 扭, 开足马力 
 65.assurance[ә'ʃuәrәns]:n. 保证, 把握, 信心, 保险 [经] 保证, 担保, 保险 
 66.graft[grɑ:ft]:n. 嫁接, 贪污 v. 嫁接, 移植, 贪污 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

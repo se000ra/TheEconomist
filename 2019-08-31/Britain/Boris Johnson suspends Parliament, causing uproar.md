@@ -14,6 +14,7 @@
 Maddy Thimont Jack of the Institute for Government, another think-tank, reckons MPs have just enough time to legislate, if they remain united. The plan is to ask Mr Bercow for an emergency debate under standing order 24 and use this to follow the precedent of the Cooper-Letwin bill that was passed in March. Back then, MPs took control of the Commons agenda for a day to bring in the bill, which required the prime minister to request an extension of the original Brexit deadline of March 29th. MPs might also need to suspend standing order 48, which says only a minister may propose acts costing public money. 
 Ms Thimont Jack notes that the March bill became law in less than five days. But that was partly because Mrs May chose not to obstruct it. Even if a similar bill passes the Commons in a single day, as then, it is hard to break a filibuster in the Lords, where the timetable for debate is less easily curtailed. Another problem is that any law can require Mr Johnson only to ask for an extension. He might do so on terms that allow him to refuse any offer from the EU, though Brussels is keen to avoid any blame for a no-deal Brexit. 
 These uncertainties make some MPs keen to consider a vote of no confidence in Mr Johnson’s government. But that, too, is fraught with difficulties (see article). So are such options as trying to revoke the Article 50 Brexit application, for which there is much less support in Parliament. The harsh truth is that, although majorities of both MPs and voters are against a no-deal Brexit, an idea not even floated by Brexiteers during the referendum campaign, the timetable makes it tricky to stop, however much Parliament tries.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.boris['bɔris]:n. 鲍里斯（男子名） 
@@ -112,4 +113,6 @@
 94.revoke[ri'vәuk]:vt. 撤回, 废除 vi. 藏牌 n. 藏牌 [计] 取消权限程序 
 95.voter['vәutә]:n. 选民, 投票人 [法] 选民, 选举人, 投票人 
 96.tricky['triki]:a. 狡猾的, 机敏的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

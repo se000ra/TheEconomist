@@ -6,6 +6,7 @@
 That is just one of the roughly 500 scenarios on the FATS (Firearms Training Simulator), an interactive machine designed, says Raul Hernandez, a detective who puts nearly 1,000 Newark officers through their paces on the FATS twice a year, “to train our officers to survive an encounter with a person with a weapon.” Around 3,800 agencies in America, and hundreds more around the world, including the Canadian and Singaporean armies and the British Ministry of Defence, use these machines. 
 The training is like a high-end video game. Holding a gun loaded with compressed air rather than bullets, trainees face a bank of screens as the scenarios unfold: a mentally ill man shouts threats while holding a weapon outside an apartment building, a teenaged girl menaces a boy with a knife, there is a live shooter in a hospital. Trainers can change the scenario as trainees respond. The weapon held by the mentally ill man might turn out to be a hairbrush. Sometimes the right response is a verbal one: the teenaged girl can put down the knife if ordered repeatedly and firmly to drop it. 
 The machine teaches police when to pull the trigger and when to hold off. But it also shows citizens just how quickly police have to make life-and-death decisions. Mr Hernandez says that some activists and critics of the police have been put through their paces on the machines, and “come out saying, ‘I didn’t realise what a hard job you have’.” An officer from a different department noted wryly that citizens let loose on the simulator “shoot everybody”. Not quite: your correspondent, the father of an 11-year-old, got his partner killed because he could not shoot the girl with the rifle. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.simulator['simjuleitә]:n. 模拟器, 假装者 [计] 模拟器 
@@ -33,4 +34,6 @@
 23.quickly['kwikli]:adv. 很快地 
 24.activist['æktivist]:n. 激进主义分子 
 25.wryly[raɪlɪ]:adv. （面部表情）做鬼脸地, 苦笑地, 嘲讽地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

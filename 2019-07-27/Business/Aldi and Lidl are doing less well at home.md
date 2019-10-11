@@ -6,6 +6,7 @@
 Aldi (split into two legally distinct companies, Aldi Nord and Aldi Süd, in 1966), Lidl, Netto and Penny still have a market share at home of more than 40% between them. But traditional German grocers such as Rewe, whose sales grew by 9% last year, are outpacing the discounters. A recent study by Edge of Ascential, an advisory outfit, predicts that sales at discount chains will grow on average by 2% this year. Aldi Nord is suffering more. It lost money in 2018 for the first time in decades, and sales are forecast to fall in 2019. “German shoppers are rethinking priorities,” says Boris Planer of Ascential. They are less fussed about hunting for the lowest price, and now turn their noses up at cheap tinned food displayed under fluorescent light. When Saturn revived its old slogan last month with “Geiz is back”, it did so only for a fortnight. 
 Might international business make up for anaemic growth at home? Aldi and Lidl are booming in Britain, where the Teutonic twosome already has more than 13% of the market and expects to do better still in a possible post-Brexit slump. Aldi is doing well in America and in June it entered China with two shops in Shanghai—for the first time as an upmarket grocer flogging wine from Bordeaux, milk from Australia and fresh organic produce. But foreign expansion is risky. A month earlier, Lidl gave up on China as unprofitable. It is struggling to run its large, costly stores in America. 
 At home, the discounters hope to lure discerning shoppers by sprucing up their stores. Aldi now sells smoothies and vegan fare. Aldi Nord is spending part of a €5.2bn ($5.8bn) investment on a facelift for its 2,300-odd outlets in Germany. Booted out for upgrading its shabbier stores too slowly, the firm’s boss, Marc Heussinger, was replaced last year by Torsten Hufnagel, his deputy. But Mr Hufnagel’s revamping efforts may have come too late. Fears are growing of an end to Germany’s golden decade. Stinginess may soon be in vogue again.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.retailer['ri:teilә]:n. 零售商人, 传播的人 [经] 零售商 
@@ -59,4 +60,6 @@
 49.revamp[ri:'væmp]:vt. 换新鞋面, 修理, 修补, 修改 [经] 整修, 补, 修改 
 50.stinginess[]:n. 吝啬 
 51.vogue[vәug]:n. 时尚, 时髦, 流行 a. 流行的, 时髦的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

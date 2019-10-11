@@ -9,6 +9,7 @@
 But instead of transmitting back every last bit of image data, the satellite will summarise what the user requests as useful information. This might, for instance, be a heat-map showing areas of weeds in a field or the location of a forest fire. Reducing the data load means that some of this information can be transmitted live. 
 The satellite will be used to prove that a hardened neural network can survive in space. This could pave the way for other space applications. For example, the Curiosity rover on Mars was successfully upgraded in 2016 with a set of algorithms to detect “interesting” rocks for investigation, instead of picking them randomly. A neural network could provide future rovers and deep-space probes with a better ability to make decisions. 
 The neural network and hyperspectral imager have already been built and tested by KP labs. The kit will go into a satellite body being constructed by Clyde Space, a satellite producer based in Scotland, and launched in 2022. After that there will be more intelligence in space. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.AI[ai]:[计] 附加信息, 人工智能 [化] 人工智能 
@@ -45,4 +46,6 @@
 32.kit[kit]:n. 装备, 工具箱, 成套工具 [计] 成套部件; 成套零件 
 33.clyde[klaid]:n. 克莱德（男子名） 
 34.producer[prә'dju:sә]:n. 生产者, 制作者, 制作人 [化] 发生器; (炉煤气)发生炉; 制气炉; 生产者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

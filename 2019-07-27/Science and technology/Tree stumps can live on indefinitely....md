@@ -10,6 +10,7 @@
 Exactly why a stump’s neighbours dole out their hard-won nutrients in this manner remains a mystery, but Dr Bader and Dr Leuzinger have ideas. Biologists know of two ways co-operation between organisms can evolve. One is kin selection, which requires the collaborators to be related (as neighbouring trees of the same species are likely to be) and works if sacrifices by one bring disproportionate reproductive benefits to others. The effect of this is to propagate a collaborator’s genes collaterally, in a way that sociologists might refer to as nepotism, instead of directly from parent to offspring. This may be why root connections happen in the first place, but cannot explain their perpetuation, for trying to help a trunkless stump reproduce would be a fool’s errand. 
 The other route to co-operation is reciprocal altruism of the “you scratch my back and I’ll scratch yours” variety. This requires a stump’s neighbours, which are feeding it, to benefit directly from the arrangement. The suggestion Dr Bader and Dr Leuzinger make is that they do—the stump’s role being to extend, at minimal cost, the root networks of its intact neighbours. From their point of view, that makes keeping the stump alive worthwhile. 
 If this is what is going on, however, it is a good illustration of the dangers of anthropomorphic terminology. The arrangement might look reciprocal to human eyes, because it is keeping the stump alive. But since the stump cannot reproduce it might as well, in Darwinian terms, be dead anyway, for it garners no evolutionary benefit from its survival. Unless, of course, to go back to the idea of kin selection, the neighbours it is sustaining are its kin and it is rendering nepotistic assistance to them from beyond the grave.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.superorganism[,sju:pә'ɔ:^әnizm]:n. [生]超个体(指群居昆虫等的群体) 
@@ -72,4 +73,6 @@
 58.garner['gɑ:nә]:n. 谷仓, 积蓄 vt. 储存, 贮藏 
 59.evolutionary[,i:vә'lu:ʃәnәri]:a. 展开的, 进化论的, 进化的, 发展的 [计] 进化的, 改良的, 发展的 
 60.nepotistic[,nepə'tistik]:a. 裙带关系的；重用亲戚的；任人唯亲的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -8,6 +8,7 @@
 University bureaucrats worry about the upheaval involved in Labour’s proposal. If the application process were squeezed into the existing timetable, some dons would have to spend the summer screening applicants rather than doing research (or enjoying the sun). It would also put applicants under pressure to make a life-changing decision very quickly. Mike Nicholson, head of admissions at the University of Bath, worries that speeding up the process would make it hard for universities to tailor offers to the background of applicants, as most now do. 
 Many of these problems could be solved by a more radical rejigging of the university calendar, perhaps with the academic year starting in January (as it already does for some postgraduate and international students) rather than September. And the switch to a post-qualification admissions process ought eventually to mean less work for universities. Under the current system pupils apply to up to five universities, to insure against better- or worse-than-expected results. If they knew their results when applying they would probably apply to fewer places, meaning less paperwork for the universities. In 2011 an estimate by UCAS, the national body that runs admissions, suggested that such a change could save universities £18m ($29m) a year. 
 The system is already moving in the direction of post-qualification admissions. Last year one in ten students got a place after receiving their results, via a system known as clearing. This has long been a way for students who miss their grades to find a last-minute alternative place. Now it is sometimes used to trade up, when pupils approach higher-ranked universities after getting better-than-expected grades. Another recent shift has been a sharp rise in the number of unconditional offers, as universities compete to attract students (much to the concern of teachers, who fear that no-strings offers make pupils slack off in their exams). A change of admissions systems would be difficult. But even some vice-chancellors are starting to think that it might be worthwhile. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -38,4 +39,6 @@
 26.postgraduate['pәust'^rædjuit, 'pәust'^rædʒuit]:a. 大学毕业后的, 大学研究院的 n. 研究生 
 27.uca[]:abbr. upper control area 上部控制区 
 28.slack[slæk]:n. 松弛, 松懈, 淡季, 闲散, 家常裤 a. 松弛的, 不流畅的, 疏忽的, 无力的, 呆滞的, 软弱的, 漏水的 adv. 马虎地, 缓慢地 vt. 放松, 使缓慢 vi. 松懈, 减弱, 松弛 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

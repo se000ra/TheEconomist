@@ -9,6 +9,7 @@
 Instead of long grey corridors lined with clanging metal-doored cells, inmates stay in smaller units that hold up to 64 people, plus a deputy. In theory this reduces violence among inmates and against staff because officers get to know the prisoners and can see problems before they arise. The pods have areas for meals, classes and recreation, which limits the risk that comes from taking inmates to and from their beds several times a day. The facility also has a full medical unit, a mental-health unit and two courtrooms to handle misdemeanours and preliminary hearings. 
 “Environments cue behaviour,” says Ken Ricci of CGL, a consulting firm, who was a principal designer of Van Cise-Simonet and is a member of the mayor’s taskforce to close Rikers. Sunlight and better acoustics improve life for the staff. The Denver jail suggests design has its limits, though. Overcrowding and short-staffing dogged the facility for years, and a report in the Denver Post in 2017 found that the number of assaults between inmates and against staff had started going up. The city spent around $12m to settle claims from the deaths of two inmates, in 2010 and 2015, one of whom was mentally ill. 
 Mr Ricci is quick to concede that the design of Van Cise-Simonet is not perfect. Zoning constraints on the height and width of the building left inmates and staff with less elbow room and made view-obscuring pillars structurally necessary—an architect’s nightmare. Attracting and retaining staff is hard when the unemployment rate is so low, especially as the job now demands an ability to manage psychiatric emergencies and behave more like a social worker, rather than merely booting recalcitrant inmates in the stomach. “Our goal is to send these people back to the community in better shape than how they came to us,” says Elias Diggins, the Denver Sheriff Department chief and the president of the American Jail Association. Better design is a good start, but only that. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.boutique[bu:'ti:k]:n. 专卖流行衣服的小商店 
@@ -78,4 +79,6 @@
 65.Elia['i:liә]:伊利亚(Charles Lamb的笔名) 
 66.diggins[]: [人名] 迪金斯 
 67.sheriff['ʃerif]:n. 郡治安官, 县治安官 [法] 司法行政官, 郡长, 执行吏 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

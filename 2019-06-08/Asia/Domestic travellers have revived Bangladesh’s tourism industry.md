@@ -7,6 +7,7 @@
 Foreign tourism has oscillated wildly in recent years because of political violence and terrorism, including an especially grisly attack in 2016 that targeted expatriates in Dhaka, the capital. But even as foreigners have been scared off, locals have been taking their place. Incomes have increased three- or fourfold during the past ten years, says Syed Rashidul Hasan of Dhaka University. At first, families tend to spend the extra money on appliances and other consumer goods, he explains, but as their incomes continue to grow, they begin to splash out on services, such as holidays. 
 Most domestic tourists have a hankering for pampering. Down the road from Shanti Bari are the Grand Sultan and the Palace Luxury Resort, marble-clad complexes with swimming pools and games rooms stocked with Playstations. High-end hotels have sprung up elsewhere, too, especially along the 125km-long beach by the city of Cox’s Bazar, Bangladesh’s most popular tourist destination. But as Shanti Bari shows, there is also growing interest in environmental and adventure tourism. Resorts with assault courses and outdoor sports are springing up outside Dhaka. 
 First come the locals, then come the foreigners, or so the government hopes. It is setting up a special zone for foreign tourists in Cox’s Bazar. The intention, Mr Biswas says, is to provide a place where foreigners can safely behave in ways that might cause consternation in other, more conservative parts of the country. “Bangladesh has a lot to offer foreign tourists,” he insists, but Bangladeshis “are perhaps not ready for bikinis”. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.traveller['trævlә]:n. 旅行者 [经] 旅行商 
@@ -41,4 +42,6 @@
 30.assault[ә'sɒ:t]:n. 攻击, 袭击 vt. 袭击, 攻击 vi. 发动攻击 
 31.consternation[.kɒnstә'neiʃәn]:n. 惊愕, 恐怖, 惊惶失措 
 32.bikini[bi'ki:ni]:n. 大爆炸, 比基尼泳装 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -13,6 +13,7 @@
 But it is not clear that fresh elections will provide one. More than 20 political parties are registered to put up presidential and congressional candidates. Many have been tarnished by the Odebrecht scandal. FP and APRA, another leading opposition party, have no credible presidential candidates. FP’s founder and leader, Keiko Fujimori, has been in detention since October awaiting trial for accepting illegal contributions from Odebrecht in 2011, when she ran the first of two losing presidential campaigns. APRA’s long-time leader, Alan García, a former president, committed suicide in April this year as he faced arrest for taking bribes from the Brazilian firm.  
 Mr Vizcarra does not have a party or a political heir. When Ipsos, a pollster, asked Peruvians recently for their views on 16 politicians, just one had an approval rating of higher than 10%. That was George Forsyth, a former football goalkeeper who since January has been mayor of La Victoria, a district of Lima, Peru’s capital. A third of Peruvians support no politician. Mr Vizcarra’s proposed election, if it happens, would be a leap into the unknown. 
 He knows that the way out of Peru’s impasse is better political parties and leaders. Unfortunately, it is being barred by the very system he wants to change. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.manoeuvre[mә'nu:vә]:n. 调遣, 演习, 策略 vi. 调动, 演习, 用策略 vt. 调动, 操纵 
@@ -90,4 +91,6 @@
 73.victoria[vik'tɔ:riә]:n. 维多利亚（女子名） 
 74.lima['li:mә]:n. 利马（秘鲁首都） 
 75.impasse['impɑ:s]:n. 难局, 僵局, 死路, 死胡同 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

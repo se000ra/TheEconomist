@@ -7,6 +7,7 @@
 However, gay people are still persecuted by law in more than 30 African countries. In some, such as Sudan and Somalia, their love is punishable by death. Although such laws are seldom enforced, they leave people open to extortion and abuse. 
 Anti-gay laws also reinforce a culture of intolerance in many countries. In May religious conservatives rejoiced when Kenya’s High Court upheld a law that criminalises gay sex. Judges found that it did not violate a constitutional guarantee of freedom from discrimination, though it plainly discriminates against gay people. (Kenya’s constitution also promises everyone “adequate housing”, so perhaps the framers did not expect it to be taken literally.) 
 Botswana is a conservative place, too. Hereditary chiefs advise parliament, rather like hereditary lords do in Britain. But views about gay people are evolving. Discriminating against them at work has been illegal since 2010—despite the ban on their bedroom activities. And younger people in Botswana are more tolerant than their elders. Some 76% of 50-64-year-olds would object to a gay neighbour; only 48% of 18-29-year-olds would.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.botswana[bɔt'swɑ:nә]:n. 博茨瓦纳（非洲中南部国家） 
@@ -42,4 +43,6 @@
 31.hereditary[hi'reditәri]:a. 世袭的, 遗传的 [医] 遗传的 
 32.hereditary[hi'reditәri]:a. 世袭的, 遗传的 [医] 遗传的 
 33.tolerant['tɒlәrәnt]:a. 宽容的, 容忍的, (对冷、热)能耐的 [医] 能耐受的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

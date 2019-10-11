@@ -9,6 +9,7 @@
 Dr Brodsky suspects this is no coincidence. A cereal-based diet is far richer in carbohydrates than the diet of a hunter-gatherer. Once digested, those carbs will end up as glucose in the bloodstream. An inability to control high blood sugar is known as diabetes. And diabetes can be fatal. So a better way of removing glucose from the blood and into storage cells will be favoured by natural selection. A gene variant encouraging this would probably spread quite rapidly through a population of farmers. 
 There is, in fact, already one known example of something similar having happened—the persistence into adulthood of the ability to digest lactose, a sugar found in milk. Human children produce an enzyme, lactase, that lets them do this. Usually, this capacity is lost in adults. But populations descended from those that domesticated milk-producing animals such as goats and cattle often retain lactose-digestion into adulthood. 
 Whether the efficient form of CLTCL1 really is still becoming more abundant—and people are thus evolving—is impossible to say at the moment. One thing which remains to be confirmed is that those with the less effective version actually do have problems regulating their blood-sugar levels. If that turns out to be true, though, and given that even today diabetes kills many people, the chances are good that this piece of evolution is still a work in progress.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -43,4 +44,6 @@
 30.lactase['lækteis]:n. 乳糖酶 [化] 乳糖酶 
 31.domesticate[dәu'mestikeit]:vt. 养驯, 引进(外来词等), 教化 
 32.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

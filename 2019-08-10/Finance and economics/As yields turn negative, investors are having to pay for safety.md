@@ -8,6 +8,7 @@
 As the trade war between America and China intensifies, investors are taking refuge in government bonds, pushing yields down. Meanwhile central banks, fearing a global downturn, are cutting interest rates. Mario Draghi, the president of the European Central Bank, recently hinted that it might ease policy after the summer. 
 Central banks have failed to pep up inflation, which has hovered well below the 2% or so targeted by most ratesetters in the rich world. Investors do not think that central banks are on track to nudge inflation up any time soon. Five-year forward swaps, which track investors’ expectations on the matter, currently predict inflation of 0.9% in Europe and 1.7% in America. This contributes to depressed bond yields. Inflation erodes the purchasing power of bonds’ future cash flows, so the higher expectations of future inflation are, the higher the yield investors will demand, and vice versa. 
 For now American investors still have somewhere to take refuge. Though yields on ten-year American government bonds have collapsed from their 3.25% peak last November, they are still positive, at 1.71%. Their 30-year equivalent yields 2.25%. That is not much comfort for European investors, who must pay around 3% to hedge against dollar swings. If the Fed eases faster than the ECB—and it has more room to do so—the narrower gap between American and European interest rates would make hedging cheaper, though it would also mean there was less point in buying American. Those investors who already had, however, would stand to gain.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.investor[in'vestә]:n. 投资者 [经] 投资者 
@@ -45,4 +46,6 @@
 33.erode[i'rәud]:vt. 腐蚀, 侵蚀 vi. 受腐蚀 
 34.versa[]:a. 反的 
 35.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

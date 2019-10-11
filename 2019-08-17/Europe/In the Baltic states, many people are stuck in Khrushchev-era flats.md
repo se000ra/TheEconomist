@@ -7,6 +7,7 @@
 For one thing, they are poorly insulated and expensive to heat. In Lithuania, for example, heating a two-bedroom apartment in the coldest months can cost 20% of the average salary. Soviet districts are generally occupied by the elderly and the hard-up, who are least able to bear the cost. Most also depend on centralised district heating, with no option to disconnect or change providers. In the winter, bitter inter-apartment battles are fought over the thermostat. 
 It’s not just chilly residents who need better insulation. The EU aims to be carbon-neutral by 2050. Housing, which consumes 40% of all the EU’s energy and belches out 36% of its carbon, requires the biggest overhaul. Europe has decreed that, by 2020, all new buildings must use almost no energy. It is even harder to figure out what to do with old ones. Mass demolitions are expensive and unpopular. (Residents resisted when, in 2017, Moscow announced that it would tear down 8,000 of its own Khrushchev-era apartments.) Retrofitting, too, is problematic: in apartment blocks, individual owners can rarely reach consensus on something so expensive. All three Baltic countries offer government-backed financial instruments, but their success has been limited. Residents often don’t understand the need for change and, because the poorest receive heating subsidies, many have little direct incentive to do so. 
 A more hands-on approach is needed. SmartEnCity, an initiative supported by EU funding, recently succeeded in turning three khrushchyovka blocks into energy-efficient “smart homes” in Tartu, Estonia. With someone else managing the project, and explaining the process, residents were more willing to take out loans and hand over their keys. Groups from Latvia and Lithuania are interested in copying the experiment.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Baltic['bɒ:ltik]:a. 波罗的海的 
@@ -46,4 +47,6 @@
 35.retrofit['retrә,fit]:n. 式样翻新 vt.vi. 式样翻新 [计] 更新; 改进 
 36.incentive[in'sentiv]:n. 动机 a. 激励的 
 37.Tartu['tɑ:tu:]:n. 塔尔图（爱沙尼亚的第二大城市） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

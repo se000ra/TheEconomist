@@ -9,6 +9,7 @@
 Rather than being defined just in relief, Mr Bennet also differs in what he would spend money on. He has put two objectives at the centre of his economic pitch: investing in the 70% of American workers without a college degree and eroding childhood poverty. Both are big, progressive-sounding ideas—except that they are not much discussed by progressives. 
 Help for non-college-educated Americans, which he estimates would cost $500bn over ten years, would come in the form of wage subsidies, wage insurance and grants for training. By concentrating on work, Mr Bennet takes note of the perennial worry about welfare traps. His other big proposal, monthly cash transfers of $300 for each American child, has gone unnoticed beside flashier offers like a universal basic income (from Andrew Yang) or universal child care paid for by a wealth tax (from Ms Warren). “For 3% of the costs of Medicare for All, you could reduce childhood poverty in America by 40% and end $2-a-day childhood poverty in America,” says Mr Bennet. Because interventions to improve economic mobility are most effective early in life, “my starting point would be free preschool, not free college”. 
 Ms Warren has risen in the polls by creating the brand of a wonkish populist with a plan for everything (including one inquiring supporter’s love life). Mr Bennet’s ideas are a foil to these. They are just as rigorous and technocratic, but more rooted in pragmatism. Unfortunately, few voters have taken notice yet. After attending the first two debates, Mr Bennet failed to qualify for the television debate that will be held on September 12th, because of its more stringent polling and fundraising requirements. Still, Mr Bennet has pledged to continue his campaign until the first actual votes, which are not for five months.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.elizabeth[i'lizәbәθ]:n. 伊丽莎白（女子名） 
@@ -73,4 +74,6 @@
 60.stringent['strindʒәnt]:a. 迫切的, 严厉的, 银根紧的 [医] 约束的, 紧迫的 
 61.fundraising['fʌndˌreɪzɪŋ]:n. 筹款, 募款 a. 筹款的 
 62.pledge[pledʒ]:n. 诺言, 保证, 誓言, 抵押, 信物, 保人, 祝愿 vt. 许诺, 保证, 使发誓, 抵押, 典当, 举杯祝...健康 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

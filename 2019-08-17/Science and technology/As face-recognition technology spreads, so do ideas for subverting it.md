@@ -14,6 +14,7 @@
 Training one algorithm to fool another is known as adversarial machine learning. It is a productive approach, creating images that are misleading to a computer’s vision while looking meaningless to a human being’s. One paper, published in 2016 by researchers from Carnegie Mellon University, in Pittsburgh, and the University of North Carolina, showed how innocuous-looking abstract patterns, printed on paper and stuck onto the frame of a pair of glasses, could often convince a computer-vision system that a male AI researcher was in fact Milla Jovovich, an American actress. 
 In a similar paper, presented at a computer-vision conference in July, a group of researchers at the Catholic University of Leuven, in Belgium, fooled person-recognition systems rather than face-recognition ones. They described an algorithmically generated pattern that was 40cm square. In tests, merely holding up a piece of cardboard with this pattern on it was enough to make an individual—who would be eminently visible to a human security guard—vanish from the sight of a computerised watchman. 
 As the researchers themselves admit, all these systems have constraints. In particular, most work only against specific recognition algorithms, limiting their deployability. Happily, says Mr Harvey, although face recognition is spreading, it is not yet ubiquitous—or perfect. A study by researchers at the University of Essex, published in July, found that although one police trial in London flagged up 42 potential matches, only eight proved accurate. Even in China, says Mr Harvey, only a fraction of CCTV cameras collect pictures sharp enough for face recognition to work. Low-tech approaches can help, too. “Even small things like wearing turtlenecks, wearing sunglasses, looking at your phone [and therefore not at the cameras]—together these have some protective effect”. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.subvert[sәb'vә:t]:vt. 推翻, 颠覆, 毁灭 [法] 颠覆, 推翻, 减亡 
@@ -109,4 +110,6 @@
 91.Essex['esiks]:n. 艾塞克斯郡(英格兰郡名) 
 92.turtleneck['tә:tlnek]:n. 圆翻领, 高翻领毛衣 
 93.sunglass['sʌnglæs]:n. 凸透镜, 太阳眼镜 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

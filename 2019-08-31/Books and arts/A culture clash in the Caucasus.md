@@ -9,6 +9,7 @@
 Mr Akin calls the film a love-letter to Georgia, which he often visited as a child. Unlike many of today’s young Georgians, who prefer techno to tradition, he adores the indigenous heritage. But he feels it must be liberated from its self-appointed guardians: people like the film’s steely dance teacher who insists, implausibly, that there is nothing sensual about the gyrations he demands. Mr Akin was inspired to make the movie after reading in 2013 that a gay-pride event in Tbilisi had been harassed by thugs and zealots. (The hand of Russia, which occupies a chunk of the country, may lurk behind such ructions.) 
 Towards the film’s end there is a funny, touching exchange between Merab, a dancer and the hero (pictured right), and his boozy, just-married brother David. “I’ll just be another fat, drunk Georgian…and that’s fine,” says David. “But you, Merab, are special and that’s why you must leave Georgia now.” For their part, the dancer-actors who play Merab and Irakli, his partner in a fleeting, passionate relationship, are adamant that they will not emigrate. Both Levan Gelbakhiani and Bachi Valishvili (left) say they will stay and fight for a more tolerant society. “When there’s a leak in your home you don’t leave, you fix it,” says Mr Valishvili. That is brave, given the hate mail (roughly balanced by fan mail) that they have received from compatriots. 
 In the main, spiky ideas—as well as people—slide backwards and forwards between Georgia and the world with an ease that would astound a Soviet time-traveller. David Papava, for example, left home in the 1990s and made a name as a director of experimental theatre in London, before returning to Tbilisi. His rendering of Aristophanes’s comedy, “The Birds”, took digs at the country’s extravagant political class. “Some critics didn’t like my work,” Mr Papava recalls, “but I never felt threatened.” Many censorious old habits have waned—but some endure. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.dancer['dɑ:nsә]:n. 舞蹈演员, 跳舞者 
@@ -82,4 +83,6 @@
 69.astound[ә'staund]:vt. 使惊骇, 使大惊 
 70.extravagant[ik'strævgәnt]:a. 奢侈的, 挥霍无度的, 浪费的 
 71.censorious[sen'sɒ:riәs]:a. 爱批判的, 挑剔的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -23,6 +23,7 @@
 While the country’s economy has been growing at around 2%, information-technology services have been expanding at triple that rate since 2016. Growth is occurring “in areas where we are almost certain to see much more productivity”, says Mr Poloz. 
 Canada remains less keen to use competition as a way of boosting that productivity. Unlike authorities in other rich countries, its Competition Bureau cannot compel firms to provide information, says its chief, Matthew Boswell. Its budget per citizen is less than a quarter that of its counterpart in Australia. Mr Boswell thinks the principle of allowing anti-competitive mergers should, “at the very least”, be restricted to exporting companies. “Canada could see a 4-5% boost in productivity through pro-competitive regulatory reform and reduced barriers to entry,” he says. 
 Many may balk at that. Canada came through the global financial crisis better than America did, in part because its banks are prudent, well-regulated and untroubled by excessive competition. It hopes to match American smarts and scale while remaining Canadian in character. Its technology culture is more patient than Silicon Valley’s. “The vibe in the Valley might have been defined by ‘Move fast and break things’,” says Mr Wu. “It’s different here.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.redistribution['ri:distri'bju:ʃәn]:n. 重新分配, 再分发 [计] 重新分配 
@@ -161,4 +162,6 @@
 134.prudent['pru:dnt]:a. 审慎的, 三思而后行的, 精明的, 节俭的 
 135.untroubled['ʌn'trʌbld]:a. 不烦恼的, 无忧虑的, 未被扰乱的, 未受骚扰的, 平静的 
 136.vibe[vaɪb]:n. 感应 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

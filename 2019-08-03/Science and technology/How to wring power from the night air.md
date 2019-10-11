@@ -8,6 +8,7 @@
 One thing that is known about lightning, however, is that it requires water to be present in all three states of matter: solid, liquid and vapour. Dr Price suspects that in his experiment the surface of the inner cylinder is taking on the role played in a thunderhead by water’s solid phase, ice. His comparison of different metals’ effectiveness in that role—zinc is best, copper is useless—may help elucidate the details of the process, not only in his putative generator, but also in a natural thunderstorm. 
 His hypothesis is that things start when water droplets condense out of the humid air and onto the metal surface. Though water consists mostly of molecules of hydrogen and oxygen (H2O), at any given time a few of those molecules will have broken up spontaneously into positively charged hydrogen ions (H+) and negatively charged hydroxyl ions (OH-). These two types of ion will then move through a droplet at different rates, depending on the nature of the surface to which the droplet is attached, separating the positive and negative charges within that droplet. This charge separation will, in turn, induce a charge on the surface of the cylinder, and thus a potential difference in the capacitor. 
 Having established the principle, the question Dr Price now faces is whether he can scale things up to a useful degree. This will involve tinkering with cylinders made from various combinations of metals and metal alloys, and also playing with the configurations of the cylinders with respect to one another. That there actually is, out there, a combination of substance and geometry which will yield useful amounts of electricity is, perhaps, a long shot. But, given the power of lightning itself, it certainly seems worth looking into.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.wring[riŋ]:n. 扭绞, 拧, 挤 vt. 拧, 绞, 扭, 勒索, 折磨, 使痛苦 vi. 蠕动, 扭动, 绞, 扭, 感到痛苦 
@@ -44,4 +45,6 @@
 32.induce[in'dju:s]:vt. 引诱, 招致, 归纳出, 感应 [医] 诱导, 感应 
 33.tinker['tiŋkә]:n. 补锅匠, 会做各种修补活计的人 vi. 做焊锅匠, 笨拙的修补 vt. 修补 
 34.configuration[kәn.figju'reiʃәn]:n. 结构, 表面配置, 外形, 配置 [计] 配置 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

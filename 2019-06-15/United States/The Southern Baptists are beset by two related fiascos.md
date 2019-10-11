@@ -14,6 +14,7 @@
 The damaging effect of this on the convention’s ability to evangelise—in theory, its core mission—is obvious. It has also highlighted the pre-existing damage done by politicisation, which has made the Southern Baptists largely unacceptable to half of America. And their contentious embrace of Mr Trump has made that situation even worse, by alienating the younger and non-white evangelicals they must recruit merely to tread water. Mr Greear, a conservative theologian with the relatively moderate outlook of his native North Carolina, has made increasing diversity in the convention a priority. Yet Mr Trump’s election, he acknowledges, has driven a “quiet exodus” of blacks from its churches. 
 He is at least trying to confront both crises. This week he backed a change to the convention’s rule-book that will make it easier to expel any church that fails to respond satisfactorily to allegations of abuse. A guarded critic of Mr Pence’s speech last year, he also warned against cheerleading for Mr Trump. By the convention’s recent standards this is progress, albeit insufficient. 
 It is unclear how much influence Mr Greear wields over the convention’s disparate parts. It is also not obvious how, in practical terms, he can expect to wean his brethren off party politics without revising the tenets of the 1979 resurgence, which he claims to support. So long as Southern Baptists put fighting abortion and gay rights before the acts of grace and social justice they once gave equal billing to, they have only one party to support: the Republicans, whose shrinking, white coalition is the future they are trying to escape. Mr Greear can clearly see that looming cliff-edge. He just cannot bring himself to hit the brake.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lexington['leksiŋtәn]:n. 列克星敦市（位于美国肯塔基州） 
@@ -124,4 +125,6 @@
 106.coalition[.kәuә'liʃәn]:n. 结合体, 结合, 联合 [经] 联合, 联盟 
 107.loom[lu:m]:n. 织布机, 若隐若现的景象 vi. 朦胧地出现, 隐约可见, 可怕地出现 
 108.cannot['kænɒt]:aux. 无法, 不能 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 H2O is not the first to be caught out. Last summer GAM, a Swiss fund manager, suspended a star trader who had loaded up on esoteric paper. Its shares have since lost over 60% of their value. Neil Woodford, once a star stockpicker, ran into similar trouble earlier this month. When the big-company shares he was famed for investing in started to offer ho-hum returns, he turned to taking stakes in small unlisted companies. These stakes are far trickier to unload in a hurry. But investors were still entitled to money back on demand. 
 Or not. GAM and Woodford had to “gate” their clients’ money as client redemptions threatened to overwhelm their ability to generate cash by selling their funds’ assets. That annoyed investors, but helped ensure the funds are not forced to sell illiquid assets at fire-sale prices. H2O’s funds include provisions whereby investors pulling their money amid a wider outflow have to accept a small discount. So far it has proved capable of meeting hefty redemptions. 
 There are other reasons to worry about liquidity in the bond market. Investment banks that match buyers and sellers of securities used to grease the system by holding troves of bonds on their own balance-sheets. Rules curtailing that practice since the financial crisis may have worsened liquidity mismatches elsewhere. Regulators seem aware of the problem. On June 26th Mark Carney, the Bank of England’s governor, denounced funds promising daily redemptions while investing in hard-to-shift paper as “built on a lie”. Too true. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.mismatch[mis'mætʃ]:n. 错配 vt. 错配, 使...成不相配的婚姻 
@@ -67,4 +68,6 @@
 54.regulator['regjuleitә]:n. 调整者, 校准者, 校准器, 调整器, 标准钟 [化] 调节剂; 调节器 
 55.carney['kɑ:ni]:v. 哄骗 n. 哄骗的话 
 56.denounce[di'nauns]:vt. 告发, 抨击, 谴责 [法] 谴责, 斥责, 告发 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

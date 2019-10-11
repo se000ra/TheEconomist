@@ -15,6 +15,7 @@
 Arrests, harassment and disappearances have become common. A Tatar activist says police threaten them: “If you misbehave, you’ll become a poteryashkoi”—a “lost one”. Activists have formed a group called “Crimean Solidarity” to support political prisoners. 
 Ethnic Ukrainians, a shrinking minority, face similar pressure. “Everything left from Ukraine has been erased,” laments Archbishop Kliment, head of the Ukrainian Orthodox church in Crimea. Before the annexation, the church had 49 locations, including 25 active parishes, and nearly 20 priests across the peninsula. Today it is down to just nine locations and four priests. “The language is dying,” one Ukrainian activist whispers. “There are five- and six-year-old kids for whom Ukrainian is as alien as English.” 
 The new authorities’ official histories efface the peninsula’s non-Russian past. Asked what came before Catherine, a tour guide at one Sevastopol history museum responds with a wave of the hand: “Just some Turks.” As Mr Kliment points out, this is nothing new: the Russification of Crimea began long before Mr Putin gobbled it up. “But whether they can make it last,” he muses, “only God knows.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.annexation[ænek'seiʃәn]:n. 合并, 附加, 附加物 [法] 兼并, 侵吞, 附加物 
@@ -129,4 +130,6 @@
 110.russification[,rʌsifi'keiʃən]:n. 俄罗斯化 
 111.gobble['gɒbl]:n. 火鸡叫声 vt. 狼吞虎咽 vi. 贪食, 咯咯叫 
 112.muse[mju:z]:n. 沉思, 冥想 v. 沉思, 冥想, 若有所思地凝望或说 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

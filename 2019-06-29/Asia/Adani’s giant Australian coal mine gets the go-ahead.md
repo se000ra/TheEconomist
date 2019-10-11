@@ -10,6 +10,7 @@
 But many towns along the coast of Queensland, although far from the coal seams, still benefit from mining because they are home to lots of fly-in-fly-out workers. Cavalcades of anti-Adani activists from other parts of Australia have not been well received in the state. Supporters of the mine argue that preachy greens from Sydney and Melbourne also benefit from the resource business. Last year coal overtook iron ore as Australia’s biggest export. 
 Activists insist the mine can still be stopped and continue to demonstrate against it. Adani has yet to finalise a royalty agreement with Queensland’s government, or obtain a licence to build its railway. They cite other big projects that were halted after work had started, such as a dam on the Gordon river in Tasmania which was stymied by protests in the 1980s. 
 Companies following Adani into the Galilee Basin may have trouble financing their investments, since banks are reluctant to support controversial mines. Adani is having to fund the first, A$2bn ($1.4bn) phase of the Carmichael mine itself. As countries try to cut their emissions, the market for thermal coal is shrinking. Even in Australia, which still relies on coal for most of its electricity, the three biggest power producers have cancelled plans for new coal-fired plants. In the end it may be economics, not activism, that stops the development of the basin. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -80,4 +81,6 @@
 66.stymy[]:n. (喻)困难的境地 vt. 使(球)处于困难的位置, 使为难, 使处困境, 妨碍, 阻挠, 阻碍 
 67.producer[prә'dju:sә]:n. 生产者, 制作者, 制作人 [化] 发生器; (炉煤气)发生炉; 制气炉; 生产者 
 68.activism['æktivizm]:n. 激进主义, 行动主义, 能动论 [法] 激进主义, 行动主义 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

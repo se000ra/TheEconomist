@@ -10,6 +10,7 @@
 The economy was a constant struggle, though. An IMF-backed austerity programme outraged the public. As Mr Essebsi’s support waned, his party splintered: about half of his MPs are now aligned with other groups. Over the past year he fell out with the prime minister, Youssef Chahed, who will lead his own secular faction in parliamentary elections in October. 
 The speaker of parliament, Muhammad Ennaceur, has taken over as interim president. A transition had been imminent anyway: Mr Essebsi did not plan to seek a second term, saying a younger person should hold the job. His death simply speeds up what looks to be an uncertain vote. Polls show established parties doing poorly. In June lawmakers approved amendments to the electoral law that block several popular would-be candidates, such as Nabil Karoui, a media magnate whose television channel is often critical of the government. Mr Karoui was subsequently charged with money-laundering, which would seem to scupper his chances. 
 Since the uprising, Tunisia’s politics have often been reduced to a struggle between Islamists and secularists, or between entrenched labour unions and powerful businessmen linked to the old regime. The public is growing tired of these factions. Established parties are in chaos and voters are hungry for political outsiders. The next president, whoever it is, will be judged above all on his or her handling of a sluggish economy. Mr Essebsi was right: Tunisia needs a younger leader—one not caught up in the battles of the past. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Tunisian[tju:'niziәn]:a. 突尼斯的, 突尼斯人的 n. 突尼斯人 
@@ -79,4 +80,6 @@
 65.voter['vәutә]:n. 选民, 投票人 [法] 选民, 选举人, 投票人 
 66.outsider[' aut'saidә]:n. 外人, 局外人, 非会员, 外行, 门外汉, 比赛中获胜可能性不大的选手 [经] 外船公司 
 67.sluggish['slʌgiʃ]:a. 偷懒的, 懒惰的, 迟钝的 [经] 萧条的, 呆滞的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

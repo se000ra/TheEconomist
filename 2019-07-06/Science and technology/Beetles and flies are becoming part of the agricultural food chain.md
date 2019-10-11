@@ -17,6 +17,7 @@
 Both beetle farmers and fly farmers also aspire to follow the paths of other husbanders of livestock by breeding better versions of their animals. Over the past four years, for example, researchers in Finland, Spain and Serbia have built up a genetic library of black-soldier-fly varieties. Gunilla Ståhls of the University of Helsinki says this library shows how much variety the flies have to offer—an essential basis for a breeding-improvement programme. 
 Mr Drew thinks the scope for such improvement is enormous. As he observes by analogy, a few decades ago a laying hen would produce about three eggs a week, and even then only during the summer. Selective breeding means such a hen can now be counted on to turn out double that number, and to do so all year round. 
 At the moment, the tonnages firms like Ynsect and AgriProtein aim to produce are still trivial compared with the multi-million-tonne market for fish feed. But that leaves plenty of room for growth. This is, moreover, a growth that may bring environmental benefits as well as economic ones. Today, a lot of fish food is itself fish. Insect farming could help relieve the oceans of that burden, and improve the prospect of the adage that “there are plenty more fish in the sea” actually being true.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.beetle['bi:tl]:n. 甲虫, 大槌 vi. 快速移动 vt. 捶 
@@ -110,4 +111,6 @@
 89.trivial['tiviәl]:a. 琐碎的, 不重要的, 轻微的, 平常的 
 90.environmental[in.vaiәrәn'mentәl]:a. 周围的, 环境的 [经] 环境的, 环保的 
 91.adage['ædidʒ]:n. 格言, 谚语 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

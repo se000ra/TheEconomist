@@ -13,6 +13,7 @@
 Botswana is building coal-fired plants with the intention of selling electricity to South Africa. But critics note that Eskom, South Africa’s state-owned power utility, is in effect insolvent. Other countries are banking on importing coal to fire their new plants. “If you do not have indigenous coal resources, that has huge implications for your balance of payments,” says Eric Wanless of the Rocky Mountain Institute, a clean-energy research outfit in America. 
 African states should instead be improving transmission and distribution, says Mr Wanless. Power cuts are often due to inadequate maintenance of infrastructure rather than insufficient supply. Some countries propose hooking poor rural customers up to the grid, but this is expensive. Given how little power they consume, it might be more sensible to come up with off-grid solutions. Solar panels, for example, help the poor meet most of their needs. Rather than bring power from faraway power plants, distributed generation systems would provide remote villages with cheap, flexible and renewable power. 
 Some African states are reconsidering coal. Fifty of the 82 planned coal-fired power stations outside South Africa have been shelved, says Global Energy Monitor. The reasons vary. Kenya is facing calls to make more use of its geothermal resources, only a fraction of which have been tapped. Geothermal energy is cheaper than coal and as dependable. Coal allowed the West to industrialise, but Africa would be better off embracing 21st-century technology. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -77,4 +78,6 @@
 60.shelve[ʃelv]:vt. 放置架子上, 搁置 vi. 渐渐倾斜 
 61.geothermal[,dʒi(:)әu'θәmәl]:a. 地温的, 地热的 
 62.dependable[di'pendәbl]:a. 可信任的, 可靠的, 可信赖的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

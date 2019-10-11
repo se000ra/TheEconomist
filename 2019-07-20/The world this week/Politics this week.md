@@ -19,6 +19,7 @@
 Donald Trump told four non-white Democratic congresswomen, two of them Muslim, to “go back” to where they came from and fix their “own” corrupt governments before criticising America. Three of the women were born in the United States; the other is an American citizen. A resolution to impeach Mr Trump over his words attracted 95 votes, losing heavily. It was the first time such a motion against Mr Trump had come to a vote. A Republican senator called the women “a bunch of communists”. See article. 
 Thousands of protesters demanded the resignation of Puerto Rico’s governor, Ricardo Rosselló. Some threw bottles and fireworks at police, who responded with tear gas and rubber bullets. Mr Rosselló is in trouble after 900 pages of chat-group messages were leaked, in which he apparently referred to a female politician as a “whore” and suggested that the US federal board that oversees Puerto Rico’s awful finances should commit a sex act with itself. 
 Alex Acosta resigned as America’s labour secretary. As a prosecutor in 2008, Mr Acosta had struck a plea deal with Jeffrey Epstein, a financier accused of having sex with under-age girls. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -129,4 +130,6 @@
 106.jeffrey['dʒefri]:n. 杰弗里（男子名, 等于Geoffrey） 
 107.epstein['epstain]:n. 爱泼斯坦（姓氏） 
 108.financier[fai'nænsiә]:n. 财政家, 金融家 vi. 从事欺骗性金融活动, 欺骗 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

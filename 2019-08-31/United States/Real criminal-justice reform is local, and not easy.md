@@ -11,6 +11,7 @@
 Ms Rollins replies that her predecessors often declined to prosecute low-level cases; she just made practice into policy. And that policy is not absolute. She distinguishes between three hypothetical trespassers: a homeless person sleeping on public property, someone who falls asleep while high in a city hospital, and a violent felon caught with a gun outside his ex-girlfriend’s house. The first two, she argues, need help, not a criminal record; the third deserves the charge. 
 In a speech to police officers on August 12th, William Barr, the attorney-general, derided “anti-law-enforcement DAs” who refuse to enforce “broad swathes of criminal law. Most disturbing is that some are refusing to prosecute cases of resisting police.” As it happens, resisting arrest, when not combined with more serious charges, is on Ms Rollins’s do-not-prosecute list. Here too she draws a distinction: “If you’re charged with armed robbery and resisting arrest, that’s very different than a stand-alone resisting-arrest charge, which is often just, you’ve pissed this police officer off.” Annoying a police officer may not be good practice, but it is not a crime. 
 The results of Ms Rollins’s approach, Mr Barr warns, “will be predictable. More crime; more victims.” Most reformist prosecutors have not been in office long enough to tell. But Ms Rollins does not pretend to be a fortune-teller. Like many reformers, she has invested in data—her department has hired a technologist to update the creaky computer system. And she promises to be responsive to it. “If my policies, through data, show things are getting worse, why in God’s name would I want to make anything worse than it is?... And if the Boston Patrolmen’s Association wants…to say, ‘See, we told you,’ I’m going to say, ‘You’re right’.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.battleship['bætlʃip]:n. 战列舰, 主力舰 
@@ -83,4 +84,6 @@
 68.creaky['kri:ki]:a. 嘎吱嘎吱的 
 69.responsive[ri'spɒnsiv]:a. 回答的, 应答的, 易感应的 
 70.datum['deitәm]:n. 论据, 材料, 资料, 已知数 [医] 材料, 资料, 论据 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

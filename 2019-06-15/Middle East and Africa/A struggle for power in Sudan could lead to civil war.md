@@ -15,6 +15,7 @@
 But there is little common ground. The generals still insist on having a military man in charge of the interim government. Leaders of the protest movement are demanding an international investigation into the massacre. They also want RSF troops to withdraw from Khartoum and other cities. Some, like Ms Mubarak, say no transitional government can include any of those responsible for atrocities. 
 One thing that ought to unite generals and opposition is that the longer the stalemate continues, the greater the risk of a civil war. That would not only be disastrous for the country, but could also suck in outside powers such as Qatar and Turkey, which have lost influence since the fall of Mr Bashir, or Iran, which has proved adept at filling vacuums. 
 Alex de Waal of Tufts University likens Sudan’s situation to that in Yemen, where regional powers have fought a proxy war since 2015. They could, he suggests, “do to Sudan what they’ve done to Yemen”. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Khartoum[ka:'tu:m]:n. 喀土穆（苏丹首府） 
@@ -108,4 +109,6 @@
 89.yeman[]:[网络] 也门；叶门；园艺业的普及则始于也门 
 90.regional['ri:dʒәnәl]:a. 地方的, 地域性的 [医] 区的, 部位的 
 91.proxy['prɒksi]:n. 代理, 代理人, 委托书 [经] 代理人, 代表权, 授权书 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

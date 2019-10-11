@@ -16,6 +16,7 @@
 The biggest obstacle, though, is working out how to fund paid leave. The states that have embraced their own policies have funded them through payroll taxes on employees, employers or some split between the two, with rates ranging from less than 0.1% of worker wages in New Jersey up to 1.1% in Rhode Island. The rates are small enough to have avoided a backlash from employers and workers, says Ms Shabo of New America. The bill that Ms Gillibrand has introduced in the Senate, called the Family and Medical Insurance Leave Act, would also be funded by a new payroll tax, with employers and employees each contributing 0.2% of wages. Voters, who are broadly keen on paid leave, may be less so if it comes at a high cost to them. Around three-quarters of Americans support a federal paid-leave programme when costs are not mentioned, but around 52% say they would oppose it if it cost them $450 a year in higher taxes, according to a survey for the Cato Institute, a libertarian think-tank. 
 Another way to finance paid leave, endorsed by Mr Rubio, would be for new parents to withdraw money from Social Security early and to delay retirement, but that is controversial. This route would disproportionately hurt women, who take leave more often and would thus be forced to work longer before retirement. It would also drain the Social Security benefits of low-wage-earners, who most need retirement benefits later on. 
 This puts advocates for a national paid-leave policy in a bind. Is it better to accept an imperfect solution that guarantees progress on paid leave, or hold out in the hope of a more comprehensive, inclusive and generous policy later on? Advocates would be wise to keep momentum going. With a strong economy and bipartisan interest, the moment is right for action. Better 56 years late than never.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -94,4 +95,6 @@
 74.inclusive[in'klu:siv]:a. 包含的, 包括的 
 75.momentum[mәu'mentәm]:n. 动力, 动量 [化] 动量 
 76.bipartisan[bai,pɑ:ti'zæn]:a. 两党连立的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

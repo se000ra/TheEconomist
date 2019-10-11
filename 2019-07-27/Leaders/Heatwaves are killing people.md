@@ -9,6 +9,7 @@
 Second, cool shaded areas and fresh water should be made available. In poor places, air-conditioned community centres and schools can be kept open permanently (steamy nights that provide no relief from scorching days can also kill). In Cape Town, spray parks have been installed to help people cool down. Third, new buildings must be designed to be resilient to the threat of extreme heat and existing ones adapted. White walls, roofs or tarpaulins, and extra vegetation in cities, all of which help prevent heat from building up, can be provided fairly cheaply. A programme to install “cool roofs” and insulation in Philadelphia reduced maximum indoor temperatures by 1.3˚C. 
 It is a cruel irony that, as with other effects of climate change, the places that are hardest hit by heatwaves can least afford to adapt. In poor countries, where climates are often hotter and more humid, public-health systems are weaker and preoccupied with other threats. Often, adaptation to extreme heat is done by charities if it is done at all. Particular attention should be paid to reaching both remote areas and densely populated urban ones, including slums where small dwellings with tin roofs packed together worsen the danger that uncomfortably high temperatures will become lethal. 
 Adaptation is not an alternative to cutting emissions; both are necessary. But even if net emissions are reduced to zero this century, the persistence of greenhouse gases in the atmosphere means that heatwaves will continue to get worse for decades to come. As the mercury rises, governments in rich and poor countries alike must do more to protect their populations from this very real and quietly deadly aspect of climate change. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.heatwave[ˈhi:tweɪv]:n. 热浪[波], 酷暑期 
@@ -53,4 +54,6 @@
 40.uncomfortably[ʌnˈkʌmftəbli]:adv. 不舒适地, 不自在地, 令人不快地 
 41.persistence[pә'sistәns]:n. 固执, 坚持不懈, 持续(性), 存留(状态) [电] 持久 
 42.quietly['kwaiәtli]:adv. 安静地, 沉着地, 秘密地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

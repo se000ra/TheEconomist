@@ -14,6 +14,7 @@
 In the long run, however, the devastation caused by the disease may have a positive impact. One reason why the virus has affected China so badly is that so much of the industry is small-scale. This has made it difficult to enforce biosecurity standards. Small operators usually lack the expertise or funds necessary to protect their herds. The government has been calling for the development of bigger, more efficient, operations. The ministry of agriculture says farms with more than 500 pigs now account for around 50% of total pork output, up from 38% in 2010. But progress has been impeded by a lack of financial support and training for those wishing to farm on a large scale. The swine-fever crisis may encourage the central government to spend more on solving these problems. 
 For as long as it takes China’s pig industry to recover—which may be years—farmers elsewhere may have cause to celebrate. Foreign producers, whether in Brazil, Europe or America, cannot make up the vast amount of production that will be lost in China, but they will have more opportunities to sell their pork there (American pig-farmers will have a tougher time because of tariffs imposed as part of the ongoing trade war with China). 
 Noel White, the boss of Tyson Foods, America’s largest meat-packing firm, said this month that in his 39 years in the business he had “never seen an event that has the potential to change global protein production and consumption patterns” as much as China’s epidemic of African swine fever. “All of us are rapidly waking up to the significance and the magnitude of this event,” says one boss at Archer Daniels Midland, an American animal-feed firm. China’s biosecurity regulators need to do so quickly, too. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.swine[swain]:n. 猪, 卑鄙的家伙 
@@ -76,4 +77,6 @@
 58.midland['midlәnd]:n. 中部地方, 内地 
 59.regulator['regjuleitә]:n. 调整者, 校准者, 校准器, 调整器, 标准钟 [化] 调节剂; 调节器 
 60.quickly['kwikli]:adv. 很快地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

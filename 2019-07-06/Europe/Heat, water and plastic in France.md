@@ -7,6 +7,7 @@
 Yet the country is not quite as green as it would like to think. France’s environmental council, set up by Mr Macron, recently declared that the reduction of carbon-dioxide emissions between 2015 and 2018 failed to meet government targets. Mr Macron himself cancelled a rise in the carbon tax on motor fuel after mass gilets jaunes protests. Ms Poirson, who implores her fellow citizens to embrace le recyclage, concedes that “France is behind in terms of recycling waste.” The country recycles plenty of glass bottles and paper, but only 26% of plastic packaging, below the EU average. 
 Part of the problem is the sheer volume of water consumed. No French supermarket trolley reaches the till without a six-pack of litre bottles, wrapped in yet more plastic film. After the Italians and Germans, the French are Europe’s biggest consumers of bottled water. Danone, a French firm, is the world’s second-biggest supplier of bottled water, selling a dozen brands. 
 Under pressure, Danone now promises to make 100% of its packaging reusable, recyclable or compostable by 2025. This would help, as long as consumers carry out le recyclage. By the end of the hottest day in French history, rubbish bins on streets and station platforms overflowed with empty plastic bottles—awaiting their probable fate as landfill. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -42,4 +43,6 @@
 31.bin[bin]:n. (贮存谷物等的)容器, 箱子 [计] 二进制, 商业信息网 
 32.overflow[.әuvә'flәu]:n. 溢值, 超值, 泛滥 v. (使)泛滥, (使)溢出, (使)充溢 [计] 上溢; 溢出 
 33.landfill['lændfil]:n. 垃圾堆；垃圾填埋地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

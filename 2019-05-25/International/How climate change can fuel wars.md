@@ -39,6 +39,7 @@
 “Pastoralists enter the delta earlier because their animals are hungry. They cross farms and fish-nurseries. The different groups are in conflict where before there was peace,” said Karounga Keita, a Malian economist, at the meeting. “All this is because the flooding area is reduced by dams and irrigation upstream.” There is concern that the proposed $280m Fomi dam upstream of the delta in the Guinean highlands will make matters worse. Conflicts between agriculturalists have existed for centuries, says Seydou Doumbia, a Malian official, but have never resulted in a security crisis. “Not until now.” 
 Mr Iceland and his colleagues at the WRI, in collaboration with nine other organisations, are working on a predictive tool for future conflicts, with a focus on water stress. The team has fed large historical data sets of risk factors for conflict (social, economic, demographic and geographic), in addition to a number of water indicators (precipitation, groundwater availability, length and severity of droughts) to machine-learning software to generate a model that predicts the probability of conflicts. In October 2018, WRI’s Manish Bapna presented preliminary results to the UN Security Council. Using data from 2016, the model was able to predict instances of water conflict in 2017 with 83% accuracy. 
 Academics may squabble about the specific causes of past conflicts, and develop complex models to forecast future ones. But there is consensus that tensions, and so the potential for bloodshed, will be heightened by climate change. And conflict, in turn, makes it harder to prepare for or respond to climate change. How to save for a rainy (or dry) day if men with guns keep stealing your savings or burning down your grain stores? Saleh Isaka, a Chadian village elder, remembers when his people used to graze thousands of animals on land where the Dar es Salaam camp now stands. Three years ago, Boko Haram attacked. They were armed with automatic weapons and they stole away all the animals, as well as women and children. “Now we are suffering. It’s hotter than before… Everything is dead,” Mr Isaka says, gesturing into the bone-dry distance. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.mayhem['meihem]:n. 蓄意的破坏, 故意的伤害罪 [医] 伤残, 残废 
@@ -282,4 +283,6 @@
 239.heighten['haitn]:vt. 增高, 提高, 加强 vi. 升高, 变大 
 240.Saleh[]:n. 萨利赫（人名） 
 241.Isaka[]:[地名] 伊萨卡 ( 刚(金)、坦桑 ) 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

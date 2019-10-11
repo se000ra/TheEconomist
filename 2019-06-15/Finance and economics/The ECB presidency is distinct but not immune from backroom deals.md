@@ -14,6 +14,7 @@
 Such calculations, surprisingly, are the reason Mr Weidmann seems to have support from Italy, even though it is the country most likely to benefit from the unconventional policies he has spoken against so forcefully. Its finance minister, Giovanni Tria, has said that he would be “open” to Mr Weidmann as president. The reason seems to be that once the top job is allocated, any compatriots already on the board tend to step down. If the job goes to a Frenchman or German, that would leave a gap for Italy to claim. Italian economists suspect further Machiavellian plotting: if the ruling populists were to elevate an official at the Bank of Italy to the ECB, that in turn gives them a chance to install one of their own at the bank in Rome, realising their ambition to gain influence over it. 
 The obsession with balance extends across European institutions. Leaders want to ensure that nationalities, genders and party affiliations are well-represented across the top jobs. Emmanuel Macron, France’s president, sees the commission presidency as the prize, says Mr Rahman. The price could be a German at the ECB. 
 All this means that expertise is not the sole criterion for replacing Mr Draghi. And until the commission presidency is decided, there are plenty of permutations. A drawn-out process raises the risk that the job is traded for other positions. Other names could emerge. A fudge, with the 68-year-old Mr Liikanen doing half a term and giving way for someone else, is not impossible. Just as a break with the past cannot yet be ruled out, nor can a reversion to it. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.triangulation[trai.æŋgju'leiʃәn]:n. 三角测量, 三角形划分 [电] 三角测量 
@@ -128,4 +129,6 @@
 110.permutation[.pә:mju'teiʃәn]:n. 交换, 更动, 排列 [计] 排列 
 111.fudge[fʌdʒ]:n. 虚构的故事, 谎言, 胡说 interj. 胡说八道 vi. 蒙混, 做傻事 vt. 粗制滥造, 捏造, 逃避职责 
 112.reversion[ri'vә:ʃәn]:n. 回复, 复原, 归还, 继承权 [化] 返硫 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

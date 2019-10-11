@@ -15,6 +15,7 @@
 Mr Warren is by no means the only progressive hero invoking religious liberty in court. The Clinton law is also being cited by seven left-wing Catholic activists from the anti-nuclear Plowshares movement, who face the possibility of 25 years in jail after entering a naval submarine base in 2018. 
 In some ways, the use of religious-freedom laws in left-wing causes is a mirror image of the tactics energetically employed by conservatives. By rooting successfully for the right of devout employers to opt out of contraceptive coverage, conservatives have loosened the accepted meaning of the term “substantial burden” and reduced the onus of proof. 
 If the pious owners of a corporation can argue that their freedom is substantially burdened by a health-care plan, then it becomes a bit more plausible for an altruistic aid worker, or even a pacifist nun, to say that freedom is being curtailed unless they too are free to act on their ideals. As Brie Loskota of the University of Southern California puts it: “Conservatives have turned religious freedom into a super-right that undermines all others…their new idea is that an individual conscience can override absolutely anything.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.scott[skɔt]:n. 斯科特（男子名） 
@@ -102,4 +103,6 @@
 83.brie[bri:]:n. 布里干酪（一种白色柔软的干酪） 
 84.California[.kæli'fɒ:njә]:n. 加利福尼亚 
 85.undermine[.ʌndә'main]:vt. 在...下面挖, 渐渐破坏, 暗地里破坏 [法] 暗中破坏, 以阴谋中伤伤害 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -8,6 +8,7 @@
 Even among those at the parade, motivations varied. A few, like Lois, who had travelled from Los Angeles, warned darkly of “gay domination” and “schools teaching anal sex to five-year-olds”. Others, like Kristy, a transgender woman, said they just wanted to support free speech. Some brought signs supporting the president’s proposed border wall. “I’m only here to make the left look ridiculous, to draw them out and expose their true colours,” said Patrick. Many spent the entire parade filming the counter-marchers. 
 Attitudes like Patrick’s made it tricky for the event’s critics to decide how to respond. The organisers of Boston’s gay-pride parade, which drew 750,000 people this year, released a statement saying they were “not interested in responding to their bait”. The counter-marchers, chanting slogans like “Boston hates you!”, disagreed. “I know they want to go home and say ‘I triggered a snowflake’, but it’s a stronger message to oppose them,” said Meghan Self, a schoolteacher. “To do nothing is to say it’s OK.” Many described their opponents, rightly or wrongly, as white supremacists; like a lot of the parade-goers, they saw this march as just another front in the culture wars, or the resistance to the president. 
 The parade ended with speeches outside Boston’s city hall. The small audience cheered as one roared “I want to say it’s not OK to be gay,” but they seemed more hesitant when another, an African-American woman introduced only as Barbara from Harlem, said “Thank God for slavery”. Her tribute to America’s “Judeo-Christian principles” was interrupted by a cry of “not Judeo!”. A later speaker declared, “We are living in a time when bad is good and good is bad.” Many of the counter-protesters, kept far away with multiple layers of barricades, would probably have agreed.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.dire[daiә]:a. 可怕的, 悲惨的, 阴沉的, 极端的 
@@ -65,4 +66,6 @@
 53.Harlem['hɑ:lәm]:n. 哈莱姆(纽约一地区) 
 54.tribute['tribju:t]:n. 贡物, 礼物, 颂辞 
 55.barricade[.bæri'keid]:n. 路障, 障碍 vt. 设路障于, 阻碍 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

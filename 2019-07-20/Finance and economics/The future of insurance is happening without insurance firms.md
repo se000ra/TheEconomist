@@ -22,6 +22,7 @@
 Reinsurers could soon shake up the market further. In recent years third-party capital providers such as pension and sovereign-wealth funds have sought to deploy vast sums in reinsurance markets. That has prompted reinsurers to set up money-management platforms, akin to betting interfaces, where investors can punt on various classes of risk. As a result reinsurers are keen to take on a broadening range of risks directly, by seeking to work with insurtechs and cutting primary insurers out altogether. “They’re calling us,” says Ms Lawson. “They’re looking for deals.” 
 Asian giants are also pulling ahead of Western peers. Pia Tischhauser of BCG reckons they are “15 years ahead” on innovative ways to price risk. In China Ping An, which in the 30 years since its founding has become the world’s most valuable insurer, employs 23,000 researchers, spends 1% of revenue on innovation and has over 12,000 patent applications. Its average underwriting time has fallen from five days to 15 minutes; it uses AI to recruit and train its 1.5m-strong army of agents, who are 50% more efficient than the competition. Yet in November its chief executive ruled out major international acquisitions, preferring to focus on domestic expansion. 
 For Western incumbents, the greater risk may lie closer to home. Rumours are growing that Big Tech is gearing up to enter insurance. Amazon, Apple and Google have troves of data and idle capital; they lack underwriting skills but can easily lure talent. And they can hope for handsome profits: BCG calculates that the top quarter of insurance firms returned a median 24% to shareholders in 2018. Scaremongering, sceptics say. But an adviser to tech titans is adamant. “We’re seeing what’s happening behind the scenes. They’re on the path.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -186,4 +187,6 @@
 160.adviser[әd'vaizә]:n. 顾问, 劝告者, 指导教师 [法] 顾问, 劝告者 
 161.Titan['taitn]:n. 提坦, 太阳神, 巨人 
 162.adamant['ædәmәnt]:n. 坚硬的东西 a. 非常坚硬的, 坚强的, 固执的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

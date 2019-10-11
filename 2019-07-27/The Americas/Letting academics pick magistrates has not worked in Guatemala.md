@@ -8,6 +8,7 @@
 In 2001 the dean of San Carlos’s law school persuaded the university to name him to the constitutional court. One of his successors realised that he could expand his influence by conferring lots of degrees. The grateful graduates would man the bar associations, giving them a say over who sits on the commissions. 
 These incentives have led to a proliferation of law schools. In the past 25 years their number has risen from four to 12. Wheeler-dealers bankroll the campaigns of professors competing to become deans, for example by throwing parties for students, who in some cases have a role in choosing them. Some law schools are almost phantoms. Da Vinci University, whose former dean, Fredy Cabrera, was a presidential candidate, has a skeleton staff but graduates hundreds of students. The judges who emerge from this complicated selection process are expected to issue rulings favourable to the people who manipulate it, for example on tax cases. 
 Until a few years ago the most powerful judge-picker was Roberto López Villatoro, an importer of knock-off shoes known as “the sneaker king”. In 2009 he allegedly bought the votes of bar-association representatives by sending them to Spain to study for master’s degrees. In 2014 he bought a flat for a magistrate. Mr López is in jail pending trial, but the professorial patronage continues. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.dean[di:n]:n. 院长, 主持牧师 [法] 外交团长, 学院院长, 教务长 
@@ -61,4 +62,6 @@
 49.pending['pendiŋ]:a. 未决定的, 待决的, 行将发生的, 向外伸出的 prep. 在等待...之际, 直到...时为止, 在...期间, 在...过程中 
 50.professorial[.prәufi'sɒ:riәl]:a. 教授的, 教授似的, 庄重的 
 51.patronage['pætrәnidʒ]:n. 赞助, 恩赐态度, 光顾, 任免权, 保护人的身分 [经] 光顾, 资助, 赞助 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

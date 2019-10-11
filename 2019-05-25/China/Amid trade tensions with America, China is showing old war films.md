@@ -12,6 +12,7 @@
 Foreign historians do not face such constraints. They argue that Mao deliberately prolonged the war by dragging out talks on an armistice that other combatants were ready to declare, notably by stubbornly demanding the return to China of 14,000 Chinese prisoners-of-war who were desperate to be sent to Taiwan. His aim was, in effect, to talk in order to continue fighting (and receiving modern weapons and aid from Stalin), despite warnings from his own military chief about “massive, unnecessary casualties”. Mao, unmoved by human suffering, predicted early in the war that 400,000 Chinese would die, and told Stalin that his plan was to spend “several years consuming several hundred thousand American lives”. Told about his own son’s demise in Korea, Mao murmured only: “In a war, how can there be no deaths?” 
 China’s noisiest patriots, vowing on social media to ditch iPhones for Chinese smartphones, have no idea of the true price their country paid in Korea. They know nothing, for that matter, about why America sought peace talks almost 70 years ago. True, America was daunted by China’s willingness to sacrifice lives. In the end, though, America and its allies wanted an armistice because a unified Korea was not an interest worth all-out war, let alone a nuclear one as some hothead generals proposed. 
 Today, America is debating something unrelated: whether openness to a rising China is sensible and even necessary, or an act of self-harm. War talk and broadcasting xenophobic films is a gift to American hawks who argue that China is an ideological foe that cannot be trusted. In their desperation to assure their own people that they are not a pushover, China’s rulers are forgetting the first lesson of propaganda. Real history can be a valuable guide. Falsified history leads countries astray. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.amid[ә'mid]:prep. 在其间, 在其中 [经] 在...中 
@@ -101,4 +102,6 @@
 85.pushover['puʃ.әuvә]:n. 容易做的工作, 易被劝服的人, 易被击败的人 
 86.falsify['fɒ:lsifai]:vt. 伪造, 歪曲 vi. 说谎 
 87.astray[ә'strei]:adv. 迷途地, 入歧途地 [法] 误入歧途地, 离开正道地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

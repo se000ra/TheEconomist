@@ -7,6 +7,7 @@
 Preeti Nair and her brother Subhas saw something else: a Chinese man in “brownface”. On July 29th the Nairs’ music video, in which they chant “Chinese people always fucking it up”, went viral. Within hours of being posted on Facebook it had been viewed more than 40,000 times. 
 The government’s response was swift. It ordered YouTube and Facebook to remove the video and the police to investigate the Nairs for producing “offensive content”. The government has been wary of ethnic tensions ever since deadly race riots in the 1960s. In 1992 it became illegal to promote “enmity between different groups on the ground of religion or race”. 
 As for the advertisement, K. Shanmugam, the law and home affairs minister, says it is legal. (Havas and Mediacorp, whose talent agency supplied Mr Chew—and which is owned by Temasek, a state investment vehicle—have apologised.) The discrepancy between the government’s responses to Havas and Mediacorp and to the Nairs has dismayed many Singaporeans. On Facebook Alfian Sa’at, a playwright, wrote: “We don’t really have racial harmony in Singapore, what we have is racist harmony.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.unprejudiced[.ʌn'predʒudist]:a. 无偏见的, 没有成见的, 公正的 [法] 无偏见的, 大公无私的, 公正的 
@@ -48,4 +49,6 @@
 37.singaporean[,siŋ^ә'pɔ:riәn]:n. 新加坡人 
 38.playwright['pleirait]:n. 剧作家 
 39.racist['reisist]:n. 种族主义者 [法] 种族主义的, 种族歧视 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

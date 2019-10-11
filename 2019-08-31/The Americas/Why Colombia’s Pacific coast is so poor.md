@@ -13,6 +13,7 @@
 Firms that would benefit from proximity to the ports, such as food importers, set up instead in Cali, 100km (60 miles) inland. Companies “are always on alert” about potential land claims and consultations, says Alexander Micolta, the president of Buenaventura’s chamber of commerce. 
 Demands for consultations are blocking a project from 2006 to widen to four lanes the congested road from Buenaventura to Cali. A proposal in 2012 to build a power line to the city from a dam 60km away fell apart. Hundreds of wooden huts appeared along the planned route. Their owners demanded 30m pesos ($10,000) per hut. These and other demands raised the scheme’s projected cost by 83%. 
 Mr Duque promises to mitigate the effects of both Ley 70 and prior consultations by issuing rules next year. But they need the approval of ethnic communities. Some do not share his idea of progress.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -80,4 +81,6 @@
 63.peso['peisәu]:n. 比索 [经] 比索 
 64.mitigate['mitigeit]:vt. 温和, 缓和, 减轻 [医] 缓和, 减轻 
 65.ethnic['eθnik]:a. 人种的, 种族的 [医] 人种的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

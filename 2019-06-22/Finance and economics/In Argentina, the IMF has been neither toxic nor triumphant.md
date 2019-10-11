@@ -12,6 +12,7 @@
 Some in Argentina think the size and speed of the IMF’s loan meant it could not be tailored to the country’s idiosyncrasies. Though Argentina might have liked a large, fast, customised loan, it had to settle for two out of the three. That said, the IMF has been remarkably willing to refit the agreement as circumstances require, expanding its size, speeding up disbursements and even endorsing the central bank’s new intervention policy in April. 
 The fund, and its biggest shareholder, America, seem eager to give this government the benefit of the doubt. For its part, the government has not blamed the fundfor its predicament. Even the opposition, which defied the IMF when Néstor Kirchner, Ms Fernández’s husband, was president in 2005, has said it will not walk away from the programme if it wins the election, though it will seek to renegotiate the terms. 
 The IMF has become more palatable, say some officials, because it has become less intrusive, leaving countries to decide how best to meet the macroeconomic targets it sets. But the fund itself is keen to highlight one conspicuous intrusion in Argentina’s affairs: it has set a floor under social spending, requiring the government to devote at least 1.3% of GDP to cash-transfer schemes and other social safety nets. This is not only a “moral imperative”, argues Roberto Cardarelli, the IMF’s mission chief for Argentina, but a practical one too. Preserving social spending is necessary to limit the plan’s unpopularity, and the less the plan is hated, the better its chances of success. What good is it to throw a man a rope if he sees it as a noose?◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Argentina[.ɑ:dʒәn'ti:nә]:n. 阿根廷 
@@ -75,4 +76,6 @@
 59.imperative[im'perәtiv]:n. 命令, 必要的事, 规则, 祈使语气 a. 命令式的, 急需的, 势在必行的, 强制的 
 60.Roberto[]:n. 罗伯托（人名） 
 61.unpopularity['ʌn.pɒpju'læriti]:n. 不受欢迎, 失人心 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

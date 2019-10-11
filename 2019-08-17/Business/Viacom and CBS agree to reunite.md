@@ -9,6 +9,7 @@
 Energised by her latest success, Ms Redstone may in time try to make another acquisition. That is because, as Kerry Fields of the Marshall Business School at the University of Southern California argues, “the new firm is still sub-scale”. 
 Disney is splashing out nearly twice as much on new shows this year. Despite the fact that many likely aggressors are still digesting recent acquisitions, there is already talk in industry circles of an impending second wave of media mergers. 
 If the speculations are correct, Ms Redstone’s deal, which has long seemed inevitable, may also prove an inadequate defence against potential acquirers with a lot more financial firepower. Indeed, by fattening up CBS with Viacom she may even have manufactured a firm that will prove an irresistible prey for one of the industry’s big guns.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.viacom[]: 维亚康姆公司总部所在地：美国主要业务：娱乐 
@@ -82,4 +83,6 @@
 69.fatten['fætn]:vi. 养肥 vt. 使肥胖 
 70.irresistible[.iri'zistәbl]:a. 不可抵抗的, 不能压制的 [经] 不可抗力 
 71.prey[prei]:n. 被掠食者, 牺牲者 vi. 捕食 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

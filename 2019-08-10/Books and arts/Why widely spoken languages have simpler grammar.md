@@ -11,6 +11,7 @@
 Over time both big and small groups got better at making themselves understood, but the bigger ones did so by creating more systematic languages as they interacted, with fewer idiosyncrasies. The researchers suppose that this is because the members of the larger groups had fewer interactions with each other member; this put pressure on them to come up with clear patterns. Smaller groups could afford quirkier languages, because their members got to “know” each other better. 
 Neither the more systematic nor the more idiosyncratic languages were “better”, given group size: the small and large groups communicated equally well. But the work provides evidence that an idiosyncratic language is best suited to a small group with rich shared history. As the language spreads, it needs to become more predictable. 
 Taken with previous studies, the new research offers a two-part answer to why grammar rules are built—and lost. As groups grow, the need for systematic rules becomes greater; unlearnable in-group-speak with random variation won’t do. But languages develop more rules than they need; as they are learned by foreign speakers joining the group, some of these get stripped away. This can explain why pairs of closely related languages—Tajik and Persian, Icelandic and Swedish, Frisian and English—differ in grammatical complexity. In each couple, the former language is both smaller and more isolated. Systematicity is required for growth. Lost complexity is the cost of foreigners learning your language. It is the price of success. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.johnson['dʒɔnsn]:n. 约翰逊（姓氏） 
@@ -62,4 +63,6 @@
 47.Frisian['friziәn]:a. 弗里斯兰群岛的, 弗里斯兰人的 n. 弗里斯兰人 
 48.complexity[kәm'pleksiti]:n. 复杂, 复杂性, 复杂的事物 
 49.systematicity[]:[网络] 系统性；系统中各类组合的体系性；系统化能力 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

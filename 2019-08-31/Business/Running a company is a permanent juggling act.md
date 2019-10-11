@@ -13,6 +13,7 @@
 But this trend can likewise go too far. When power is dispersed, the result can be a confused mess. Some firms may conclude they are better off under centralised command. 
 The last trade-off is between focus and diversification. The relegation of General Electric from the Dow Jones industrial average last year seemed like another nail in the coffin of the industrial conglomerate. Institutional investors can diversify their portfolios by investing in a range of sectors; they do not need a conglomerate to do it for them. Yet cash-rich tech giants are similarly buying promising startups, often with no obvious relation to their core business (think of Google’s purchase of Nest, which makes thermostats). 
 At some point the growth prospects of even the best products falter. For businesses to survive, they must find new things or services to sell. Choosing the right time to expand and diversify, and the right organisational structure to do it, is a matter of judgment. That judgment, and the flexibility to change plans, is what makes a good manager. It cannot be reduced to an in-flight read. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bartleby[]:[网络] 巴特比；巴特白；老板是空气 
@@ -78,4 +79,6 @@
 61.judgment['dʒʌdʒmәnt]:n. 裁判, 宣告, 判决书 [医] 判断 
 62.flexibility[.fleksi'biliti]:n. 弹性, 适应性 [计] 灵活性; 适应性 
 63.cannot['kænɒt]:aux. 无法, 不能 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

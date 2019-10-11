@@ -11,6 +11,7 @@
 Legislators have also passed a law asserting the “fundamental right” of women to have abortions, while stating that a fertilised egg, embryo or fetus has no independent rights. In doing so, they scrapped a law from 1975 that had once imposed restrictions—such as the need for consent from a spouse—on women seeking abortions. In practice little changes from this (the old law was largely defunct), but the symbolism matters when other states are tightening their restrictions. In Missouri, next door, the state’s last abortion clinic is threatened with closure. 
 The most significant legislative measure, however, involves a potential constitutional change. This is a proposal to scrap the state’s flat tax on income, replacing it with a progressive one. To become law, voters will have to approve a ballot initiative in November 2020. The idea, initially, is that only those earning at least $250,000 a year would pay higher taxes. Opponents warn that once a progressive tax is in place, those earning less are sure to be squeezed too. 
 The state is thus readying itself (oh joy) for 17 months of public debates on tax. Mr Pritzker and other proponents say the new income tax will raise revenue and cut inequality, noting that 34 states have graduated ones and get along fine. Opponents retort that Illinoisans are already among the most heavily taxed of all Americans, and warn that the changes will spur wealthy people to leave, sapping growth. Who will prevail? Mr Pritzker’s luck may last a bit longer. But Illinois has a habit of chewing up and spitting out governors. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.crayfish['kreifiʃ]:n. 小龙虾 
@@ -83,4 +84,6 @@
 68.inequality[.ini'kwɒliti]:n. 不平等, 不同, 不平坦, 不平均 n. 不平等, 不等式 [计] 不等式 
 69.retort[ri'tɒ:t]:n. 反驳, 顶嘴, 蒸馏器, 曲颈甑 vi. 反驳, 回嘴, 反击 vt. 反击, 反驳, 蒸馏 
 70.sap[sæp]:n. 树液, 体液, 活力, 坑道, 消弱, 警棍 vt. 使排出体液, 使伤元气, 使衰竭, 挖坑道逼近, 逐渐侵蚀 vi. 挖坑道, 消弱 [计] 共享汇编程序, 结构分析程序, 符号汇编程序, 服务器广告协议 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

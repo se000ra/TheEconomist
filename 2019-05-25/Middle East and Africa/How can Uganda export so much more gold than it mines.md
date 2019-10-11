@@ -12,6 +12,7 @@
 Their report says that middlemen selling gold to the refineries are linked to Congolese smugglers. The Sentry, an American watchdog backed by George Clooney, an actor, last year estimated that $300m-600m of gold is smuggled out of Congo each year. African Gold Refinery says it selects its suppliers carefully and complies with laws prohibiting the trade in minerals from conflict areas. Bullion Refinery, whose website welcomes “small, medium and large scale suppliers” of “raw gold dust and powder”, did not respond to a request for comment. 
 Most of the gold processed in Uganda comes from areas controlled by armed militias that extort money from artisanal miners. A report for the UN found that one militia forces miners to sell their gold at $25 per gram, far less than the $60 they would get on the open market, and charges miners a monthly fee for access to the pits. Rebel militias are not the only ones getting rich. Another UN report alleges that officers in Congo’s army illegally own mines or extort gold from miners. 
 Mr Museveni shows little interest in policing the trade. At the opening of a gold refinery he said he would deal harshly with officials who were “frustrating” investors in the industry. Some locals may profit, but gold smuggling fuels violence in the country’s large, unstable, neighbour. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.blush[blʌʃ]:vi. 脸红, 羞愧 vt. 弄成红色 n. 脸红 
@@ -73,4 +74,6 @@
 57.artisanal[]:手工艺性的 
 58.allege[ә'ledʒ]:vt. 宣称, 主张, 提出, 断言 [法] 断言, 指称, 指证 
 59.harshly['hɑ:ʃli]:adv. 粗糙地, 粗暴地, 刺耳地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

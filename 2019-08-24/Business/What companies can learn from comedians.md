@@ -7,6 +7,7 @@
 Hundreds of corporate customers think jokery can encourage serious lateral thinking among workers, and get them into the habit of welcoming others’ ideas. An improv exercise called “Yes, and” obliges participants to accept—and develop—any suggestion from a colleague, however bizarre. Improv classes are supposed to be safe spaces for frank, even awkward conversations, where people feel fewer inhibitions to say stupid things that may just yield something useful. 
 Marketers and advertisers, for their part, are tapping comics for fresh ideas. The Second City’s corporate arm worked on a marketing campaign with Legget & Pratt, a Missouri-based maker of mattress springs. Farmers Insurance, a big underwriter, enlisted the club’s comedians to help produce a training video that staff would willingly watch. At one afternoon workshop various Chicago-based firms met at the club for a sample improv workshop in what amounted to a focus group, where members of the public discussed their brands and products. Not all of this was funny. But frequent laughter helped to loosen tongues. 
 Other comedy clubs across America, such as IO in Chicago and the Upright Citizens Brigade theatre in New York, also offer professional services. The Second City says that its corporate activities already make up nearly a third of its revenues, which total over $50m a year. No laughing matter, in other words.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.comedian[kә'mi:djәn]:n. 喜剧演员 
@@ -62,4 +63,6 @@
 51.Chicago[ʃi'kɑ:gәu]:n. 芝加哥 
 52.brigade[bri'geid]:n. 旅, 队 [法] 团体, 队, 组 
 53.york[jɔ:k]:n. 约克郡；约克王朝 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

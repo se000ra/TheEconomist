@@ -12,6 +12,7 @@
 There was a way out. That, too, was completely unexpected. In 1986 he was asked to replace a seven-foot Gibbons drop at Hampton Court Palace, south-west of London, which had been destroyed by fire. He hesitated over it. Exact reproduction, which he had never done, was surely the most slavish tutelage of all. Yet the closer he got to Gibbons—first touching a single stem, then whole pieces, scrutinising his technique, following the movements of his gouges and his thought—the more his own workbench seemed transported to 1698, and the more he saw the larval forms of the half-modelled wood with Gibbons’s eyes. When after a year the drop was made, with its exhausting ropes of crocuses and trefoil, he was no longer a slave, but a colleague. The spell was broken. 
 He was now a master in his own right and one for his own age. Freed from Gibbons’s riotous acanthus, he let other influences crowd boldly in: the peonies, roses and lilies of Dutch Old Masters, the vegetable heads of Arcimboldo and a touch of modern cynicism in insect-blighted leaves. Letter-rack trompe-l’oeils became a favourite theme, as they were for 17th-century painters, but his racks contained cameras, car keys, film spools and iPhones, as well as delicate hibiscus, holly or sprays of oak. He became Gibbons’s confident ambassador, curating an exhibition and writing books. 
 Strolling into his workshop for a day of meditative carving, still in his bathrobe and carrying his tea, he would go straight to Adobe Illustrator to map out his designs in many overlapping layers. As well as daylight, halogen spotlights illuminated his bench. Between defining the edges of his peony leaves and excavating tiny florets of lilac, he would check his emails. The portraits of Gibbons were still on the walls, but the voice no longer bothered him. He might have sensed, from time to time, an approving nod.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.apprentice[ә'prentis]:n. 学徒, 生手 vt. 使做学徒 
@@ -132,4 +133,6 @@
 116.floret['flɒ:rit]:n. 小花 [医] 小花 
 117.lilac['lailәk]:n. 丁香, 丁香花, 淡紫色 a. 淡紫色的 
 118.bother['bɒðә]:vt. 烦扰, 迷惑 vi. 烦恼, 操心 n. 麻烦, 纠纷, 讨厌的人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

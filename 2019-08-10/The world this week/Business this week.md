@@ -14,6 +14,7 @@
 ![image](images/20190810_WWP001.jpg) 
 The Harland and Wolff shipyard in Belfast entered administration, marking the probable end of a business that built the Titanic and other famous vessels. The yard once employed 15,000 workers, but now just 122 work on repairs. It has not built a ship since 2003. 
 Barneys New York, a luxury department-store chain that opened shop in 1923, filed for bankruptcy protection and said it would close most of its stores. The company is restructuring its debt and expects to keep seven stores open, including its flagship premises in Manhattan, made famous by “Sex and the City”. Its insolvency proves that the upheaval in retailing is not confined to suburban shopping malls. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.abyss[ә'bis]:n. 深渊, 深邃, 地狱 
@@ -92,4 +93,6 @@
 74.upheaval[ʌp'hi:vl]:n. 举起, 隆起, 大变动, 剧变 
 75.suburban[sә'bә:bәn]:a. 郊外的, 郊区的, (贬)偏狭的, 土气的, 见识不广的 n. 郊区居民 
 76.mall[mɔ:l]:n. 林荫路 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

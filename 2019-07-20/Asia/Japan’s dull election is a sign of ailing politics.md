@@ -14,6 +14,7 @@
 The long tenure of Mr Abe has made things worse. He faces little opposition from within his own party because of his successive electoral victories and because of a weakening of the factions that once jostled for power within the LDP. He has concentrated authority in the Kantei, the prime minister’s office. A recent editorial in the Asahi Shimbun, a left-leaning newspaper, lamented that “the relationship between the administrative and legislative branches of the government has lost the healthy tension vital for a sound democracy… this has led to endemic arrogance and lax discipline within the administration.” 
 Ministers drag their feet about providing information to the public and debating policy. The budget committees of both houses have not held a single meeting since the Diet passed the budget in April. The government refuses to provide clear and detailed explanations of scandals such as the one concerning Moritomo Gakuen, a private school that has ties to Mr Abe and was able to buy public land on the cheap. 
 The Constitutional Democratic Party, the largest opposition grouping, is campaigning in part on reviving Japan’s democracy. Asahi reckons that the upper house elections “will be an opportunity for Japanese voters to make choices that help restore health to this nation’s democracy”. They seem unlikely to seize it. There is a chance that voters might deprive the ruling coalition of its current super-majority of seats, Ms Mulgan says, which would impede its plan to amend the constitution. But polls suggest even that may not happen, leaving the government strong and public enthusiasm for politics weak. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ailing['eiliŋ]:a. 生病的 [医] 患病的, 病痛的 
@@ -105,4 +106,6 @@
 87.coalition[.kәuә'liʃәn]:n. 结合体, 结合, 联合 [经] 联合, 联盟 
 88.impede[im'pi:d]:vt. 妨碍, 阻碍, 阻止 
 89.amend[ә'mend]:vt. 修改, 改善, 改良 vi. 改过自新 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

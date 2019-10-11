@@ -11,6 +11,7 @@
 But a growing and increasingly truculent segment of Iran’s population doubts the standoff is worth it. Most Iranians dislike Mr Trump. Nevertheless, if shaking his hand would get him to relieve the pressure, they wish their leaders would do it. “We need to negotiate to survive,” pleads a housewife who haggles for bargains in Tehran’s bazaar. 
 Delegations of Swiss, Germans, Omanis, Qataris, Iraqis and Russians have come and gone from Tehran, failing to stop the cycle of escalation. America, says Mr Khamenei, must lift its sanctions before talks can take place. He rejects Mr Trump’s demand for a permanent halt to Iran’s nuclear programme and an end to Iran’s funding of proxies in the region. Instead of the flashy summit the president craves, Mr Khamenei prefers that any meetings occur in private. 
 The Pentagon and the Guards are still talking behind the scenes. On June 11th Iran released a Lebanese citizen charged with espionage who had lived in America for much of his life. Some interpreted it as a gesture by Iran’s hardliners aimed at easing tensions and improving ties. For now it appears not to have worked. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Iran[i'rɑ:n]:n. 伊朗 
@@ -78,4 +79,6 @@
 63.lebanese[,lebә'ni:z]:a. 黎巴嫩的 
 64.espionage[.espiә'nɑ:ʒ]:n. 间谍活动 [法] 间谍活动, 刺探, 间谍 
 65.hardliner[ˌhɑ:d'laɪnə(r)]:n. 强硬路线者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

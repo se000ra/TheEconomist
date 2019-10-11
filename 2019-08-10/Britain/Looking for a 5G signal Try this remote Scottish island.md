@@ -11,6 +11,7 @@
 In the Orkneys, local businesses seem keen. Scapa, a whisky-maker, sees potential in automating bits of production and tracking employees throughout the distillery. Richard Gauld, who runs a small wind farm, says replacing copper wires with 5G would make the local electricity grid safer and more efficient. Out in the Scapa Flow, Richard Darbyshire of Scottish Sea Farms says 5G would offer a more reliable connection from base to barge. That would allow his men to feed fish remotely in bad weather, and support high-definition live video from the salmon pens. 
 There are also ideas for ways to cut costs, such as making more efficient use of radio spectrum, using software to do things that typically require hardware, and sharing infrastructure among mobile networks. The biggest expense is access to spectrum, which costs billions at auction. That will soon be less of an obstacle. On July 25th Ofcom announced that it would offer spectrum to local communities for as little as £80 a year. 
 The Orkney programme runs until the end of September, after which the consortium will evaluate the business case for 5G in rural areas. “If it works for us, maybe we can offer the service to other small communities that want to have their own 5G cell,” says Greg Whitton, who runs CloudNet, the local internet service provider. Getting online on the island could soon be as easy and speedy as driving around it. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Instagram[]:一款图片分享应用 
@@ -75,4 +76,6 @@
 60.Whitton[]:n. (Whitton)人名；(英)惠顿 
 61.provider[prә'vaidә]:n. 供应者, 供养人, 伙食承办人 [计] 提供器 
 62.speedy['spi:di]:a. 快的, 迅速的 [经] 快的, 迅速的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

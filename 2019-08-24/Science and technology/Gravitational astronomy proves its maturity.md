@@ -31,6 +31,7 @@
 LIGO itself is due for another upgrade within the next few years. This will almost double its sensitivity, permitting it to observe with the same rigour a volume of space seven times larger than now. Beyond that, the European Space Agency’s Laser Interferometer Space Antenna (LISA), scheduled for 2034, will be the first orbiting gravitational-wave instrument. Its detectors will be arranged in an equilateral triangle with sides 2.5m kilometres long. LISA will be sensitive to low-frequency waves that currently get lost in the noise. 
 Looking still further ahead, another generation of ground-based observatories is competing to take over once LIGO’s useful life is at an end. Europe is offering the Einstein Telescope, a proposed interferometer with three arms arranged in an equilateral triangle buried underground and cooled to within ten degrees of absolute zero, to improve its sensitivity. America proposes the Cosmic Explorer, a version of LIGO with arms 40km long. Either would be able to spot black-hole mergers almost anywhere in the universe. 
 The promise of gravitational astronomy is, then, enormous. It will show better how heavy elements are created. It could answer questions about the early universe that have nagged physicists for decades. It might even reconcile general relativity with quantum theory. From Copernicus to Kepler to Newton, understanding gravity and how it binds objects in the universe together was the project that launched physics as an intellectual discipline. The latest results from LIGO and Virgo show that there is life in the old dog yet.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.gravitational[.grævi'teiʃәnәl]:a. 重力的 
@@ -190,4 +191,6 @@
 155.Copernicus[kәu'pә:nikәs]:n. 哥白尼 
 156.kepler['keplә]:n. 开普勒（德国天文学家, 物理学家, 开普勒定律的发现者）；开普勒环形山（在月球东北象限, 直径为35公里） 
 157.newton['nju:tn]:n. 牛顿 [化] 牛顿 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

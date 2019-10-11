@@ -14,6 +14,7 @@
 Rather like the judge’s famous dictum about obscenity, a well-run company may be hard to define but we can recognise it when we see it. Workers will be well informed about a company’s plans and consulted about the roles they will play. Staff will feel able to raise problems with managers without fearing for their jobs. Bullying and sexual harassment will not be permitted. Employees may work hard, but they will be allowed sufficient time to recuperate, and enjoy time with their families. In short, staff will be treated as people, not as mere accounting units. 
 That may be a difficult approach for executives brought up on the philosophy of Frederick Winslow Taylor, the late 19th and early 20th century efficiency guru, who wrote of the danger that workers “tend to become more or less shiftless, extravagant and dissipated.” Armed with a stopwatch, Taylor dragooned employees into increasing production in the iron and steel industries. 
 But most employees no longer cart heavy loads around all day. Their tasks involve creativity and empathy when dealing with the public. In service industries, staff really are a company’s most important asset. And that is why smart executives will realise that a contented workforce is a necessity for corporate success. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bartleby[]:[网络] 巴特比；巴特白；老板是空气 
@@ -76,4 +77,6 @@
 58.dragoon[drә'gu:n]:n. 龙骑兵, 骑兵, 暴徒 vt. 以武力迫害, 弹压, 强制 
 59.creativity[.kri:ei'tiviti]:n. 创造力, 创造性 
 60.empathy['empæθik]:n. 移情作用, 共鸣 [医] 移情, 神入 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

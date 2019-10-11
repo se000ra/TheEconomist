@@ -8,6 +8,7 @@
 The UN’s population model assumes that countries with fertility rates well below two will bounce back a little. Even in countries where babies have become rare, most people continue to believe that the ideal family contains two or even three kids. But the recovery keeps failing to happen in some places, so the demographers have changed their forecasts in a second way. They now expect some countries with extremely low birth rates, such as Italy, Japan and South Korea, to stay that way for years. Korea, which has a fertility rate of just 1.1, is now expected to have 30m people in 2100—down from 51m today. 
 Another change has to do with death. Most people are living longer. The biggest improvement is in east and southern Africa, where HIV is being treated better. In America, however, the opioid epidemic has pushed up the death rate, especially for men. The chance of a 15-year-old boy dying by the age of 50 is now higher in America than in Bangladesh. It would be nice if the American forecast, at least, proved to be too pessimistic. ◼ 
 Sources: UN; Gapminder 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.demography[di:'mɒgrәfi]:n. 人口统计学 [医] 人口学, 人口统计学 
@@ -29,4 +30,6 @@
 17.opioid[əʊ'pi:əʊɪd]:a. 类鸦片（引起）的 n. 类鸦片活性肽 
 18.epidemic[.epi'demik]:n. 传染病, 流行病 a. 流行的, 传染性的 
 19.Bangladesh[,bɑ:ŋ^lә'deʃ]:n. 孟加拉国 [经] 孟加拉共和国 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

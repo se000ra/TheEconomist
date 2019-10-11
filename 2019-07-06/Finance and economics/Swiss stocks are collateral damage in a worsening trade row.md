@@ -9,6 +9,7 @@
 The row could ripple out into the wider economy. Switzerland is integrated with the EU not only in its trade and capital markets, but also in other areas such as research funding and electricity markets. 
 The Swiss federal government wants to close the deal, says André Simonazzi of the Swiss Federal Council. But it has asked the EU for clarification on provisions that have aroused domestic opposition, including on state subsidies and protections for wages and working conditions. Without tweaks the deal would probably be rejected by Swiss citizens in a referendum. Federal elections due in October make a speedy resolution less likely: no party wants to be seen as giving in to the EU. 
 A no-deal Brexit might break the logjam. Many EU traders and trading platforms are based in London, which could arrange equivalence with Switzerland itself after leaving. But Brexit is also a cause of the impasse. The EU is using Switzerland to signal to Britain’s next prime minister that it is no longer willing to tolerate a pick-and-mix relationship like that it has long had with the Swiss—and that it is prepared to follow through on threats. The result, says Ms de Montpellier, is that both Switzerland and the EU are losers. “The EU can survive without Switzerland economically, but it is damaging a relationship with a reliable and stable trading partner.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.collateral[kә'lætәrәl]:a. 并行的, 附随的, 旁系的 n. 旁系亲属, 担保品 
@@ -58,4 +59,6 @@
 45.impasse['impɑ:s]:n. 难局, 僵局, 死路, 死胡同 
 46.loser['lu:zә]:n. 失败者, 遗失者 [法] 失败者, 失物者, 遗失者 
 47.economically[i:kә'nɔmikәli]:adv. 节约地, 不浪费地, 节省地, 节俭地, 在经济上, 在经济学上 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

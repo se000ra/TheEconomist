@@ -14,6 +14,7 @@
 Such a deadline diminishes America’s incentive to hold the Taliban to its word or to resist its calls for a “complete Islamic system” in Afghanistan. The result of talks between the Afghan government and the Taliban “could be more of a power-grabbing rather than power-sharing arrangement,” says Sameer Lalwani of the Stimson Centre, a think-tank. That could lead to a full-blown civil war like the one that ravaged the country in the 1990s. 
 Mr Khalilzad is likely to need the support of regional powers. Pakistan has backed the Taliban from its earliest days and shelters its leaders. The country has played a vital role in pushing the group to negotiate. Some fear that India, by revoking the statehood of Jammu & Kashmir on August 6th (see article), may have complicated matters. Pakistan has hinted that it might refuse to co-operate with the Afghan peace process unless America backs Pakistan’s position on Kashmir. 
 It is unlikely to do so. Pakistan has every incentive to lubricate talks. A peace deal might ease Pakistan’s strained relationship with America, and a return to power by the Taliban would be a blow to India, which has strong ties with Mr Ghani’s government. Neighbours would worry about renewed instability that could spill over Afghanistan’s borders. For Mr Trump, that would be someone else’s problem. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Afghan['æfgæn]:a. 阿富汗的, 阿富汗人的 n. 阿富汗人, 阿富汗语, 阿富汗毛毯 
@@ -87,4 +88,6 @@
 69.Jammu['dʒʌmu:]:查谟(城市, 位于亚洲查谟和克什米尔的西南) 
 70.Kashmir['kæʃmiә]:n. 克什米尔 
 71.instability[.instә'biliti]:n. 不安定, 不稳定 [医] 不稳定性 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

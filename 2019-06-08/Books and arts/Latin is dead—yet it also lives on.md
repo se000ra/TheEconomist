@@ -11,6 +11,7 @@
 Italy was unified far later, in the 19th century. “Italian” was thus created by the pen, not the sword. The 13th- and 14th-century works of Dante, Petrarch and Boccaccio were the peninsula’s most revered literature. So when, in the 16th century, Pietro Bembo sat down to write a grammar for the prestige language of their texts, he used their (by now rather old) Tuscan dialect as his model. In this way “Italian” was born—though Bembo titled his book simply “Writings on the Vulgar Tongue”. It soon spread to elites in other regions. 
 Even then, ordinary folk continued speaking their own dialects, which, across great enough distances—say from Milan to Naples—were and remain mutually incomprehensible. These are not bad copies of Italian but its siblings, descendants of Latin in their own right. Over half of Italians proudly speak one of them still (though nearly all speak Italian, too). A Sicilian who doesn’t speak Sicilian is hardly worthy of the name; Neapolitan plays a crucial role in the celebrated novels of Elena Ferrante. 
 These days, amid migration and globalisation, Italian continues to develop. Naturally some worry that it is happening too fast; that young people are derelict in their grammar, or use too many foreign words. In reality, the same forces that made Latin from its predecessor (called Proto Indo-European), and turned Latin into Italian—the drift of time and exposure to different influences—are still operating. The only unchanging language is an unspoken one. Classical Latin may be dead—but as Italian, it lives on. Long live dismal Latin! 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.johnson['dʒɔnsn]:n. 约翰逊（姓氏） 
@@ -87,4 +88,6 @@
 72.proto[]:[计] 原型, 样机, 典型 
 73.unchanging[ʌn'tʃeindʒiŋ]:a. 不变的 
 74.unspoken['ʌn'spәukәn]:unspeak的过去分词 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

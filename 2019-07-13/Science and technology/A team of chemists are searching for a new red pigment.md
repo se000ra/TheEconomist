@@ -11,6 +11,7 @@
 Inevitably, the semiconductor approach does bring problems of its own. A semiconductor’s colour depends on a phenomenon called its band gap. This is the ease with which its atoms can shed electrons. The process of shedding requires energy, often in the form of light, so a substance’s band gap helps determine which frequencies of light it absorbs and which it reflects. Unfortunately, band gaps can, themselves, be altered by exposure to energy in the form of heat or light. That changes the pigment’s colour. 
 For example, mercury sulphide, known to painters as vermilion, has a small band gap. This means it absorbs much of the visible spectrum, reflecting only red because red light is insufficiently energetic to shift the relevant electrons. If the gap is diminished still more, as sometimes happens when vermilion is exposed to light, the pigment absorbs all visible light and turns black. Making a semiconducting red is not enough, then. It also needs to stay red when in use. And that essential property remains elusive. 
 Dr Subramanian and his team have got close. The tin approach has resulted in some promising flame-bright superconducting oranges. But shrinking the band gaps of such materials just that little bit further, to the point where a brilliant red is reflected instead, has so far proved beyond their chemical skills. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.pigment['pigmәnt]:n. 色素, 色质, 颜料 [化] 颜料 
@@ -67,4 +68,6 @@
 52.semiconduct[]:[网络] 半导体 
 53.elusive[i'lu:siv]:a. 难懂的, 易忘的, 难以捉摸的 
 54.superconducting[,sju:pәkәn'dʌktiŋ]:a. 超导的, 超导电的 [计] 超导 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

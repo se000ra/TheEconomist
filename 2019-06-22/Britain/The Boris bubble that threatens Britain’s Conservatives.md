@@ -13,6 +13,7 @@
 Now Mr Johnson’s appeal is more akin to Marmite, a love-it-or-hate-it breakfast spread. His leading role in the Brexit campaign has made him a polarising figure. Leave voters may like him, but Remainers detest him. When asked in May whether Mr Johnson would be a good prime minister, 28% of voters said yes—higher than all his rivals. But 54% thought he would be a bad one—again, higher than the rest. Young voters have a problem with Mr Johnson, as do women, points out Ben Page, head of Ipsos MORI, a pollster: “He’s basically not refreshing the parts other Tories do not reach any more.” 
 If this is true it represents a big problem for the Conservatives, because without his purported election-winning powers Mr Johnson has little going for him. As mayor he did a reasonable job in a limited role that was mainly about drumming up enthusiasm for the capital. But as foreign secretary he blundered. A careless remark about a British-Iranian imprisoned in Iran was seized on by Tehran and used against her in court. When London hosted a Balkans summit, Mr Johnson bunked off to be photographed drafting his resignation letter over Mrs May’s Brexit deal. 
 Although the team around him has been hyperactive, Mr Johnson himself has sat out most of the chances to debate or be interviewed. His is “the success of someone who avoids car crashes by sitting in a parked car”, according to Stewart Wood, a Labour peer. All of this means there is a danger that Boris-mania could end as quickly as it began. “The bubble is going to burst at some point,” says a member of one rival camp. “We do not know if it will burst tomorrow or before the contest is finished, or if it bursts in Number 10.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Tory['tɒ:ri]:n. 托利党党员, 保守党员, 亲英分子 a. 保守分子的 
@@ -97,4 +98,6 @@
 80.stewart['stjuәt]:n. 斯图尔特（男子名） 
 81.peer[piә]:n. 同等的人, 匹敌, 贵族 vi. 凝视, 窥视, 费力地看, 隐现 vt. 与...同等, 封为贵族 
 82.quickly['kwikli]:adv. 很快地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

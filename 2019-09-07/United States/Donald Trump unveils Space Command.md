@@ -11,6 +11,7 @@
 Before Space Command can get stuck into cosmic battles, a more conventional war over federal dollars has to be fought. Mr Trump did not disclose which of six shortlisted bases across three states—Alabama, California and Colorado—would accommodate Space Command.. 
 The debate is then likely to shift to Mr Trump’s Space Force, which, like the other services, would train and equip the “space warfighters” (as the Pentagon calls them) for General Raymond’s command. The White House has proposed a $500m-a-year service that would sit demurely within the air force, much as the marine corps is a component of the navy. Mr Weeden says that this, not Space Command, ought to have been the priority. He points out that there is a pressing need to train more space experts; over a third of space billets at Strategic Command are said to be unfilled. 
 Congress is broadly in favour of the force, although the Senate and House are haggling over details. The Senate wants to put off creating a fully-fledged service for at least a year, to avoid bureaucratic bloat. The Democrat-controlled House prefers a less pugnacious label: Space Corps. Whatever it is called, the aim is to inculcate a galactic esprit de corps. “When people join the marines, it’s not about joining the navy,” says Stephen Kitay, deputy assistant secretary of defence for space policy. “Somebody joins the marines and that’s in their culture and DNA and ethos. And we’re looking to create that for space.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.pun[pʌn]:n. 双关语, 俏皮话 vi. 说双关语, 说俏皮话 vt. 用双关语说服, 捣实 
@@ -89,4 +90,6 @@
 74.kitay[]:[网络] 契丹；奇台；契丹部 
 75.DNA[]:脱氧核糖核酸 [计] 无效数据, 数字网络体系结构, 分布式网络体系结构 
 76.ethos['i:θɔs]:n. 气质；民族精神；社会思潮 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

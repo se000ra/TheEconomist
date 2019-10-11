@@ -46,6 +46,7 @@
 Even if people move, they cannot take with them everything that they value. This is not just a matter of private property. Last October Lena Reimann of Kiel University published a warning that 37 of the 49 UNESCO world-heritage sites located on the Mediterranean’s coasts can now expect to flood at least once a century. All but seven risk being damaged by erosion in the coming decades. Sites do not need world-heritage status to matter. The headman of the first flood-prone Fijian community resettled by the government bemoans the burial grounds abandoned to the sea. 
 The inertia in the climate system means that not even the most radical cuts in emissions—nor, indeed, a dimming of sunlight brought about by means of solar geoengineering—will stop sea levels dead in their tracks. Adaptation will be necessary. But there is little appetite to pay for it. A rise that seems precipitous to Earth scientists remains well beyond the planning horizons of most businesses: even utilities rarely take a century-long perspective. Governments can always find more pressing concerns, both at home and when helping others abroad. Less than one-tenth of $70bn in annual global climate aid goes to helping poor places cope with all effects of climate change, not just sea-level rise. 
 The lack of action reflects a lack of drama—for almost everyone, the worst floods of the year or decade happen somewhere else. The oceans will not suddenly crush all the world’s coasts like some biblical retribution or Hollywood tsunami. It will rise slowly, like a tide, its encroachment as imperceptible from moment to moment as it is inexorable. But unlike a tide, it will not turn. Once the oceans rise, they will not fall back. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.remorseless[ri'mɒ:slis]:a. 无怜悯之心的, 冷酷的, 不知自责的 
@@ -276,4 +277,6 @@
 226.encroachment[in'krәutʃmәnt]:n. 侵蚀, 侵犯 [法] 侵犯, 侵占, 侵入 
 227.imperceptible[.impә'septibl]:a. 不能感知的, 微细的 
 228.inexorable[in'eksәrәbl]:a. 无情的, 冷酷的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

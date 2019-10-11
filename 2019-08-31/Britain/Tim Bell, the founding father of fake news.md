@@ -9,6 +9,7 @@
 Colleagues called him a foul-weather friend, since he had a penchant for the dodgier end of the market. Insisting that “morality is a job for priests, not PR men,” he helped Augusto Pinochet, a Chilean dictator, escape extradition to Spain on charges of torture, and massaged the reputations of Alexander Lukashenko, a Belarusian strongman, and Asma al-Assad, the Syrian president’s wife. In one year he helped devise both pro- and anti-smoking campaigns. Bell Pottinger, the agency he founded in 1998, created fake social-media accounts and blogs. He was casual with facts, “because people are casual”. “The devil’s in the detail—and we didn’t want the fucking devil,” he once explained. 
 How many of his campaigns worked is open to question. He advised Pinochet’s finance minister and Jacques Chirac (“you talk too much economic rubbish”) on elections they lost and masterminded the communications strategy for Iraq’s “transition to democracy” in 2004. He had a talent for blaming bloopers on others: he insisted David Mellor, an adulterous MP, decided on an embarrassing photo-op with his family; the unpopular idea to serve Spam fritters to mark the 50th anniversary of D-Day was “suggested by the Royal Marines, not us”. Results mattered less than his charm, which won him contracts from London Underground though he never travelled by Tube, from the National Union of Teachers whose politics he deplored, and from the BBC, months after he called for it to be sold. 
 In the end, like his idol, he went on too long. He resisted attempts to tart up Bell Pottinger’s image, failing to grasp the premium that social media places on authenticity and the new spotlight on “fake news”. The firm collapsed in 2017, after a secret campaign to manipulate public opinion in South Africa against “white monopoly capital” was exposed. By then, Lord Bell had quit, blaming the company’s woes on other executives. But he did not retire, and set up another agency, Sans Frontières Associates. Nor did he give up on fun. A friend who visited him a few days before he died found him glued to his beloved cricket. He asked her to light him a cigarette. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tim[tim]:n. 蒂姆（男子名） 
@@ -107,4 +108,6 @@
 94.monopoly[mә'nɒpәli]:n. 垄断, 专卖权, 独占事业 [经] 垄断, 专利品, 垄断(权)独占 
 95.woe[wәu]:n. 悲哀, 悲痛, 苦痛 
 96.san[sɑ:n]:abbr. 存储区域网（Storage Area Networking） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

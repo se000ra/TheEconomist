@@ -18,6 +18,7 @@
 All of this has helped the federal Conservative Party, led by Andrew Scheer, to match the Liberals in opinion polls. Mr Scheer is not Mr Trump. Yet the views of his political base on issues such as climate change, immigration, gun control and foreign policy can seem closer to those of the American president than to those of Mr Trudeau. Under Mr Scheer, Canada would certainly present a different face to the world. 
 Mr Trump has given Canada a wake-up call, which reverberates beyond trade. Different parts of the country are responding differently. Among business people it has stirred ambitions to match America beyond the basketball court. Policymakers have scrambled to counter America-first economic policies. Many Canadians have renewed appreciation for what makes their country distinctive. The challenge facing Canada is “how do we preserve what’s essential about our country in the face of an unpredictable and hostile environment?”, says Robert Bothwell, a historian. 
 Faced with a Trumpian reality to the south, Canada is asking questions about its own identity. Has Mr Trudeau succeeded in selling his liberal vision of the nation? And can it continue to be a liberal beacon to the world? The answer will partly depend on whether, economically, the model works for its people. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.beacon['bi:kn]:n. 烽火, 灯塔 v. 照亮 
@@ -144,4 +145,6 @@
 122.historian[hi'stɒ:riәn]:n. 历史学家, 记事者 
 123.Trumpian[]:特朗普的 
 124.economically[i:kә'nɔmikәli]:adv. 节约地, 不浪费地, 节省地, 节俭地, 在经济上, 在经济学上 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

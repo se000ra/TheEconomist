@@ -12,6 +12,7 @@
 He could show them other good things, too. He took many to eat fish and cassava at Maluku on the Congo river, and encouraged some to meet Papa Wendo, the ancient father of the Congolese rumba, or to listen in on meetings of intellectuals who conversed in English. He wanted to display Congo’s best side—the really impressive side, not the overweening official villas on the hill in Binza towards which the little Fiat would trundle, then expire, and need to be jump-started while the sharp suits stood and stared. 
 Some of those officials, the grosses legumes, he knew, and they gave him a certain respect, both because he kept turning up with Western journalists and because, clearly, he was fearless. This made him useful as a fixer, though he was a driver first, and ran the same risks the journalists did when he strayed into presidential compounds or, as in the 1990s, into riots. But he and the car, as its bashes showed, would drive through anything. He had to get his journalists, first, to where they wanted to go and, second, safely back again. If bad stuff happened, and they ended up hauled from the car or in jail, he would stay until he had rescued them—sometimes because he knew the right person, often by shoving and shouting. He became their protector and friend. In return they gave him money to buy a better car, but he preferred to get a cheap one and, in his chaotic style, fritter the rest away. 
 At times he found he was thinking like a journalist himself, pushing his charges to get closer to the action when something newsworthy occurred. He wanted to be there in the sweat of it when history happened. Yet history seemed to have slowed almost to a stop in Congo. Nothing changed, and nothing would. Its leaders were idiots. The economy was bust. Some parts were given over to constant war. Fewer journalists came to cover it, so it was hardly worth waiting even outside the Grand. Il n’y a rien, il n’y a rien, he would mutter down the phone to his journalist friends who had gone home. In response they sent him clothes and money for the hospital where eventually he had to go; they had not forgotten Congo. Sadly, it seemed to him that the rest of the world had.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.pierre[pi(:)'eә, peә]:n. 皮埃尔（男子名） 
@@ -119,4 +120,6 @@
 103.IL[]:[计] 指令表, 中间语言, 解释语言 [医] 钷(61号元素) 
 104.rien[]:n. (Rien)人名；(泰)连；(日)璃园(姓) 
 105.IL[]:[计] 指令表, 中间语言, 解释语言 [医] 钷(61号元素) 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

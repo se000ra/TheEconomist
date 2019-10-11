@@ -9,6 +9,7 @@
 Even trying to organise is difficult. When the Republic of Ireland overwhelmingly voted to repeal its abortion ban in May last year, Maltese activists began copying tactics from their Irish counterparts, replicating their strategy of setting up an association of pro-choice medical doctors. But in Malta most of its 51 members chose to remain anonymous. 
 Those who have revealed their identity were reported to the national Medical Council, which regulates doctors, by an anti-abortion doctor who—unsuccessfully—requested that they be struck off the medical register. When an openly pro-choice doctor stood in the election to the board of the council this month, a recently formed counter-organisation, Doctors for Life, emailed eligible voters urging them to vote for a list of five anti-abortion candidates, four of whom were indeed elected; the pro-choice doctor was not. 
 Last year Malta’s prime minister, Joseph Muscat, told the Council of Europe that his government “neither has the political mandate to open a debate on access to abortion, nor the support of public opinion”. Polls suggest around nine-tenths of the population continue to oppose abortion in the first 12 weeks of pregnancy. Although Malta’s pro-choice activists have sparked a conversation, victory seems a long way off. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.taboo[tә'bu:]:n. 禁忌, 禁止接近, 禁止使用 a. 禁忌的, 忌讳的 vt. 禁忌, 忌讳, 禁止 
@@ -65,4 +66,6 @@
 52.Joseph['dʒәuzif]:n. 约瑟夫（男子名）；约瑟（圣经中雅各的第十一子） 
 53.muscat['mʌskәt]:n. 马斯喀特（阿曼首都） 
 54.mandate['mændeit]:n. 命令, 指令, 要求 vt. 委任统治 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

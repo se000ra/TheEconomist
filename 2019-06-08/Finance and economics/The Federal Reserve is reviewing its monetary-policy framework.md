@@ -9,6 +9,7 @@
 A move in that direction seems possible. But it seems unlikely that the Fed will eventually decide that a radical rethink is needed. In part, that is because of mounting evidence that its tools did not perform so badly last time round. Janice Eberly of Northwestern University, James Stock of Harvard University and Jonathan Wright of Johns Hopkins University argued that from 2012 the Fed’s actions contributed meaningfully to the recovery, and indeed could be implemented even more aggressively to speed up future recoveries. And Eric Sims and Jing Cynthia Wu of the University of Notre Dame argued that there is more scope to replace conventional policy with quantitative easing than with either forward guidance or negative interest rates. 
 Jerome Powell, the Fed’s chairman, emphasised that he was coming to the review with an open mind. But he also said that in the depths of the crisis policymakers had “major questions” about whether promising good times ahead “would really have moved the hearts, minds, and pocketbooks of the public”. 
 That doubt is scary for central bankers, whose power comes from their credibility. Perhaps in the current calm the public could be readied for a recession-busting exercise in persuasion. But however earnestly a Fed governor pledges to boost inflation in slumps, a successor may tighten if inflation surges. It is therefore reasonable to doubt that the Fed can keep its promises. The danger for central bankers is that they try to manage expectations, fail—and leave their credibility in tatters. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.evolutionary[,i:vә'lu:ʃәnәri]:a. 展开的, 进化论的, 进化的, 发展的 [计] 进化的, 改良的, 发展的 
@@ -71,4 +72,6 @@
 58.tighten['taitn]:vt. 勒紧, 使变紧 vi. 变紧, 绷紧 
 59.surge[sә:dʒ]:n. 巨涌, 汹涌, 澎湃 vi. 汹涌, 澎湃, 颠簸, 猛冲, 突然放松 vt. 使汹涌奔腾, 急放 [计] 电压尖峰 
 60.tatter['tætә]:n. 破布条, 破衣服, 梭编工人 vt. 把...扯碎 vi. 变破烂 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -16,6 +16,7 @@
 Mr Xi is an authoritarian who strives for centralised control. His predecessor, Hu Jintao, did not have a tight grip on the PLA, says Mr Saunders. That is because Mr Hu’s own predecessor, Jiang Zemin, had appointed the two vice-chairmen of the Central Military Commission, a powerful body that oversees the armed forces. They stayed throughout Mr Hu’s tenure, frustrating any efforts to reform the PLA and curb its endemic corruption and ill-discipline. 
 Mr Xi is determined not to suffer the same fate. His anti-corruption purges have ensnared more than 13,000 officers (three serving generals were demoted in June, according to the South China Morning Post, a newspaper in Hong Kong). Mr Xi slimmed down the military commission from 11 to seven members, kicking off the service chiefs and adding an anti-graft officer. The body was also given control of the paramilitary People’s Armed Police, which in turn absorbed the coast guard. 
 Predictably, the restructuring has generated resentment. Senior officers are irked at losing privileges. Demobilised soldiers sometimes take their grievances to the streets—one reason why Mr Xi founded a ministry of veterans’ affairs in 2016. But, says Ms Nouwens, younger ranks benefit from merit-based promotion, take pride in the growing prominence of the PLA in Chinese film and television, and admire Mr Xi’s “great rejuvenation of the Chinese nation”. They will have an opportunity to show off on October 1st when a huge military parade will be staged in Beijing to mark the 70th anniversary of Communist rule. It will be the first such show in the capital since Mr Xi launched his reforms. Expect a world-class performance. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.dreamer['dri:mә]:n. 做梦的人, 梦想者 
@@ -125,4 +126,6 @@
 105.grievance['gri:vәns]:n. 委屈, 冤情, 苦况 [经] 不满(对雇用条件的) 
 106.prominence['prɒminәns]:n. 突起, 突出, 显著, 突出物, 凸出 [医] 隆凸, 凸 
 107.rejuvenation[]:[医] 回春, 返老还童 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

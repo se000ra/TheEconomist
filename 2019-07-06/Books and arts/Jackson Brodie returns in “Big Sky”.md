@@ -8,6 +8,7 @@
 In the depiction of this despicable business, as in all Ms Atkinson’s fiction, she supplies gruesome discoveries and a strong helping of violence, all nevertheless relayed with a deft and witty touch. Her Brodie novels recall a line from “The Importance of Being Earnest”: “The good end happily, the bad unhappily. That is what Fiction means.” A literary champion of justice, she lines up a colourful cast of unlikely good guys: glamorous Crystal, the kind-hearted, secretly traumatised second wife of a shady millionaire businessman; Vince, the down-on-his-luck golfing partner of the Three Musketeers, whose life declines from bad to worse; Reggie, a returnee from previous yarns who has grown up into a literature-quoting copper; and Bunny Hopps, an elderly drag artist ensconced for the summer season at a local theatre. 
 Last, there is Brodie himself, who is now to be found working uninspiring cases as a private detective, while awkwardly spending time with his adolescent son. For their part, the bad guys run a gamut from hapless to pure evil. They include Barclay Jack, an ageing stand-up comedian, and whoever it was who bludgeoned Vince’s highly dislikeable estranged wife. 
 “Big Sky” has all the sizzle of a British fry-up; Ms Atkinson’s evocation of the beauty and desolation of faded seaside resorts is unerring. As in the other Brodie novels, several stories are woven into a seamless plot, with the help of credible-seeming twists of fate. And there is just enough unfinished business to leave readers impatient for his next outing. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.jackson['dʒæksn]:n. 杰克逊（男子名）；杰克逊（美国密西西比州的城市） 
@@ -79,4 +80,6 @@
 67.unerring[.ʌn'ә:riŋ]:a. 不犯错误的, 无过失的, 没有打歪的 [法] 无过失的, 无错误的, 正确的 
 68.seamless['si:mlis]:a. 无缝的, 无缝合线的 [医] 无缝的 
 69.unfinished[.ʌn'finiʃt]:a. 未完成的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

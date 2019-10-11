@@ -14,6 +14,7 @@
 On a device with a touchscreen rather than a keyboard, however, the reverse is true. Most people type with their thumbs on touchscreens, so flight times between keystrokes are longer. In this case, therefore, it is short flight times which are a signal of something suspicious going on—for example, that a touchscreen device is actually being operated remotely, using the keyboard of a laptop. 
 Used wisely, behavioural biometrics could be a boon. As Neil Costigan, the boss of BehavioSec, a behavioural-biometrics firm in San Francisco, observes, the software can toil quietly in the background, continuously authenticating account-holders without badgering them for additional passwords, their mother’s maiden name “and all that nonsense”. UnifyID and an unnamed car company are even developing a system that unlocks the doors of a vehicle once the gait of the driver, as measured by his phone, is recognised. 
 Used unwisely, however, the system could become yet another electronic spy on people’s privacy, permitting complete strangers to monitor your every action, from the moment you reach for your phone in the morning, to when you fling it on the floor at night. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.behavioural[bi'heivjәrәl]:a. 行为的 
@@ -87,4 +88,6 @@
 69.unwisely[]:adv. 不明智地；愚笨地 
 70.privacy['praivәsi]:n. 隐私, 隐居, 秘密 [计] 个人保密权 
 71.fling[fliŋ]:n. 投掷, 急冲, 嘲弄 vt. 投, 丢下, 抛弃, 使陷入, 挥动, 嘲笑, 扫视 vi. 猛冲 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

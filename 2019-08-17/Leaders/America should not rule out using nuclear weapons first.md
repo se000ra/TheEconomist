@@ -10,6 +10,7 @@
 The aim should be to maximise the deterrence from nuclear weapons while minimising the risk that they themselves become the cause of an escalation. The place to start is the question posed by Major Hering 46 years ago. No individual ought to be entrusted with the unchecked power to initiate annihilation, even if he or she has been elected to the White House. One way to check the president’s launch authority would be to allow first use, but only with collective agreement, from congressional leaders, say, or the cabinet. 
 There are other ways for a first-use policy to be safer. America should make clear that the survival of nations must be at stake. Alas, the Trump administration has moved in the opposite direction, warning that “significant non-nuclear strategic attack”, including cyber-strikes, might meet with a nuclear response. America can also make its systems safer. About a third of American and Russian nuclear forces are designed to be launched within a few minutes, without the possibility of recall, merely on warning of enemy attack. Yet in recent decades, missile launches have been ambiguous enough to trigger the most serious alarms. If both sides agreed to take their weapons off this hair-trigger, their leaders could make decisions with cooler heads. 
 Most of all, America can put more effort into arms control. The collapse of the Intermediate-range Nuclear Forces Treaty on August 2nd and a deadly radioactive accident in Russia involving a nuclear-powered missile on August 8th (see article) were the latest reminders that nuclear risks are growing just as the world’s ability to manage them seems to be diminishing. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -59,4 +60,6 @@
 45.trigger['trigә]:n. 触发器, 扳机 vt. 触发, 发射, 引起 vi. 松开扳柄 [计] 切换开关 
 46.reminder[ri'maindә]:n. 提醒的人, 暗示 [经] 催单 
 47.diminish[di'miniʃ]:v. (使)减少, (使)变小 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -14,6 +14,7 @@
 Does this mean that the rest of the world—especially the West—should seek to prise Russia from China’s embrace, before it is too late? That idea will tempt those diplomats and analysts who think Russia is too important to alienate. But it seems unlikely. America does not suffer from the Xi-Putin alignment today as it would have done in the cold war. Although Russia and China do indeed undermine the West’s notion of universal values, with President Donald Trump in the White House that doctrine is, alas, hardly being applied universally in any case. 
 What is more, China’s influence over Russia has compensations. An angry declining power like Russia is dangerous; it may feel tempted to lash out to show it is still a force to be reckoned with, by bullying Belarus, say, or by stoking the old fears of Chinese expansion into Siberia. But China has no appetite for international crises, unless they are of its own devising. As Russia’s partner, China can serve as a source of reassurance along their joint border, and temper Russia’s excesses around the world. 
 Rather than railing against Russia or trying to woo it back, the West should point out its subordination and wait. Sooner or later, a President Alexei Navalny or someone like him will look westwards once again. That is when Russia will most need Western help. And that is when the man or woman in the Oval Office should emulate Nixon—and go to Moscow. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.partnership['pɑ:tnәʃip]:n. 合伙, 合股, 合作关系 [经] 合伙(合作)关系, 全体合伙人 
@@ -101,4 +102,6 @@
 83.Alexei[]:n. (Alexei)人名；(捷、罗、俄)阿列克谢 
 84.Navalny[]:[网络] 纳瓦尔内；瓦尔尼 
 85.emulate['emjuleit]:vt. 效法, 尽力赶上, 同...竞争 [计] 仿真 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

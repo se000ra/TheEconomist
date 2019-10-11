@@ -10,6 +10,7 @@
 All of which bodes poorly for the looming confrontation. Mr Johnson has refused to travel to meet continental leaders unless they change the terms of the Brexit deal negotiated by Mrs May. He wants to remove the “backstop” that would keep Britain close to the EU, and Northern Ireland even closer, unless an alternative technological solution can be found to prevent a hard border on the island of Ireland. The EU’s leaders consider the matter closed. So no meeting has taken place. Mr Johnson will have his first prime ministerial encounters with Angela Merkel and Emmanuel Macron at the G7 summit from August 24th, and again at an EU summit in mid-October ahead of October 31st, when Britain is currently bound to leave the club. Mr Johnson is increasing preparations for a no-deal departure, hoping to force the EU into compromises to avoid the cost and chaos of such a disorderly exit. 
 He is miscalculating. The EU is better prepared for a no-deal than Britain and would suffer much less. National leaders are sick of the subject. They consider the current deal generous to Britain—the backstop would grant Britain many of the benefits of belonging to the EU without some of the usual conditions—and are loth to reopen it to make concessions that might further undermine the marginal value of membership. Some, especially in Paris and Brussels, believe that no-deal may be a price worth paying. 
 Mr Johnson’s familiarity significantly boosts this tendency—for three reasons. First, to know him is to know that he is unreliable, unscrupulous and inconsistent. Second, his story (as leader of a heroic quest) and the story his critics tell (as the villain of a tragedy) both breed fatalism; they shrink the space for the technological fudge of a compromise and make the emotional conflagration of a no-deal more likely. And third, Mr Johnson conforms closely enough to the clichés about Britain that his negotiating partners can fall back on these as explanations for a rupture; this post-imperial, class-ridden, unreconstructed country, they will be able to say, is simply different and might even benefit from the revealing, purgative chaos of a no-deal. Familiarity, at least where Britain’s prime minister is concerned, breeds contempt. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Charlemagne['ʃɑ:lә'mein]:查理曼大帝(742-814, 世称 Charles the Great或Charles I, 768-814为法兰克王, 800-814为西罗马帝国皇帝) 
@@ -127,4 +128,6 @@
 113.unreconstructed['ʌn,ri:kәn'strʌktid]:a. 未重建的, 反对变革的, 脑筋转不过来的, 旧思想的 
 114.purgative['pә:gәtiv]:a. 净化的, 通便的, 赎罪的 n. 泻剂 
 115.familiarity[fә.mili'æriti]:n. 熟悉, 精通, 亲密 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

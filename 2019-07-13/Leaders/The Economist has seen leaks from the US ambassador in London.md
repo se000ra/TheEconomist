@@ -10,6 +10,7 @@
 He lectured me about Labour’s position on the terms of a trade deal after Brexit. Sir, I know you said that health-service provision should be “on the table” in a deal, but if Corbyn’s state is anything to go by, I don’t think we should touch it. In the middle of a speech about how the workers, united, would never let America take over their National Health Service, he suddenly collapsed on the carpet, clutching at his heart. Turns out there were rumours about his health, so he went and did a photo-shoot working out in a park with Rihanna’s trainer, and it’s been a bit much for him. I called a (private) doctor and put him in another spare room. 
 Friday: Today the queen came over. I asked the staff to bring tea and crumpets, but she gave the crumpets to the corgis, waved away the tea and ordered herself a supersized gin and tonic. We’ll need to get the etiquette handbook updated. She put her feet up on the couch and said that, because of our special relationship, she felt she could confide in me: the country was going to the dogs, the Scots would get their independence, Northern Ireland would end up joining the folks in the South and even the Welsh were restless. She didn’t think there was any point in being monarch of Britain if it wasn’t Great any more. 
 She was kind of wondering whether we could put aside that difficult episode in 1776, and thought that she might get a gig with us. I said it could be tricky, what with her being British and all, but she’s a very determined woman. She tried the line that she had a half-American great-grandson, and then said she’s got a great place in Scotland you could have. It has room for lots of golf courses and she’d make you a Thane. Now she seems to have dozed off. The etiquette book doesn’t say what to do with monarchs who are snoring on your couch. Could you ask Ivanka? She’s good with awkward social situations. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
@@ -63,4 +64,6 @@
 49.thane[θein]:n. 大乡绅, 领主 
 50.doze[dәuz]:vi. 打瞌睡, 假寐 vt. 打瞌睡度过 n. 瞌睡 
 51.snore[snɒ:]:n. 鼾声, 打鼾 vi. 打鼾 vt. 打鼾度过 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

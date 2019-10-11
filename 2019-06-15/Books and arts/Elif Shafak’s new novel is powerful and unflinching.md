@@ -8,6 +8,7 @@
 In this book, Leila is a sex worker who comes to Istanbul from the distant eastern city of Van. Her childhood, her youth and the chain of events that lead to her death unspool through the sense-memories which haunt her as those 10 minutes and 38 seconds pass. Salt, cardamom coffee, spiced goat stew, sulphuric acid: each is a clue to a past that, during her life, she was in flight from. Memory, for her, is “a graveyard”. 
 In death, the graves open. Leila’s father had two wives; when she was born, she was given from the second to the childless first. The weight of this secret distorts Leila’s life, as other damaging secrets corrode the whole clan. Five stalwart friends help her survive. Their own narratives punctuate the novel; together they form a family far more loving than the one Leila escapes. 
 Ms Shafak weaves the history of modern Turkey through her story, sometimes glancingly (in Van, Leila’s parents live in a house which once belonged to Armenians) and sometimes more directly, as when Leila is caught up in a bloody clash between protesters and police in 1977. Yet this book is also a love-letter to Istanbul, which “like a lover’s face” is “receding in the mist”. By the end Ms Shafak persuades the reader to care powerfully about Leila, as the novel comes to a sorrowful but redemptive conclusion. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.elif[]:n. (Elif)人名；(俄)叶利夫 
@@ -62,4 +63,6 @@
 50.powerfully[]:adv. 强有力, 强大, 效力大, 有权威, 权力大, 有影响, 很多, 相当, 非常 
 51.sorrowful['sɒrәuful]:a. 悲伤的 
 52.redemptive[ri'demptiv]:a. 赎回的, 救世的, 赎身的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

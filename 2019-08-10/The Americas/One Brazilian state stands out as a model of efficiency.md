@@ -15,6 +15,7 @@
 And cutting staff has helped the state to maintain a relatively high level of investment. According to a study by Brazil’s treasury, three states that limited spending on salaries—Espírito Santo, Alagoas and Ceará—were able to invest, on average, 304 reais per person in 2018. Rio de Janeiro, Minas Gerais and Rio Grande do Sul, the states deepest in debt, only spent 91 reais. 
 Can other states emulate Espírito Santo? It will be difficult without changes to federal laws. Mr Bolsonaro’s pension reform, working its way through congress, may only apply to federal workers. The supreme court will soon decide whether to allow indebted states to reduce civil servants’ salaries and hours. That would provide some relief, as would a bill to allow people to be sacked for persistent poor performance. But most politicians will balk at unpopular cuts. A pilot project led by Ana Carla Abrão, an economist at Oliver Wyman, a consultancy, found that the city of São Paulo could reduce its payroll by 30% without sacking anyone, by paring back perks for all but the best-performing employees. The project was shelved by a new mayor in 2018. 
 Last year Mr Hartung decided not to run for re-election. It would have sent a better message if he had, and had won, says Cristiane Schmidt, the treasury secretary for Goiás, a state in deep fiscal trouble. Brazilians tend to blame corruption for their economic woes, even though more money is lost to bloated bureaucracy. Whereas Sérgio Moro, a judge, gained international fame for leading the sprawling Lava Jato anti-corruption investigation, few outside of Espírito Santo have heard of Paulo Hartung. That may change as more states find their coffers empty. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Brazilian[brә'ziljәn]:n. 巴西人 a. 巴西的, 巴西人的 
@@ -103,4 +104,6 @@
 84.lava['lɑ:vә]:n. 熔岩, 火山岩 [医] 火山石(一种顺势疗法药) 
 85.jato['dʒeitәu]:n. 喷气起飞助推器 
 86.coffer['kɒfә]:n. 保险箱, 金库 vt. 把...锁进箱子 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

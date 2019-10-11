@@ -9,6 +9,7 @@
 The strength of Mr Gange’s account is his generosity. His own wry persona never overshadows the voices of past and present inhabitants. Artists and writers are his principal guides: Rob Donn, an 18th-century crofter-chronicler, sits companionably alongside the modern Scottish poet Robin Robertson, their writing harmonising across time. The references are democratic, familiar names such as Virginia Woolf and Walter Scott keeping company with lesser-known figures, who are nonetheless noteworthy in their own ways. Mr Gange considers a meditation on Bardsey Island, off the coast of Wales, by the poet Christine Evans, and the eerie seascapes of Peter Lanyon, a Cornish painter. 
 In this way he presents the landscapes that he traverses anew—not just as beautiful wildernesses, but as the by-product of human history, an occasionally troubled braiding of people and place. The craft of the historian, he thinks, lies in “interpreting the intertwining”. 
 It helps that Mr Gange’s prose is itself poetic and precise. The hills and lochs of Assynt, for instance, tessellate in shapes “like Euclidian art”. He conveys the experience of kayaking through mountainous “scarps of sea”; his enthusiasm for snoozing in soggy sleeping bags is infectious. By the end, his book makes a persuasive case for chronicling the history of regions through the experiences and voices of the people who call them home. A dunking in the freezing sea, off the coast of County Mayo, leaves the author shivering but “ignited, elated”. Surfacing from his book, the reader is invigorated, too.  
+<<<<<<< HEAD
 -- 
  单词注释:
 1.fringe[frindʒ]:n. 边缘, 端, 流苏, 穗, 初步 vt. 加穗于, 加饰边于 a. 边缘的, 附加的 
@@ -97,4 +98,6 @@
 84.ignite[ig'nait]:vt. 点燃, 使灼热, 使兴奋 
 85.elate[i'leit]:vt. 使兴高采烈, 使得意 
 86.invigorate[in'vigәreit]:vt. 使精力充沛, 鼓舞, 搞活, 使健壮 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

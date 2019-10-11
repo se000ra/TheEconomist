@@ -7,6 +7,7 @@
 The protesters are incensed by Mr Babis’s latest attempt to capture the Czech Republic’s institutions by replacing Jan Knezinek, the justice minister, with Marie Benesova, a loyal footsoldier of Milos Zeman, the president and an ally of the prime minister’s. Mr Babis is facing criminal charges related to his alleged misuse of 50m koruna (€2m) in European Union funds earmarked for small businesses. Mr Knezinek was pushed out a day after the police recommended Mr Babis be charged for fraud. Protesters fear that Ms Benesova will now slow down or even prevent the prosecutor from indicting Mr Babis (along with his wife and other members of his family, also implicated by the police). If convicted, the prime minister could face between five and ten years in prison. Mr Babis, who portrays himself as the target of a political witch-hunt, has vowed not to resign even if he is indicted. 
 Protests brought down the government in neighbouring Slovakia last year, but though tens of thousands are on the streets in the Czech Republic, Mr Babis is unlikely to go. The party he founded, ANO (an acronym that also means “Yes” in Czech), is by far the country’s strongest. His media assets help: dubbed Babisconi after a former Italian prime minister, he owns two influential dailies, as well as a radio station and a music television channel. He runs a superb marketing machine that recently came up with Donald Trump-style red baseball caps emblazoned with “Silne Cesko”, or “Strong Czechia”. 
 Mr Babis’s model seems to be Viktor Orban, the Hungarian leader. Mr Orban changed the judicial system to cement his power over judges in 2018, and got away with a mere slap on the wrist from the rest of Europe. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.toughing['tʌfɪŋ]:v. [美国口语]忍耐，忍受，熬过（常与 out连用）( tough的现在分词 ) 
@@ -51,4 +52,6 @@
 40.Hungarian[hʌŋ'gєәriәn]:a. 匈牙利的, 匈牙利人的, 匈牙利语的 n. 匈牙利人, 匈牙利语 
 41.judicial[dʒu:'diʃәl]:a. 法庭的, 公正的, 审判上的, 司法的 [法] 司法的, 审判上的, 法官的 
 42.slap[slæp]:n. 掴, 掌击, 侮辱, 拍击声 v. 拍击, 惩罚 adv. 正面地, 直接地, 突然地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

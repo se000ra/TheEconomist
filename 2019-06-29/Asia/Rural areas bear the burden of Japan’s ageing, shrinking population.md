@@ -18,6 +18,7 @@
 The central government has tried to help places like Imabetsu, not only by upping the budget for “rural revitalisation”, but also through a scheme called furusato nozei, which allows taxpayers to send a proportion of their taxes to a locality of their choice, instead of the one where they live (towns and villages compete for this cash by offering gifts in return, such as local sake or dried fish). The intention is for emigrants from rural areas to the cities to be able to funnel money to their hometowns. 
 Nonetheless, small towns are having to cut back. In some areas local authorities are trying to gather services in one town, from which they offer transport to other towns and villages in a sort of hub-and-spoke model. Others are looking at ride-sharing as a way to relieve the pressure on, or replace, public transport. Private businesses such as konbini and the post office, which by law has to have outposts in remote places, are also being used to offer public services. Technology could help. “It may be fun to get pizza by drone in Tokyo, but more important is getting milk and newspapers to elderly people in rural areas,” says Ms Makishima. She also advocates online medical consultations. 
 Mr Nakajima’s vision for Imabetsu is modest: to promote tourism, preserve existing industries rather than try to conjure up new ones, use remote instruction to keep schools going and create a single hub for people to obtain information and services. Yet even that is a struggle, he says. For example, the town government looked at taxi-sharing, but found it unfeasible since Imabetsu has only one taxi. Next time he runs, it may have to be with a vision of even fewer people. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.shrivel['ʃrivl]:v. (使)起皱纹, (使)枯萎, (使)束手无策 
@@ -83,4 +84,6 @@
 61.conjure['kʌndʒә]:vt. 念咒文召唤, 变戏法, 想象 vi. 变戏法, 施魔法 
 62.hub[hʌb]:n. 毂, 木片, 中心 [计] 插座; 插孔; 集线器, 集中器, 连接器, 中继站 
 63.unfeasible['ʌn'fi:zәbl]:a. 不能实行的, 难实施的, 不切实际的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -14,6 +14,7 @@
 Blurring the line between art and activism can be risky. “There is a danger that he will become such a public figure that he will more or less end up being viewed as a media persona, rather than a serious artist,” says Sasha Grishin of Australian National University. Mr Quilty has duly attracted criticism from the right—a tabloid commentator scorned him as a “politically fashionable” favourite of the left—and from a handful on the left as well. “I’ve been called a bleeding heart like it’s an offence,” Mr Quilty says, shaking his head. 
 His show—now relocated to the Gallery of Modern Art in Brisbane, from which it will move to the Art Gallery of New South Wales in Sydney—grapples with violence, trauma and loss. Yet often his paintings have an endearingly witty touch. In “Joe Burger”, a sweetly funny ode to parenting, he casts his infant son as a technicolour chubby-cheeked burger bun. In his “Budgie” series, the yellow and green birds resemble the pompous busts of statesmen. “Bottom Feeders” presents a stark-naked Father Christmas drinking, smoking and peeing on a pot-plant. You need both beauty and humour, Mr Quilty reckons, “if you want to tell stories about the darker side of the human condition”. ■ 
 Picture Credit: Fereshteh (group of 12 works) 2016 by Ben Quilty Oil on linen (130cm x 110cm) in memory of Fereshteh. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.activism['æktivizm]:n. 激进主义, 行动主义, 能动论 [法] 激进主义, 行动主义 
@@ -112,4 +113,6 @@
 94.pee[pi:]:n. (英)便士, 小便 vi. 小便 
 95.reckon['rekәn]:vt. 计算, 总计, 估计, 认为, 猜想 vi. 数, 计算, 估计, 依赖, 料想 
 96.x[eks]:n. 未知数 [计] 交换, 变址, 索引, 传输 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 In the car ride back to Thessaloniki, Mr Mitsotakis acknowledges in almost accentless English that he is the embodiement of the Greek establishment. But he insists that the image is inaccurate. “I worked for years abroad,” he says of his consultancy career in London, and argues that as a minister in the last ND government he cut spending in sensitive areas and was an internal critic of the slow pace of reform. “Under me, ND has attracted different sorts of voters, including younger ones,” he adds. He plans to move fast as prime minister to harness the momentum of an election win: with tax cuts by the start of 2020 and a drive to digitise Greece’s public sector on Estonian lines. Streamlining judicial procedures, cutting bureaucracy and performance appraisals for civil servants are also on the cards, all in the hope of attracting new investment and pushing the slowing growth rate from under 2% to above 3%. 
 His success or otherwise will depend on his willingness to take on parts of the old Greece and its vested interests; to take on, in other words, elements of his own political family. He declined to do so in the battle over the Macedonian name change. Likewise, he has opposed extending adoption rights to gay couples or recognising gay marriage. His backers claim this was necessary to prevent support from drifting to the far-right. Such excuses are self-serving and in any case no grounds for coddling ND’s base as prime minister. Mr Mitsotakis may well win a majority this weekend. His party already controls 12 of Greece’s 13 regional governments. He will have lots of political capital, and he should use it. 
 Family fights can be an ugly business. The Greek god Cronus castrated his own father and, fearing a similar fate would befall him, gobbled up five of his own children before vomiting them back out. But at times they are also necessary. Mr Mitsotakis will need to pick some if he is to move Greece forward. Whether he has the courage to persist still remains to be seen. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Charlemagne['ʃɑ:lә'mein]:查理曼大帝(742-814, 世称 Charles the Great或Charles I, 768-814为法兰克王, 800-814为西罗马帝国皇帝) 
@@ -109,4 +110,6 @@
 94.befall[bi'fɒ:l]:v. 降临(于) 
 95.gobble['gɒbl]:n. 火鸡叫声 vt. 狼吞虎咽 vi. 贪食, 咯咯叫 
 96.vomit['vɒmit]:vt. 吐出, 呕吐 vi. 呕吐 n. 呕吐, 呕吐物, 催吐剂 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

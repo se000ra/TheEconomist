@@ -9,6 +9,7 @@
 The LNA’s backers risk turning the civil war into a regional conflict. Egypt and the UAE are the source of most of the weapons flowing into Libya (some of which were made in America), but Turkey, which opposes their anti-Islamist agenda, has lately tried to even things out by supplying the militias that prop up the GNA. Even with help, neither side in Libya looks able to achieve absolute victory. The LNA is overstretched and short of cash; the GNA is weak and unpopular. War will only prolong the country’s misery. A single attack on July 3rd killed more than 44 people at a detention centre near Tripoli; each side blamed the other. 
 The good news is that a once-divided Europe has begun to narrow its differences over Libya, and that, now Mr Haftar no longer looks a winner, America seems to have cooled on him. Together they should lean on other countries to stop fuelling the war—and threaten to punish those who violate the UN arms embargo, which has been in place, but rarely enforced, since 2011. No progress can be made until a ceasefire is reached, but that should not stop new thinking about the peace. Too much focus has been placed on getting a deal between Fayez al-Serraj, the head of the GNA, and Mr Haftar. A broader dialogue is needed, involving representatives from the east, west and south. Countries, such as Egypt, France and Italy, with interests in Libya should also have a voice. 
 That is not so different from what the UN was planning when the LNA launched its attack. Ghassan Salamé, its envoy to Libya, proposed holding a national conference that would bring together rival factions to agree on a new constitution and electoral law, leading to elections. It is still a sensible plan. America and Europe should make it credible by supporting it. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Libya['libiә]:n. 利比亚 
@@ -64,4 +65,6 @@
 51.faction['fækʃәn]:n. 小派系, 内讧 [法] 宗派, 派别, 小集团 
 52.electoral[i'lektәrәl]:a. 选举人的, 选举的, (有关)选举的 [法] 选举的, 选举人的, 由选举人组成的 
 53.credible['kredәbl]:a. 可信的, 可靠的 [法] 可信的, 可靠的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

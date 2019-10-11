@@ -6,6 +6,7 @@
 Yet Mr Walsh is plunging into the treacherous waters of primarying a sitting president, all the same. He was not a devoted Never Trumper. In his telling, the spectacle in Helsinki of an American president trusting Vladimir Putin over his own intelligence agencies put him permanently off. The rest of his fellow Republicans might not see it that way. Although the party’s most prominent public intellectuals—like William Kristol and George Will—have long despised Mr Trump, the voting base remains utterly devoted. Among Republicans, 87% approve of the job that Mr Trump is doing. 
 Much of Mr Walsh’s campaign will focus on the president’s character. The biggest policy issue that he raises—the mounting national debt, which Tea Partiers raged against in 2010—is not one that Republicans fret over anymore. He also faults Mr Trump for a “ridiculous” tariff policy and the “public dance” done with Kim Jong Un, the dictator of North Korea. But on other points, like ending the Iran nuclear deal and the Paris climate agreement, he sides with the president. 
 One big problem looms for Mr Walsh’s candidacy. Since announcing his presidential bid, past ugly comments have resurfaced and forced a reckoning. “I wouldn’t call myself a racist, but... I’ve said racist things on Twitter,” he said in a recent television interview. Many saw him as a proto-Trump—a booster of the conspiracy theory that Barack Obama was a Kenyan-born Muslim. Though Mr Walsh has since recanted, the long list of such remarks might spoil his chances with disaffected Republican voters. Asked whether the president was a racist, or merely someone who says racist things on Twitter, Mr Walsh answers this way: “I think he uses racism for his own self-interest. I think he uses bigotry and xenophobia. And he can use it if it will help Donald Trump, because all Donald Trump cares about is Donald Trump.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.joe[dʒәu]:n. 乔（男子名） 
@@ -55,4 +56,6 @@
 45.racism['reisizm]:n. 种族主义, 种族偏见 [法] 种族主义, 种族歧视, 种族歧视主张 
 46.bigotry['bigәtri]:n. 盲从, 偏见, 偏执的行为(或态度) 
 47.xenophobia[,zenә'fәubiә]:n. 无端畏惧和憎恨外国人/陌生人, 对外国人的畏惧和憎恨 [医] 生客恐怖 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

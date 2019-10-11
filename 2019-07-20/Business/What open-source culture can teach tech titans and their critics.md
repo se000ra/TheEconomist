@@ -12,6 +12,7 @@
 Lastly, like Linux, an open-source operating system, and to an extent Android, Google’s semi-open software that powers mobile devices, Mozilla has demonstrated that a non-commercial alternative minded to defend users’ interests is good for consumers in digital markets. Although Mozilla is not solely responsible for the widespread adoption of open standards for browsers, even rival firms concede that it helped to chivvy them along. Firefox was the first browser to block pop-up ads and allow users to surf anonymously, prompting commercial browsers to offer similar features. Google’s plans to make it harder for other firms to track Chrome users on the web may have been precipitated by Firefox’s decision last month to turn on anti-tracking features as the default setting. 
 Don’t expect Silicon Valley to transform itself into an agglomeration of Mozillas anytime soon. But tech giants are toying with some Mozilla-esque ideas. Last month Facebook announced another step towards an independent “oversight board”—not unlike the board of the Mozilla Foundation—to make the tough calls on what content should be allowed on the site. Earlier this year Google convened an expert group to ponder the ethics of its artificial-intelligence endeavours (it was disbanded after employee protests over its composition). 
 To rivals and critics of dominant tech firms Mozilla shows a way to keep them honest. Hints of what it has done to browsers can be discerned in other corners of cyberspace, from open-source wallets where people can keep their digital identities to social networks that are not controlled by one company. Mozilla itself is working on Common Voice, a rival to digital assistants like Amazon’s Echo and Apple’s Siri. Breaking up the tech giants is a satisfying war cry—but probably futile. Perhaps it would be better to breed more Firefoxes instead.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Schumpeter[]:n. 熊彼特（美籍奥匈帝国经济学家, 当代资产阶级经济学代表人物之一） 
@@ -96,4 +97,6 @@
 80.siri[siri]:n. iPhone 4S上的语音控制功能 
 81.futile['fju:tail]:a. 无用的, 琐细的, 不重要的 
 82.firefox[]:n. 火狐浏览器 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

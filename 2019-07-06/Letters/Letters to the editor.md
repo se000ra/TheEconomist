@@ -29,6 +29,7 @@
 MATTHIAS KISTLERZürich 
 With respect to our often indulgent relationship with our pets The Economist asks “who’s in charge now?” Some 450 years ago, Michel de Montaigne, in “An Apology for Raymond Sebond”, asked a very similar question: “When I play with my cat, who knows if I am not a pastime to her more than she is to me?” 
 GARY MARTONNew York 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.magistrate['mædʒistreit]:n. 长官, 法官, 推事 [法] 司法行政官, 治安法官, 地方法官 
@@ -130,4 +131,6 @@
 97.raymond['reimɔnd]:n. 雷蒙德（男子名） 
 98.sebond[]:[网络] 塞邦 
 99.gary['^eәri]:n. 盖理 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

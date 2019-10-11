@@ -11,6 +11,7 @@
 The administration seems almost certain to end up finding fault with the French. America could then complain to the World Trade Organisation. But Mr Trump is more likely to fight unilateralism with unilateralism, by raising taxes on French individuals or firms, or by imposing tariffs. The president appears particularly keen to raise duties on French wine. 
 If this happens, free-traders will surely grumble that Mr Trump has again chosen commercial conflict over co-operation. But the irony is that behind closed doors, his officials had been acting constructively in the multilateral talks at the OECD. Whereas Barack Obama’s administration had resisted further reforms, particularly those that could affect America’s technology companies, Steven Mnuchin, Mr Trump’s treasury secretary, was much more open to them. 
 It may seem that the French are giving Mr Trump a taste of his own medicine—using unilateral action to put pressure on a negotiating partner. But they may have made tricky discussions more difficult. Admittedly, Mr Mnuchin might not have been able to get Mr Trump’s approval for any OECD reform. But now the dispute is playing out on the presidential Twitter feed. And for once, Mr Trump will be able to deny that he started it. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.unilateralism[.ju:ni'lætәrәlizm]:n. 单方面政策(的实行), 单方面裁军 
@@ -65,4 +66,6 @@
 50.admittedly[әd'mitidli]:adv. 公认地, 诚然 
 51.presidential[.prezi'denʃәl]:a. 总统制的, 总统的, 首长的, 统辖的 [法] 总统的, 议长的, 总经理的 
 52.twitter['twitә]:n. 啁啾, 唧唧喳喳声 vi. 啭, 啁啾, 颤抖 vt. 嘁嘁喳喳地讲, 抖动 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

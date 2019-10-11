@@ -22,6 +22,7 @@
 Nowhere has yet gone that far. But some countries do already contract out control of their upper-air space. Australia, Fiji and New Zealand have long run the upper-air space over Pacific islands for the islands’ governments. HungaroControl, Hungary’s forward-thinking air-traffic-control service, has done the same for Kosovo since 2014. It is also a pioneer of remote air-traffic-control towers for airports, hoping eventually to use its cheaper local labour to offer control-tower services to other airports from its base in Budapest. 
 Even so, real reform that will stop air-traffic-control failures from wrecking millions of holidays each summer is unlikely without more political will, says David McMillan of the ATM Policy Institute, a think-tank in Geneva.EU officials privately concede that in the short term they have given up hope of merging air-traffic services in the way Eurocontrol originally intended. Similarly, in America, a tentative proposal to split air-traffic-control services from the FAA into a separate entity, as in the rest of the developed world, was last year grounded in Congress. Although big airlines, airports and controller unions supported the proposals, the business-aviation lobby opposed them, worried that private jets might eventually be forced to pay for the air-traffic services they currently get free, thanks to American taxpayers. 
 And so, back at MUAC in Maastricht, Mr Santurbano jokes that if he had to advise a young person today on how to find a well-paid job unlikely to be disrupted by automation for decades to come, he would suggest air-traffic control. “That’s how well reform is going in this industry.”◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -120,4 +121,6 @@
 94.currently['kʌrәntli]:adv. 现在, 当前, 一般, 普通 [计] 当前 
 95.taxpayer['tækspeiә]:n. 纳税人 [法] 纳税人, 纳税义务人 
 96.disrupt[dis'rʌpt]:a. 分裂的, 中断的 vt. 使分裂, 使瓦解 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

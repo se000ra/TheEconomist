@@ -8,6 +8,7 @@
 His work earned him the attention and respect of politicians. As the chair of Ronald Reagan’s Council of Economic Advisers from 1982 to 1984, he helped shape the Tax Reform Act of 1986, which dramatically simplified the tax code and slashed tax rates. Two decades later he served Barack Obama as a member of the Economic Recovery Advisory Board, convened to gather ideas for addressing America’s worst economic crisis since the Depression. 
 Yet Mr Feldstein’s most enduring contributions are likely to be to the profession of economics itself. For 30 years he led the National Bureau of Economic Research (NBER), helping to secure its place as an essential conduit for economic scholarship. He convened regular meetings of scholars to encourage collaboration, and built the NBER’s working-paper series into one of the world’s most respected vehicles for publicising new research. 
 Just as important, he mentored and inspired scores of young economists, including some who became giants of the field and prominent public servants, among them Larry Lindsey, an adviser to George W. Bush, and Larry Summers and Jason Furman, who advised Mr Obama. For quite some time to come, Mr Feldstein’s influence will still be there, everywhere you look in American economics. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Martin['mɑ:tin]:n. 马丁, 圣马丁鸟 
@@ -58,4 +59,6 @@
 46.W['dʌb(ә)lju:]:[计] 等待, 写, 字 [医] 钨(74号元素) 
 47.jason[]:n. 詹森（男子名） 
 48.furman[]: [人名] [英格兰人姓氏] 弗曼 Firmin的变体 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

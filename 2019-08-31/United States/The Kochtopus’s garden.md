@@ -10,6 +10,7 @@
 They were more consistent in their beliefs than Carnegie (a protectionist until he sold his steel mills, then a free-trader). Yet their war on regulation, especially of carbon emissions, was squarely in the interests of their shareholders (themselves). As a private company, they were freer than their rivals to make long-term investments in such efforts; the “Kochtopus”, as the brothers’ political network is known, is believed to have 1,200 employees, three times as many as the Republican National Committee. This represents the broader trend: a relentless and generally effective increase in corporate lobbying. But is the tide now turning against it? 
 The extent to which the Kochs’ priorities have been subsumed by Donald Trump’s populism suggests it could be. The president’s apprehension that the brothers’ anti-government views were not shared by many Republican voters was his major insight. And though he has brought about some things they like, chiefly tax cuts and the dismantling of the Environmental Protection Agency, he has also given them protectionism and insults; last year he called them “a total joke”. Meanwhile, in the Democratic primaries, Elizabeth Warren and others promise a new campaign against billionaire influencers—which polls suggest would be wildly popular. Yet though neither party seems likely to revert to the Republicans’ former state of corporate vassalage, a sweeping corporate retreat is unlikelier still. 
 In part, that is because the left is almost as beholden to rich people as the right. Its most free-spending presidential candidate, Tom Steyer, is a billionaire financier—who also promises to smite the “powerful and well-connected”. Yet it is mainly because the political economy is vastly more complicated than a century ago, and its institutions, including political parties and the media, weaker. The opportunities for buying influence this throws up would be legion even if a Democratic administration reformed campaign-finance laws. The Kochs’ effort to spread climate-change scepticism also illustrates this. It is said to have cost them around $120m. That is pocket-change for Charles Koch, whose political commitments will in no way be lessened by his brother’s demise.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lexington['leksiŋtәn]:n. 列克星敦市（位于美国肯塔基州） 
@@ -110,4 +111,6 @@
 96.vastly['vɑ:stli]:adv. 广大地, 许多, 巨大 
 97.legion['li:dʒәn]:n. 军团, 军队, 众多的人 
 98.scepticism['skeptisizm]:n. 怀疑论, 怀疑主义 [医] 多疑癖 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

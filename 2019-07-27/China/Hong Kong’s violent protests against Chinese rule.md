@@ -14,6 +14,7 @@
 Despite the occasional violence, the radicals appear to enjoy considerable sympathy among moderate protesters. Within the crowds, groups of Christian pastors lead hymn-singing and offer spiritual guidance. Social workers and legislators often insert themselves between protesters and police in an attempt to mediate. 
 There is less unity on the other side. On July 20th the party’s sympathisers organised their own rally. But one prominent participant, Arthur Shek, a director of a group that controls a pro-party newspaper, resigned from the board of the group on July 23rd after calling for violent anti-government protesters to be caned. Members of his own staff said his remarks had incited the attackers in Yuen Long. 
 The Hong Kong General Chamber of Commerce, which normally backs the authorities, condemned the violence both at the central government’s office and in Yuen Long. But it went further, in effect calling on the government to make concessions. Echoing one of the protesters’ demands, it said there should be an independent inquiry into the unrest. So far the government has been deaf to such ideas. It seems to want to wait, hoping the protesters will tire of their action. If anything, the opposite is happening. They have called a march in Yuen Long on July 27th to protest against the beatings there. The police banned the march but the organisers said it would go ahead anyway, raising fears of a further confrontation.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.hong[hɔŋ]:n. （中国、日本的）行, 商行 
@@ -92,4 +93,6 @@
 74.shek[]:n. (Shek)人名；(俄)舍克 
 75.attacker[ә'tækә]:n. 攻击者 
 76.beating['bi:tiŋ]:n. 打, 挫败, 搏动 [化] 打浆 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

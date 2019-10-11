@@ -10,6 +10,7 @@
 First, Mr Golunov’s release shows that the Kremlin is worried about losing its monopoly on force. An investigation by activists and supporters concluded that the journalist was nabbed by members of a corrupt group of FSB officers who work with the criminal underground, connections that Mr Golunov has exposed. Mr Titiev was arrested and jailed for crossing Ramzan Kadyrov, a strongman in Chechnya who commands a small army. But although neither arrest was sanctioned by the Kremlin, the gangs were only following the Kremlin’s example. Having observed their ultimate bosses act with impunity against their opponents, the police and local FSB men decided there was nothing stopping them from doing the same. 
 By slapping them down, the Kremlin hopes to portray Mr Putin as the only true source of justice, a good tsar who can pardon and punish as he sees fit. This is no thaw. On June 12th the police broke up a peaceful rally against their tactics, detaining hundreds of protesters including some of the journalists who helped to get Mr Golunov freed. Alexei Navalny, Russia’s most prominent opposition leader, was also arrested, but later bailed. He said that the Kremlin’s actions only seemed illogical: “They are fantastically scared of consolidation in Golunov’s case, so they first need to break up the solidarity and then intimidate and jail those who persevere.” 
 The outpouring of support for Mr Golunov shows the power of online media and a growing mood for protest. Five years of declining incomes, added to brazen corruption and injustice, make a combustible mix; the Kremlin is keen not to add a spark. But it is also keen not to let protesters seize the initiative. As Mr Putin prepares for his annual televised phone-in show on June 20th, and contemplates ways of retaining power after the end of his final presidential term under the constitution, he needs quiet on the streets. Mr Golunov’s case suggests he is unlikely to get it. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Kremlin['kremlin]:n. 克里姆林宫 [经] 克里姆林宫 
@@ -77,4 +78,6 @@
 63.televise['telivaiz]:v. 用电视播放, 播映 
 64.contemplate['kɒntempleit]:vt. 注视, 沉思, 盘算 vi. 冥思苦想 
 65.presidential[.prezi'denʃәl]:a. 总统制的, 总统的, 首长的, 统辖的 [法] 总统的, 议长的, 总经理的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

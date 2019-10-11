@@ -13,6 +13,7 @@
 Mr Thanathorn’s political purity terrifies the establishment. The band of self-interested survivors clustered around the prime minister are not paragons of consistency or principle. They are likely to jostle constantly for advantage and favour, making the government unstable. 
 Mr Prayuth, meanwhile, has not given much inkling of what he plans to do with his mandate. His latest slogan, “Security, Prosperity, Sustainability”, does not shed much light. He did not bother to attend the session at which he was chosen or lay out an agenda to MPs, saying—again, without irony—that his actions over the past five years speak for themselves. 
 The constitution may, as intended, save Mr Prayuth’s bacon. It empowers the senate appointed by the junta to intervene to resolve gridlock in the lower house over important legislation, such as the budget, if it stalls for more than 105 days. The junta’s supporters argue that the charter allows minority government more broadly. Mr Prayuth also enjoys the crucial support of the king. “While the government is a farce from a democratic perspective, I suspect they have the resources to keep their thin margin together for some time,” says Karen Brooks of the Council on Foreign Relations, an American think-tank. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.unequal[.ʌn'i:kwәl]:a. 不相等的, 不规则的, 不能胜任的 [经] 不平均的, 不等的 
@@ -91,4 +92,6 @@
 74.broadly['brɒ:dli]:adv. 宽广地, 明白地, 无礼貌地 
 75.farce[fɑ:s]:n. 闹剧, 滑稽剧, 胡闹 
 76.karen['kɑ:rәn]:n. 凯伦（人名）；克伦邦（缅甸邦名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

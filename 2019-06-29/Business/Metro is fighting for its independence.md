@@ -8,6 +8,7 @@
 What does the Francophile Mr Kretinsky, who made his money in the energy industry, want with a struggling German retailer? According to Bruno Monteyne at AB Bernstein, a research firm, he saw an opportunity to buy—on the cheap and with outside finance—a retailer still in the process of transformation. Metro was once a retail conglomerate with activities stretching from consumer electronics to department stores. Under Olaf Koch, its chief executive, it has been shedding businesses to focus on food wholesalers. Mr Koch is not done. He is about to sell Real, a loss-making chain of hypermarkets, as well as Metro’s China business. EP Global Commerce says it backs the decision to flog these businesses provided Mr Koch can get a good price. 
 Messrs Kretinsky and Tkac have four weeks to submit their offer to German regulators and Metro’s board. They can either stick to their stingy bid or increase it in the hope of winning over Meridian and other shareholders. EP Global Commerce will only buy the rest of the Haniel shares if this gets it across a threshold of 75% of votes at the annual meeting. This would trigger a “domination agreement” that lets it exercise full control of the group’s cashflow without owning 100% of the company. 
 If they fail, Metro will have two large, unhappy shareholders: the eastern Europeans, with 7.3% plus options to buy Ceconomy’s 9%, and the Haniels, with 15.2%. Mr Koch may struggle to find a taker for their stakes at a time when traditional retail is threatened by e-commerce. Metro’s annual sales of €36bn remain hefty. But they are in decline, as are profits. A counter-bid could come from farther east—an Asian buyer interested in more than Metro’s Chinese arm. If it does, Mr Kretinsky and Mr Tkac may walk away with a profit. If it doesn’t, they will own one of the world’s top ten retailers. Either way, expect more headlines.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Prague[prɑ:g]:n. 布拉格 
@@ -61,4 +62,6 @@
 49.taker['teikә]:n. 取者, 捕者, 接受者, 收取者 [法] 受者, 收票人, 接受打赌的人 
 50.hefty['hefti]:a. 重的, 肌肉发达的 
 51.buyer['baiә]:n. 买主, 买方 [经] 买主, 买方, 买手 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

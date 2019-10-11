@@ -10,6 +10,7 @@
 China’s giant payment apps, WeChat and Alipay, send transfers between their digital wallets, going through an official clearing house. Cryptocurrencies, which some tout as a possible future for digital money, touch the regulated financial system only when they are bought and sold. By contrast India’s pioneers, which started with digital wallets, are fast becoming interoperable with UPI, which sends money directly between bank accounts. The result is both well integrated with the banking system and flexible enough to allow innovation in serving customers. 
 Regulators are happy with the system, says Saurabh Tripathi of BCG, a consultancy, since it protects deposits, increases financial inclusion and cuts tax evasion from unreported cash deals. It also suits banks, since they get fine-grained information on transactions that can be used for credit analysis and product customisation. 
 The global tech giants like the look of it, too. Google Pay is already available in India and Amazon Pay plans to launch soon. WhatsApp, which has 300m Indian users, has run a trial of a payments service with 1m of them, though the government’s requests regarding privacy and data-localisation are delaying it going nationwide. The success of other dominant chat apps that have moved into payments, such as WeChat Pay in China and Kakao Pay in South Korea, suggests that whenever its launch happens, it will go with a bang. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.drove[drәuv]:n. 畜群 drive的过去式 
@@ -72,4 +73,6 @@
 58.dominant['dɒminәnt]:a. 占优势的, 支配的 [医] 优性的, 显性的 
 59.Kakao[]:[网络] 可可；可可粉；可可豆 
 60.Korea[kә'riә]:n. 朝鲜, 韩国 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

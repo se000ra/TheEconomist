@@ -10,6 +10,7 @@
 Even before the latest woes, losses since 2017 had wiped out nearly all of WEIF’s early gains (see chart). Investors started running for the exit, causing the fund’s value to shrink by £560m in May alone. But finding a buyer for large stakes in small businesses is hard, so WEIF struggled to raise the cash needed to meet redemptions. And the selldown kept pushing the fund against a regulatory limit of 10% in unlisted stocks, forcing it to take “extreme” steps like listing some on the Guernsey exchange, says Peter Brunt of Morningstar, a research firm. On June 5th the Financial Conduct Authority hinted that it might open an investigation. 
 Mr Woodford’s firm says closing the gate will give it the breathing space it needs to “reposition” the fund towards more liquid stocks, so as to meet redemption requests once it reopens. Observers are not optimistic. “Investors who have stayed are now trapped and we don’t know for how long,” notes Patrick Connolly of Chase de Vere, a financial adviser. 
 Investors may fume at Mr Woodford for his racy choice of stocks. But they cannot blame him for hiding the truth: WEIF’s holdings were disclosed on its website all along. Instead they might ask why firms like Hargreaves Lansdown, Britain’s largest financial adviser, continued to recommend WEIF until very late. Pension trustees will also force investment committees to keep closer tabs on how liquid their portfolio is, expects Ryan Hughes of AJ Bell, an investment platform. The legacy of Maidstone’s revolt of 2019 may be reform. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Woodford[]:n. (Woodford)人名；(英)伍德福德 
@@ -80,4 +81,6 @@
 66.hughe[]:[网络] 休斯 
 67.aj[]:n. 合金结（抗干扰） 
 68.legacy['legәsi]:n. 祖先传下来之物, 遗赠物 [经] 遗产, 遗赠物 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -8,6 +8,7 @@
 At first blush, Mr Flint’s ousting looks harsh. On the same day as it announced his departure, HSBC reported that its net income in the first half of 2019 had risen by 18.1%, to $9.9bn. Its return on tangible equity (RoTE), a standard measure of profitability, was a respectable 11.2%. In Asia, where it made almost four-fifths of its pre-tax profit, revenue grew by 7%. Not everything is rosy—the American business is flagging and will miss its RoTE target for next year—but all in all the record looks decent. Moreover, Mr Tucker told analysts that there was no disagreement about a strategy that was revised only in June 2018. Nor, despite the contrast in their characters, was there a clash of personalities. 
 So why did Mr Flint have to go? Although results are heading in the right direction, Mr Tucker thinks progress should have been brisker. He also sees more difficult times ahead and evidently believes that Mr Flint is not the man to lead HSBC through them. Lower global interest rates—the Federal Reserve cut its benchmark rate on July 31st for the first time in more than a decade—are not good for banks. The geopolitical outlook is dicey too. Trade wars are not good for trade specialists like HSBC, and a Sino-American trade war is especially worrisome for a bank with Hong Kong and Shanghai in its name and its marrow. The board, Mr Tucker said, had decided that “a change was needed to make the most of the significant opportunities ahead of us”. Mr Quinn, he added pointedly, will bring “pace, ambition, decisiveness”. 
 Mr Flint may perhaps count himself unlucky. At Standard Chartered, another British bank with an Asian centre of gravity, the chief executive has so far had four years to knock the institution into shape. But Mr Tucker has brought an unwonted impatience to HSBC. It may just be for the best. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.chip[tʃip]:n. 屑片, 薄片, 碎片 vt. 削, 切, 削成碎片, 使摔倒, 凿 vi. 削下屑片 [计] 孔屑; 组件; 晶片; 芯片 
@@ -59,4 +60,6 @@
 47.charter['tʃɑ:tә]:n. 特许状, 执照, 宪章 vt. 特许, 发给特许执照 
 48.unwonted[.ʌn'wʌntid]:a. 不习惯的, 不寻常的, 非惯常的 
 49.impatience[im'peiʃәns]:n. 性急, 难耐, 焦急, 急躁 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

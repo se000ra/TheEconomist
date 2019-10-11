@@ -7,6 +7,7 @@
 “Japanese politics is still centred around able-bodied men,” says Jun Ishikawa, head of a government commission on disabilities. Political parties do not field many disabled candidates. The authorities tend to hide people with disabilities away in institutions, secluded from the rest of society. Students with special needs usually attend special schools. “Japan has focused more on creating segregated institutions than integrating the disabled into local communities,” says Mr Ishikawa. This has bred stigma and isolation. 
 The government has been slow to admit the problem. It took seven years to ratify the UN Convention on the Rights of Persons with Disabilities, making it the 140th country to do so. It did not agree until this year to pay compensation to thousands of people with disabilities who were forcibly sterilised under a eugenics law that was only repealed in 1996. Last year several government agencies were found to have falsified the number of disabled people they employ, in some cases for decades, to meet official targets, instead of just hiring more. Prejudice against the disabled has also turned violent. Nineteen people at a care facility in Sagamihara, south of Tokyo, were fatally stabbed in 2016 by a man who “wanted disabled people to disappear”. 
 With the election of Mr Funago and Ms Kimura, many are hopeful for change. “It’s definitely a step up from before,” says Mr Koji Oyama of the Japan ALS Association. The two new lawmakers have vowed to push for more inclusive education and better health care for the disabled. At the very least, they are changing the Diet, where alterations under way will improve wheelchair access and rules are being amended to allow carers into closed meetings.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.voter['vәutә]:n. 选民, 投票人 [法] 选民, 选举人, 投票人 
@@ -51,4 +52,6 @@
 40.alteration[.ɒ:ltә'reiʃәn]:n. 变更, 改动 [医] 变更 
 41.amend[ә'mend]:vt. 修改, 改善, 改良 vi. 改过自新 
 42.carer['kεәrә]:n. 负责照顾（老人, 病人, 小孩）的人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

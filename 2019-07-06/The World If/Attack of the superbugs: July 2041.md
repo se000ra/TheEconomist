@@ -22,6 +22,7 @@
 Normally, developing a new antibiotic would take 10-15 years. The GASP scientists managed to do it in just six, by taking advantage of artificial-intelligence techniques to scan drug companies’ archives for candidate drugs that had been abandoned decades earlier. One of these candidates formed the basis for parvomycin. The new drug is now being distributed globally by GSKMerckPfizer under an innovative licence that sets differential pricing for countries depending on their ability to pay. 
 GASP plans to use the same model for the other antibiotics in its pipeline. They include a novel drug for tuberculosis—for which the last new drug was approved in 2012, the first new drug for the disease in more than 40 years. Research has also started on paediatric antibiotics, which were neglected even in the heyday of antibiotic development. “As far as antibiotics are concerned, children have always been treated as if they are small adults,” says Dr Baseravan. 
 It will probably be years before another new antibiotic reaches patients. But there are two reasons for optimism about the future of parvomycin and any new antibiotics that follow. The first is that the practices that promoted drug resistance in the past have finally been phased out, after decades of dithering. The second reason is that, thanks to the work of GASP, the pipeline of new antibiotics is starting to fill up again. It took a crisis in which millions lost their lives to prompt decisive action, and the fight is still far from over. But at least there is now cause for hope that an end to the post-antibiotic nightmare is in sight. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.antibiotic[.æntibai'ɒtik]:n. 抗生素 a. 抗生的 
@@ -152,4 +153,6 @@
 126.dither['diðә]:n. 发抖, 兴奋 vi. 发抖 
 127.decisive[di'saisiv]:a. 决定性的, 坚定的, 果断的 
 128.nightmare['naitmєә]:n. 梦魇, 恶梦, 可怕的事物(或情景、人物) [医] 梦魇, 恶梦 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

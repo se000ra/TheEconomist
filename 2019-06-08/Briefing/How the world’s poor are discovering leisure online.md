@@ -44,6 +44,7 @@
 Entertainment, communication and self-expression go hand in hand. Households in India and countries like it tend to have a single television shared by large families. The ability to consume media of your own choice is a step change from having to watch whatever granny had chosen. Daniel, a Ugandan who took part in Caribou’s big survey, said: “At home I have a lot of siblings, there is a TV set and a radio which is kept by an auntie. Whenever she is leaving she says, ‘this radio is for Bujingo’ [pastor]… so I wouldn’t get time to listen to music because of the fights at home but now whenever I feel like listening to music, I control it.” 
 Smartphones and social media are, for many in the second half, arenas with a semblance of privacy. While Western internet users fret about the privacy implications of big tech companies hoarding their data, young internet users in the towns and villages of the developing world are delighted to have, for the first time, a way to communicate and express themselves away from the prying eyes of family, neighbours and other busybodies. In Asia and the Middle East smartphones open up a world of romance, enabling people to flirt and date despite social constraints. All over, they allow people who may never travel abroad to make new friends around the world—and people who are travelling, often as migrant workers, to stay in touch. 
 Providing access to entertainment, opportunities for a richer social life and the ability to speak and be heard to hundreds of millions will mark a profound improvement in humankind’s aggregate quality of life. It will have risks, as the politicisation of social media and the social mediation of politics in rich countries have shown. But just as they will be facing some of the same risks, the world’s rich and poor will be sharing experiences. They will be spending their time doing the same things: chatting on WhatsApp, liking pictures on Instagram, watching videos on YouTube, doing timepass on TikTok. The world’s ability to have a little bit of chill time is becoming more equal.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.online[]:[计] 联机 
@@ -252,4 +253,6 @@
 204.politicisation[]:[网络] 科学政治化 
 205.mediation[.mi:di'eiʃәn]:n. 调停, 调解, 中介 [医] 间介[作用], 居间[作用] 
 206.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

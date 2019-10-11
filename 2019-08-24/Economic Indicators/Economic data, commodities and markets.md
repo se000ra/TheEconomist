@@ -5,6 +5,7 @@
 ![image](images/20190824_INT102.png) 
 ![image](images/20190824_INT201.png) 
 ![image](images/20190824_INT401.png) 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.apocalypse[ә'pɒkәlips]:n. 启示, 天启 
@@ -12,4 +13,6 @@
 3.commodity[kә'mɒditi]:n. 农产品, 商品, 有用的物品 [经] 商品, 货物, 日用品 
 4.indicator['indikeitә]:n. 指示器, 指示剂, 指标 [计] 指示器 
 5.Aug[]:abbr. 八月（August） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

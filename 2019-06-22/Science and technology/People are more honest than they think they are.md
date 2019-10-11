@@ -8,6 +8,7 @@
 In 38 of the 40 countries, the wallets with money in them were returned more often than those without (51% of the time, compared with 40% for the cashless). While rates of honesty varied greatly between different places (Scandinavia most honest, Asia and Africa least), the difference within individual countries between the two return rates was quite stable around that figure of 11 percentage points. In addition, wallets containing a larger sum of money ($94.15) were even more likely (by about another ten percentage points) to be returned than those with less, although the “big money” experiment was done in only three countries. 
 With greater temptation, then, comes greater honesty—at least when it comes to lost wallets and petty cash. Intriguingly, though, such personal probity is not reflected in people’s expectations of their fellow men and women. When Dr Cohn and his team surveyed a sample of 299 (admittedly exclusively American) volunteers, most respondents predicted that the more money there was in a wallet the more likely it was that it would be kept. They also asked the question of 279 top academic economists, who did only marginally better than the man or woman in the street at getting the answer right. 
 A certain cynicism about the motives of others is probably good for survival, so the response of the general population may be understandable. But the warm inner glow derived from “doing the right thing” is also a powerful motivator. How this altruism evolved is much debated by biologists and anthropologists—particularly when it extends, as in Dr Cohn’s experiments, to strangers whom the altruist has no expectation of ever meeting. Be that as it may, as this study shows, such altruism is real and universal. The study also suggests, from the responses they gave, that quite a few economists have not yet truly taken this point on board.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.behavioural[bi'heivjәrәl]:a. 行为的 
@@ -41,4 +42,6 @@
 29.altruism['æltruizm]:n. 利他主义, 利他 
 30.biologist[bai'ɒlәdʒist]:n. 生物学家 [医] 生物学家 
 31.altruist['æltruist]:n. 利他主义者, 无私者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 Chinese pupils are pushed to study relentlessly, says one. But American-style debate forces students to “brainstorm a lot of ideas in a short time”. Unlike America, where debating clubs are dominated by shouty, self-assured boys, most contestants in the Chinese league are girls. Of its 20 highest-ranked debaters, 16 are female. 
 In a still-chauvinist society, the chance to argue forcefully and be applauded for it has a rare appeal, suggests Liam Mather, the league’s 20-something executive director. The winners in Wuhan are Joyce Yi and Erica Chen, from a state school in the southern boomtown of Shenzhen. Their swaggering first-round performance leaves two ill-prepared boys open-mouthed like fish. Ms Chen initially relished debating in English because “I’m kind of an argumentative person.” Then she realised the subtle effects of having to research both sides of an argument. Chinese education emphasises one correct answer to a question, she says. 
 The debaters are not starry-eyed about America. They talk of gun violence, inequality and crumbling cities. At a practice camp some call the American way of arguing “very chaotic.” But debate can prevent “huge mistakes” because competing perspectives are heard, notes Angela Pan, a teenager from Beijing. The young Chinese assert—perhaps a little optimistically—that American college students are diverse, free and informed about the world. They long to cross the Pacific and meet some. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.straitjacket['streitdʒækit]:n. 紧身衣 
@@ -58,4 +59,6 @@
 45.crumble['krʌmbl]:v. (使)粉碎, (使)成为碎屑, 瓦解, 崩溃, 败落 
 46.chaotic[kei'ɒtik]:a. 混乱的, 无秩序的 [法] 混乱的, 混沌的 
 47.angela['ændʒilә]:n. 安吉拉（女子名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 One remaining task is to work out how to help pupils who struggle even when taught with phonics. According to the Education Endowment Foundation (EEF), a charity, no intervention consistently improves results for these children. Another job is to make sure phonics is taught across the system. Although there has been a sharp rise in the proportion of children passing the screening test, a bunching of results just above the pass mark suggests that it is partly down to teachers gaming the system. The government last year provided £26m ($32m) for 34 schools to become “English hubs” to spread the gospel. 
 Arguments continue over the best way to teach phonics, and questions such as when whole words should be introduced. As part of a crusade against what it sees as the over-examination of children, Labour has plans to review the phonics screening test. But whether or not the test stays, phonics seems firmly embedded in English schools. “It’s very rare that you get a piece of education practice that you stick with and push over a number of years,” says Sir Kevan Collins of the EEF. “That’s to be admired, that’s unusual.” ■ 
 Vacancy: The Economist is looking to hire a staff writer to cover British economics. Journalistic experience is not necessary; the ability to write clearly and entertainingly is. For details of how to apply, visit economist.com/britainjob2019. The deadline is August 4th. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.phonic['fәunik]:a. 音的, 语音的, 语音学的, 有声的, 声学的, 浊音的 [医] 音的, 声音的 
@@ -57,4 +58,6 @@
 42.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
 43.journalistic[,dʒ\\: nә'listik]:a. 新闻业的, 新闻工作者的, 报刊特有的, 新闻工作的 
 44.entertainingly[,entə'teiniŋli]:adv. 有趣地；使人愉快地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

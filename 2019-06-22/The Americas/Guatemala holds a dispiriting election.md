@@ -11,6 +11,7 @@
 To be sure of avoiding jail she will need to beat Mr Giammattei, a former boss of Guatemala’s prisons. He promises to crack down on crime. He was locked up in 2008 for his alleged role in the extrajudicial killing of 11 inmates, but was later acquitted. 
 Guatemalans who yearn for the rule of law are despairing. Ms Torres promises to hold a referendum on CICIG’s future, though it will have shut down by the time the next president takes office. 
 Mr Morales, who has achieved little, may end his presidency with a flourish. On June 17th President Donald Trump tweeted that Guatemala was “getting ready” to sign a safe-third-country agreement. The United States could then refuse asylum to migrants from outside Guatemala who pass through it. That will strike Guatemalan voters as ironic. Their country does not feel safe to many of them.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.comedian[kә'mi:djәn]:n. 喜剧演员 
@@ -68,4 +69,6 @@
 53.migrant['maigrәnt]:n. 候鸟, 移居者 [法] 移居者 
 54.Guatemalan[,ɡwæti'mɑ:lən]:n. 危地马拉人 a. 危地马拉的（中美洲的一个国家） 
 55.ironic[aiә'rɔnik]:a. 冷嘲的, 挖苦的, 反话的, 讽刺的, 令人啼笑皆非的, 出乎意料的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

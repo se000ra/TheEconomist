@@ -22,6 +22,7 @@
 Psychometrics, or psychological quizzes that measure character, consistency and commitment, are commonly used, too. Such methods have benefits, but also come with risks. Though a useful supplement, psychometrics are no substitute for traditional scoring methods and financial data, says Mr Turner. And too much data can be as bad as too few. He cites the cases of antipodean partners who used 26 variables for their generic scorecard. “In the United States if you have over ten you’re either laughed out of the risk group or fired... With 26 you can’t distinguish the signal from the noise,” he says. 
 Miguel Llenas, who helped set up a credit bureau in the Dominican Republic starting in 1999, says his country has long used “all kinds of information”: electricity bills, water, mobile, judicial information, criminal records. But he draws the line at mining social-media accounts for signals, which some startups promote as a new source of data. A picture of you playing poker years ago reveals little, he argues, adding, “I am worried about these things because I value privacy.” 
 In some ways the rush of startups claiming to be able to determine an individual’s creditworthiness from non-financial data resembles the situation in 1950s America, when divorces and promotions were routinely considered. Yet the difference between robust credit-scoring in the rich world and the novel methods now used in emerging markets is likely to be temporary. Exotic correlations are a passable proxy for creditworthiness, but they are no match for the predictive power of actual financial records. Today a farmer in the Philippines may have to share his internet browsing history for a tiny loan. In just a few years he, like his Georgian counterparts, could have the good fortune to be harassed by cold calls from a bank that knows little more about his habits than that he regularly pays off his debts. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -131,4 +132,6 @@
 105.browse[brauz]:v. 浏览, 吃草 n. 浏览, 吃草 [计] 浏览 
 106.counterpart['kauntәpɑ:t]:n. 副本, 复本, 配对物, 相应物 [经] 副本, 正副二份中之一 
 107.harass['hærәs]:vt. 使困扰, 使烦恼, 折磨 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

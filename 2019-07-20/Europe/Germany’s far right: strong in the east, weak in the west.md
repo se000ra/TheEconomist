@@ -13,6 +13,7 @@
 But the AfD’s success in the east creates a real problem for mainstream parties who must form governments from a fragmented vote. In Saxony the AfD and the CDU both poll around 25%. Michael Kretschmer, the state’s premier and CDU leader, rules out a coalition with the AfD after the election. But others in his party seem less sure. In neighbouring Saxony-Anhalt, where the CDU leads a fractious three-way coalition, some party figures want to open the debate. At municipal level there are signs of informal CDU-AfD co-operation. And even in Saxony, a minority CDU government open to working with all parties, including the AfD, may ultimately look more attractive than the unwieldy three- or four-party coalition that may be the only alternative. 
 In the long term, the prospects for such deals may depend on the AfD itself. And in the east the party is making itself harder to work with. It has started to foster a nascent “Ossi” nationalism, hinting that easterners’ experience of dictatorship renders them cannier than west Germans, corrupted as westerners are by Merkel, migrants and the Lügenpresse—and, perhaps, well placed to bring about the necessary revolution. At the Pegida event a speaker attacks the domestic intelligence agency that has declared the Flügel a target for surveillance, triggering cries of “Stasi!” from the crowd. An east Berlin branch of the AfD recently circulated a meme depicting west Germany as an Islamic caliphate, with the national flag reserved for the east. 
 Needless to say, the audience for this sort of thing in western Germany is limited. Hoping for a showdown, some of the AfD’s less radical politicians want the easterners to put themselves up for election to the party’s executive board, which is dominated by westerners, later this year. Mr Höcke has vowed that the board will change, but may not stand himself. That makes him a coward, snorts one of his internal opponents. But it is increasingly clear who has the upper hand. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -122,4 +123,6 @@
 105.showdown['ʃәudaun]:n. 摊牌, 暴露, 紧要关头 
 106.easterner['i:stәnә(r)]:n. 东方人 
 107.snort[snɒ:t]:vi. 喷着气弄响鼻子, 轻蔑地哼, 嘶嘶响着排气 vt. 哼着鼻子说, 喷出, 吸入(毒品) n. 喷鼻息, (潜艇的)水下通气管 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

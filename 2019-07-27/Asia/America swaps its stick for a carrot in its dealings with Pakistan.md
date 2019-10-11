@@ -9,6 +9,7 @@
 Mr Khan said the right things in Washington to assure America of his country’s intentions. Pakistan had abandoned its policy of meddling in Afghanistan to give it “strategic depth” against India, he insisted. The army would not go behind the civilian government’s back to conduct its own policy. He would sit down with the Taliban and persuade them to talk to the Afghans. 
 America and its allies have heard such promises before and been disappointed. Militants still operate from havens in Pakistan. Officials familiar with how talks are progressing say that Pakistan has yet to throw its full support behind them. Pakistan’s generals are hedging their bets; some think the Taliban may still triumph and so are reluctant to push them too hard. 
 But the determination in Washington for success in the negotiations is intense. Mike Pompeo, the secretary of state, has said he wants a deal by September 1st. To make that happen, America seems willing to overcome its former disappointment with Pakistan and try a new approach.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Pakistan[.pɑ:ki'stɑ:n]:n. 巴基斯坦 
@@ -57,4 +58,6 @@
 44.haven['heivn]:n. 港, 避难所, 安息所 vt. 安置...于港中, 庇护, 入港 
 45.mike[maik]:vi. 偷懒, 游手好闲 n. 休息, 游手好闲, 扩音器, 话筒 
 46.pompeo[]:n. (Pompeo)人名；(意)蓬佩奥 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

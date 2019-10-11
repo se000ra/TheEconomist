@@ -10,6 +10,7 @@
 These higher-tech lines of business promise riches in the future. They are also more sensitive to geopolitics than are online marketplaces—and the technological conflict between America and China is not going to end anytime soon. The 90-day reprieve granted to Huawei expires soon. It might not be extended. 
 Another threat to China’s companies may come from within. It could take the form of (healthy) competition from upstarts like ByteDance or (less healthily) a slowing economy. It could also manifest itself in Chinese tech’s inward turn in response to the trade war. By focusing exclusively on their home market companies might fall into the trap of cutting themselves off from the wider world and the bigger ideas it contains. 
 For the time being, then, China’s tech companies look well insulated. That virtue could one day come to haunt them.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Tencent[]:[网络] 腾讯；腾讯公司；腾讯控股 
@@ -65,4 +66,6 @@
 51.manifest['mænifest]:n. 载货单, 运货单, 旅客名单 a. 显然的, 明白的 vi. 显示, 出现 vt. 表明, 表现, 证明 
 52.insulate['insjuleit]:vt. 使绝缘, 隔离 [医] 绝缘 
 53.haunt[hɒ:nt]:n. 常到的地方, 生息地 vt. 常到, 出没于, 萦绕于 vi. 出没, 作祟 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

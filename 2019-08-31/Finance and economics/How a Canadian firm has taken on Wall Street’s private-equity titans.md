@@ -12,6 +12,7 @@
 Another recession could provide another boost. It has ample liquidity (see chart). Completion of its $4.7bn acquisition of Oaktree Capital, a credit-investment firm, is imminent. That will cement its position as a one-stop shop for alternative assets, at a time when investors are seeking to consolidate their holdings. When growth fades it will be able to seek high rewards by buying the debt of ailing businesses, Oaktree’s speciality. “When people panic they sell things too cheap,” says Howard Marks, Oaktree’s co-founder. “And when the environment settles down, prices tend to recover. It’s a good way to make a living.” 
 Could Brookfield be getting greedy? Like other buy-out firms, it is raising record amounts, leading some to worry that capital is coming in too fast to be spent without mistakes. And though Mr Flatt argues that Brookfield’s size means it can gobble up assets that many rivals would find indigestible, there is the matter of eventually exiting these mega-projects, says Lincoln Webb of British Columbia Investment Management Corporation, a client of Brookfield’s infrastructure franchise. Just as few can buy mega-projects, there might be limited takers when it comes to sell, should that coincide with poor conditions for initial public offerings. 
 Yet by private-equity standards Brookfield’s funds have long durations, and the largest are nowhere near maturity. Its access to public equity also means it can be patient, as it was for the years it held the disused plot that is now home to One Manhattan West. And institutional investors in its funds with long-term liabilities may be keen to team up for the cash-yielding assets it will want to divest. As economic clouds gather, Brookfield’s horizons look enviably clear. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.grab[græb]:n. 抓握, 掠夺, 强占, 东方沿岸帆船 vi. 抓取, 抢去 vt. 攫取, 捕获, 霸占 
@@ -94,4 +95,6 @@
 78.liability[laiә'biliti]:n. 责任, 债务, 倾向 [经] 责任, 义务, 负债 
 79.divest[dai'vest]:vt. 使摆脱, 使脱去, 夺去 [经] 取消权力 
 80.enviably['envɪəblɪ]:adv. 令人羡慕地; 羡慕地, 渴望得到地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

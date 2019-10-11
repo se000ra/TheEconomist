@@ -11,6 +11,7 @@
 Even before the attack at St Alphonsus, deeper political shifts had set the two sides at odds. In the independence referendum of 2014, the Orange Order campaigned to stay in the union. Sectarianism had been widely seen as a “non-issue”, but “raised its head” again after the vote, says Mr Morrow. Six out of ten Catholics backed independence; the same share of Protestants opposed it. Mr McHarg says the Order’s membership grew “astonishingly” afterwards (“We should have a referendum every year,” he quips). The capture of Glasgow’s council by the pro-independence Scottish National Party has added to the Order’s sense of victimisation. There is “fear and anxiety” among Catholics and “a sense of injustice on the Orange side”, says Mr Rosie. 
 Leaders of both groups have made some efforts to dampen down tensions. The Catholic Archbishop of Edinburgh indicated that he had no problem with marches passing by Catholic churches. The Orange Order voluntarily rerouted this year’s Boyne parade in Glasgow away from St Alphonsus. It has also tried to improve its poor public image, with some difficulty. When in 2015 it held “Orangefest”, an event in Glasgow, a petition opposing it and decrying the Order’s “hate-filled” marches gathered 27,000 signatures. 
 “Nobody knows about us,” complains Mr McHarg. In one sense he is right. At a recent march on Glasgow’s outskirts, Raza, a waiter watching from outside the Curry Lounge restaurant, reckons the procession is for “supporting national heroes”. Up the street, a barber presumes it is in honour of military veterans. Many young or recently arrived Scots do not feel fear so much as bemusement at the chaps in bowler hats. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -91,4 +92,6 @@
 76.scot[skɒt]:n. 摊派的款项, 税赋 [化] 涂载体空心柱 
 77.bemusement[bi'mju:zmənt]:n. 困惑 
 78.chap[tʃæp]:n. 小伙子, 颌, 龟裂 v. 皲裂 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

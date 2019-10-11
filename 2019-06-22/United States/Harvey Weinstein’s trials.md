@@ -13,6 +13,7 @@
 More important than the letter of the law will be the mood of the jury. Cultural norms determine judgments in rape cases far more than legal definitions, found Dan Kahan, a professor in law and psychology at Yale, in a 2009 study. Working in Mr Weinstein’s favour is the fact that he is on bail, which studies have shown greatly increases his chances of acquittal. Beyond that, “his chances now directly relate to his lawyers’ ability to impeach the credibility of his accusers,” predicts Daniel Hochheiser, a criminal defence attorney. 
 Their job may be about to get harder as the court considers whether other women should be allowed to testify about Mr Weinstein. This strategy, aimed at demonstrating a pattern of abuse, was successful in helping convince the jury at the Bill Cosby retrial last year of the comedian’s guilt. For several women it was also cathartic. But it is controversial and Mr Weinstein’s lawyers have fought hard against it. One problem for prosecutors in sexual-misconduct cases is that each accusation tends to be treated as a one-off, which makes it far easier for the defence to argue it was a “he said, she said”. Settlements with gag-clauses make it yet harder to give a jury more context. 
 Just as most civil cases are dismissed or settled before trial, so over 95% of criminal cases are either thrown out or settled with a plea-bargain before trial. Lack of resources or the hope of a shortened sentence can push poorer and younger suspects into taking a plea, but are less likely to persuade Mr Weinstein. The prospect of facing not just two isolated women but a couple of platoons may push him towards a deal, should one be offered. Yet given the high-profile nature of the case, and the severity of the charges, insiders predict that the prosecutor is unlikely to do so and would prefer to roll the dice in trial. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.harvey['hɑ:vi]:n. 哈维（男子名） 
@@ -109,4 +110,6 @@
 92.severity[si'veriti]:n. 严格, 朴素, 激烈 
 93.insider['in'saidә]:n. 内部的人, 权威人士, 知道内情的人 [经] 熟悉内情者 
 94.dice[dais]:n. 骰子 vt. 切成方块 vi. 掷骰子 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

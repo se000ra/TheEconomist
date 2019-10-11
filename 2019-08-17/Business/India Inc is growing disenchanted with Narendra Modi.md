@@ -18,6 +18,7 @@
 Yet they also confide that the prime minister often asks not what the government can do for companies, but what they can do for the government. He is increasingly viewed not as broadly pro-market but selectively pro-business. His goodwill extends to companies whose goals align with his own: bankers who offer cheap loans to the poor, energy firms which furnish households with gas and electricity, corporations which improve sanitation in villages near their factories. Favoured firms are kept on life support with credit from state-controlled lenders, leaving less capital for everyone else. 
 Such complaints aren’t widely heard, not because they are rare but because they are not made in public. Sotto voce, denizens of India Inc say they fear retribution from the authorities. Criticism can provoke a call from an official that carries the implied threat of lost contracts or withdrawn permits, they say. After the suicide in July of the founder of a coffee chain who claimed t have been harassed by the tax authorities, the term “tax terrorism”, first coined in 2014, has gained new traction. Indian entrepreneurs share stories of protracted investigations that cripple businesses. 
 Most of these problems are endemic in India. Despite the liberalisation of the “Licence Raj” in the early 1990s the country has never quite let go of its deeply ingrained interventionism. But the prime minister, whose 13-year tenure as chief minister of the western state of Gujarat won him a reputation for sound economic management, was going to be different, members of the put-upon corporate class hoped. As he begins his sixth year as India’s prime minster, some of them are beginning to wonder if the state’s success owes more to go-getting Gujaratis than to their erstwhile leader. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.MODI['mәudai]:[计] 模块化光学数字接口 
@@ -172,4 +173,6 @@
 150.minster['minstә]:n. 修道院附属的教堂, 大教堂 
 151.gujarati[]:n. 古吉拉特人；古吉拉特语 
 152.erstwhile['ә:stwail]:adv. 以前, 往昔地 a. 以前的, 往昔的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -14,6 +14,7 @@
 Embarrassing headlines have not stopped parts of his programme from moving ahead, which was not the case during the presidency of his predecessor, Michel Temer. Mercosur, a group to which Brazil belongs, has reached a trade agreement in principle with the European Union (see article). A reform of pensions is advancing. 
 If the corruption fight is to resume, prosecutors say, both the supreme court and the president will have to change course. Prosecutors hope that the court will reverse Mr Toffoli’s decision, unblocking investigations into Flávio and other alleged wrongdoers. Progress will depend partly on whom Mr Bolsonaro chooses to succeed Raquel Dodge as Brazil’s attorney-general in September. Mr Bolsonaro has waffled about whether he will pick one of the three candidates proposed by the National Association of Prosecutors. That practice began in 2003 as a way of ensuring the attorney-general’s independence from politics. Mr Bolsonaro’s choice will be “a big test of the government’s commitment” to fight corruption, says Bruno Brandão of Transparency International, an NGO. 
 Despite its flaws, Lava Jato offered the hope that Brazil might end the culture of impunity that allowed corruption to flourish. The question now is whether that quest can overcome the damage inflicted on it by its biggest champions.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.corruption[kә'rʌpʃәn]:n. 腐败, 堕落, 贪污 [计] 论误 
@@ -85,4 +86,6 @@
 67.impunity[im'pju:niti]:n. 不受惩罚, 无事, 无患 [法] 不受刑罚, 免罚, 免罪 
 68.quest[kwest]:n. 探索, 寻求, 调查 v. 寻找, 找, 追寻猎物 
 69.inflict[in'flikt]:vt. 施以, 加害, 使承受 [法] 处, 加, 予以 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

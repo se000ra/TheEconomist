@@ -13,6 +13,7 @@
 American authorities are trying to curb the effects these charities may be having on prices. In California in 2017 a bill was passed banning companies from providing co-pay assistance in some situations, such as if a patient’s insurance company offered a drug on a lower cost that the Food and Drug Administration, America’s drug regulator, had deemed therapeutically identical, or when the active ingredient is available over-the-counter at a lower cost. 
 The Securities and Exchange Commission (SEC) is also looking more closely at independent charities that are sometimes sponsored by pharmaceutical firms. One independent charity offered co-pay support only for a specific type of “breakthrough pain” for cancer patients, a condition its sponsor had a 40% market share in treating. An SEC probe has already settled claims with some pharmaceutical firms, though none has admitted wrongdoing. United Therapeutics has settled the biggest claim, worth $210m, with the Department of Justice. Lundbeck, a Danish drugmaker, and Pfizer have settled smaller claims. “Pfizer knew that the third-party foundation was using Pfizer’s money to cover the co-pays of patients taking Pfizer drugs,” according to Andrew Lelling, a US attorney, “masking the effect of Pfizer’s price increases.” Johnson & Johnson, Astellas, Gilead Sciences, Celgene, Biogen and others face investigations. 
 Using co-pay charities to support high prices is good for business, but charitable contributions foster healthy profits in another way, too: they are tax-deductible. The corporate tax codes of most countries allow companies to deduct the cost of any charitable giving from pre-tax profits. But in America the system is more generous, says Jason Factor, a tax lawyer at Cleary Gottlieb Steen and Hamilton. Companies that give products for the benefit of the “needy or ill” can deduct up to twice the cost of donated goods. How convenient!■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.pharmaceutical[,fɑ:mә'sju:tikәl]:a. 药学的, 制药的, 药用的, 药物的, 药剂师的, 药师的 n. 药品, 成药, 药剂 
@@ -89,4 +90,6 @@
 72.steen[sti:n. stein]:a. [俚]许许多多的（等于umpteen） 
 73.hamilton['hæmiltәn]:n. 汉密尔顿（男子名）；哈密尔顿（美国城市名） 
 74.needy['ni:di]:a. 贫穷的, 贫困的, 生活艰苦的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

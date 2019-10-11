@@ -10,6 +10,7 @@
 First, look at the poorer regions’ economies. Pouring lots of concrete has naturally been a boost. But the regions have far less need now of new infrastructure. It is reasonable to ensure poor places are not starved of public investment, but too often China ignores market signals entirely. It is particularly important that China spends wisely because of its enormous domestic debt, much of which relates to unnecessary building in the interior. It would be better to direct cash at hospitals, schools and job training than to squander it on more empty expressways. 
 Then look at the people who live inland—well over half the population. One reason place-based policies are in vogue in the rich world is that many workers have stayed in failing places. The same is true in China—but by design. The government has been maintaining barriers to migration to booming coastal cities and lowering them to inland ones. Far better to let workers move freely by abolishing the pernicious hukou system that restricts migrants’ access to public services outside their home towns. As coastal areas age rapidly, they will need young migrants to keep them as dynamic as they are today. The government should make it easier to move to them, not least by building more affordable housing that anyone, not just locals, can buy. 
 A big reason why China has remained relatively stable since Tiananmen is that most Chinese have had hope that their lives will improve. But the next 30 years will be tougher, as the population ages and growth slows. It will become harder for some to sustain their dreams. Putting obstacles in the way of those who wish to seek their fortunes in coastal megacities will needlessly hinder China’s development. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -58,4 +59,6 @@
 44.megacity['me^ә,siti]:n. (人口超过100万的)大城市 
 45.needlessly[]:adv. 不必要地；无用地 
 46.hinder['hindә]:a. 后面的 v. 阻碍, 打扰 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

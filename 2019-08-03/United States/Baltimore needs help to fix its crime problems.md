@@ -22,6 +22,7 @@
 The problems of crime and addiction are difficult, but they should not be insurmountable. Sadly, Baltimore has endured so much turbulence at its highest echelons of power in recent years that new plans have scarcely had time to be drafted. Since Gray’s death, there have been five police commissioners—some fell foul of the mayor while others fell foul of the law. In May the mayor herself, Catherine Pugh, was forced to resign from office after a scandal involving bulk purchases of her insipid children’s book by companies who did business with the city. She is the second mayor to have to resign in a decade. 
 The next mayor will face huge challenges. “We are a city that doesn’t have a transit system, we don’t have fast broadband, we have an ageing water system,” says Seema Iyer of the University of Baltimore. Vacant buildings depress property values, provide places for criminals to hide and scare off prospective businesses. The city’s schools are decrepit. Having stabilised at the time of Freddie Gray’s death, Baltimore’s population is now falling again. 
 It is tempting for lawmakers in Annapolis, the state capital, and nearby Washington, to blame the city for its troubles. Corruption and poor policing are certainly unforced errors. People of all political stripes have high hopes for Michael Harrison, the freshly appointed police commissioner from New Orleans, though he will need longer than the now-customary one-year term to change much. Still, many of the forces buffeting Baltimore and its poorest residents are outside its control: history weighs heavily. To dig itself out of its rut, the city will need help. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.brink[briŋk]:n. 边缘, 陡岸 
@@ -165,4 +166,6 @@
 139.freshly['freʃli]:adv. 新, 新近, 精神饱满 
 140.orleans[ɔ:'liәnz, 'ɔ:l-]:n. 奥尔良（法国城市） 
 141.rut[rʌt]:n. 辙迹, 凹槽, 常规, 惯例, 发情期 vi. 交尾, 发情 vt. 挖槽于 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

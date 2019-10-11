@@ -9,6 +9,7 @@
 The upshot is that as children grow, and their teeth grow in them, the enamel of those teeth is built from materials reflecting local isotopic ratios. These ratios are sufficiently well known for different parts of Mexico and its neighbours as to permit Dr Price to work out where the owners of the teeth grew up. 
 Unfortunately for those hoping for a clear-cut answer to the question of whether people cast into the Sacred Cenote were the spoils of distant wars or locals who had drawn the shortest of short straws, the answer to the question, “Where did they come from?” is, “Anywhere and everywhere”. Dr Price and his team could discern no pattern whatsoever. Their analysis suggested that half of the 40 were locals, around a quarter had come from somewhat farther afield, and the remainder from places hundreds of kilometres away, in what are now western Honduras and Mexico’s central highlands. Nor was there an association between birthplace and age. Children were neither more nor less likely than adults to have been locals. 
 A disappointment, then, for those who like their history neat and tidy. How the priests of Chichén Itzá came by victims remains a mystery. All that can be said for sure is that the gods inhabiting the Sacred Cenote were not choosy. Men, women, adults, children, strangers and locals. All seem to have been equally acceptable to sate their lust for blood.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.archaeology[.ɑ:ki'ɒlәdʒi]:n. 考古学 
@@ -59,4 +60,6 @@
 46.equally['i:kwәli]:adv. 相等地, 同样地, 平等地 
 47.sate[seit]:vt. 充分满足, 过分满意, 使厌腻 
 48.lust[lʌst]:n. 贪欲, 欲望, 色欲 vi. 贪求, 渴望, 动淫念 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

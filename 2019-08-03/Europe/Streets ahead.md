@@ -11,6 +11,7 @@
 Even the electric scooters have their benefits. For all that they clutter up pavements, they take up vastly less road space overall than cars. In the quiet streets of central Antwerp the scooter craze feels like a fair price to pay. Moreover, the scooters and bike schemes in fact make carless cities less elitist. University towns and trendy central districts have long been bike-friendly. Today’s shifts extend those trends to suburban areas and more typical citizens by making non-car travel accessible to those unable to buy one, offering cheap rental vehicles that can cover the “final mile” between bus or train stations and suburban homes or offices, providing cycle highways linking outlying places with city-centre networks and even, as in Germany, pioneering bike “autobahns” linking close-together towns. Electric scooters and bikes make such routes accessible to those not up to cycling, and boast seats, baskets or cargo boxes for those with shopping or children to transport. The old or infirm will doubtless want to keep their cars. 
 So ever fewer citizens in and around European cities need to put up with the cost and hassle of driving to go about their daily business. And ever more are enjoying the experience—once the preserve of a metropolitan elite—of calm streets, squares and parks. Madrid’s bid to roll back car restrictions, the most notable exception to this trend, was tellingly reversed in July following protests. 
 All of which seems like a revolution in the European cityscape. But in many ways it is a reversion. Places like Antwerp existed for centuries before the car. Their centres are warrens built around foot traffic, that had to be trimmed, straightened and trained like rose bushes as car ownership grew. They are denser than American cities, even in their suburbs, and tend to lack the big open spaces needed for cars to move smoothly. In such cities cars never made much sense. But they found their way in and became part of the urban furniture. And now that is changing. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Charlemagne['ʃɑ:lә'mein]:查理曼大帝(742-814, 世称 Charles the Great或Charles I, 768-814为法兰克王, 800-814为西罗马帝国皇帝) 
@@ -93,4 +94,6 @@
 78.warren['wɒrәn]:n. 养兔场, 拥挤的地区 
 79.straighten['streitn]:vt. 弄直, 整顿, 清理, 使改正 vi. 直起来, 改正, 好转 
 80.dens[denz]:[医] 牙, 齿 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

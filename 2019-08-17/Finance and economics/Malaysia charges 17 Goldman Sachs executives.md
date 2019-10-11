@@ -9,6 +9,7 @@
 Goldman has painted Mr Leissner as a rogue employee. The bank’s chief executive has even apologised to Malaysians for Mr Leissner’s role in the mess. But the former executive has said his cover-ups were in line with the bank’s culture. The decision to charge another 17 executives under Malaysia’s Capital Markets and Services Act (CMSA), which allows top employees to be held responsible for the offences of their organisations, suggests authorities take a broad view of the matter. In December, under another section of the CMSA, Malaysia filed criminal charges against the firm. 
 The bank denies wrongdoing. Edward Naylor, its head of corporate communications in the Asia-Pacific region, said that the charges against the 17 are “misdirected”. “Certain members of the former Malaysian government and 1MDB lied to Goldman Sachs,” he added. As those accused had no opportunity to argue their case before the charges were filed, the attorney-general’s move increases pressure on the bank in its dealings with the Malaysian authorities. It also signals Malaysia’s determination to make an example of Goldman. 
 The big question is how America’s crime-busters respond. Goldman is likely to be punished for the actions of Mr Leissner and others. But the size of a potential fine could depend on the extent to which they are judged to have acted in their employer’s interest. One tricky legal issue is whether Goldman is liable for the $2.7bn that was stolen from the bond-sale proceeds. The bank is thought to have set aside somewhere between $1bn and $2bn to cover legal costs related to 1MDB. Analysts reckon the size of any American fine could be based either on the fees Goldman earned on the bond issuance, or on the larger sum that disappeared from the fund. With $76bn of core capital, the bank can absorb the potential hit to its balance-sheet. Its reputation for being both nimble and astute may take longer to recover.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Malaysia[mә'leiziә]:n. 马来西亚 [经] 马来西亚 
@@ -68,4 +69,6 @@
 55.issuance['iʃjuәns]:n. 发行, 发布 [经] 发行, 发给 
 56.nimble['nimbl]:a. 敏捷的, 伶俐的, 聪明的 
 57.astute[ә'stju:t]:a. 敏锐的, 狡猾的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

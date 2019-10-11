@@ -15,6 +15,7 @@
 But Mr Duque has been half-hearted about putting into effect many other provisions. The government is moving slowly to fulfil its commitment to hand out within ten years title to 7m hectares (17m acres) of land, mainly to poor farmers. It claims to have given titles for 300,000 hectares, but nearly all are to indigenous groups on reserves. Few farmers have received the technical assistance they need to switch from growing coca, the raw material for cocaine, to other crops. Short of money, the government has slashed by 10% or more the budgets of agencies in charge of such areas as rural development. Mr Duque has yet to send to congress a single bill to implement the agreement. More than half the needed legislation has not been passed. 
 The part of the deal to which he is most hostile is the “transitional justice” tribunal, called the JEP, which investigates war crimes and crimes against humanity. He, along with many Colombians, regards the sentences it can hand out as too lenient and its judges as too sympathetic to the defendants. The tribunal seemed to confirm those suspicions in May when it freed Mr Santrich as he was facing extradition. Mr Duque thinks it outrageous that accused FARC members can sit in congress. He filed six objections to the law under which the JEP operates, which were overruled by the constitutional court. For the deal’s supporters, transitional justice is a painful compromise that made peace possible. 
 The government’s most damaging failure has been to protect former combatants, as well as activists working on behalf of the poor. Around 130 demobilised guerrillas have been killed since the signing of the peace deal, mainly by dissident FARC soldiers and by members of militias spawned by right-wing paramilitary groups. Around 290 activists have also been murdered. Mr Márquez cited that to justify his own return to violence (ignoring the fact that some of the killers are his prospective allies). The number of murders in areas where armed groups are still active rose in 2018 but appears to have fallen this year. Even so, the end of the war has not brought tranquility to those regions. While Mr Duque fights the menace of Mr Márquez, he must do more to strengthen Colombia’s fragile peace.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.farc[]:abbr. Federal Addiction Research Center 联邦上瘾研究中心; Fuerzas Armadas Revolucionarias de Colombia (Spanish=Armed Revolutionary Forces of Colombia) （西班牙语）哥伦比亚武装革命力量; Federal Archives and Records Center 联邦档案履历中心; Field Artillery Replacement Center 野战炮兵补充训练中心（美军） 
@@ -127,4 +128,6 @@
 108.prospective[prәs'pektiv]:a. 预期的, 将来的 [经] 预期的, 未来的 
 109.tranquility[.træŋ'kwiliti]:n. 宁静 
 110.menace['menis]:n. 威胁, 胁迫 v. 威吓, 胁迫 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

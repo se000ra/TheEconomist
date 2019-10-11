@@ -8,6 +8,7 @@
 Deterrence rested on the consensus that if nuclear bombs were used, they would pose catastrophic risks to both sides. But the threat posed by AI is less lurid and less clear. It might aid surprise attacks or confound them, and the death toll could range from none to millions. Likewise, cold-war arms-control rested on transparency, the ability to know with some confidence what the other side was up to. Unlike missile silos, software cannot be spied on from satellites. And whereas warheads can be inspected by enemies without reducing their potency, showing the outside world an algorithm could compromise its effectiveness. The incentive may be for both sides to mislead the other. “Adversaries’ ignorance of AI-developed configurations will become a strategic advantage,” suggests Henry Kissinger, who led America’s cold-war arms-control efforts with the Soviet Union. 
 That leaves the last control—safety. Nuclear arsenals involve complex systems in which the risk of accidents is high. Protocols have been developed to ensure weapons cannot be used without authorisation, such as fail-safe mechanisms that mean bombs do not detonate if they are dropped prematurely. More thinking is required on how analogous measures might apply to AI systems, particularly those entrusted with orchestrating military forces across a chaotic and foggy battlefield. 
 The principles that these rules must embody are straightforward. AI will have to reflect human values, such as fairness, and be resilient to attempts to fool it. Crucially, to be safe, AI weapons will have to be as explainable as possible so that humans can understand how they take decisions. Many Western companies developing AI for commercial purposes, including self-driving cars and facial-recognition software, are already testing their AI systems to ensure that they exhibit some of these characteristics. The stakes are higher in the military sphere, where deception is routine and the pace is frenzied. Amid a confrontation between the world’s two big powers, the temptation will be to cut corners for temporary advantage. So far there is little sign that the dangers have been taken seriously enough—although the Pentagon’s AI centre is hiring an ethicist. Leaving warfare to computers will make the world a more dangerous place.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Sep[]:九月 
@@ -77,4 +78,6 @@
 65.amid[ә'mid]:prep. 在其间, 在其中 [经] 在...中 
 66.confrontation[.kɔnfrʌn'teiʃәn]:n. 对抗；对质；面对 
 67.ethicist['eθisist]:伦理学家 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

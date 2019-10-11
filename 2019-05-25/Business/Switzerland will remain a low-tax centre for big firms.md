@@ -10,6 +10,7 @@
 The Swiss have taken further steps to prevent an exodus of multinationals to low-tax rivals such as Ireland and Singapore. The reforms include new sweeteners for research and development and for patent-derived income. 
 Not all multinationals own enough intellectual property to benefit greatly from such schemes; commodity traders have a lot less of it than pharmaceutical firms. So, besides installing “patent boxes” (frowned upon by tax-fairness campaigners but compliant with international tax rules), cantons are cutting their ordinary corporate-tax rates. In Basel, which is particularly popular with drugmakers and logistics-and-trading firms, it is set to fall from 22% to 13% (including the federal portion). 
 In short, says Peter Uebelhart of KPMG, an accounting firm, Switzerland is “using all the room for manoeuvre it has” to remain competitive while complying with international standards. The average combined income-tax rate for multinationals that have made Switzerland their home will tick up only slightly once the changes kick in, he reckons, from 9-11% to 12-14%. “Our sense is that most of them consider that acceptable,” he says, especially combined with Switzerland’s other attractions, such as political stability, its central location in Europe—and all that chocolate. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.referendum[.refә'rendәm]:n. （就重大政治或社会问题进行的）全民公决，全民投票 
@@ -43,4 +44,6 @@
 29.manoeuvre[mә'nu:vә]:n. 调遣, 演习, 策略 vi. 调动, 演习, 用策略 vt. 调动, 操纵 
 30.comply[kәm'plai]:vi. 顺从, 依从 [法] 遵守, 承诺, 照做 
 31.reckon['rekәn]:vt. 计算, 总计, 估计, 认为, 猜想 vi. 数, 计算, 估计, 依赖, 料想 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

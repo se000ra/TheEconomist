@@ -12,6 +12,7 @@
 Lastly, getting the likes of Chris, Emily and Tom into work rather than residential care, where they would otherwise end up, saves the government a lot of money. Foxes cites estimates from Britain’s Department of Education which shows that the cumulative cost of supporting a person with a moderate learning disability throughout their adult life (from 16 to 64) is up to £3m ($3.8m). Teaching them the skills to live semi-independently and take a job reduces the bill by around a third. 
 Those savings require some upfront investment. Each student is funded by their local council but local-authority budgets have been squeezed under the austerity programme of the current Conservative government. Clare Walsh, the academy’s marketing manager, says that councils are finding it more and more of a struggle to send students. 
 That is a shame. Anyone who visits the academy is bound to be inspired and impressed. Chris, Emily and Cameron deserve all the support they can get. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bartleby[]:[网络] 巴特比；巴特白；老板是空气 
@@ -69,4 +70,6 @@
 53.clare[kleә]:n. 克莱尔（女子名） 
 54.walsh[wɔ:lʃ]:n. 沃尔什（姓氏） 
 55.marketing['mɑ:kitiŋ]:n. 行销, 买卖 [经] 推销, 在市场买卖, 销售 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -10,6 +10,7 @@
 If further research confirms this opinion, then for medical science that conformity with natural development could be a boon. Neuroscientists have long been held back by the differences between human brains and those of other animals—particularly the brains of rodents, the analogue most commonly employed in medical research. The purpose of the work that Dr Lancaster, Dr Muotri and others involved in the field are engaged in has always been to produce better laboratory models of neurological and psychiatric diseases, so that treatments may be developed. 
 And, although it may be some time in the future, there is also the possibility that organoids might one day be used as transplant material in people who have had part of their brains destroyed by strokes. 
 For ethicists, however, work like this raises important issues. A sub-millimetre piece of tissue, even one that displays synchronised electrical pulsing, is unlikely to have anything which a full-grown human being would recognise as consciousness. But if organoids grown from human stem cells start to get bigger than that, then the question that was posed back in 2013 becomes pressing.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.cerebral['seribrәl]:a. 脑的, 大脑的 [医] 小脑的 
@@ -59,4 +60,6 @@
 45.neurological[.njurә'lɒdʒikl]:a. 神经病学上的 
 46.psychiatric[saiki'ætrik; (?@) si-]:a. 精神病学的, 医精神病的 [医] 精神病学的 
 47.ethicist['eθisist]:伦理学家 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

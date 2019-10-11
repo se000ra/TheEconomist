@@ -16,6 +16,7 @@
 The Trump administration is also trying to delay fuel-economy standards for cars put in place by the Obama administration, and is tussling with California over its ability to set even higher standards. Carmakers, who are the alleged beneficiaries of the proposal, are lukewarm or outrightly opposed to the idea. Oil producers, however, are elated. This is despite frequent pronouncements from the current EPA on the virtues of “co-operative federalism” in environmental policy and the undesirability of “dictating one-size-fits-all mandates from Washington”. That outlook seems to apply more when states are racing to get rid of regulations than when they are trying to add more. 
 America accounts for 15% of global emissions. The states and cities passing ambitious climate-change programmes account for a fraction of this fraction. Emissions have declined from historical levels in America due simply to costs—natural gas has become cheaper, and the cost of renewables has dropped significantly. In the past decade the cost of wind energy has fallen by 50%, while that of solar energy has dropped by more than 80%. States and cities can depress this national trajectory a bit further. 
 A bifurcated country, in which prosperous Democratic states with hefty environmental rules go one way and Republican-leaning states go another, is not ideal. But state programmes will generate valuable know-how before the rest of the country moves, says Severin Borenstein, an economist at the University of California, Berkeley. They will also provide an example for the rest of the world to study. China accounts for nearly twice as many greenhouse-gas emissions as America. Chinese bureaucrats have dropped in on California to inspect its programme many times.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -134,4 +135,6 @@
 114.borenstein[]: [人名] 博伦斯坦 
 115.berkeley['bɑ:kli, 'bә:kli]:n. 伯克利（姓氏）；贝克莱（爱尔兰主教及哲学家）；伯克利（美国港市） 
 116.bureaucrat['bjuәrәukræt]:n. 官僚作风的人, 官僚, 官僚主义者 [法] 官僚, 官僚作风的人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -12,6 +12,7 @@
 But simply changing the estimated size of the economy does not magically bring in more tax. Interest payments still consume one-third of government revenues, which is more than it spends on education or health. Increasing the amount raised in taxes will be tough, because most of the economy is informal. The IMF notes that taxes make up a smaller share of GDP (14% in Ghana) than in most other developing countries and classifies it as being at “high risk of debt distress”. 
 Investors are also wary and demand much higher interest rates to hold Ghana’s foreign-currency bonds compared with Nigeria’s or Kenya’s. One reason is that they worry the government will start spending freely ahead of elections in 2020, as governments often have in the past. Gregory Smith of Renaissance Capital, a bank, points out that budget deficits were almost one percentage point of GDP higher in each of the seven election years since 1990 than in non-election years. The trend has accelerated: in 2012 and 2016 deficits ballooned by almost three percentage points of GDP. 
 Mr Akufo-Addo won the election in 2016 with the preposterous promise of a factory in every district. This time he might do better by breaking the old pattern of running up debts before an election, only to turn to the IMF afterwards for another bail-out. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.gonna['ɡɔnә]:abbr. （美）将要（等于going to） 
@@ -57,4 +58,6 @@
 41.deficit['defisit]:n. 赤字, 不足额 [医] 短缺 
 42.preposterous[pri:'pɒstәrәs]:a. 反常的, 乖戾的, 荒谬的, 首末倒置的 
 43.afterwards['ɑ:ftәwәdz]:adv. 然后, 后来 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

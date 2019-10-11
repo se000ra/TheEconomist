@@ -19,6 +19,7 @@
 Libra’s success, then, is far from assured. But it could prove useful even if it flops, for it offers a blueprint for how Facebook itself could one day be governed. The Libra Association’s main task is to oversee the blockchain, ensuring, for instance, that Calibra does not enjoy privileged access to it. An equivalent Facebook Association, some observers have ventured, could be composed of representatives of users, advertisers, data-protection authorities and so on. Their job could be to oversee the “social graph”, another database, which lists all of Facebook’s users and the links between them—and to guarantee that Facebook users can post to another social network, and vice versa. 
 Calls for a Facebook constitution along these lines have grown louder as the social network’s influence on world affairs, from election-meddling in America to genocide in Myanmar, has become apparent. Mr Zuckerberg is no stranger to such thinking. In 2009 Facebook let users vote on big changes in its privacy policies but abandoned the experiment with global democracy a few years later. Last year Mr Zuckerberg announced that Facebook wanted to set up a “content review board” of independent experts—a kind of “Supreme Court”, in his words, which would make “the final judgment call on what should be acceptable speech”. 
 Asked whether Libra could serve as a model for Facebook, David Marcus, who is in charge of the project, replies that it marks “a coming of age, the moment we recognise that there are some things that we shouldn’t control—and a radical departure from the traditional way of operating things”. Perhaps. But checks and balances would almost certainly make Facebook less profitable. It would be ironic if a new digital currency marked the beginning of the end of Facebook’s money-minting days.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.flip[flip]:vt. 掷, 弹, 轻击, 空翻 vi. 用指轻弹, 抽打, 蹦跳 n. 抛, 弹, 筋斗 a. 无礼的 [计] 翻转 
@@ -134,4 +135,6 @@
 111.david['deivid]:n. 大卫；戴维（男子名） 
 112.Marcus['mɑ:kәs]:n. 马库斯（男子名） 
 113.ironic[aiә'rɔnik]:a. 冷嘲的, 挖苦的, 反话的, 讽刺的, 令人啼笑皆非的, 出乎意料的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

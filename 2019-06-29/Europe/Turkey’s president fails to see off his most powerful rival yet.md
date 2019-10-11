@@ -14,6 +14,7 @@
 Mr Erdogan himself remains popular and in charge. He enjoys sweeping powers, which he can use to undermine Mr Imamoglu, plus the support of the country’s biggest nationalist party, which gives him control of the parliament. He does not have to face another election for four years. 
 But the ground beneath him is shifting. Emboldened by Mr Imamoglu’s success, some estranged AK luminaries, including a former president, seem poised to launch one or more breakaway parties. The economy, which only recently emerged from recession, may turn down again this year. America may impose sanctions over Mr Erdogan’s purchase of a Russian missile-defence system. It has already suspended Turkey’s participation in the F-35 fighter programme. Unless Mr Erdogan convinces Donald Trump to grant Turkey a waiver, additional sanctions will kick in when the missile batteries arrive from Russia. 
 The opposition has the wind in its sails. Mr Imamoglu has a real chance to heal a divided society. “The era of partisanship is over,” he said in his victory speech. “The era of rights, law and justice is here.” Elsewhere, those words would sound bland. In today’s Turkey, they are revolutionary. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.erdogan[]:[网络] 埃尔多安；土耳其总理埃尔多安；艾尔多安 
@@ -111,4 +112,6 @@
 93.waiver['weivә]:n. 放弃, 弃权, 弃权声明书 [经] 弃权, 放弃权利 
 94.partisanship['pɑ:tәznʃip]:n. 党派性, 党派偏见, 对党派的忠诚 
 95.bland[blænd]:a. 温和的, 乏味的, 冷漠的 [医] 温和的, 淡的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

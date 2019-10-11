@@ -8,6 +8,7 @@
 The projects are partly inspired by organisations like the rainbow-adorned LebensortVielfalt in Berlin and Triangle Square in Los Angeles, which house elderly gay people. They also have a model in groups like Older Women’s Co-Housing (OWCH), a development in London for women over 50 (straight and gay alike) which opened in 2016. The 26 residents wanted to preserve their independence in old age. “We decided we would not be done unto,” says Maria Brenton, the project manager. OWCH receives dozens of inquiries a week. 
 Group living offers camaraderie as well as a spirit of radicalism that appeals to some activists. “We’re used to a combination of autonomy and collectivity as part of our lesbian feminism,” says Liz Kelly, 67, who co-founded LOLC. “Why would we want to conform to convention now, just because we’re older?” 
 Social opportunities for older gay folk are improving in other ways, too. Opening Doors London organises walks, film nights and a befriending scheme for over-50s. Sally Knocker, who runs the charity’s Rainbow Memory Café, says people are finding innovative ways to combat isolation. As Ms Kear puts it, “We have to get it across to them that it’s OK to be old and out and proud.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.retirement[ri'taiәmәnt]:n. 退休, 隐居, 撤退 [经] 退休, 退股, (固定资产)报废 
@@ -51,4 +52,6 @@
 39.innovative['inәjveitiv]:a. 革新的, 创新的, 富有革新精神的 
 40.combat['kɒmbæt]:n. 争斗, 战斗 vi. 战斗, 争斗 vt. 与...战斗, 与...斗争 
 41.isolation[.aisә'leiʃәn]:n. 隔绝, 孤立, 隔离 [化] 分离; 生物分离 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

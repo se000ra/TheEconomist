@@ -10,6 +10,7 @@
 The retrenchment marks a definitive end to Deutsche’s aspirations to become Europe’s Goldman Sachs. Now it would settle for being a German version of BNP Paribas, a French universal bank with most of its activities in Europe. As well as a slimmed-down corporate and investment bank, Deutsche will still have Germany’s biggest retail bank (plus retail operations in Italy and Spain) and DWS, a solidly performing asset manager. But it is quite a comedown from the 1990s, when it took on Wall Street and, for a short time, became a big player in global investment banking. 
 Many in Germany see the plans as a last-gasp effort to remain independent. UBSand ING of the Netherlands have already signalled their interest in merging with Deutsche. A takeover by a foreigner would be a big blow to German pride. 
 A lot will depend on how fast Mr Sewing can put his proposals into action. The leak is likely to force him to come clean about the details earlier than he had planned. They will probably include yet another purge of senior managers. According to the Frankfurter Allgemeine Zeitung, a daily, he might start by firing Garth Ritchie, the boss of Deutsche’s investment-banking unit. In the new cost-conscious era Mr Sewing could take over—and run the sickliest division of an ailing bank. That may be an even more difficult task than it sounds. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.slasher['slæʃә]:n. 猛砍者, 乱砍者, 好殴斗者, 恃强欺弱的人, 刀, 泥刀, 剃刀片, 剑, 浆纱机 
@@ -66,4 +67,6 @@
 52.garth[gɑ:θ]:n. 中庭, 庭院 
 53.ritchie['ritʃi]:n. 里奇（姓氏） 
 54.sickly['sikli]:a. 病弱的, 令人不快的, 无精打采的 adv. 病态地 vt. 使现病容 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

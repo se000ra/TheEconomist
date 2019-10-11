@@ -19,6 +19,7 @@
 The Trump administration published a rule that would stop legal migrants from becoming permanent residents in America if they use public-welfare programmes, such as food stamps. Migrants must already prove they will not rely on government assistance if they want to stay. The new rule specifies that receiving certain benefits will be a disqualifying factor. Ken Cuccinelli, who heads the immigration agency, said that America wants “self-sufficient” immigrants. 
 America’s attorney-general, William Barr, ordered an inquiry into the suicide of Jeffrey Epstein. Mr Epstein, once a wealthy financier, was in jail awaiting trial for trafficking under-age girls for sex. 
 The release of a film reportedly premised on a global elite who shoot “deplorables” (ie, Trump supporters) for sport was postponed in the wake of recent mass shootings. “The Hunt” is described as a “satirical social thriller” by Universal Pictures. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -138,4 +139,6 @@
 115.elite[ei'li:t]:n. 精华, 精锐, 中坚分子 
 116.supporter[sә'pɒ:tә]:n. 支持者, 后盾, 迫随者, 护身织物 [法] 支持者, 赡养者, 抚养者 
 117.satirical[sә'tirik(ә)l]:a. 讽刺的, 讥讽的, 好挖苦的, 写讽刺作品的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

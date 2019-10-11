@@ -7,6 +7,7 @@
 That record now seems set to unlock another gargantuan pile of capital. Giants of the technology industry such as Microsoft, Apple and Foxconn will chip in, joining a string of Japanese financial institutions and Kazakhstan’s sovereign-wealth fund. One notable absentee is the sovereign-wealth fund of Saudi Arabia, whose $45bn stake made it the largest investor in the first fund but became a huge source of controversy following the murder of Jamal Khashoggi, a dissident Saudi journalist. 
 SoftBank itself will be the biggest contributor: it promises to put in $38bn. That is where the Sprint deal comes in. The merger is unwelcome news for American consumers, notwithstanding requirements for the two firms to divest assets and share spectrum with Dish, a satellite-TV provider. It still faces antitrust challenges from state attorneys-general. But if the deal goes through, it would reduce the amount of debt on SoftBank’s consolidated balance-sheet by around $40bn, potentially lower the discount that the stockmarket currently applies to the firm and sharpen its focus on tech investment. 
 Sceptics of the megafund model still have plenty of arguments. It is too early to judge the success of the first fund, which runs until 2029. Those who think that SoftBank has been inflating tech valuations will be closely watching WeWork, which many see as a property company masquerading as a tech firm. Its initial public offering is expected in September. The governance worries that surround the first fund are unlikely to be quelled by SoftBank’s still-larger stake in the second. Even if one $100bn fund can be put to work, how many other tech startups are there able to absorb such huge investments? But simply by raising a second gargantuan pot of money, Mr Son has given the doubters a big black eye and himself a day to remember.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.powerhouse['pauәhaus]:n. 发电所, 动力室, 精力旺盛的人, 办事效率高的机构 
@@ -62,4 +63,6 @@
 51.quell[kwel]:vt. 压制, 平息, 减轻 
 52.startup[]:[计] 启动 
 53.doubter['dautә]:n. 抱怀疑态度的人；不信宗教的人；怀疑论者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

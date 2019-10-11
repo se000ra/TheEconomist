@@ -14,6 +14,7 @@
 Why such studies matter is illustrated by outbreaks like one that hit a childcare centre near Antwerp, in Belgium, in 2014. An adult employee at the centre caught measles during a trip to the Dutch “bible belt”, an area with a high concentration of religious groups opposed to vaccines. Upon returning to work, the employee started an outbreak that infected 28 infants; 12 were hospitalised. 
 There is another developing wrinkle in measles vaccination policy. For several months after birth, babies are protected by maternal antibodies passed on while they are still in the womb. But inherited antibodies wane two to three months earlier if the mother was vaccinated than they do if she became immune after being infected by the virus. 
 One seemingly obvious solution would be to vaccinate babies earlier. The catch, however, is that the vaccine is not very effective in children younger than a year, so they would still need to have two boosters later on in life. At a time when many parents fret over giving their children too many vaccines, adding a jab that is only partially effective may be a tough sell. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.measles['mi:zlz]:n. 麻疹, 风疹, 家畜囊尾蚴病, 米珠 [医] 麻疹, 囊尾蚴病(家畜) 
@@ -62,4 +63,6 @@
 44.seemingly['si:miŋli]:adv. 看来似乎, 表面上看来 
 45.booster['bu:stә]:n. 向前推的人, 支持者, 后援者, 升压器 [化] 爆管; 扩爆药; 传爆药; 升压机; 增压装置; 升压器; 助促进剂 
 46.fret[fret]:n. 烦躁, 磨损, 焦急, 网状饰物 vi. 烦恼, 不满, 磨损 vt. 使烦恼, 腐蚀, 使磨损, 使起波纹 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -13,6 +13,7 @@
 For however passionately Mr Johnson wants to leave the European Union—which, given his historical willingness to adjust his beliefs to circumstance, is probably not very—his interests are different to the hardliners’. Their priority is to leave the EU, and damn the consequences; his is to stay in power. And the contingency plans for leaving without a deal that the mandarins will show him over the next few weeks—which, according to leaks, include imposing direct rule on Northern Ireland, averting widespread bankruptcies and managing civil disorder—will make it painfully clear how much could go wrong. He will be responsible for whatever happens, and many voters will be very angry with him. 
 The alternative is for Mr Johnson to renege on those Eurosceptic commitments, get some wriggle-room from the EU on the backstop—putting lipstick on the pig, as a putative attempt to improve on the deal his predecessor did with the EU is widely described—and use his undoubted charm to sell to Parliament the porker that it refused three times to buy from his predecessor. Given his record, nobody, and especially not the Eurosceptics with whom he has surrounded himself, would be greatly astonished by such a betrayal, but they would be very angry with him. 
 For a man who hates to be hated, neither is an attractive prospect. The only way of avoiding both would be to hold an election before October 31st. Very likely he would gain unwelcome fame as the shortest-lived prime minister ever, but—who knows?—maybe he could persuade the voters to love him.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Bagehot[ˈbædʒət]:白芝浩；巴杰特（人名） 
@@ -117,4 +118,6 @@
 100.eurosceptic[ˌjʊərəʊ'skeptɪk]:n. 欧洲统一怀疑论者；反对英国亲近欧盟的人 
 101.betrayal[bi'treiәl]:n. 背叛, 辜负 [法] 背叛, 通敌, 背信 
 102.unwelcome[ʌn'welkәm]:a. 不受欢迎的, 讨厌的 n. 冷淡 vt. 冷淡地对待, 冷淡地接受 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

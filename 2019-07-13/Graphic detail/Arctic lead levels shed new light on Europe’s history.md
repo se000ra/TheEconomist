@@ -7,6 +7,7 @@
 The data illuminate the historical record. As Charlemagne conquered most of western Europe, his mints turned out huge quantities of new silver currency. After his reign, his empire disintegrated and smaller potentates took over minting. Silver production rose gradually but steadily through the prosperous medieval warm period. Conflict punctuates the record, as combatants fought over mining regions. 
 Disease, too, makes its terrible impact plain. Major modern economic shocks, like the Great Depression, have taken a decade or so to recover from. By comparison, the Black Death halved lead levels, and it took 100 years for them to recover afterwards. The implication is that silver mines were unprofitable—either because of a lack of demand, or of a shortage of affordable labour, or both—well into the Renaissance. When plague recurred across Europe in the late 16th and 17th centuries, growth in lead emissions stalled as well. 
 After 1750, industrial processes overtook silver production as the chief source of lead pollution. Leaded gasoline, introduced in the 1930s, sent lead levels still higher. Starting in the 1970s, environmental policies in America and Europe decoupled lead pollution from economic growth. Arctic lead levels have since fallen by more than 80%—but they remain 60 times higher than in the medieval era. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.graphic['græfik]:a. 生动的, 轮廓分明的, 绘画似的, 图解的 [计] 图形的 
@@ -53,4 +54,6 @@
 42.leaded['ledid]:a. 加铅的 
 43.environmental[in.vaiәrәn'mentәl]:a. 周围的, 环境的 [经] 环境的, 环保的 
 44.decouple[di'kʌpl]:[计] 去耦, 退耦, 分离 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

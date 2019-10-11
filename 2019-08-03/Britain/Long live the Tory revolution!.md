@@ -14,6 +14,7 @@
 Thatcherism is partly to blame. Margaret Thatcher, who committed the ultimate sin in the Burkean canon of pronouncing that there is “no such thing as society”, injected a revolutionary strain of anti-establishment libertarianism into her party. Euroscepticism bears more responsibility: Tory defenders of British sovereignty are willing to burn down the village in order to save it. 
 The Tory revolution, like all Rousseau-inspired movements, is beginning to consume its own children: Steve Baker, one of the leading Spartans, rejected Mr Johnson’s offer of a job in the Brexit department on the ground that it would leave him “powerless”. But resistance from outside the party of the revolution is also needed. 
 Burke once wrote that “when bad men combine, the good must associate”, and there are some signs of that. Soft Brexiters are plotting to block a hard Brexit in Parliament. Mr Stewart has drawn up long-term plans for reviving the party in the country. But Mr Johnson has put together one of the most extreme cabinets in modern history, and time is short. The good men and women need to get together not only with fellow Tories but also with people of goodwill from all parties, if the ship of state is not to hit the rocks.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Bagehot[ˈbædʒət]:白芝浩；巴杰特（人名） 
@@ -108,4 +109,6 @@
 90.Brexiters[]:n. (Brexiter 的复数) 支持英国脱欧的人们 
 91.revive[ri'vaiv]:vt. 使苏醒, 使复兴, 使振奋, 回想起, 重播 vi. 苏醒, 复活, 复兴, 恢复精神 
 92.goodwill[^jd'wil]:n. 友好, 好意, 善意, 亲善, (企业享有的)信誉, 声誉 [经] (企业的)商誉, 信誉 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

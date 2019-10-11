@@ -21,6 +21,7 @@
 Israel exchanged fire with Hizbullah, the Lebanese militia-cum-party backed by Iran, in their most serious border clash in years. Israel was responding to a missile attack from Hizbullah, which the militia said was in retaliation for an Israeli drone attack in the suburbs of Beirut. 
 Police in South Africa arrested 300 people after riots directed at migrants from other parts of Africa broke out in Johannesburg and Pretoria, killing at least five people. Violence against workers from other areas of the continent is relatively common in South Africa, which has an official unemployment rate of 29%. 
 Pope Francis started a week-long visit to Mozambique, Madagascar and Mauritius, his second trip to sub-Saharan Africa. See article. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -139,4 +140,6 @@
 114.Mozambique[.mәuzәm'bi:k]:n. 莫桑比克 
 115.Madagascar[mædә'^æskә]:n. 马达加斯加岛 
 116.Mauritius[mɒ:'riʃiәs]:n. 毛里求斯 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

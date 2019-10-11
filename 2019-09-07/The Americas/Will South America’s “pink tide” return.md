@@ -10,6 +10,7 @@
 But the left has its own problems. In Uruguay, after 14 years in power, the Broad Front looks tired. An election in October could bring victory for the centre-right. In Chile and Peru, the left is divided. Everywhere the Venezuelan catastrophe is a propaganda tool against left-wingers who have failed to keep their distance from Mr Maduro or to smash the icon of Hugo Chávez, his mentor and predecessor. And just like the swing to the right, the pink tide originally owed more to anti-incumbent feeling than to an ideological shift among voters. 
 Populists tend to be more successful than moderates in riding out hard times. Take Mexico, which elected Andrés Manuel López Obrador, a left-wing populist, last year. He remains liked, mainly because carefully marketed social programmes and other gestures persuade many Mexicans that he is on their side. In Bolivia, having disregarded the referendum result, Mr Morales may win another term in October, partly because he controls the state. But eventually, if they are allowed to, voters turn against populists who fail. That applied to Ms Fernández and Mr Maduro. 
 Rather than a shift back to the left, South American politics is moving into a pattern of volatility, with short cycles of change. That is a mixed blessing. It will make it harder for would-be imitators of Chávez and Mr Morales to establish lasting hegemony. But it impedes the long-term investment and continuity of good policy that South America needs.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bello[]:n. 贝罗（姓氏） 
@@ -97,4 +98,6 @@
 83.imitator['imi,teitә]:n. 模仿者, 临摹者, 仿造者, 伪造者 [计] 模拟, 模拟程序, 模拟器 
 84.impede[im'pi:d]:vt. 妨碍, 阻碍, 阻止 
 85.continuity[.kɒnti'nju:iti]:n. 连续性 [化] 连续性 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 The big question is whether Mr Maduro is prepared to step down to allow a transition. Similarly, the opposition would probably have to accept a genuine transitional government, composed of both sides and headed by a third figure, rather than a takeover by Mr Guaidó. 
 The alternatives are bleak. Even before Mr Trump imposed sanctions on Venezuela’s oil industry in January, mismanagement was destroying the economy and public services. Some 4m Venezuelans have emigrated since 2015. If nothing changes, that figure will double by the end of next year, reckons the Organisation of American States. Most will go to Colombia, which is struggling to cope and cannot close its 2,200km (1,400-mile) border with Venezuela. If the talks fail, there is a risk of violence. One diplomat close to the situation fears a border war between Colombia and Venezuela, which hosts 1,000 or so Colombian guerrillas from the ELN group. 
 Several things would aid the talks. The armed forces and Diosdado Cabello, Mr Maduro’s de facto deputy and rival, should be at the table. The European Union and most Latin American democracies have backed the talks. The United States, China and Russia should do so, too. More pressure on Mr Maduro is needed. Federica Mogherini, the outgoing EU foreign-policy chief, said this week that were the talks to fail Europe would step up sanctions against regime leaders and their families. That, more than oil sanctions, which hurt all Venezuelans, is what Mr Maduro’s people most fear. It is a threat that should be tied to swift and measurable progress in Barbados. Otherwise, the last, best hope for Venezuela will slip away. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bello[]:n. 贝罗（姓氏） 
@@ -88,4 +89,6 @@
 73.Mogherini[]:莫盖里尼 
 74.EU[]:[化] 富集铀; 浓缩铀 [医] 铕(63号元素) 
 75.regime[rei'ʒi:m]:n. 政权, 当权期间, 政体, 社会制度, 体制, 情态 [医] 制度, 生活制度 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -7,6 +7,7 @@
 Ms Adamson fell foul of a complex web of rules on the naming of businesses in Britain. A company name must be unique. It must not be offensive. And it must skirt around three categories of sensitive words that require varying levels of permission from a rich assortment of government departments and private entities. A primary list of 135 sensitive words or phrases, such as “queen”, must be approved by a secretary of state or their representative. Another 28, such as “agency” or “assembly”, come with looser preconditions. And there are 25 “other regulated words and expressions”, such as “architect” or variations on “Olympic”. Last year Companies House vetoed 87 names, including Toss Charity, Panda Knob and Royal Nuts—the latter probably because of the first word in its name, rather than the second. 
 Industry bodies and regulators keep tabs on would-be impostors. Thus the Financial Conduct Authority must sign off any firm calling itself a “bank”, the Nursing & Midwifery Council anything with the word “nurse”, and so on. The Company of Cutlers must issue a letter of non-objection before any company may use the word “Sheffield”, a city famous for its silverware. Any business using the word “scrivener”, a kind of legal officer, needs clearance from the Church of England, which regulates the profession. “English” at the start of a name requires owners to show that their firm “is pre-eminent or very substantial in its sector”. 
 At least entrepreneurs have had more words available to them since 2015, when simpler rules came into effect. Words they can now register without regulation or oversight include “register”, “regulation” and “oversight”.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.moniker['mɔnikә(r)]:n. 名字, 绰号 
@@ -47,4 +48,6 @@
 36.sector['sektә]:n. 扇形, 部门, 部分, 函数尺, 象限仪, 段, 区段 vt. 把...分成扇形 [计] 扇面; 扇区; 段; 区段 
 37.entrepreneur[.ɒntrәprә'nә:]:n. 企业家, 主办人 [经] 承包商, 企业家 
 38.oversight['әuvәsait]:n. 勘漏, 失察, 失败, 照料 [经] 监督权 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

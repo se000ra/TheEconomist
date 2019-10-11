@@ -12,6 +12,7 @@
 Mainland institutions that once shunned the spotlight, notably the central government’s Liaison Office, are increasingly open in their lobbying. Dennis Kwok, a pro-democracy politician and barrister who represents the legal constituency in LegCo, notes that particular controversy surrounds elections within professional bodies that allow for proxy voting. Junior members of law firms are routinely told to hand over proxy votes to partners, charges Mr Kwok. Then at election time, firms “get calls from clients, or from the Bank of China”, urging block-voting for candidates favoured by the Liaison Office. Time and again, China-friendly “Reds” are driving out old-school conservatives, says Mr Kwok. The authorities in Beijing “want people who are absolutely loyal”. 
 Several professionals describe how architects, lawyers, engineers and the like are urged to join study tours of the mainland. Lectures and visits to Chinese patriotic sites allow the Liaison Office and its allies to scout for potential recruits. Later, reunions are organised back in Hong Kong, creating networks. Loyalists can expect lucrative projects and offers of work on the mainland. 
 Such patronage politics lacks the drama of troops on the streets. It will still disgust many Hong Kongers, for the city’s political culture—as millions of marchers have made clear—includes a respect for individual rights and accountable government wholly alien to the bossy, collectivist, croneyish autocrats in Beijing. Alas, as Kublai Khan knew, not all conquests require invasion. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.kublai[]:[网络] 忽必烈 
@@ -114,4 +115,6 @@
 98.autocrat['ɒ:tәkræt]:n. 独裁者 
 99.ala['eilә]:n. 翼, 翅 [化] 丙氨酸 
 100.khan[kɑ:n]:n. 可汗, 商队宿店 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

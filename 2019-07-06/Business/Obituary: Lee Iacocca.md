@@ -9,6 +9,7 @@
 Mr Iacocca skipped across Detroit to revive a dying Chrysler. Once there he used his powers of persuasion and an ad campaign that asked “Would America be better off without Chrysler?” to wrest a $1.5bn loan guarantee from the government to ensure the firm’s survival. Savage cost-cutting and a nose for the next big thing, in this case smaller cars and minivans, forerunners of the craze for SUVs, returned Chrysler to bumper profits. 
 Mr Iacocca’s newfound taste for lobbying the government and the American public’s shifting taste towards smaller, better-equipped and fuel-efficient vehicles together laid the ground for the downsizing of Detroit. The import restrictions on foreign cars that Mr Iacocca argued for ended up encouraging Japanese and later European carmakers to set up shop in America and win a bigger share of its domestic market. By the early 1990s Chrysler was losing money again. No amount of ads featuring Mr Iacocca badmouthing foreign brands could burnish the firm’s ageing line-up. In 1992 he was shown the door. 
 His involvement in an attempted hostile takeover of his former firm by Kirk Kerkorian, a corporate raider, thrust him briefly back into the limelight in 1995. But his salesman’s touch was deserting him and the bid failed. Aside from cars and cigars Mr Iacocca flirted with politics. He considered running in the presidential election in 1988, but eventually got cold feet, perhaps concluding that America wasn’t ready for a businessman in the Oval Office, no matter how hard he sold the idea.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Detroit[di'trɒit]:n. 底特律(美国城市) 
@@ -83,4 +84,6 @@
 70.flirt[flә:t]:n. 卖弄风骚的人, 急动, 急扔 vt. 忽然弹出, 轻快摆动, 挥动 vi. 调情, 玩弄, 摆动, 轻率地对待 
 71.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
 72.presidential[.prezi'denʃәl]:a. 总统制的, 总统的, 首长的, 统辖的 [法] 总统的, 议长的, 总经理的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 The measures suggested by Mr Bergsten and Mr Gagnon would grant Mr Trump huge financial firepower—dangerous, given his penchant for using whatever weapon is to hand to fight his trade wars. They think the Treasury should be allowed to use the ESF to neutralise currency intervention by other countries with equal and opposite purchases, thus deterring the intervention in the first place. But to be credible it would need hundreds of billions of dollars at its disposal. Its current portfolio is around $95bn, of which $23bn is in dollars. 
 Moreover, unilateral action might lead other central banks to retaliate. Mark Sobel, a former Treasury official who managed the ESF, worries that a currency conflict might even push the dollar up, if investors scurried for safety into dollar-denominated assets. Stephen Englander of Standard Chartered, a bank, warns American policymakers to “think about how you’re going to feel the morning after”. Intervention means buying unpopular currencies. Mr Bergsten and Mr Gagnon argue that their scheme could make the Treasury money as undervalued currencies rise. But negative yields on European and Japanese debt make losses at least as plausible. 
 One more reason for caution is the potential for further harming an already-fragile multilateral system. Previous American administrations considered tariffs on imports from countries manipulating their currencies, arguing that an artificially weak exchange rate amounted to an export subsidy. But they held back, understanding that such action would break the World Trade Organisation’s rules. A reversal would invite legal challenge, and perhaps retaliatory tariffs. The bellicose Mr Trump, however, would be unlikely to mind. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.retaliate[ri'tælieit]:vt. 报复, 回敬 vi. 报复, 以牙还牙 
@@ -79,4 +80,6 @@
 64.reversal[ri'vә:sl]:n. 翻转, 颠倒, 反转 [医] 逆转, 颠倒 
 65.retaliatory[ri'tæliәtәri]:a. 报复的 [经] 报复性的 
 66.bellicose['belikәus]:a. 好战的, 好斗的 [法] 好战的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -12,6 +12,7 @@
 Gay groups in China take striking care to avoid terms liable to alarm the party, such as human or civil rights. Instead they stress how gay love is compatible with traditional family values. One of China’s largest support groups, Parents and Friends of Lesbians and Gays, gives pride of place to parents who profess their acceptance of their children’s homosexuality. One of the group’s recent meetings in Beijing was conspicuously wholesome. Smartly dressed mothers sat around the edge of the room, making small talk about options for reaching the gathering by public transport, and politely admiring smartphone pictures of each other’s offspring. Meanwhile, youngsters in campaign T-shirts put out folding chairs and rainbow flags. Once under way, the meeting featured testimonials from mothers and their lesbian daughters about family heartbreak and forgiveness. 
 Ming, a 22-year old student at the meeting, is guardedly optimistic. The party no longer seeks to control every aspect of people’s personal lives as it did decades ago, she says. She sees government caution about gay marriage as a bid to avoid affronting majority public opinion. Attitudes to gay rights are generational, she reports. She has not come out to her own parents, who think of homosexuality as a disease. That is why her real name is not used here. But once those born in or after the 1990s become China’s mainstream, “I believe things will be different,” Ming says. 
 Until then, gay campaigners will stress small, pragmatic steps like mutual guardianship. China’s rulers are obsessed with maintaining social stability. Gay Chinese couples are ready to help, by taking responsibility for their own welfare. At least the party now admits they exist. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Sep[]:九月 
@@ -90,4 +91,6 @@
 74.campaigner[kæm'peinә]:n. 从军者, 老兵, 竞选者 
 75.pragmatic[præ^'mætik]:a. 忙碌的, 爱管闲事的, 自负的, 固执己见的, 实际的, 务实的, 国事的, 国务的 [法] 闲断的, 固执己见的, 实用主义的 
 76.obsess[әb'ses]:vt. 迷住, 使困扰 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

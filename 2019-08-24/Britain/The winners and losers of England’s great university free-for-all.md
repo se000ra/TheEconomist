@@ -12,6 +12,7 @@
 Universities not attracting enough students have to adapt. Since the new system was introduced, almost all have charged the maximum allowed—now £9,250 ($11,250) a year. Since students are entitled to government loans, which they don’t have to repay until they earn more than £25,725 a year, they are relatively unfussed by upfront costs. But price competition has begun to emerge in the form of hefty scholarships. A more common way to appeal to students is to lower the grades for entry. At its most devious, this takes the form of offers which do not require the applicant to achieve any grades at all, provided they make the university their first choice. Recruiting students will at least get easier as the number of 18-year-olds rises in 2021. 
 Improving a university’s appeal through more reputable means is hard, but not impossible. Coventry has shot up the rankings, and has a 50% bigger intake than a decade ago. In 2010 a “shocking” low score in its student-satisfaction survey prompted a rethink, says Ian Dunn, the university’s provost. Now feedback is requested midway through a course and students are informed of changes made as a result within five days. The university has set up a college which offers degrees from £6,350. It has also cut back joint courses, like accounting and finance, which students enjoyed less. Before the rules changed, Exeter had gone further still, getting rid of weak departments, including chemistry. But nationwide, student satisfaction is yet to rise, indicating these universities are in a minority (the measure is, though, a lagging indicator, as students fill in forms only after finishing their degree). 
 Growth is no guarantee of financial stability, as can be seen at Cardiff and Surrey, which have taken in lots more students but not enough to match their spending. That is little consolation for the small number of universities, struggling to attract applicants, which are said to be near bankruptcy. Changes in policy have caused a great deal of flux in higher education. But the growing number of students at elite universities would probably regard the flux as a price worth paying. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.loser['lu:zә]:n. 失败者, 遗失者 [法] 失败者, 失物者, 遗失者 
@@ -70,4 +71,6 @@
 54.consolation[.kɒnsә'leiʃәn]:n. 安慰, 令人安慰的事物 [法] 安慰, 慰问 
 55.bankruptcy['bæŋkrәptsi]:n. 破产者 [经] 破产, 倒闭 
 56.flux[flʌks]:n. 流出, 涨潮, 变迁 vi. 熔化, 流出 vt. 使熔融 [计] 助焊剂 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

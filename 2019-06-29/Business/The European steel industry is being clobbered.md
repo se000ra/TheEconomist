@@ -10,6 +10,7 @@
 That was an unorthodox move. In 2005 Aditya Mittal, now president of ArcelorMittal, the world’s biggest steelmaker, mused that companies would need to smelt at least 100m tonnes a year to survive. Voestalpine was too puny to compete with the Mittals of this world when it came to exporting cheap, bog-standard steel to feed China’s construction boom, Mr Eder reasoned. But it could profit from rising demand for high-margin speciality steel from Europe’s growing car and aircraft industries—and itself produce some of the even more lucrative rail equipment, car and aircraft components. 
 Some sheen has come off Voestalpine’s performance. In October it issued its first profit warning since February 2014. Then, in January, it issued another. Investors fret about potential fines relating to an anti-cartel investigation launched by German regulators in 2017. The company’s share price has lost nearly 40% in the past year—not quite as bad as ArcelorMittal and ThyssenKrupp, but nearly. 
 Voestalpine’s profits could bounce back faster than those of rivals. Last year they were corroded by cost overruns at new steel plants in America and problems in the German car industry, its biggest customer. The first was a one-off and the second may prove temporary, thinks Ingo Schachel of Commerzbank. And Mr Eder’s firm looks better placed to withstand the EU’s impending climate-friendly rules on carbon emissions. These would hit bigger steelmakers, which use more carbon-intensive methods. This year Voestalpine plans to open its first plant in Linz to experiment with making the stuff with clean hydrogen instead of dirty coking coal. Mr Eder is due to retire on July 3rd. It is up to his successor to ensure that the few scrapes and dents he leaves behind do not turn to rust. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.clobber['klɒbә]:n. 衣服, (鞋匠用来掩饰皮革缝的)软膏 vt. 痛打, 击倒, 拉垮 
@@ -79,4 +80,6 @@
 65.emission[i'miʃәn]:n. 发射, 射出, 发行 [医] 发射, 遗精 
 66.successor[sәk'sesә]:n. 继承者, 接任者 [计] 后继 
 67.dent[dent]:n. 凹痕 vt. 使凹下, 削弱 vi. 塌陷 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

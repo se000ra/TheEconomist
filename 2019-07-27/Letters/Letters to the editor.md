@@ -27,6 +27,7 @@
 ![image](images/20190629_WBD001_apple_news.jpg) 
 Regarding workaholism (Bartleby, June 29th), working hard is not just about money. People in all walks of life want to feel a sense of purpose, which is derived largely from the work that we do. We work less when we dislike our jobs. When we find something truly meaningful, working hard comes naturally. John Maynard Keynes was barking up the wrong tree with his hopes for a 15-hour work week. Perhaps he would have felt differently if he had been a stonemason or an artist, rather than a practitioner of the dismal science. 
 RYAN NOTZLondon 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.conservatism[kәn'sә:vәtizәm]:n. 保守, 守旧性, 保守主义, [the]保守党的主张和政策, 保守党 [医] 保守性 
@@ -142,4 +143,6 @@
 111.practitioner[præk'tiʃәnә]:n. 从业者, 开业者 [医] 行医者, 医师 
 112.dismal['dizmәl]:a. 阴沉的, 凄凉的, 令人忧郁的 n. 低落的情绪, 沼泽 
 113.ryan['raiәn]:n. 赖安（男子名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

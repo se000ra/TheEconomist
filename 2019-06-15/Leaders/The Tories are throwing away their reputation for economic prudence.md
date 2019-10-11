@@ -13,6 +13,7 @@
 The sum total is a mix of ideas that smack of desperation and panic. Entertaining a no-deal Brexit is a reckless attempt to hold back Nigel Farage’s Brexit Party at the ballot box. Mr Johnson’s tax cut is a beggarly plea for party members’ votes based on self-interest, but with little appeal to the broader electorate. Mr Gove seems anxious to find a benefit in Brexit (the EU requires that member states levy VAT). 
 Panic produces poor policy (see article). The Tories should be focused on an orderly Brexit while confronting economic questions that predate the referendum. For the party’s market liberals, that should mean deciding how to promote a small-state philosophy in an already deregulated and privatised economy. For moderate “one nation” Tories, it should mean finding policies to help left-behind places and reduce regional inequality. For all of them, it should mean honesty about the fact that, in the long run, spending cannot go up as taxes are cut. 
 At the moment the Tories are leaving the big thinking on economics to Jeremy Corbyn, the hard-left leader of the Labour Party. They are failing to make the best argument against putting him in Downing Street—that he is a unique threat to British prosperity. Losing that debate is the greatest risk of all. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.clown[klaun]:n. 小丑, 乡下人 
@@ -108,4 +109,6 @@
 91.inequality[.ini'kwɒliti]:n. 不平等, 不同, 不平坦, 不平均 n. 不平等, 不等式 [计] 不等式 
 92.cannot['kænɒt]:aux. 无法, 不能 
 93.Corbyn[]:科尔宾（人名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

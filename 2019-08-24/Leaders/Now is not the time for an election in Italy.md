@@ -8,6 +8,7 @@
 A second reason to delay lies in Rome. Mr Salvini has spent the past year relentlessly undercutting and upstaging the M5S. On some issues, such as the conflict over a high-speed-rail tunnel that precipitated the fall of the government, the M5S and the League are diametrically opposed. Mr di Maio deserves a chance to show whether his party can govern. 
 Rather than stage an election, the M5S should form a new coalition with the centre-left Democratic Party (PD) and independent lawmakers. A temporary, less rivalrous coalition with the PD could give voters time to get a better sense of the M5S’s abilities before they pass judgment. More important, such a government could pass a compromise budget, and then hold elections early next year. A coalition would face the daunting task of finding spending cuts of €23bn, equivalent to 1.3% of GDP, to avert steep value-added-tax rises. It may well exceed deficit rules, as Mr Salvini surely would. But, by putting off the election for later, it would gain time to talk to the EU. 
 It will not be easy for the M5S and PD to work together. Mr di Maio will have to overcome his party’s reluctance to join one of the traditional parties it has vowed to supplant. The PD is even more divided. Matteo Renzi, its former leader, favours a coalition. Nicola Zingaretti, the current one, is sceptical. The party has set out five reasonable conditions for collaboration, such as the M5S renouncing anti-EU rhetoric. But Mr Zingaretti has also insisted on a clear-cut break with the past, which could be a veiled attempt to exclude Mr di Maio from the next cabinet. If such demands force new elections, it would be a mistake. This is not the time for Italy to play political games. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ballot['bælәt]:n. 投票, 投票用纸, 抽签 vi. 投票, 抽签 vt. 投票选出, 拉选票 
@@ -66,4 +67,6 @@
 54.collaboration[kә.læbә'ræʃәn]:n. 合作, 勾结 [法] 通敌卖国者, 奸细 
 55.renounce[ri'nauns]:vt. 拒绝, 放弃, 否认, 垫牌 vi. 垫牌, 声明放弃权利 n. 垫牌 
 56.rhetoric['retәrik]:n. 修辞, 修辞学, 雄辩(术) 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

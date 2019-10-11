@@ -9,6 +9,7 @@
 Questions asked include “Do you regularly inspect your home for breeding sites?”, “Has anyone in this home exhibited symptoms of mosquito-borne diseases?” and “What risks of dengue, Zika or chikungunya are you aware of?” Maury Blackman, Premise’s boss, says that much of the project’s effort went into refining and testing the questionnaires to make them as simple as possible to administer. Using phones instead of the clipboards and ballpoint pens which are conventionally employed for the process speeds things up enormously. The results are sent immediately by the phone for processing, and Premise’s software automatically collates and assembles the results. An artificial intelligence filters out anomalies, bad data and attempts at outright fraud—passing on anything dubious for manual inspection. 
 As well as gathering data, the Zika Citizen Network’s observers put down traps in high-risk spots in order to sample the local mosquitoes. These can then be identified by an appropriate app, to check whether Aedes is among them. Once a breeding ground has been found, its existence can then be notified to the authorities—who will, with luck, do something about it. 
 The current phase of the Zika Citizen Network will conclude in August. After that, the plan is to expand beyond the three pilot cities, as local authorities take over the running costs. If things have gone well, then Premise will take the lessons learned and apply them to the more commercial projects it hopes to undertake.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.combat['kɒmbæt]:n. 争斗, 战斗 vi. 战斗, 争斗 vt. 与...战斗, 与...斗争 
@@ -60,4 +61,6 @@
 47.outright['autrait]:a. 率直的, 完全的, 总共的, 直率的 adv. 完全地, 率直地, 立刻地, 一直向前 
 48.dubious['dju:biәs]:a. 可疑的, 不确定的 
 49.APP[]:[计] 应用, 应用程序; 相联并行处理器 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

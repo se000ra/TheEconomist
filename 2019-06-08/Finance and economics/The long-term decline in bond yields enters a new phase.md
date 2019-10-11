@@ -12,6 +12,7 @@
 As logical as this seems, it is nevertheless disquieting. At some stage the influences that have pushed down yields will attenuate, even if this is not soon. Long-term interest rates will surely rise again. It is reasonable to believe that this will not be sudden. Demographic change happens slowly. So perhaps asset prices will adjust slowly to the new reality, whenever it dawns. But it is quite hard to imagine a world in which real interest rates grind upwards and asset-holders avoid taking a capital loss, says Shamik Dhar of BNY Mellon, a fund-management group. The uncertainty about the timing of even a gradual adjustment creates headaches, for instance for someone hoping to own a home. Buy at the wrong time, and you end up with a house that slowly loses value. 
 And what if real interest rates rise a lot more quickly than they fell? Well, they might. China is already a spent force in the global savings glut: its current-account surplus has dwindled to next to nothing. Baby-boomers moving into retirement might step up their spending. If rich countries turn once again to fiscal policy as a tool for ginning up their economies, there are plenty of asset-heavy projects (airports, roads, fibre-optic networks) to soak up savings. 
 Kremlinologists look for signs of shifting authority, for who’s up and who’s down. But when everyone is focused on who will be the next boss, they may all miss signs that the regime itself is cracking. For now, financial-market Kremlinologists are preoccupied with which assets to hold and which to avoid. But at some point capital will become scarcer. Somebody may find that they have taken an expensive bath. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.buttonwood['bʌtnwʊd]: 美洲悬铃木 
@@ -63,4 +64,6 @@
 47.fiscal['fiskәl]:a. 财政的, 国库的 [经] 财政上的, 会计的, 国库的 
 48.gin[dʒin]:n. 杜松子酒, 轧棉机, 陷阱 vt. 轧棉, 用陷阱捕 
 49.preoccupy[pri:'ɒkjupai]:vt. 抢先占领, 使全神贯注 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

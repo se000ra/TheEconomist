@@ -12,6 +12,7 @@
 But to the Palestinians this smells like a bribe from a hostile president. Mr Trump cut all American aid to them. He overturned decades of precedent to recognise Jerusalem as Israel’s capital. And aides hint that the political plan will give the Palestinians far less than the sovereign state along the pre-1967 borders that they demand. 
 So they decided to boycott the workshop. Their president, Mahmoud Abbas, refused to send anyone from his government. “The deal of shame will go to hell,” he said in May. The private sector also declined invitations. Arab states were thus reluctant to share a stage with Israeli officials—who were not invited in the end, though some Israeli businessmen did come. Reporters from six Israeli outlets sent fawning dispatches. The country’s largest newspaper, Israel Hayom, which backs both Mr Trump and the Israeli prime minister, Binyamin Netanyahu, dubbed Bahrain the “island of hope”, an odd appellation for a kingdom that crushed a popular uprising in 2011. 
 And that, perhaps, points to the real outcome of the workshop. It was the most public manifestation of a long and mostly private rapprochement between Israel and the Gulf states, one the Trump administration is keen to promote. The event did nothing to end the Israeli-Palestinian conflict. But it was another sign that the Gulf states are looking to move past it. Though they are not quite ready to recognise Israel, they see it as an ally against a shared threat from Iran. The Palestinians have far less to offer. “All we have is our moral power,” says Mkhaimer Abu Saada, a political analyst in Gaza. That still counts for something—but less and less each passing day. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.underwhelm[,ʌndә'hwelm]:vt. 未留下深刻印象 
@@ -93,4 +94,6 @@
 77.abu[]:abbr. 亚洲广播联盟（Asian Broadcast Union） 
 78.saada[]:[网络] 萨达省；在北部萨达市；在北部萨达省 
 79.analyst['ænәlist]:n. 分析者, 精神分析学家 [化] 分析员; 化验员 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

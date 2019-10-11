@@ -12,6 +12,7 @@
 The most successful approach increased the share of customers switching to just 12%. Neither a saver’s age nor the balance in the account made a difference. The authors concluded that savers doubted the benefits of shopping around and were put off by the perceived inconvenience. “Caveat emptor”, it seems, may apply in principle but not in practice. ■ 
 * Does Anyone Read the Fine Print: Consumer Attention to Standard-Form Contracts? by Yannis Bakos, Florencia Marotta-Wurgler and David Trossen, Journal of Legal Studies, vol 43 
 ** Testing the Effectiveness of Consumer Financial Disclosure: Experimental Evidence from Savings Accounts by Paul Adams, Stefan Hunt, Christopher Palmer and Redis Zaliauskas 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -50,4 +51,6 @@
 34.christopher['kristәfә]:n. 克里斯多夫（男子名） 
 35.palmer['pɑ:mә]:n. 朝圣者；变戏法的人；毛虫（尤指北美的小舌麦蛾幼虫） 
 36.Redis[]:重划学区系统（redistricting system） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

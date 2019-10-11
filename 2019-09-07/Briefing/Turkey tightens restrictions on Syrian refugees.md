@@ -8,6 +8,7 @@
 Some will end up back in the war zones of Syria. Suleyman Soylu, the interior minister, says that around 350,000 Syrians have voluntarily returned home. Some say their return was not remotely voluntary. Ibrahim, who came to Turkey four years ago, says he was arrested in Istanbul earlier this summer because he had never applied for Turkish identity papers. Along with other refugees he was put in a bus, driven to the Syrian border and handed over to jihadists. He is now back in his home town, Al-Hasakah. His wife and baby daughter remain in Istanbul. 
 Turkey’s government insists that it does not deport people without consent. But the ruling-party candidate in this spring’s mayoral election said he would have refugees who committed crimes in Istanbul “grabbed by the ears and sent back”. Officials acknowledge that refugees deemed a threat to public order or security are regularly forced to choose between returning to Syria and a year in a detention centre. The state news agency recently reported that over 6,000 people were deported from a single border province in the first half of the year. 
 Some of those facing expulsion have gone into hiding. Others have followed in Mahmoud’s wake; he says he saw 200 more refugees arrive on Symi in the two days after he got there. Almost 10,000 Syrians got to Greece in August, mostly by sea, the highest monthly total since Mr Erdogan and the EU signed a deal to stem the flow of migrants and refugees into Europe in 2016. As one crisis unfolds on the border with Idlib, another may be brewing on the Aegean. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.migrant['maigrәnt]:n. 候鸟, 移居者 [法] 移居者 
@@ -50,4 +51,6 @@
 38.Idlib[]:[地名] 伊德利卜 ( 叙 ) 
 39.brew[bru:]:n. 酿造酒, 酝酿 v. 酿造, 酝酿 
 40.Aegean[i:'dʒi:әn]:a. 爱琴海的 n. 爱琴海 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

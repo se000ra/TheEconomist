@@ -9,6 +9,7 @@
 So far the government remains unmoved. But Sebastian Dullien, director of the IMK research institute in Düsseldorf, says the pressure will increase. Reuters recently reported that a climate-change package due next month might include a pledge to issue fresh debt. This week Mrs Merkel said her commitment to a balanced budget remains intact, but added: “We will react depending on the situation.” Inside the finance ministry a lively debate has begun over how and whether to raise investment—although the minister himself, Olaf Scholz, remains cautious, to the disappointment of many in his Social Democratic Party (the junior coalition partner to Mrs Merkel’s Christian Democrats). Outside government the Greens are urging a massive boost to investment in climate protection. The government’s budgetary rules are “voodoo fiscal policy”, said Robert Habeck, the party’s co-leader, this week. 
 A short-term bump in spending, as Mrs Merkel argues, would rub up against bottlenecks in areas like construction. Nor would it help remove the pall of uncertainty facing German firms. So some analysts want a credible, possibly cross-party, commitment to establish a fund that would disburse several hundred billion euros over the next decade. Possible targets include transport infrastructure, broadband networks, house building and help for local governments struggling under debt loads. Other ideas include cutting taxes on Germany’s army of low-paid workers or its corporations, or introducing incentives for climate-friendly policies like retrofitting buildings and clean fuel. 
 There could hardly be a better time. Yields on 30-year government bonds are negative, meaning in effect that investors pay the government for the privilege of lending it money. Even if the European Central Bank cuts rates further next month, the monetary toolbox is nearly exhausted. Tax cuts and, in time, investment in infrastructure would help rebalance the German economy from its exports-first approach. Mrs Merkel, now in the twilight of her chancellorship, has U-turned before, notes Mr Dullien. But the headwinds may need to blow a little harder first. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.becalm[bi'kɑ:m]:vt. 使安静, 因无风而使停航 
@@ -79,4 +80,6 @@
 66.toolbox['tu:lbɒks]:n. 工具箱 [计] 工具箱 
 67.twilight['twailait]:n. 暮光, 曙光, 黎明, 黄昏, 微光, 朦胧状态 a. 微明的 
 68.chancellorship[t'ʃɑ:nsələʃɪp]:n. 长官的职位或任期 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

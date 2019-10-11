@@ -11,6 +11,7 @@
 The fact that less well-educated Americans have struggled to replace their dwindling Methodist churches and labour unions with neo-Tocquevillean projects like the Dolphins underlines how inadequate income is as a measure of inequality. Social capital is a huge contributor to well-being that more and more Americans are missing out on. This will weigh on their children’s prospects, too. Lacking experience of social institutions, they are less likely to participate in them. It is a sobering comparison with the lucky Dolphins—made worse by the fact that such community activities, though not obviously a cause of inequality, are much less of a solution to it than the earlier social institutions. The churches and unions were far more powerful—and also inclusive and evangelising (though non-whites were often excluded). The swim team is only open to people able to afford the local property prices. 
 In other words, American civil society is not so much declining as bifurcating; just as work and educational opportunity is. Privilege and disadvantage are becoming entrenched. That suggests it will be hard to rebuild social capital where it is fading fastest. Its demise is part of a broader story of stagnant wages, poor schools and shaky confidence—which, in turn, will take more than a renewal in local organising to arrest. Yet that is still an important goal. And the vibrant social institutions of privileged Americans should at least be easier to spread around than their other advantages, because they draw on such well-established traditions. 
 More than money, they require local leadership and enthusiasm, qualities as old as America. And, as the country’s still-high rates of volunteering show, they remain characteristic of it. For a newcomer to the Tocquevillean tradition, that is the most striking thing about a local effort like the Dolphins. It represents a culture that simply does not exist anything like so vigorously in most other countries. It is America, for richer or poorer, at its best.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lexington['leksiŋtәn]:n. 列克星敦市（位于美国肯塔基州） 
@@ -80,4 +81,6 @@
 65.vibrant['vaibrәnt]:a. 振动的, 战栗的, 响亮的, 活跃的 
 66.newcomer[nju:'kʌmә]:n. 新来者 
 67.vigorously[]:adv. 朝气蓬勃, 精力充沛, 壮健, 茁壮, 健壮, 强有力 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

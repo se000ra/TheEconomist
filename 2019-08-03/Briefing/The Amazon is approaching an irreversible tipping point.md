@@ -35,6 +35,7 @@
 Mr Salles is right that the countries responsible for the bulk of emissions should compensate Brazil for its role in absorbing them. In return Brazil must protect, rather than destroy, the rainforest. In June a trade deal between the EU and Mercosur—Brazil, Argentina, Paraguay and Uruguay—was announced at the G20 summit, which includes a commitment to implement the Paris climate agreement. It has yet to be approved; it is also unclear how much it will sway the president to curb his infrastructure plans, or indeed his rhetoric. 
 Concerns about what Brazil’s climate policies might do to the country’s reputation could spur local resistance to Mr Bolsonaro’s anti-environmental turn. Fears for the climate itself may yet do more. “We have no doubt that the forest has a direct effect on the rain cycle,” says Artemizia Moita, the sustainability director of a farming group that has 530km² of soyabean and cattle farms. “If we keep deforesting,” she asks, “how will we keep producing?” Unlike other farmers she admits she is worried about climate change. 
 For many, any shift in attitudes will already come too late. Magdalena is an elderly woman who has spent her life as a river-dweller in one of the rainforest’s reserves. She used to hunt deer and armadillo to make her living. Now she treks 13km to buy beef from a local village. “All the game is gone,” she laments. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.brink[briŋk]:n. 边缘, 陡岸 
@@ -213,4 +214,6 @@
 174.armadillo[.ɑ:mә'dilәu]:n. 犰狳 [医] 南美犰狳 
 175.trek[trek]:vi. 牛拉货车, 艰苦跋涉 n. 牛车旅行, 艰苦跋涉 
 176.lament[lә'ment]:n. 悲叹, 悔恨, 恸哭, 挽歌, 悼词 vt. 哀悼 vi. 悔恨, 悲叹 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -8,6 +8,7 @@
 The latest ban chokes off practically all of AMD’s dealings with Hygon. Transfer of intellectual property and technical support are proscribed. The manufacturer of the copycat chips, GlobalFoundries, is American, so it too is banned from working with Hygon. Finding an alternative foundry would require onerous tweaks to the chips’ design. AMD has carefully transferred only as much knowledge as Hygon needs to copy but not reverse-engineer them. 
 A blow, for sure—but perhaps not a knockout. Last year new American computers ended China’s dominance; it will be pouring money into reclaiming it. Jack Dongarra, a supercomputing expert at the University of Tennessee who has scrutinised Sunway’s chip, calls it “very impressive”. Rumours have spread of a big new supercomputer powered by AMD’s licensed chips whirring in a Chinese lab. 
 To China the blacklisting, days before President Donald Trump is to meet his Chinese counterpart, Xi Jinping, at the G20 summit in Japan, smacks of a negotiating ploy in the two countries’ trade war. In May Mr Trump said he could ease export restrictions that had been placed the previous week on Huawei, a Chinese telecoms giant. Even if he doesn’t, Intel and Micron, another chipmaker, are already circumventing the Huawei ban in ways they claim are legal, according to the New York Times.FedEx is suing America’s government over the “impossible” job of inspecting parcels to blacklisted Chinese firms. Chipping away at Chinese computing progress is tough. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.supercomputer[,sju:pәkәm'pju:tә]:[计] 巨型计算机, 巨型机, 超级计算机 
@@ -55,4 +56,6 @@
 43.circumvent[.sә:kәm'vent]:vt. 绕行, 陷害, 包围, 智取 
 44.york[jɔ:k]:n. 约克郡；约克王朝 
 45.sue[su:]:vt. 控告, 起诉, 请求 vi. 提出诉讼, 提出请求 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

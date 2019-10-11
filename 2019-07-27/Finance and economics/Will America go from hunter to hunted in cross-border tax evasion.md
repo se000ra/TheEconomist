@@ -10,6 +10,7 @@
 Other countries suffering tax leakage will be looking more closely at this procedure. Any of the 90 with a ratified bilateral tax treaty with America can use it, though some seem unaware of the option. (By contrast, America has agreed to exchange information with only 47 countries under FATCA.) Experts say it could help to break open not only dodgy bank accounts but also trusts and insurance policies, which are also commonly used to hide capital. 
 There could still be obstacles, for instance if an account is owned by an entity rather than an individual. But banks issued with a summons are required to investigate who stands behind account-holding shell companies. Due-diligence rules designed to curb money-laundering and the financing of terrorism, issued by FinCEN, a federal agency, already require banks to know the identity of such “beneficial” owners (though not all seem to do so). A shell-cracking bill picking up momentum as it passes through Congress would also help improve corporate transparency. 
 If more countries take the John Doe route, it would help balance the unequal relationship America enjoys in matters of financial transparency. For too long it has got away with demanding much while offering little in return. Tax dodgers stashing cash in America, says Mark Morris, an international tax consultant, should “prepare to be smacked open like a piñata”.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -68,4 +69,6 @@
 54.dodger['dɔdʒә]:n. 躲闪者, 用诡计逃脱者, 蒙骗者, 推托者 [法] 推托者, 规避者, 用诡计蒙骗者 
 55.morris['mɒ:ris]:n. 莫里斯舞 
 56.smack[smæk]:n. 风味, 滋味, 少量, 拍击声, 咂嘴声, 小渔船, 海洛因 vi. 有味道, 咂嘴, 发出拍击声 vt. 拍, 打, 掴, 咂, 出声地吻 adv. 啪地一声, 猛然 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

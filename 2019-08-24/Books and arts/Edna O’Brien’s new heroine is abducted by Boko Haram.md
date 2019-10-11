@@ -8,6 +8,7 @@
 Maryam’s luck turns after an aerial assault on the camp. She flees with her baby but faces further hardship and danger in the forests of north-eastern Nigeria, then hostility and prejudice in the country’s capital. Strangers view her with fear and suspicion; some relatives treat this “bush wife” and her “tainted” child with disdain. She seeks salvation elsewhere. 
 In “Terrorist” (2006), his novel about a radicalised teenager, John Updike, another venerable writer, fell short of his high standards. Ms O’Brien, now 88, took a risk in giving voice to a Nigerian girl who suffers horrific cruelty, especially in an age when “cultural appropriation” is often frowned upon. But like her previous novel “The Little Red Chairs” (2015), which dealt with Balkan war crimes, “Girl” is a product of rigorous research and great artistry. Maryam and her plight are tragically authentic. 
 At times, darkness almost overwhelms the reader. Yet it is hard to turn away, just as it is impossible not to back a heroine who, though bowed, refuses to be broken. “Girl” is Ms O’Brien’s most ambitious novel—and among her most powerful. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.EDNA['ednә]:[化] 二硝基乙胺 
@@ -73,4 +74,6 @@
 61.tragically['trædʒɪklɪ]:adv. 悲剧地, 悲惨地 
 62.overwhelm[.әuvә'hwelm]:vt. 淹没, 受打击, 制服, 压倒, 使不知所措 [法] 打翻, 倾覆, 覆盖 
 63.ambitious[æm'biʃәs]:a. 有野心的, 抱负不凡的, 雄心勃勃的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

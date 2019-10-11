@@ -18,6 +18,7 @@
 Meanwhile the hourly reward for working in professions where very long hours are the norm, such as law and consulting, has risen dramatically. A study published by the National Bureau of Economic Research found that America’s gender pay gap would be as much as 46% smaller were it not for the increasingly disproportionate rewards for working extra hours since the 1980s. It estimates that average wages rise by 20% in an occupation for every 10% rise in average hours. This premium for uncompromising jobs means “women have been swimming upstream in terms of achieving wage parity,” write the authors. To make matters worse, says Youngjoo Cha of Indiana University, women in households where the man works more than 60 hours a week are three times as likely to stop work as women in households where the man works 35-50 hours a week. (A wife working long hours does not make a man any more likely to quit.) 
 As long as some people work punishing hours, the prospect of closing the gender pay gap appears remote. Men in the rich world are twice as likely as women to work more than 48 hours a week. In America 20% of American fathers, but just 6% of mothers, work more than 50 hours a week. This is one of several arguments made by campaigners for a four-day working week. 
 Yet even modern, family-oriented men face a dilemma. Their requests to work part-time are more likely than women’s to be rejected. And those who do work part-time risk discrimination. A study in which CVs were sent to prospective employers found that men whose CVs showed them as working part-time were just half as likely to get a call-back as those who were identical, except that they were working full-time. Part-time women faced no such discrimination. As long as such double standards exist, many couples will still choose to scale back her career, rather than his.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Sep[]:九月 
@@ -89,4 +90,6 @@
 67.campaigner[kæm'peinә]:n. 从军者, 老兵, 竞选者 
 68.cv[]:abbr. 简历（Curriculum Vitae） 
 69.prospective[prәs'pektiv]:a. 预期的, 将来的 [经] 预期的, 未来的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

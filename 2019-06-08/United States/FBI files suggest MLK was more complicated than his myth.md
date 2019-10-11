@@ -9,6 +9,7 @@
 The FBI tried to spread this information around Washington, but in an age when men, including a sitting president, could get away with coercing women into having sex there was little take-up. The agency then tried a more direct route. Agents made a tape and sent it to King with an anonymous note. “You are a colossal fraud and an evil, vicious one at that,” the letter said. “You could not believe in God and act as you do.” The letter went on to instruct King to commit suicide, or the tape would be released: “King, there is only one thing left for you to do. You know what it is.” 
 By any standards, the discovery of these documents by a reputable historian is newsworthy, because King was probably the greatest American of the 20th century. Yet Mr Garrow says he could not interest a mainstream outlet in publishing his findings, which instead came out in Standpoint, a small right-wing British magazine. The tapes themselves will be declassified in 2027, at which point people will be able to hear them and decide for themselves. 
 Correction: An earlier version of this story states that David Garrow was working from transcripts of the FBI's tape. In fact the files he found were summaries of the transcripts, which included quotations from them. This was corrected on June 6th. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.regicide['redʒisaid]:n. 弑君 [法] 弑君, 弑君者, 参与宣判查理一世死刑者 
@@ -57,4 +58,6 @@
 44.newsworthy['nju:zwә:ði]:a. 有报导价值的 
 45.mainstream['meinstri:m]:n. 主流 
 46.declassify[di:'klæsifai]:vt. (文件)解密, 从机密表删除 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

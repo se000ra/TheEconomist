@@ -11,6 +11,7 @@
 The fear, however, is that as external gloom deepens, the positive loop will go into reverse. The slowdown in manufacturing, at first dismissed as temporary by economists, has persisted: the threat of American tariffs on European cars and a disorderly Brexit still loom. Trouble in exporting industries can easily spill over into domestic demand, as it did during the financial crisis, by encouraging businesses and households to save rather than spend. 
 In Germany, industrial weakness is starting to be felt in the labour market. Second-quarter profits at BASF, the world’s largest chemicals firm, were down by 47% compared with a year earlier. The company plans to cut costs and jobs. According to the Ifo Institute for Economic Research in Munich, the number of manufacturers planning to introduce short-time working over the next three months is expected to reach its highest level since 2013. That weakness could spread: research by Jean Imbs of New York University Abu Dhabi and Laurent Pauwels of the University of Sydney Business School, presented at the European Central Bank’s annual conference in June, finds that services are ever more integrated across European countries. The bank’s staff expect geopolitical tensions to weigh on investment. 
 The central bank, which was due to hold its monetary-policy meeting on July 25th as The Economist went to press, is expected to indicate further policy loosening. Even if fears of a trade war fade, it expects domestic demand to lose some of its lustre. Much of Spain’s sparkle, for example, reflects pent-up demand following its deep crisis, which will level off as the economy nears capacity and job creation slows. And yet, by the central bank’s projections, that recovery is not enough to return euro-zone inflation to its target of “close to, but below” 2%. More stimulus will be needed if the bright spots are not to go out.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -69,4 +70,6 @@
 54.creation[kri:'eiʃәn]:n. 创造, 创作物, 发明 [化] 产生 
 55.projection[prә'dʒekʃәn]:n. 发射, 计划, 突出部分, 设计, 推测 [计] 投影 
 56.stimulus['stimjulәs]:n. 刺激, 激励, 刺激品 [医] 刺激特, 刺激 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

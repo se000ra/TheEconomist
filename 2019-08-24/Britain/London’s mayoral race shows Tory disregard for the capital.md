@@ -10,6 +10,7 @@
 An attitude that London is lost permeates the Conservatives. The dominant idea is that the party’s future lurks in places such as Bishop Auckland, a market town in County Durham, rather than Battersea, a London suburb stuffed with well-off young parents. London does not loom large in Mr Johnson’s strategy of trying to scoop up votes from disaffected Labour voters in towns that supported Brexit. 
 This creates a strong headwind for Mr Bailey. Building an independent London-Conservative brand that appeals to the capital’s liberal population will not be easy—particularly given some of his past comments, including that multiculturalism could turn Britain into a “crime-riddled cesspool”. Scottish Tories have managed to distinguish themselves from the Westminster lot under their star leader, Ruth Davidson. Mr Bailey’s lower profile makes that harder. The Greens and Liberal Democrats, the latter of whom came top in the recent European elections in London, are better placed to woo liberals fed up with Mr Khan. 
 There is another way of looking at London. Four in ten people there voted Leave, like Mr Bailey. The city backed a Tory mayor as recently as 2012. And there are plenty of voters in the capital for whom Mr Khan’s “London is open” message grates. Whether they are enough for an election-winning coalition is another matter. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.mayoral['mєәrәl]:a. 市长的 
@@ -68,4 +69,6 @@
 54.democrat['demәkræt]:n. 民主人士, 民主主义者, 民主党党员 [经] 民主党 
 55.grate[^reit]:n. 炉格, 炉篦, 炉栅, 火炉, 壁炉, 格栅 vt. 装格栅于, 磨擦, 轧碎, 磨碎, 使焦急, 触怒, 使人烦躁, 刺激, 激怒 vt.vi. 擦响, 发出刺耳的尖厉声 
 56.coalition[.kәuә'liʃәn]:n. 结合体, 结合, 联合 [经] 联合, 联盟 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

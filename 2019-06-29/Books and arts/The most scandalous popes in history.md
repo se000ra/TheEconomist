@@ -10,6 +10,7 @@
 Few readers will pick up a book on the Borgias hoping for details of city administration, however—and Mr Strathern does not stint on the depravity. Alexander had what Mr Strathern discreetly calls an “evident enjoyment of life”. Take a party that Cesare, his illegitimate son (and a sometime cardinal), held in the Vatican. It was attended by the pope and 50 courtesans, who after dinner danced “fully dressed and then naked”. Chestnuts were thrown onto the floor which the courtesans “had to pick up [with their vaginas]”. Cesare, somewhat unsurprisingly, caught syphilis. 
 This is a book rich in such telling details—if sometimes also in less compelling ones. Characters and aristocratic titles proliferate, to such a degree that readers may struggle to keep up. But it is worth persisting. The Borgias, Mr Strathern explains, did not merely acquire their reputation through roistering and making the bureaucracy run on time. They also earned it through the ruthless elimination of their enemies—and friends. Cesare’s own brother turned up in the Tiber, brutally stabbed. A disliked brother-in-law was also dispatched. A trusted ally was cut in two. 
 The Borgias’ ambition was boundless; their legacy proved to be enormous. Not without reason did Machiavelli make Cesare the hero of his masterpiece of sinister machination, “The Prince”. That book in turn became the companion of some of the world’s most overweening leaders. Napoleon travelled with it; Mussolini quoted from it; Saddam Hussein kept it by his bedside. Few pontiffs before or since can claim to have had such influence. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.scandalous['skændәlәs]:a. 不体面的, 可耻的, 诽谤性的, 爱传播丑闻的 
@@ -105,4 +106,6 @@
 91.Hussein[]:n. 侯赛因（姓氏） 
 92.bedside['bedsaid]:n. 床边 a. 床边的, 临床的 
 93.pontiff['pɒntif]:n. 教皇, 主教, 大祭司 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

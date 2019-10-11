@@ -9,6 +9,7 @@
 A subculture has developed of young people who embrace daka as a lifestyle. So-called daka zu—“daka tribes”—can be found roaming Chongqing and other cities, checking in at as many hot locations as possible within a single day. Guides can be found online, to show the most efficient ways to achieve this. Companies offer “daka tours”. Douyin users can use the app to create “daka videos”: super-speed slideshows of themselves at daka sites. 
 Just as shops and restaurants in other countries try to attract customers with decorations that might be a backdrop for Instagrammable pictures, those in China try to make themselves as daka-friendly as possible: a coffee shop in Beijing built inside a shipping container, for example. Having enjoyed a surge of Douyin-inspired custom for as little as a month or so, some businesses close up shop and move elsewhere to capture another wave. 
 The daka craze may have practical origins. China’s young urban professionals have little vacation time. In their first year at a company, employees can expect at most one day of vacation (other than public holidays). They are routinely expected to work overtime for no pay. So workers need to make the most of their limited leisure time. Douyin captures the mood with its slogan: “Make every second count.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.daka[]:[地名] 达卡河 ( 加纳 ) 
@@ -39,4 +40,6 @@
 26.backdrop['bækdrɒp]:n. 背景幕, 背景 
 27.craze[kreiz]:n. 狂热, 大流行 v. (使)发狂, (使)开裂 
 28.routinely[]:adv. 日常, 乏味, 常规, 例行 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

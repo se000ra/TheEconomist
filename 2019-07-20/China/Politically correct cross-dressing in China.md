@@ -11,6 +11,7 @@
 In his shows, Mr Wang often aims to shock. A typical routine involves luring his audience into thinking he is a woman, then delivering a punchline in a manly voice. Mr Wang is dismissive of men who still look male in drag: they are simply yi zhuangpi, or transvestites, he says pejoratively. 
 Such views help Mr Wang to thrive in the cultural chill. His female persona, Wang Shangrong, has over 670,000 fans on TikTok, a popular live-streaming platform. Many of them are female. He says there may be thousands of drag performers in China who engage in his type of politically correct cross-dressing. 
 Risks attend those who wear risqué garb. Last year a video went viral of three men in revealing drag being accosted by police in the eastern city of Suzhou. Many online comments on it supported the cross-dressers, but Mr Wang says the police were justified since the men were still identifiable as male. “If I’m mocked, it’s because my feminine beauty isn’t convincing enough,” he says. “Once we raise the standards of our performance, nobody will dare to bully us.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politically[]:adv. 政治上 
@@ -69,4 +70,6 @@
 54.identifiable[ai'dentifaiәbl]:a. 可辨认的 [法] 可证明为同一的, 可以办清的 
 55.mock[mɒk]:n. 嘲笑, 戏弄, 模仿 a. 假的, 伪造的, 模拟的 adv. 虚伪地 vt. 嘲弄, 模仿, 使失望, 欺骗, 挫败 vi. 嘲弄 
 56.bully['buli]:n. 欺凌弱小者, 土霸 vt. 威胁, 恐吓, 欺负 vi. 欺负 a. 特好的, 第一流的 adv. 十分 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

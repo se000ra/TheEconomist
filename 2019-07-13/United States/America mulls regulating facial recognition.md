@@ -8,6 +8,7 @@
 Bennie Thompson, who chairs the House Homeland Security Committee, charted a reasonable path between those views in last week’s hearing. “Before the government deploys [facial recognition] further,” he said, “[it] must be scrutinised and the American public needs to be given a chance to weigh in.” His committee’s hearing, on how the Department of Homeland Security uses facial recognition and other biometrics, had been scheduled for some time, but news that broke on July 7th gave it extra salience. 
 The Washington Post reported that over the past several years, federal agents have conducted almost 400,000 facial-recognition searches using state and local databases, including collections of drivers’-licence photos, without warrants or licence-holders’ consent. Among the searchers were agents from Immigration and Customs Enforcement (ICE), who appear to have trawled drivers’-licence photos in Utah, Vermont and Washington—all states that provide licences to undocumented immigrants. These states invited undocumented immigrants to come forward. The federal government then used that trust against them. 
 In May the House Oversight Committee examined the civil-liberties implications of the technology. The committee chairman, Elijah Cummings, plans to hold another hearing before calling for legislation. Privacy may yet prove to be the rare issue on which an otherwise largely divided American public can agree.  
+<<<<<<< HEAD
 -- 
  单词注释:
 1.surveillance[sә:'veilәns]:n. 监视, 监督 [电] 侦测 
@@ -50,4 +51,6 @@
 38.elijah[i'laidʒә]:n. 以利亚（希伯来先知） 
 39.Cumming[]:n. (Cumming)人名；(英)卡明 卡明 
 40.privacy['praivәsi]:n. 隐私, 隐居, 秘密 [计] 个人保密权 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

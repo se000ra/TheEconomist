@@ -12,6 +12,7 @@
 More important, some 40% of its memberships are now held by big corporations, up from 20% a couple of years ago. These firms, which range from Amazon to HSBC, have deeper pockets and typically take out multi-year deals. Jeffrey Rayport of Harvard Business School argues that the firm’s combination of low cost, flexibility and thoughtfully curated culture is attractive to big firms: “We have not reinvented office space in 50 years, so WeWork is moving into white space,” he says. “It does make workers happier and more productive.” 
 The final big worry is questionable corporate governance. WeWork will issue multiple classes of shares that give Mr Neumann control with a minority stake. He has a complex relationship with the firm because he leases space to it in buildings he owns, a practice it promises to end. His wife is a “strategic thought partner” and runs an unpromising education arm. Charles Elson, a governance expert at the University of Delaware, warns, “If you start with this culture, you can’t get rid of it.” 
 Mr Neumann’s claim that his firm will “elevate the world’s consciousness” is plainly silly. Even so, it is wrong to equate WeWork with Regus. CBRE, a property-management firm, estimates that the flexible-work niche has experienced “meteoric growth” of 25% in America’s top ten markets in 2018, with similar figures in big cities worldwide. Mr Rayport believes that the firm’s business-model innovations have dramatically enlarged the total addressable market. Still, investing in WeWork remains an act of faith. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.risky['riski]:a. 危险的 
@@ -101,4 +102,6 @@
 85.innovation[.inәu'veiʃәn]:n. 改革, 创新 [法] 创新, 改革, 刷新 
 86.dramatically[drә'mætikli]:adv. 戏剧地, 引人注目地, 突然地 
 87.addressable[ә'dresәbl]:a. 可寻址的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

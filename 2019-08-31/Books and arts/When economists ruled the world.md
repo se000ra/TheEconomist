@@ -15,6 +15,7 @@
 Could a band of social scientists really wreak so much havoc? Mr Appelbaum’s book places economists at the centre of the story, but they were often mere accomplices to a broader movement of conservatives determined to reverse the encroachment of the state. Free-market economists received financial support from business leaders who were more passionate about reducing tax and regulation than about high-minded research. Joseph Coors, a beer magnate, created the Heritage Foundation as a sort of public-relations firm for capitalism. It was soon publishing economists with friendly messages. “Let’s get taxes cut under any and all circumstances,” Friedman wrote for the think-tank in 1978. Rather than being the tale of an academic discipline’s unlikely rise to influence, Mr Appelbaum’s book can be seen as an account of the easy ascent of a few ideas that appealed to the wealthy and powerful. 
 Still, the part played by others does not get the economists off the hook. Many (of assorted political persuasions) laboured quietly to produce valuable research. But some leading lights ignored critics, including within the profession, who warned that their clever theories did not adequately capture society’s complexities. Too many were too impressed with their own intelligence to consider the unintended consequences of their policies. Too few reflected on the implications of the politics that allowed them to enact their ideas. 
 Often, their theories operated on the assumption that the self-interested actions of the rich would benefit everyone, even as those self-interested rich used the same economists to pursue their own agenda. The end of the economists’ hour has created room within the field for views that long struggled to get a hearing. But, in an age of nativism and protectionism, other ways of seeing the world now predominate. It may be some time before the dismal science gets a chance to set things right. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
@@ -107,4 +108,6 @@
 88.protectionism[prә'tekʃәnizm]:n. 贸易保护主义, 贸易保护制 [经] 保护(贸易)主义, 保护(贸易)制 
 89.predominate[pri'dɒmineit]:vt. 掌握, 控制, 支配 vi. 占主导地位, 占优势 
 90.dismal['dizmәl]:a. 阴沉的, 凄凉的, 令人忧郁的 n. 低落的情绪, 沼泽 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

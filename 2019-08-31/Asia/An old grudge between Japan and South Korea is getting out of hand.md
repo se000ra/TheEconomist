@@ -13,6 +13,7 @@
 The dispute is also beginning to rile ordinary people. Two-thirds of South Koreans say they support the boycott of Japanese products and would consider taking part. Four-fifths claim they would not go on holiday to Japan at the moment. Sales of Japanese beer and clothing in South Korea have collapsed since July. Airlines have cut back flights on many popular routes. 
 Japanese public opinion is not yet vocally anti-Korean, but a majority of Japanese voters support the government’s stance. Right-wing groups are stoking anti-Korean sentiment by recycling old tropes of “untrustworthy” and “faithless” Koreans, says Ms Dudden. Visitors to Tokyo report a mood of exasperation with what many Japanese perceive as South Korean intransigence. 
 This makes it unlikely that the dispute will be resolved quickly. Neither side feels it can be seen to back down, says Mr Park, who thinks South Korea should take the first step towards de-escalation by reversing its decision on the intelligence-sharing pact. But Moon Jae-in, South Korea’s president, who faces legislative elections in April, is struggling with a sickly economy, deadlock in his flagship policy of inter-Korean rapprochement and controversy regarding his favoured candidate for justice minister. Shinzo Abe, Japan’s prime minister, is for his part keen to please his ultranationalist base. As the two allies fan the flames of nationalism, Mr Kim has ample peace and quiet to expand his arsenal. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.grudge[grʌdʒ]:n. 怨恨, 恶意 vt. 怀恨, 嫉妒, 吝惜 
@@ -105,4 +106,6 @@
 88.ultranationalist[,ʌltrә'næʃәnәlist]:n. 极端民族主义者, 狭隘民族主义者 [法] 极端民族主义份子 
 89.nationalism['næʃәnәlizm]:n. 民族主义, 民族特性 
 90.arsenal['ɑ:snәl]:n. 兵工厂, 军械库 [机] 兵工厂 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

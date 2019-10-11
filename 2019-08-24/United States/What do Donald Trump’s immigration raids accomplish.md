@@ -16,6 +16,7 @@
 Much of that increase stemmed from local police assistance. Metro areas that offer sanctuary to illegal immigrants—as more than three-quarters of those housing most of America’s undocumented population do—limit such co-operation. ICE agents cannot simply wander through immigrant neighbourhoods at random demanding proof of citizenship. Workplaces provide large numbers of undocumented people at a single, predictable site. 
 Mr Trump may believe that raids deter would-be migrants, but no evidence backs him up. It is difficult to imagine that someone whose children have been targeted by gangs in Honduras will factor the prospect of being caught in a raid in Mississippi or Ohio into their decision to flee. Raids dominate a couple of news cycles, scare immigrants and let Mr Trump project toughness. 
 On a recent afternoon, José’s neighbourhood was deserted. Yet if the administration had set itself against José and his family, his neighbours had not. Pastor Bowman says his parishioners tend to be politically conservative, but also believe that “God tells us explicitly to feed the hungry, to clothe those in need of clothes, to provide shelter to those who are homeless and to care for the immigrant population within the boundaries of our country.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -95,4 +96,6 @@
 75.politically[]:adv. 政治上 
 76.explicitly[]:adv. 明确地；明白地 
 77.homeless['hәumlis]:a. 无家的, 无养主的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -7,6 +7,7 @@
 Like many of the current crop of tech “unicorns”—private companies with a valuation of $1bn or more—Peloton does not do anything so unfashionable as making money. It lost $196m in the 12 months to June, up from $48m the year before, as it threw money at attracting new customers. But its efforts seem to be working: it has 511,000 subscribers, more than double the number last year. Revenue has doubled too, reaching $915m in 2019 (see chart). It is popular among trendsetters. David Beckham, an ex-footballer, is a fan, as is Barack Obama, an ex-president. That aspirational glow allows the firm to get away with gross margins on hardware of 43%, higher even than Apple’s famously lucrative gadgets. Despite its high prices (or perhaps because of them) it also boasts enviable customer loyalty. 
 ![image](images/20190907_WBC675.png) 
 Exercise-bike makers used to be in the manufacturing business. But Peloton makes about 20% of revenue from subscriptions, and the share is rising. Margins here are mediocre but should improve as content-production costs are spread over more users. The shift illustrates a broader trend: thanks to the internet, industries that used to be about products are increasingly about services, too. This lets firms replace unpredictable sales with a steady stream of subscription revenue. If they can pull it off.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.LE[]:[计] 小于或等于 
@@ -52,4 +53,6 @@
 41.subscription[sәb'skripʃәn]:n. 捐献, 订金, 订阅, 签署, 同意 [化] 订购 
 42.mediocre[.mi:di'әukә]:a. 不好不坏的, 通常, 平凡的 
 43.unpredictable[.ʌnpri'diktәbl]:a. 不可预知的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

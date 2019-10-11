@@ -7,6 +7,7 @@
 Many doctors practise homeopathy, but put its supposed benefits down to the placebo effect (which is real). At first the health minister, Agnès Buzyn, seemed to accept the case that patients who pop sugar pills might cut down on antibiotics and other pharmacology, which the French notoriously overconsume. But the advice of scientists—and the prospect of saving over €100m a year—prevailed. Reimbursement rates will decline from 30% today to nothing by 2021. 
 Boiron’s bosses have described the cuts as shocking and unfair. They must fear for the health of its operating margins. At 18% these rival those of big drugmakers such as Novartis and Pfizer. Homeopaths do not command the high prices of advanced drugs but can scrimp on science. Boiron employs just 13 people in research, in a workforce of 3,700, and spends €3.8m a year, or 0.6% of sales, on innovation. By contrast, one in six employees at many big pharmaceutical firms is a researcher and drugmakers spend an average of 16% of revenue on developing new treatments (they also charge a lot more for many medicines than homeopaths do). 
 Boiron’s shares have lost nearly half their value in the past year as investors priced in the health ministry’s decision. The boss of Weleda France, a rival, worried what it could mean for homeopathy in places like India and South America. Hopefully, a dilution of influence.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.dilute[dai'lju:t]:vt. 冲淡, 稀释 a. 淡的, 稀释的 
@@ -45,4 +46,6 @@
 34.weleda[]: 维蕾德 
 35.hopefully['hәjpfjli]:adv. 有希望地, 如果希望能实现的话 
 36.dilution[dai'lju:ʃәn, di'l-]:n. 冲淡, 淡度, 稀度, 稀释物, 冲淡物, 稀释 [计] 稀释度的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

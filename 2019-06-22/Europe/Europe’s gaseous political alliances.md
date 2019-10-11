@@ -10,6 +10,7 @@
 The three countries have similarities. All have close links with France and Germany; all can marshal coalitions of like-minded states in their parts of Europe: all have modernising leaders with experiences of arduous coalition-building at home. One could call them “the Habsburgs”, as all were at one time controlled by that dynasty which, like its successors in Madrid, The Hague and Vienna, played off other powers at Europe’s core against each another. 
 One illustration of the new mechanics came with the recent debate in the EU about cutting carbon emissions to zero by 2050. Germany was at first unwilling, but the Netherlands and Spain formed an alliance with France. That pushed Germany towards the goal. Austria then swung in, followed by some central European states like Slovenia. Together, the Habsburg states spread a measure initially backed by just eight EU states to at least 18 of them. 
 Spain, the Netherlands and Austria are too disparate to act as a bloc. Instead, individually or in various combinations, they can help the French and the Germans build new coalitions. Such is today’s fluid European politics, where coalitions coalesce, take effect, then dissolve again. Whether or not the three will remain influential is uncertain. Others, for instance a potentially more pro-European Poland, could take their place. But the old world of a dominant Franco-German bloc is certainly over. A political scientist, Gilles Finchelstein, has a term for this. Once, he argues, European politics was made up of “solid” power blocs. Then after the fall of the Berlin Wall they became “liquid” with the rise of the swing voter and a less predictable European political landscape. Today, he concludes, is the “gaseous era” in which political coalitions come together for brief periods like clouds of smoke, then are blown apart again. In the years to come, such gaseous constellations will define Europe’s politics in the coming years. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Charlemagne['ʃɑ:lә'mein]:查理曼大帝(742-814, 世称 Charles the Great或Charles I, 768-814为法兰克王, 800-814为西罗马帝国皇帝) 
@@ -113,4 +114,6 @@
 99.predictable[pri'diktәbl]:a. 可预言的 
 100.landscape['lændskeip]:n. 风景, 山水, 风景画 vi. 从事景观美化 vt. 美化...景观 [计] 横向 
 101.constellation[.kɒnstә'leiʃәn]:n. 星座, 荟萃 [化] 构象 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

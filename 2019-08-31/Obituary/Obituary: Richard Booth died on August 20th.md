@@ -10,6 +10,7 @@
 His demeanour was royal, right down to fits of royal pique; yet he was not a monarchist. He invoked the divine right of kings only as a perfect foil to the divine right claimed by officialdom. Democracy was his real love, as his rule showed. Almost everyone in town could have a post in his government. His drinking pals from The Rose and Crown made up his cabinet; the minister for social security had been on the dole for six years. He sold titles to anyone who fancied being a duke, an earl or a Polish count. His subjects were also decorated at random: two small boys in the crowd at his coronation were knighted, and a woman was declared queen of her street, receiving a gold-dipped flower. Every month the back room at The Swan became the Royal University of Cusop Dingle, dedicated to topics cruelly ignored by the rest of academia. In this centre of learning, anyone could be a professor. 
 What with the books and its giddy freedom, Hay now thrived, becoming a model of revival for failing rural towns the world over, from Nebraska to South Korea. Its king was delighted by that, though he himself rose and fell, going bust at one point (he was hopeless with money), failing to win a seat in the Welsh Assembly and, by 2007, selling all his shops. He gained enemies as well as friends, and in 2009 was executed in effigy in the old Butter Market by a rival bookseller, who set up a Commonwealth. 
 Nor did he ever embrace the Festival, which to him was a piece of Murdochite sponsorship which brought crowds for a while but did not sustain the town month in, month out. Worse, it celebrated new books, a million words of mumbo-jumbo nonsense. He dreamed of a polis of creative citizens working nobly with their hands, fed by cheery peasants from the green surrounding hills who brought in ungraded eggs and home-cured bacon, unbound by fussy regulations. Whether they read or not—whether they could read or not—mattered less than that the bureaucrats were felled at last, clobbered by 20 copies of “The Indian Dog”. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.saviour['seivjә]:n. 救助者, 救世主, 救星 
@@ -105,4 +106,6 @@
 91.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
 92.fell[fel]:vt. 击倒 n. 一季所伐的木材, 折缝 a. 凶猛的, 可怕的 fall的过去式 
 93.clobber['klɒbә]:n. 衣服, (鞋匠用来掩饰皮革缝的)软膏 vt. 痛打, 击倒, 拉垮 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 Peril for women wearing religious garb is only one example of anti-Muslim discrimination in America. The author also adduces xenophobic anti-sharia laws and resistance to Muslim buildings. After arsonists targeted the site of a new Islamic centre in Tennessee in 2010, a candidate for Congress said that the building would “fracture the moral and political foundation” of the region; the state’s lieutenant-governor declared Islam a “violent political philosophy”. The mosque opened in 2012, but five years later vandals wrapped bacon on the door handles and scrawled “Fuck Allah” on the wall. 
 Ms Uddin wants to forge stronger links with opponents of Mr Trump’s restrictions on immigration and on travel from Muslim countries. Both Muslims and LGBTQ people, she says, are “fighting for their civil rights” and should “support each other’s causes”. Nevertheless the author defends Christian conservatives who resist laws requiring businesses to serve customers of all sexual and gender identities. As a lawyer at Becket, a non-profit firm, Ms Uddin represented Hobby Lobby, a textile shop, when its religious proprietors demanded an exemption from the Obamacare rule that companies must provide contraceptive coverage for employees. Her firm also sided with a group of nuns who complained that an accommodation releasing them from the contraceptive mandate was itself a violation of their conscience. 
 This is a fraught political stance. Ms Uddin wants to ally with liberals and begin a “conversation” with conservatives. But many on the left oppose religious exemptions that impede the rights of women and minorities, while many on the right—as this book disturbingly documents—deny that Islam is even worth protecting. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -93,4 +94,6 @@
 80.ally['ælai. ә'lai]:n. 同盟者, 同盟国, 助手 vt. 使联盟, 使联合, 使有关系 vi. 结盟 
 81.impede[im'pi:d]:vt. 妨碍, 阻碍, 阻止 
 82.disturbingly[dis'tә:biŋli]:adv. 动摇地；令人不安地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

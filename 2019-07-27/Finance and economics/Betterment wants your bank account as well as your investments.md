@@ -10,6 +10,7 @@
 If successful, the shift in strategy could put to rest worries about profitability that have dogged both Betterment and the robo-advisory industry more broadly. New account customers might be tempted to use advisory services, too. Mr Stein also hopes that the firm can encourage account-holders to save more. More than half of Betterment’s customers transfer money automatically into their investment funds. If the firm manages more current and savings accounts, it may be able to increase that share. 
 The launch comes with risks, however. The first is that it may irk regulators. Deposits are supposed to be a reliable source of funds for banks. If Betterment gets them to compete for its customers’ funds, not only would banks’ margins be squeezed but deposits could become flightier. 
 The second is that the terms are too generous to be sustainable. Betterment has raised $275m to fund its growth so far, but has not had to raise capital since 2017, when it added $70m, valuing the firm at $800m. Mr Stein expects its account products to be profitable from launch, but admits that there may be a “learning curve” when it comes to managing them. To offer customers compelling investments, Betterment needs to be a sound investment, too. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.betterment['betәmәnt]:n. 改进, 改善, (不动产)增值 [法] 改良, 改善, 地产增值 
@@ -58,4 +59,6 @@
 44.regulator['regjuleitә]:n. 调整者, 校准者, 校准器, 调整器, 标准钟 [化] 调节剂; 调节器 
 45.flightier[ˈflaɪti:ə]:a. （尤指女人或其行为）轻浮的, 朝三暮四的, 反复无常的( flighty的比较级 ) 
 46.sustainable[sә'steinәbl]:a. 足可支撑的, 养得起的, 可以忍受的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

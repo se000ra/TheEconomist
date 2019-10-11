@@ -9,6 +9,7 @@
 Another thing making Latin America less liveable is corruption. The region is grubbier than you would expect, given its relative affluence. In Brazil the Lava Jato investigation has exposed bribes paid by industrial firms to scores of politicians. Alan García, a former president of Peru, killed himself in April to avoid arrest in conjunction with the Brazilian scandal. According to Latinobarómetro, an annual survey, the share of Latin Americans dissatisfied with how democracy works in their country has risen from 52% in 2010 to 71% last year. 
 Latin Americans are not just voting with their feet; they are venting at the ballot box, too. In 2018 messianic populists who railed against corruption and crime won presidential elections in Brazil (the conservative Jair Bolsonaro) and Mexico (the leftist Andrés Manuel López Obrador). If voters remain this disenchanted, more leaders with autocratic streaks are likely to follow. ■ 
 Sources: Gallup; Latinobarómetro; IMF; World Bank; US Customs and Border Patrol; UNODC; IoM; UNHCR 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.discontent[.diskәn'tent]:n. 不满 
@@ -71,4 +72,6 @@
 58.unodc[]: 联合国毒品和犯罪问题办公室 
 59.IOM[]:abbr. （英国）马恩岛（Isle of Man） 
 60.UNHCR[]:abbr. 联合国难民事务高级专员（United Nations High Commissioner for Refugees） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

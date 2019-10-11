@@ -13,6 +13,7 @@
 The trade war between America and China is making matters worse. Singapore is a trading entrepot, with a big and busy port. But China, Singapore’s biggest trading partner, is also suffering from a slowdown, with growth at its lowest level in decades. No wonder Singapore’s imports and exports are contracting (see chart). 
 The timing of the election may turn on when (or whether) the economy picks up. The government has plenty of scope to stimulate it, by spending more on infrastructure and its ageing population. The budget is in surplus, albeit only narrowly. Moreover, the government remains a big shareholder in many of Singapore’s largest firms, which gives it a say in their investments and hiring. The PAP has a record of excellent economic management. Mr Heng, for example, burnished his reputation by running the Monetary Authority of Singapore, the central bank, during the financial crisis of 2007-08. 
 Singapore’s transformation from a resource-poor island into a wealthy city-state is proof of the strength of the PAP’s planning. But the wealthier countries become, the slower they tend to grow. The big question is whether Singaporeans accept that the PAP cannot preside over breakneck growth forever. Government handouts may soften the blow. If Mr Lee announces generous ones at the National Day Rally later this month, consider it the start of another meticulous election campaign. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.hazy['heizi]:a. 朦胧的, 模糊的, 烟雾弥漫的 
@@ -88,4 +89,6 @@
 71.soften['sɒftn]:v. (使)变柔软, (使)变柔和 
 72.rally['ræli]:n. 重振旗鼓, 集合, 群众集会, 跌停回升 v. 重整旗鼓, 集合, 恢复精神, 团结, 挖苦, 嘲笑 
 73.meticulous[mә'tikjulәs]:a. 一丝不苟的, 精确的, 过细的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

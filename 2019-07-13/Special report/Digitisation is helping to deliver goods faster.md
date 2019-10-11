@@ -26,6 +26,7 @@
 At a busy warehouse in Yantian, a port district in the southern Chinese city of Shenzhen, Flexport, a Californian firm, is digitising the freight-forwarding business. As lorries arrive at the loading bay, cargoes are measured digitally, with no manual entries or paper forms, to capture dimensions straight to handheld devices and the cloud. Every pallet is barcoded and weighed on a digital scale. Computer vision turns analogue forms into digitally searchable ones, and machine learning (ML) optimises loading. Flexport reached a valuation of $3.2bn after a $1bn investment by Japan’s SoftBank in February. Ryan Petersen, its boss, argues that the old model of shipping 40ft-containerloads of a single product from China to a handful of big distribution centres in America or Europe cannot meet today’s demands for endless variety and speedy delivery. 
 Rivals send containers across the Pacific to America that are only 65% full. Because his firm digitises packing lists using ML and can run real-time analytics, it is often able to fill the empty third of the container quickly with smaller loads also waiting to ship. To match supply and demand in smaller and varied shipments, says Mr Petersen, “brains, spreadsheets and phone calls aren’t enough. You need technology and data to make decisions right.” 
 Dave Clark, a senior operations executive at Amazon, agrees. Supply-chain management has gone from a negotiation and procurement job to a technology and science function, he says. Two decades at the trailblazing firm have convinced him that managers introduce huge variability by relying on gut instincts. Rather than machines eliminating human labour downstream in the warehouse, as techno-pessimists fear, he sees a future in which ML replaces human judgment upstream in prediction and planning. He sums up Amazon’s thinking neatly: “We are a supply-chain technology company.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.digitisation[]:[计] 数字化 
@@ -188,4 +189,6 @@
 158.judgment['dʒʌdʒmәnt]:n. 裁判, 宣告, 判决书 [医] 判断 
 159.upstream['ʌp'stri:m]:adv. 向上游, 逆流地 a. 向上游的, 逆流而上的 
 160.prediction[pri'dikʃәn]:n. 预言, 预报 [化] 预测 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

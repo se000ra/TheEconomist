@@ -11,6 +11,7 @@
 The next tough subject is the market for energy. Demand for coal and oil may have peaked in the West. But, like the young Mr van Beurden, many poor countries still lack readily available fuel supplies, and hanker for the modernisation energy brings. Shell sees plenty of scope to substitute biomass and coal with gas and cleaner energy sources in the developing world. Thanks to rising populations and incomes there, global energy demand is likely to stay high for decades to come. Less reassuringly, this also explains why Shell sets itself unit, rather than aggregate, targets for reducing its carbon footprint: it aims to halve the emissions per unit of energy it produces by 2050, rather than slashing emissions outright. So if energy demand continues to soar, the commitment will constrain Shell’s business much less than it appears—with less benefit to the planet. 
 Mr van Beurden justifies this with a third hard lesson: the world has a shared responsibility to tackle climate change. Even if all the Western oil majors decided to stop pumping oil and gas to reduce carbon emissions, global production would shrink by only 10%; state-owned oil companies from China, Russia, the Gulf and elsewhere could pick up the slack. There are overlapping sources of carbon emissions, too. Shell, for instance, sells far more oil products through its 44,000 petrol stations than it refines. Who bears responsibility for reducing the carbon footprint of those products? Shell, the companies that pumped the oil, the carmakers whose engines burn the fuel, or the people who drive the vehicles? The answer is probably a combination of all of them. 
 To heap the blame for global warming on the oil industry alone would be to oversimplify the emissions problem. True, companies like Shell could have been more open about evidence of the risks from climate change, and they sometimes lobby against steps to reduce emissions. But everyone bears responsibility. That includes other fuel-guzzling industries; governments for failing to explain the need for carbon taxes, and find ways to capture and store carbon; and society at large for its utter dependence on fossil fuels. Mr van Beurden’s plain speaking will earn him little credit from those determined to paint the firm as a pantomime villain. But everyone should take a long, hard look in the mirror to appreciate how much they too need to change their habits to reduce demand for fossil fuels. A cold, wet washcloth may come in handy.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Schumpeter[]:n. 熊彼特（美籍奥匈帝国经济学家, 当代资产阶级经济学代表人物之一） 
@@ -83,4 +84,6 @@
 68.dependence[di'pendәns]:n. 依赖, 依存, 信赖 [医] 依赖(如对药物的依赖,即瘾或癖), 从属, 偏利共生 
 69.pantomime['pæntәmaim]:n. 手势, 哑剧, 舞剧 v. 打手势, 演哑剧 
 70.villain['vilәn]:n. 坏人, 恶棍 [法] 歹徒, 恶棍, 恶徒 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

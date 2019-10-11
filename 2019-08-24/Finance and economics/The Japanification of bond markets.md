@@ -10,6 +10,7 @@
 The cause of all this is renewed concern about global stagnation. A synchronised pickup in the world economy in 2017 has turned to synchronised slowdown. Central banks, including the Fed, are cutting interest rates. But there is more to it than that. With short-term interest rates already so low, there are grave doubts that central banks have the power to get the economy back on track. You see this pessimism in forecasts of medium-term inflation derived from the swaps market, which are markedly lower than they were earlier this year. “The problem with being Japan is that if you get an economic shock, monetary policy has nowhere to go,” says Steve Englander of Standard Chartered, a bank. Europe has already reached this point. 
 There is an alternative script. In this version today’s Japanification spurs a response that leads to its defeat. If monetary policy has run out of road, there is always fiscal policy. If the economy lacks demand, governments can help to fill it by borrowing cheaply to cut taxes and raise spending. The politics are not there yet, but the Japanification of bond markets will move things along. “Before there is a consensus on a shift in policy, you need to see the downside risks [to the economy] clearly,” says Mr Englander. Once that shift takes place, the fear of stagnation recedes. 
 The political response to the threat of stagnation is likely to be more radical than it was in Japan, says Mr Tasker. The tricky part for bond investors is guessing how long this takes. There are already stirrings of a rethink in Germany, a country hostile to fiscal stimulus. For now, these are only stirrings. Bond yields may languish for a while, before they rise in anticipation of fiscal stimulus. But the queen need not die of grief. After a period of mourning, she may find happiness again. The plot thickens.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.buttonwood['bʌtnwʊd]: 美洲悬铃木 
@@ -67,4 +68,6 @@
 53.stimulus['stimjulәs]:n. 刺激, 激励, 刺激品 [医] 刺激特, 刺激 
 54.languish['læŋgwiʃ]:vi. 憔悴, 凋萎, 苦思 
 55.anticipation[æn.tisi'peiʃәn]:n. 预期, 预料 [医] 提前出现(如遗传病) 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

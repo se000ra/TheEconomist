@@ -5,6 +5,7 @@
 > May 25th 2019 
 A YEAR AGO at Farnborough Air Show, Dennis Muilenburg, boss of Boeing, beamed as orders for its new 737 max jetliner rolled in. At next month’s Paris Air Show he will be less upbeat. In March regulators around the world grounded the plane, after two of them crashed within five months, killing 346 people. On May 23rd aviation regulators were due to convene in Dallas to review Boeing’s application to unground the max, now that it says it has fixed the software thought to have contributed to the accidents. Mr Muilenburg says he is “confident” that the updated plane will be “one of the safest aeroplanes ever to fly”. On May 22nd America’s Federal Aviation Administration suggested it could be a while before it is back in the air. All told, airlines have ordered around 5,000 maxes. This week Ryanair, which awaits 135 of them, said it will have to cut 1m seats from this year’s schedules. 
 ![image](images/20190525_WBC124.png) 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.maxed[]:n. 马克斯；最大值；极大值 adj. 最高的；最大的 v. (使)绞尽脑汁；(使)竭尽全力 [网络] 星卡；幽暗刀光 
@@ -24,4 +25,6 @@
 15.unground[ʌn'^raund]:不磨的, 未磨过的 
 16.update[ʌp'deit]:vt. 更新, 使现代化 n. 更新 [计] 更新 
 17.Ryanair[]:n. 瑞安航空公司（欧洲最大的廉价航空公司, 总部位于爱尔兰） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

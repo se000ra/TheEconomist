@@ -11,6 +11,7 @@
 Purist engineering has also been used to distance a language from an overly close relative. Standard Norwegian was once too similar to Danish for some Norwegians; hence the creation of “new Norwegian” (nynorsk), cobbled together from dialects and avoiding Danish echoes, which today is co-official alongside the older Dano-Norwegian (bokmal). Hindi and Urdu are close enough that some consider them a single language, but since Indian and Pakistani independence, new Hindi coinages and borrowings have tended to come from Sanskrit, Urdu ones from Arabic and Persian. The languages are growing apart. 
 In fact, places that accept foreign words with a live-and-let-live attitude are the exceptions. Centuries ago, English, which seems undogmatic, itself experienced the “inkhorn controversy”, in which some intellectuals freely coined words from Greek and Latin, such as “educate” and “ostracise”. (Some, such as “suppediate”, meaning “to supply”, never made it.) Aavik-like, purists fought back, coining terms like “witcraft” to replace borrowings like “reason”. Their attitude was exemplified by Sir John Cheke, who in 1557 wrote: “I am of the opinion that our tung should be written cleane and pure, vnmixt and vnmangled with borowing of other tunges.”  
 Most of the inkhornisms survived. These days, English has become so robust that it is no longer the polluted but the polluter. That it now lacks a purist tendency of its own may be less because the British are naturally laissez-faire liberals than because English is the world’s top linguistic dog. It exports words around the globe, often to the alarm of nationalists overseas. They might take some comfort from the fact that English thrived after its controversial mangling. Objectively, borrowing does no harm. But then, such worries are rarely objective to begin with.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.johnson['dʒɔnsn]:n. 约翰逊（姓氏） 
@@ -84,4 +85,6 @@
 69.oversea['әuvә'si:]:adv. 海外, 向国外, 向海外, 国外 a. 外国的, 在国外的, 在海外的, 舶来的 
 70.mangle['mæŋgl]:vt. 乱砍, 损坏, 轧布 n. 轧布机 
 71.objectively[әb'dʒektivli,ɔb-]:adv. 客观地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -19,6 +19,7 @@
 One incentive that is often touted for producing goods in China’s interior is lower wages. But the region’s workers usually earn more than those in South-East Asian countries: twice as much as in poorer ones such as Vietnam and a tenth more than in wealthier ones such as Thailand. The trade war with America strengthens the headwinds. Firms that might have moved inland from the coast are instead looking abroad. Industrial activity has been declining more rapidly as a share of the interior’s economy than of the south coast’s. In western China, for example, it has fallen from 51% of GDP in 2011 to 41% last year. 
 China’s leaders will not give up. In recent speeches President Xi Jinping has declared that reducing the economic gap between regions remains a crucial goal. Local officials are still trying to pursue it. Nearly an hour’s drive from Baiguan’s would-be textile centre, the city of Zhuzhou has created “Power Valley”, which local officials hope will become a manufacturing base for the railway, car and plane industries. It is a well-manicured zone with crisp factory buildings, a slogan (“beautiful intelligence town”) and a big government office dedicated to making it work. 
 But nearly four years on from its opening, Power Valley is clearly low on fuel. A clerk at the reception says it has 80% occupancy. Yet just outside her door, there is half a block of abandoned offices. Down the road, one of the bigger occupied buildings belongs to a car-design company. Its manager sheepishly admits that he obtained a five-year lease rent-free. Ten employees are spread across four floors. “We are racing to catch up with the coast,” he says. The race already seems lost. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.flyover['flaiәjvә(r)]:n. 立交桥, 天桥, 立交马路 
@@ -90,4 +91,6 @@
 67.occupancy['ɒkjupәnsi]:n. 占有, 居住, 占用 [法] 占据, 据有, 占用 
 68.sheepishly['ʃi:pɪʃlɪ]:adv. 怯懦地, 羞怯地; 愚蠢地 
 69.lease[li:s]:n. 租约, 租期, 租 vt. 出租, 租出, 租得 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

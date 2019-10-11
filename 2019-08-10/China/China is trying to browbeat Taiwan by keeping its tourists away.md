@@ -10,6 +10,7 @@
 By stemming the flow of tourists, China may be trying to warn Taiwanese voters of what could happen if they re-elect Ms Tsai and support other politicians like her in presidential and legislative elections in January—Taiwan’s economy is heavily reliant on China’s. The biggest opposition party, the Kuomintang (KMT), supports friendlier ties with the mainland and made big gains in regional elections last November. China’s leaders would like it to vanquish the DPP in next year’s polls. But Ms Tsai’s support for Hong Kong’s democrats has helped her once-dismal ratings to rebound. She could even keep her job. 
 In an attempt to capture some of her newfound support, the KMT’s presidential candidate, Han Kuo-yu, is trying to sound a bit more sceptical about China (earlier in the year some Taiwanese criticised him for a chummy meeting with mainland officials in Hong Kong, ostensibly to promote trade). Mr Han is the mayor of the southern port of Kaohsiung. Fan Shih-ping of Taiwan National Normal University says the city will suffer disproportionately from China’s block on tourism—Kaohsiung has tended to be popular with solo tourists because it is easily reached by train. But the KMT appears to have decided not to make political hay out of China’s decision to cut the flow. 
 China will doubtless have more tricks to play in the run-up to January’s polls. Having already poached five of Taiwan’s diplomatic allies in the three years since Ms Tsai came to power, it may try to peel off at least one more. In the past China has called off military exercises around the strait in advance of Taiwanese elections, for fear of provoking a backlash at the ballot box. Andrew Yang, a former defence minister, thinks that this time China may step up its drills, partly because it has lots of new kit it wants to try out. Taiwan has accused the mainland of trying to influence the island’s politics by spreading “fake news” through social media. But how much any of this will work is hotly debated in Taiwan. It may be that such efforts will deter voters from supporting radical anti-China politicians (Ms Tsai is relatively restrained in her approach to the mainland). But the unrest in Hong Kong has shown that even in a place where it has many levers, China can struggle to get its political way. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.backpack['bækpæk]:n. 远足用的背包；双肩背包, 背包 
@@ -82,4 +83,6 @@
 68.fake[feik]:n. 假货, 欺骗, 诡计 a. 假的 vt. 假造, 仿造 vi. 伪装 
 69.hotly['hɒtli]:adv. 暑热地, 激烈地, 热心地 
 70.deter[di'tә:]:vt. 制止, 吓住, 威慑 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

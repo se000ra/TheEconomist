@@ -8,6 +8,7 @@
 Officials refuse to be drawn on whether the smugglers are simply enthusiastic holidaymakers, or part of a bigger racket. But the fact that some of those caught in the trawl have been exporting fillets ready for consumption rather than fresh fish suggests they may be organised, and are trying to evade Norway’s systems of licences and controls for commercial fishing. 
 In an attempt to stop the piscine flow, spot-checks have increased, says Geir Pollestad, a Centre Party MP and chairman of the Norwegian parliament’s committee for business and industry. Prosecutors have also doubled the fines for smuggling. 
 Norwegians increasingly see tourists as a problem, not a boon. Cruise ships bring thousands to tiny villages at the heads of hitherto pristine fjords. Nusfjord, in the northern archipelago of Lofoten, has already set a limit of two tourist coaches a day. “We’ve had enough of people coming here and leaving nothing but shit and pollution,” says one resident. A growing number of politicians support a tourist tax. The idea would be to raise money while deterring those tourists who strain infrastructure but spend no money. Now that tourists are after precious Norwegian fish, perhaps parliament will bite.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.cod[kɒd]:n. 鳕, 欺骗, 愚弄 v. 欺骗, 愚弄 
@@ -51,4 +52,6 @@
 39.shit[ʃit]:vi. 拉屎 vt. 欺骗, 在...拉屎 n. 粪, 屎 interj. 狗屁 
 40.deter[di'tә:]:vt. 制止, 吓住, 威慑 
 41.infrastructure['infrәstrʌktʃә]:n. 基础结构, 基础设施 [经] 基础设施 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

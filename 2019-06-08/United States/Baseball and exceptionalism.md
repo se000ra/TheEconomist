@@ -13,6 +13,7 @@
 This is most obvious in its literature, from the novels of Bernard Malamud and Philip Roth to the non-fiction of Roger Kahn and Michael Lewis. American sports-writing is generally superior, because America takes popular culture so seriously. (The gathering of 170 academics to a conference on baseball was another sign of that.) Yet the boundless themes of national identity, striving and becoming, of real and imagined Americas, and more, that flow from baseball’s unique status make its canon the richest by far. 
 They are also reflected in the game’s popularity, especially among those with the most detached view of America: the millions of immigrants who have arrived over baseball’s history. For Jews, Mexicans, Irish, among others, baseball has been a point of entry to American culture. Roth called it “this game that I loved with all my heart, not simply for the fun of playing it ... but for the mythic and aesthetic dimension that it gave to an American boy’s life—particularly to one whose grandparents could hardly speak English.” 
 Baseball is a fun game indeed; and also, as the English say of cricket, more than a game. It is a symbol of Americans’ belief in their own extraordinariness. It also represents what a splendidly self-fulfilling prophecy that delusion has often turned out to be. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lexington['leksiŋtәn]:n. 列克星敦市（位于美国肯塔基州） 
@@ -115,4 +116,6 @@
 98.splendidly['splendɪdlɪ]:adv. 壮丽地; 豪华地; 极好地; 了不起地 
 99.prophecy['prɒfәsi]:n. 预言, 预言能力 
 100.delusion[di'lu:ʒәn]:n. 迷惑, 欺瞒, 错觉 [医] 妄想 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 Mr Cetinkaya had reportedly been pressed by Mr Erdogan and his son-in-law, Berat Albayrak, the finance minister, to use the bank’s dollar reserves to support the lira ahead of the local elections. When Mr Erdogan and Mr Albayrak leaned on him to cut rates or resign, Mr Cetinkaya declined to do either—and was shown the door. He is the first central-bank boss to be sacked in Turkey since 1981, when an army junta dismissed most of the country’s political class after a coup. 
 The new boss of the central bank is Murat Uysal, Mr Cetinkaya’s deputy—who is off to a terrible start. On July 8th he faced accusations of plagiarism in his Master’s thesis (as it happens, on inflation-targeting). He has not yet responded to the claims. Renewed pressure on the lira means he will struggle to cut rates at the next meeting of the monetary-policy board, on July 25th. Doing so could set off another rout, says Ibrahim Turhan, a former head of the Istanbul stock exchange. 
 More bad news for the economy may be in store. America has threatened economic sanctions against Turkey regarding its purchase of Russia’s S-400 air-defence system. (Under a law passed in 2017, America can punish “significant transactions” with Russia’s defence sector.) Despite rumours of a compromise between Mr Erdogan and President Donald Trump, officials in Washington say sanctions are imminent. The Russian weapons were scheduled to arrive in Turkey as The Economist went to press. Mr Uysal faces a baptism of fire. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.recep[]:n. (Recep)人名；(土)雷杰普 
@@ -58,4 +59,6 @@
 45.imminent['iminәnt]:a. 即将来临的, 逼近的 
 46.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
 47.baptism['bæptizm]:n. 浸礼, 洗礼 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

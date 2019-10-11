@@ -14,6 +14,7 @@
 Pret A Manger, a British food and coffee chain, agreed to buy Eat, a smaller rival. It will sell vegetarian fare in most of its newly acquired outlets. Meanwhile, the death knell sounded for Britain’s casual-dining revolution with the collapse of the restaurant group founded by Jamie Oliver, a consistently chirpy celebrity chef. 
 Brazil’s foreign ministry bemoaned a decision by the international organisation that rules on internet addresses to award the .amazon domain name to Amazon. The mighty retailer first requested the use of the domain in 2012, but had to battle stiff opposition from a coalition of eight governments in the Amazon region that wanted the internet name for themselves. 
 Urban Outfitters joined the fashion for renting clothes by launching a service for female customers, who will be able to rent up to six items a month. Hiring clothes has been in vogue at the high end of the market for some time, but cheap-end retailers face falling sales and a rise in “wardrobing”—customers returning clothes after wearing them. The online market for renting clothes was worth $1bn in 2017 and is forecast to double by 2023. Urban Outfitters thinks its new service will assist in “a millennial’s quest for constant fashion newness”. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Brexit[]:[网络] 英国退出欧盟 
@@ -86,4 +87,6 @@
 68.online[]:[计] 联机 
 69.quest[kwest]:n. 探索, 寻求, 调查 v. 寻找, 找, 追寻猎物 
 70.newness['nju:nis]:n. 崭新, 新奇, 珍奇 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

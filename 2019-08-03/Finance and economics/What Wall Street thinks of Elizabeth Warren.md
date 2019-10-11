@@ -10,6 +10,7 @@
 With Ms Warren in the White House banks might face tougher regulation. That would be bad for business, but in ways that are easy to understand—and which would harm smaller banks more than the giants. And bankers reckon that Ms Warren’s more radical instincts could well be stymied by political gridlock. “If Elizabeth Warren is president,” says an executive at one private-equity firm, “my first question is: Did the Republicans keep the Senate?” 
 A second Trump term is harder to plan for. The trade war could have knock-on effects. And Mr Trump might replace Jerome Powell, the chairman of the Federal Reserve, a frequent target of his ire. Mr Trump’s picks for the Fed’s board have been unorthodox; a new chairman fitting that pattern could have a huge effect on bank regulation and the wider economy. 
 Faced with the prospect of either four more years of Mr Trump, or Ms Warren in the Oval Office constrained by a partly Republican Congress, a surprising number of bankers would opt for the latter. Still, many financiers are busy hosting fundraising dinners for Mr Buttigieg and Mr Biden, in the hope of putting a more palatable choice on the menu. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.elizabeth[i'lizәbәθ]:n. 伊丽莎白（女子名） 
@@ -49,4 +50,6 @@
 35.financier[fai'nænsiә]:n. 财政家, 金融家 vi. 从事欺骗性金融活动, 欺骗 
 36.fundraising['fʌndˌreɪzɪŋ]:n. 筹款, 募款 a. 筹款的 
 37.palatable['pælәtәbl]:a. 美味的, 好吃的, 可口的 [医] 适口的, 味美的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

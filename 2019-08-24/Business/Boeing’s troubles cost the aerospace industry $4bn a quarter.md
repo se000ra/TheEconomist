@@ -16,6 +16,7 @@
 The fiasco has already led the planemaker to postpone plans to develop a new twin-aisle plane to replace the ageing 757. Its share price has dropped by 25% in the past five months, wiping $62bn from its stockmarket value. It reported a record quarterly loss of $2.9bn in the three months to June, after it set aside $4.9bn for compensation for angry airlines. It may need to allocate more towards other contingencies. Southwest’s pilots have already sued Boeing for lost wages resulting from cancelled flights. Crash victims’ families are also preparing lawsuits. 
 Boeing can endure the financial pain for a while longer. Its duopoly with Airbus means that, in the short run, airlines and suppliers have little choice but to bear the costs stoically. Boeing’s chief executive, Dennis Muilenburg, appears confident that the MAX will be flying again before its commercial partners and investors run out of patience. 
 Many in the industry seem to share this conviction—regulators will not, the thinking goes, jeopardise Boeing’s future because the company is too big to fail. Perhaps. But the FAA, roundly criticised for being slower than other regulators to ground the plane, and earlier granting Boeing wide-ranging powers of self-certification, is in no mood to prove them right. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Tock[tɔk]:托科鸟 
@@ -96,4 +97,6 @@
 76.jeopardise[]:vt. 使受危险, 危及, 危害 [法] 使受危害, 使陷入危险, 危及 
 77.roundly['raundli]:adv. 圆圆地, 直率地, 严厉地, 全面地 
 78.criticise['kritisaiz]:v. 批评, 吹毛求疵, 非难 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

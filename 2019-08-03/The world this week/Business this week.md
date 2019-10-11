@@ -15,6 +15,7 @@
 InterContinental Hotels, which counts the Crowne Plaza and Holiday Inn brands among its assets, became the first global hotel business to stop supplying miniature toiletries in its rooms in order to cut down on plastic. It will instead provide shampoo and the like in larger receptacles across its more than 5,600 properties. See article. 
 Procter & Gamble recorded a big net quarterly loss after writing down the value of its Gillette shaving products business by $8bn. This was in part because of a “lower shaving frequency” in developed markets, as the fashion for beards (see picture) grows ever more popular among younger men. 
 The rivalry in the food-delivery market heated up with Takeaway.com’s $10bn proposed takeover of Just Eat. Takeaway operates mostly in Germany and eastern Europe, and Just Eat in Britain and western Europe; a merger would make them more competitive against Uber Eats and Deliveroo. Food-delivery drivers are also taking a bigger bite of the market; a survey this week found that more than a quarter of them in America had nibbled on customers’ orders. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.rainforest['rein'fɔrist]:[生态]雨林 
@@ -96,4 +97,6 @@
 77.takeaway[]:a. 外吃的, 外卖的 n. 外卖食品的餐馆, 外卖食品的商店 
 78.uber['ju:bә]:[医] 乳房 
 79.nibble['nibl]:n. 少量食物, 细咬, 轻咬, 啃 v. 一点一点地咬, 细咬, 吹毛求疵 [计] 半字节 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

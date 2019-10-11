@@ -12,6 +12,7 @@
 The voices found in the Beige Book are skewed towards businesses, who will tend to prefer an abundance of workers and resent the hassle of having to train up less-qualified recruits. The lack of excessive wage pressure and muted inflation have allowed a new set of stories to become more prominent. As part of recent “listening sessions”, union leaders and local development organisations have shared their tales about how the hot economy is forcing employers to pull in some of America’s most marginalised workers. In a speech on July 16th Mr Powell said he had heard “loud and clear” about the benefits of the long recovery for low- and moderate-income Americans. Previously the most prominent stories supported interest-rate increases. The newer ones highlight the risks of killing off the expansion. 
 If inflation were rising above the Fed’s 2% target, its leadership would be picking different tales to emphasise. And if, as investors expect, the Fed cuts interest rates at its next meeting on July 30th and 31st, Mr Powell will probably cite uncertainties about trade and global growth, as well as a downward drift in inflation expectations. (The latest Beige Book, published on July 17th, contains plenty to support him.) 
 But if Mr Powell wants some more anecdotes, he could pick them up from the rest of Mr Kashkari’s trip. A breakfast to discuss substance abuse included complaints from participants that, despite a local unemployment rate of merely 2.7%, employers were still being far too sniffy about hiring ex-felons. “They can stack shelves,” said one reproachfully. Such stories might mislead and they can easily be cherry-picked. But at the moment these anecdotes seem to be carrying more weight than complaints from employers. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.storytime[]:[网络] 故事时间；英文故事；看图讲故事 
@@ -67,4 +68,6 @@
 51.participant[pɑ:'tisipәnt]:n. 参加者, 参与者 a. 有份的, 参加的, 参与的 
 52.sniffy['snifi]:a. 傲慢的, 轻蔑的, 微臭的 
 53.reproachfully[rɪ'prəʊtʃfəlɪ]:adv. 责备地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

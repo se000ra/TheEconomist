@@ -10,6 +10,7 @@
 But Mr Subramanian sidesteps these two recent controversies, excluding the latest revisions from his analysis. Instead he concentrates his fire on a more fundamental technical change: a new method of calculating GDP, from 2011-12 onwards, that was adopted in early 2015. Much of the preparation for this switch dated back to the previous government. And one of the new method’s strangest results was an upward revision of growth in the tumultuous year before Mr Modi took office, when the economy was reeling from high inflation and capital outflows. That contradicts the charge of political interference. Why would Mr Modi’s government fiddle the figures to flatter its hated predecessor? 
 The new method may nonetheless suffer from other shortcomings. It may, for example, have failed to cope with the drop in oil prices in 2014. To illustrate: if an Indian company imports 10,000 rupees-worth of crude oil and adds 100 rupees of value to it, it might sell the refined product for 10,100 rupees. If the oil price subsequently halves, the company might try selling the same product for 5,110 rupees, boosting its margin. An unwary statistician might conclude that Indian prices have dropped dramatically. But the Indian part of the total (the only bit that matters for GDP) has increased in price (from 100 to 110 rupees). The confused statistician may then treat an increase in rupee profits as evidence of real growth, not merely higher prices. Such problems are less likely in more developed G20 countries, which keep better track of the prices of inputs. 
 As a check on his results Mr Subramanian searched for other outliers—countries growing much faster than alternative indicators would suggest. A big example is China, a familiar target of statistical scorn. During India’s spells of real and imagined miracle growth, it has often aspired to be the next China. In the production of dubious data, it is catching up fast.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.fable['feibl]:n. 寓言, 神话, 谎言 vi. 虚构, 作寓言 
@@ -54,4 +55,6 @@
 40.aspire[ә'spaiә]:vi. 渴望, 立志于 
 41.dubious['dju:biәs]:a. 可疑的, 不确定的 
 42.datum['deitәm]:n. 论据, 材料, 资料, 已知数 [医] 材料, 资料, 论据 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

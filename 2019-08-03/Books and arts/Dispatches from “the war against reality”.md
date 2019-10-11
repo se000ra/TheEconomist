@@ -10,6 +10,7 @@
 The personal experience on which Mr Pomerantsev draws for this book is partly vicarious, as he movingly weaves the story of his parents, Igor and Lina, into his narrative. As dissidents in Soviet Ukraine, they lived under claustrophobic censorship and the constant fear of arrest and interrogation; eventually they were exiled for possessing and circulating samizdat. They moved to London (via Austria and Germany), where Igor worked for the BBC’s Russian service, revelling in the freedom to say and think what he wanted. 
 The contrast between the tight regulation of information by repressive regimes in the 20th century, and the free-for-all of today’s media environment, gives the book its disconcerting force. Once authoritarian states concentrated on suppressing unwelcome news and opinions; now some also flood the zone with a million different takes. Once they pushed a monolithic ideology; now they shape-shift, so nobody knows what they stand for. In the past, propaganda often complemented military action; now fighting may be necessary only to provide images for propaganda. 
 “If you can’t convince them, confuse them,” is an old political motto. But the means for doing that so cheaply and widely are new. If politics in the television age had to feel like a movie, the trick now is to make it seem like an account of real life. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.dispatch[dis'pætʃ]:vt. 派遣 n. 派遣, 急件 [计] 调度 
@@ -88,4 +89,6 @@
 74.propaganda[.prɒpә'gændә]:n. 宣传, 宣传活动 [医] 宣传 
 75.complement['kɒmplimәnt]:n. 补足物, 补语, 补数 vt. 补充, 补足 [计] 补码; 反相器; 补数 
 76.cheaply['tʃipli]:adv. 便宜地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

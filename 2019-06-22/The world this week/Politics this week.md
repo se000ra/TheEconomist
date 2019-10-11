@@ -21,6 +21,7 @@
 Xi Jinping, China’s president, began a state visit to North Korea. It was the first time he had called on Kim Jong Un, the North’s dictator, (although Mr Kim has come to China to meet Mr Xi several times). The summit has been interpreted as a reminder to America that it will need China’s help to bring talks with North Korea on disarmament to a successful conclusion. 
 The four main reservoirs serving the Indian city of Chennai ran completely dry, leaving many homes and businesses without water. The city government has been drilling extra boreholes and sending water tankers to parched neighbourhoods. 
 Donald Trump blasted a news outlet on Twitter for exaggerating the length of an interview with him. But he lashed out at the wrong ABC, tagging the Australian Broadcasting Corporation instead of the American Broadcasting Company. The Aussie ABC responded with an image of a cheery talking koala. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Texas['teksәs]:n. 德克萨斯 
@@ -143,4 +144,6 @@
 118.Aussie['ɒ:zi]:n. 澳大利亚人, 澳大利亚 
 119.cheery['tʃiәri]:a. 愉快的 
 120.koala[kә'ɑ:lә]:n. 袋熊 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

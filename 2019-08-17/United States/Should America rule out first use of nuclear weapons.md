@@ -15,6 +15,7 @@
 In January Congressman Ted Lieu and Senator Ed Markey, both Democrats, reintroduced a bill, originally proposed in 2016, that would force the president to seek a congressional declaration of war (last done in 1942) with express approval for nuclear first use. Nancy Pelosi, the Democratic leader of the House of Representatives, endorsed the idea in 2017. 
 There are also wider efforts to prune the arsenal. Adam Smith, the chairman of the House Armed Services Committee and co-sponsor of Ms Warren’s NFU bill, has sought to cut funding for Mr Trump’s mini-nuke and to limit its deployment on submarines. To the Pentagon’s horror, he has also suggested scrapping America’s silo-based missiles, leaving the job to submarines and bombers. 
 Politicians should not expect clear guidance from voters. A survey in 2010 found that 57% agreed with Ms Warren that “the US should only use nuclear weapons in response to a nuclear attack by another nation.” Yet it turns out that Americans also quite like fire and fury. A paper by Scott Sagan of Stanford University and Benjamin Valentino of Dartmouth College, published in 2017, found that a clear majority approved of using nuclear weapons first if doing so would save the lives of 20,000 American soldiers—even if it killed 2m Iranian civilians. “The conventional wisdom around nuclear weapons remains strongly embedded,” says Jon Wolfsthal, director of the Nuclear Crisis Group and a former official in Mr Obama’s administration. “I am not sure there will be changes, but big changes are being discussed more openly now than in a long time.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -112,4 +113,6 @@
 93.jon[dʒɔn]:n. 乔恩（男子名） 
 94.wolfsthal[]: [人名] 沃尔夫斯塔尔 
 95.openly['әjpәnli]:adv. 公开地, 坦率地, 直率地, 公然地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

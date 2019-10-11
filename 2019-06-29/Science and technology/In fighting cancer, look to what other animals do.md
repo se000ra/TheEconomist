@@ -13,6 +13,7 @@
 These studies on elephants and whales are part of a larger effort in comparative oncology—some of it based at Arizona State University’s Arizona Cancer Evolution Centre (ACE). Researchers at ACE, including Dr Tollis and the centre’s director, Carlo Maley, are looking at cancer rates in 13,000 animal species, using more than 170,000 records of individual animals. This study is the first of its kind, and is intended to search for patterns that might explain resistance and susceptibility to tumours. To this end the researchers are casting their net wide. They have, for example, attempted to induce tumours in sponges that have no reported incidence of cancer. 
 Dr Tollis, Dr Maley and their colleagues will also search for tumour-suppressing genes in previously sequenced genomes available in public databases. These include about 65 species of mammal—some of which, such as naked mole rats, are noted for low cancer rates even though they are small compared with elephants and whales, and so do not seem to conform to Peto’s paradox. The search will also look at non-mammalian exceptions to the paradox, such as crocodiles and birds. Dr Tollis and Dr Maley speculate that birds, at least, inherited their cancer resistance from dinosaur ancestors which were much larger. They are working on computational models to test this hypothesis. 
 One novel aspect of all this research is its willingness to take the animals under study on their own terms. Medical science uses animals a lot—but almost always they are there to act as stand-ins for human beings, a role encapsulated in the word “model” that is often applied to such laboratory organisms. Comparative oncology explicitly rejects this idea. Instead, it studies a phenomenon, namely cancer and the body’s response to it, without prejudice, and only then attempts to draw medically useful lessons. Whether that approach might be extended to other fields of medicine is surely worth consideration.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.oncology[ɒŋ'kɒlәdʒi]:n. 肿瘤学 [医] 肿瘤学 
@@ -107,4 +108,6 @@
 90.encapsulate[in'kæpsәleit]:vt. 装入胶囊, 封进内部, 压缩 vi. 做成胶囊 
 91.explicitly[]:adv. 明确地；明白地 
 92.medically[]:adv. 医学, 医疗, 医术, 内科, 医药 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

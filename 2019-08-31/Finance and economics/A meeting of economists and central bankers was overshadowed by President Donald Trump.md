@@ -14,6 +14,7 @@
 The assembled central bankers uttered a chorus of complaints about the forces making their lives harder. Amir Yaron, the governor of the Bank of Israel, spoke of keeping interest rates very low for the past three years, but still seeing foreign capital slosh in as the Fed tightened, because investors regarded Israel as an emerging-market haven. The Fed’s moves were offset only partially by Israel’s monetary policy, he said. Participants from advanced economies also grumbled: Mr Carney called the dollar “domineering”. 
 In some ways, then, the Fed’s struggles to cope with the consequences of Mr Trump’s words and deeds echo the experiences of its counterparts in other countries, for which it is the Fed itself that is the unruly, unbiddable external force. But in other ways the comparison is unfair. The Fed is, after all, seeking to create the conditions for America’s economy to thrive. The more it succeeds, the better for everyone else. And sometimes it considers the spillover effects of its actions. Its decision in July to cut interest rates was motivated in part by concerns over “weak global growth”. 
 On August 27th Bill Dudley, a former president of the New York Fed, suggested in an opinion piece for Bloomberg that the Fed should not ease monetary policy in response to the trade war in case it emboldened Mr Trump’s protectionism and boosted his chances of re-election. It responded with a statement slapping down any idea that it had such political motives. America’s monetary policymakers certainly create problems for their counterparts elsewhere. But, unlike Mr Trump, they are not trying to. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.monetary['mʌnitәri]:a. 货币的, 金钱的 [经] 货币的, 金融的 
@@ -98,4 +99,6 @@
 80.embolden[im'bәuldn]:vt. 使大胆, 使有胆量 
 81.protectionism[prә'tekʃәnizm]:n. 贸易保护主义, 贸易保护制 [经] 保护(贸易)主义, 保护(贸易)制 
 82.slap[slæp]:n. 掴, 掌击, 侮辱, 拍击声 v. 拍击, 惩罚 adv. 正面地, 直接地, 突然地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

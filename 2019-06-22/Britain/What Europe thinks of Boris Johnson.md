@@ -10,6 +10,7 @@
 Yet diplomats on the continent say the EU cannot possibly betray Ireland by allowing Mr Johnson to ditch the backstop. This would set a dreadful example to other small EU members. It would also be damaging to offer concessions that were refused for Mrs May to an aggressive bargainer, who is threatening to renege on his debts. They add that, when the deadline was extended to October 31st, a condition was that the withdrawal agreement could not be reopened. The notion of adding soothing sentences to the political declaration about the future relationship is fine, but many doubt this would be enough to secure parliamentary approval. 
 How firm is the deadline? On the one hand, it has already been extended twice because nobody wanted no-deal, so the same could presumably happen again. On the other, there is growing exasperation all round the EU. Enrico Letta, a former Italian prime minister now at Sciences-Po in Paris, says several countries now see Brexit as a virus that could infect the entire system unless it is brought to an end. Several diplomats say a further extension would only be agreed for a specific event such as an election or another referendum. 
 Mr Johnson has in the past ruled out seeking another extension. But the EU knows a majority of MPs are against no-deal. And time is extremely short, since nothing serious will be done before the Tory party conference in early October, just four weeks before the deadline. The autumn promises to be extremely busy. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.rosbif[]:[网络] 烤牛肉 
@@ -74,4 +75,6 @@
 60.letta[]: [地名] [喀麦隆] 莱塔 
 61.MP[]:国会议员, 下院议员 [计] 宏处理程序, 维护程序, 线性规划, 微程序, 多处理器 
 62.Tory['tɒ:ri]:n. 托利党党员, 保守党员, 亲英分子 a. 保守分子的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

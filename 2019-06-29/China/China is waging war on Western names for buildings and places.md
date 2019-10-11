@@ -7,6 +7,7 @@
 That was the year Xi Jinping took over as China’s leader. Since then Mr Xi has been waging a campaign against Western influence and to instil “cultural confidence”. Hainan issued its directive in response to one published late last year by several central ministries on the “rectification” of foreign names as well as “strange” or “exaggerated” ones. Examples given by the ministries included the phonetic renderings in Chinese of foreign names as well as Chinese names using Roman letters. Provinces have been dutifully producing blacklists like Hainan’s. 
 The campaign has triggered an outcry online. One blogger wondered whether a subway station in Shanghai called Dishini, or Disneyland, after a nearby theme park, would have to be renamed. Others worried that the new policy might harm firms with foreign-sounding names, or result in clumsy efforts to translate Western names into Chinese rather than using phonetic approximations. To restore calm, the Ministry of Civil Affairs warned against “random expansion” of the purge. 
 Mr Xi’s efforts are unlikely to achieve much. Wang Yahuang, a columnist, put it well in an article published by China Business Online, a state-owned website: “Cultural confidence does not stem from restriction. Genuine cultural confidence presents fearlessness to external cultures.”◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.nominal['nɒminl]:a. 名义上的, 名字的, 有名无实的, 稍许的 n. 名词性词 
@@ -45,4 +46,6 @@
 34.online[]:[计] 联机 
 35.cultural['kʌltʃәrәl]:a. 文化的, 教养的, 修养的 [医] 培养的 
 36.fearlessness['fɪələsnəs]:n. 无畏, 勇敢 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

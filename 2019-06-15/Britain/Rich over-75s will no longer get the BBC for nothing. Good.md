@@ -7,6 +7,7 @@
 The organisation says that to foot the bill, which is estimated to reach £745m by 2021-22, it would probably have to scrap four TV channels, as well as national and local radio stations. Instead it will continue the giveaway only for households where at least one person is poor enough to receive pension top-ups, which covers about a fifth of pensioners. 
 Conservative leadership candidates have vociferously defended the right of well-off OAPs to watch TV for nothing (unsurprisingly, since they make up so much of the Tory party). But the plan hardly came as a surprise. When the decision to pass responsibility for the bill to the BBC was taken in 2015, Sir Christopher Bland, a former BBC chairman, described it as “the worst form of dodgy Whitehall accounting”. It was clear that the oldies’ exemption was unsustainable. Costs will continue to rise as the population ages, leaving younger viewers of all income levels footing the bill for a service given free of charge to some of its heaviest users. 
 Ministers want the BBC to be more commercially minded in its battle for eyeballs with American behemoths like Apple, Amazon and Netflix (which last year spent $12bn on programmes). Expecting it simultaneously to act as an arm of the welfare state, redistributing from young to old, never made much sense. Not that it will be any consolation to the burghers of Middle England, preparing for a stint behind bars.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.V[vi:]:[计] 溢出, 变量, 向量, 检验, 虚拟, 垂直 [医] 钒(23号元素) 
@@ -45,4 +46,6 @@
 34.consolation[.kɒnsә'leiʃәn]:n. 安慰, 令人安慰的事物 [法] 安慰, 慰问 
 35.burgher['bә:gә]:n. 公民, 市民 
 36.stint[stint]:vt. 节省, 限制, 停止 vi. 节约 n. 吝惜, 节约, 限额 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

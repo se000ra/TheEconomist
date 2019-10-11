@@ -11,6 +11,7 @@
 Whoever becomes governor, they will need to work to dismantle the system of patronage that has built up over years. Apart from the practice of favouring allies with government contracts, politicians have a habit of replacing officials across the government machinery with their own cronies every time there is a transfer of power. That means a loss of expertise each time. 
 The new governor will not find things easy. Reform is not always popular, especially in the public sector, which is a sore point for many Puerto Ricans. The protests that helped push out Mr Rosselló could easily restart. Traditionally Puerto Rico’s people have split between those who support statehood and those who are happy to see it remain a commonwealth, under American jurisdiction but with no vote in Congress. But anger with the government has unified both sides. 
 For now, the mood on the island is elation. “People are not sleeping any more”, says Gerardo Alvarado León, a reporter for El Nuevo Día, a newspaper, fresh from his first solid night’s sleep in weeks. But when the buzz fades, Puerto Ricans will need to find other ways to keep up the pressure. Ending graft will require deep civic engagement. The creativity shown in the protests will go far. After years of tolerating corruption, Puerto Ricans have decided they will no longer put up with it. They need a leadership which agrees. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Puerto[]:n. 垭口, 港口, 山口 n. (Puerto)人名；(西)普埃尔托 
@@ -101,4 +102,6 @@
 86.graft[grɑ:ft]:n. 嫁接, 贪污 v. 嫁接, 移植, 贪污 
 87.civic['sivik]:a. 市的, 市民的, 公民的 [法] 公民的, 市民的, 公民资格的 
 88.engagement[in'geidʒdmәnt]:n. 诺言, 约会, 婚约, 交战 [医] 衔接 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

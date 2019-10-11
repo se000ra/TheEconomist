@@ -8,6 +8,7 @@
 Prompt use after infection is vital. Overall, 29% of those receiving REGN-EB3 died. But of people treated when their viral loads were still low only 6% succumbed. For mAb114 the numbers were 34% and 11% respectively—superficially worse, but actually indistinguishable, statistically speaking, from the results for REGN-EB3. Two other candidates had significantly worse figures than these, and were therefore rejected by the overseers. 
 Both REGN-EB3 and mAb114 have histories. Regeneron developed the former in 2016, in response to an Ebola epidemic in West Africa in which 11,000 people died. But that outbreak came to an end before the treatment could make its way into clinics, and until now there has been no opportunity to test it. The story of mAb114 goes back even further. Its pertinent antibody was isolated from a survivor of an epidemic of Ebola in the DRC in 1995. 
 Both treatments will now be deployed in the field—but, given the smallish size of the trial that approved them, doctors will be looking closely at their relative efficacies to determine whether, in light of more data, one is actually better than the other. Regardless of that, effective treatment will surely help break the epidemic directly, by stopping those cured passing on the virus. And it may help indirectly, too. At the moment, those who have become infected, seeing others go into clinics alive only to leave in coffins, are understandably reluctant to follow suit. That means they remain in their homes and spread the illness to others. The prospect of going to a clinic for a cure will change this, and thus help also to break the chain of transmission. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ebola[i'bəulə]:n. 埃博拉病毒 
@@ -49,4 +50,6 @@
 37.indirectly[]:adv. 间接, 曲折, 迂回, 不直截了当, 不诚实, 不坦率 [计] 间接地 
 38.coffin['kɒfin]:n. 棺材, 灵柩 vt. 把...装进棺材 
 39.understandably[]:adv. 可懂, 可了解, 可理解 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

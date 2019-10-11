@@ -9,6 +9,7 @@
 The pet business is growing even faster than pet numbers, because people are spending more and more money on them. No longer are they food-waste-recyclers, fed with the scraps that fall from their masters’ tables. Pet-food shelves groan with delicacies crafted to satisfy a range of appetites, including ice cream for dogs and foods for pets that are old, diabetic or suffer from sensitive digestion; a number of internet services offer bespoke food, tailored to the pet’s individual tastes. 
 In the business this is called “pet humanisation”—the tendency of pet owners to treat their pets as part of the family. This is evident in the names given to dogs, which have evolved from Fido, Rex and Spot to—in America—Bella, Lucy and Max. It is evident in the growing market for pet clothing, pet grooming and pet hotels. It is evident in the demand for breeds such as the French bulldog, which, tellingly, looks a bit like a human baby. 
 People still assume that pets must be working for humanity in some way, perhaps making people healthier or less anxious. But the evidence for that is weak. Rather, new research suggests that canines have evolved those irresistible “puppy-dog eyes” precisely to manipulate human emotions. It has worked. The species that once enslaved others now toils to pay for the care of its pets, which lounge on the sofa waiting to be taken to the grooming salon. Sentimental Americans often refer to themselves not as cat-owners but as the cat’s “mommy” or “daddy”. South Koreans go one further, describing themselves as cat “butlers”, pandering to every feline whim. Watch a hapless dog-walker trailing “his” hound, plastic bag in hand to pick up its mess, and you have to wonder: who’s in charge now?◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Canis['keinis]:n. 犬属 
@@ -81,4 +82,6 @@
 68.whim[hwim]:n. 一时的兴致, 冲动, 怪念头, 绞盘 
 69.hapless['hæplis]:a. 倒霉的, 不幸的 
 70.hound[haund]:n. 猎犬 vt. 带猎犬狩猎, 追捕, 激励, 使追逐 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

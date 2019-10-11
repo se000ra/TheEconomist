@@ -8,6 +8,7 @@
 “Without order there is chaos,” Pacioli observed in a breezy style that is still in vogue in business books today. His manual is stuffed with quotes from scripture and Dante and pithy advice such as “Don’t learn from ignoramuses who have more leaves than grapes.” He wrote the accounting chapter to help would-be traders in Venice, then the capital of the financial world, “sleep easily at night”. Without double-entry book-keeping, “their minds would keep them awake with worry”. He could not suspect that what might be called “Book-keeping for Dummies” would become the backbone of business for centuries. 
 Like many monumental works of 15th-century printing, Pacioli’s treatise has survived in its original form. Some 120 copies still exist, from an initial run of about 1,000. Now today’s moguls have a chance to own this first folio of finance. Christie’s, the auction house, is offering a first edition in the original vellum binding for sale in New York on June 12th. The starting price is $1m for what it unabashedly calls “the most influential work in the history of capitalism”. 
 Pacioli’s later life augments the glamour of the first printed use of “plus” and “minus” signs. Impressed by the book, Leonardo da Vinci convinced his patron Lodovico Sforza to hire Pacioli to teach at the court of Milan. Pacioli and Leonardo collaborated on the treatise “Divina Proportione”, which married maths with art through the study of perspective. Not one, but two Renaissance masters were thus responsible for the exquisite harmony of “The Last Supper”. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.folio['fәuliәu]:n. 对开纸, 页码, (原稿的)一页 a. 对折的, 对开的 vt. 编页码 
@@ -64,4 +65,6 @@
 52.divina[]: [地名] [斯洛伐克] 迪维纳 
 53.renaissance[ri'neisәns]:n. 复活, 复兴, 文艺复兴 a. 文艺复兴的 
 54.exquisite['ekskwizit]:a. 精致的, 细腻的, 敏锐的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

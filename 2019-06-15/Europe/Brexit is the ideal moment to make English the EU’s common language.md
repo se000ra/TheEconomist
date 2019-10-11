@@ -11,6 +11,7 @@
 The choice is ultimately not between an Anglophone Europe and a truly polyglot Europe but between wishful thinking and realism. Nicolas Véron, a French economist in Brussels, notes that English is already in effect the working language of the EU; a development that helped him and others set up Bruegel, one of the first genuinely pan-EU think-tanks, in 2005. Some 97% of 13-year-olds in the EU are learning English. The number of English-language university courses has risen from 725 in 2002 to over 8,000. Continent-wide political movements work overwhelmingly in English: the website and social-media accounts of Fridays for Future are in English, as are those of the right-populist Identitarian movement. At a rally of nationalist leaders in Milan before the European elections, Finnish, Danish, Dutch, Czech and German leaders all addressed the Italian crowd, to cheers, in English. 
 Formally acknowledging such realities would enable the EU and national governments to focus more resources on spreading English skills. Resources—some perhaps freed by shrinking the EU’s mammoth translation operation—could go towards teaching the language to older and less-educated workers. It would spur more media organisations to publish in English and thus nurture the emergence of a genuinely pan-European media. 
 The biggest barrier is symbolic. “The language of Europe is translation,” wrote Umberto Eco, an Italian author. The EU is proud of its everyday multilingualism, which becomes more fluent and accessible with every year as the use of machine translation tools grows. Yet the adoption of English as a common language should be seen not as a challenge but as a complement to this tradition. Europe is about diversity, and its patchwork of languages and dialects must be promoted and protected. But it is also about the sort of unity that is possible only with a common tongue, even imperfectly spoken. Universalising English while upholding the EU’s native languages would be not a betrayal of the cosmopolitan European ideal, but its affirmation. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Charlemagne['ʃɑ:lә'mein]:查理曼大帝(742-814, 世称 Charles the Great或Charles I, 768-814为法兰克王, 800-814为西罗马帝国皇帝) 
@@ -113,4 +114,6 @@
 98.betrayal[bi'treiәl]:n. 背叛, 辜负 [法] 背叛, 通敌, 背信 
 99.cosmopolitan[,kɔzmә'pɔlitәn]:a. 世界主义的, 世界性的, 全世界的, 遍生的, 不偏狭的, 卓有见识的 n. 世界主义者, 世界性 
 100.affirmation[.æfә'meiʃәn]:n. 肯定, 断言, 证实 [医] 肯定, 确认 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

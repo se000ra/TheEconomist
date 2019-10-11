@@ -9,6 +9,7 @@
 ![image](images/20190824_FNC635_0.png) 
 Messrs Setzler and Tintelnot also find that the boost to wages from working at a foreign-owned firm is skewed in favour of the highly skilled. They derive a measure of skills by adjusting pay for age, firm, industry and location. Based on that measure, people in the bottom 10% of the skills distribution saw no pay premium at all for working at a foreign-owned company. 
 The researchers also ask whether a firm’s country of origin might matter for the wage premium on offer. Unsurprisingly, richer home countries tend to mean fatter American pay packets. Companies from Norway and New Zealand pay best; those from Mexico and Taiwan give barely any premium. Only one country seems to offer a pay penalty (see chart). On average, they calculate that between 2010 and 2015, Chinese-owned firms paid around 4% less than American ones for similar jobs. That is not a huge gap—certainly compared with the drop in Ms Rosser’s hourly pay between GM and Fuyao Group. But when you are not paid a lot, it is big enough to hurt.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.multinational[.mʌlti'næʃәnl]:a. 多国的, 跨国公司的 n. 跨国公司 
@@ -48,4 +49,6 @@
 35.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
 36.hourly['auәli]:a. 每小时的, 以小时计的, 频繁的 adv. 每小时地, 频繁地, 不绝地 
 37.GM[]:通用汽车公司, 总经理, 导弹 [经] 通用汽车公司 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

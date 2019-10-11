@@ -17,6 +17,7 @@
 The trade fight has reverberated globally. America’s Treasury had already expanded the list of countries it is monitoring for signs of currency manipulation. None of the countries listed met all three of the Treasury’s criteria (a large bilateral surplus with America, a material overall surplus and persistent currency intervention by the central bank). But then, neither did China. The definition of manipulation is, it seems, highly manipulable. 
 One of the currencies most affected has been Japan’s yen. A haven in troubled times, it rose sharply after Mr Trump’s surprise announcement. A strong yen makes it harder for Japan’s central bank to revive inflation, especially as its interest rates already lie below zero. Although Japan has not intervened directly in the currency markets since 2011, its officials are watching the yen’s rise with alarm. If the currency strengthens closer to the psychological threshold of 100 to the dollar, Japan’s authorities might feel compelled to act. Currency wars can also be the continuation of monetary policy by other means. 
 Nor has Europe escaped. Industrial production in Germany fell by 5.2% in the year to June. “Foreign macro shocks” account for about two-thirds of Germany’s slowdown since 2017, according to Goldman Sachs. European banks, including ABN AMRO, Commerzbank and UniCredit, this week warned of squeezed interest margins, rising provisions or flagging revenues. In a recent economic bulletin, the European Central Bank worried that trade uncertainty had delayed global investment, damaging European exports of manufacturing, machinery and transport equipment. In a globalised economy, everything is a continuation of everything else.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.escalate['eskәleit]:vi. 逐步扩大, 逐步升高, 逐步增强 vt. 使逐步上升 
@@ -125,4 +126,6 @@
 104.bulletin['bulitin]:n. 公告, 布告, 公报 [电] 电子布告栏 
 105.machinery[mә'ʃi:nәri]:n. 机器, 机械装置, 机构 [化] 机械 
 106.globalise[]:使全球化（英式英语） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 Not all policies were mis-sold, but plenty were. Borrowers were told that they could have credit only with PPI. Some probably did not know they were paying for it, because premiums were quietly bundled in with interest payments. Some who made insurance claims were rejected, for example because they were self-employed or because their medical history ruled them out. Commissions bulked up premiums. At one bank, notes Mr Lindley, an adviser’s bonus for selling a loan with PPI was six times as much as for one without it. A ruling by the Supreme Court in 2014, that large undisclosed commissions on PPI policies breached consumer-protection law, exposed the banks to further claims. 
 Claims-management firms, which seek out policyholders and take a cut of any proceeds, have done nicely out of the scandal, even though the FCA and the Financial Ombudsman Service (FOS), another watchdog, have advised claimants to contact lenders directly. Britons have been irritated by calls and texts from claims companies even more than by Mr Schwarzenegger’s fizzog. 
 Banks are hoping that claims will now dry up. But rejected claimants can appeal to the FOS for another six months and claims firms still hope to pursue some through the courts. In any case, the financial-services industry—which came up with endowment mortgages and fiendish interest-rate hedges as well as PPI—will surely supply another outrage eventually, if on a less spectacular scale. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.hasta[]:prep. （西）直到 
@@ -62,4 +63,6 @@
 47.outrage['autreidʒ]:n. 暴行, 侮辱, 愤怒 vt. 凌辱, 虐待, 触犯 
 48.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
 49.spectacular[spek'tækjulә]:a. 公开展示的, 惊人的, 壮观的 n. 奇观, 惊人之举, 展览物 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

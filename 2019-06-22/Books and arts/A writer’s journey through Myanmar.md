@@ -9,6 +9,7 @@
 Mr Eimer backs his reporting with historical research, mostly focused on colonialism and its aftermath. He charts the litany of errors made by the British, the effects of which endure. They appeared to promise autonomy to minority groups if they fought on the British side against the Japanese and the Bamar (the majority ethnic group) in the second world war. Many of the repressive laws they introduced remain on the statute books. They employed Indians to do many jobs instead of locals, stirring anti-immigrant sentiment. He quotes a British adviser in the 1940s who encapsulated a purblind view of the Burmese as lazy and easy-going: “The Burman was a happy-go-lucky sort of chap, the Irishman of the east, free with his smiles.” 
 The character who appears most frequently is George Orwell, who was based in Burma as a reluctant “colonial enforcer”; his grandmother was born in the country. Mr Eimer reverentially visits the family home. He cites Orwell’s work on Burma and sketches its background. 
 This homage inadvertently highlights the contrast between Orwell’s lean prose and “A Savage Dreamland”, which, for all its gripping vignettes, can be baggy and repetitive. Sometimes Mr Eimer relies too heavily on anecdote and supposition. Perhaps this is a risk of charting such a wildly varied country. In “Shooting an Elephant”, a short story set in Burma, Orwell writes that, in East Asia, “a story always sounds clear enough at a distance, but the nearer you get to the scene of events the vaguer it becomes.” Mr Eimer’s book takes readers closer to his fascinating subject, and leaves some of its mysteries unsolved. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Myanmar['mjænmɑ:(r)]:缅甸[东南亚国家](即Burma) 
@@ -88,4 +89,6 @@
 75.vaguer[veiɡə]:a. 模糊的( vague的比较级 ); （思想上）不清楚的; （表达或感知）含糊的; 不具体的 
 76.fascinate['fæsineit]:vt. 令人入神, 使着迷 vi. 入迷 
 77.unsolved['ʌn'sɔlvd]:a. 未解释的, 未解决的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 Other opponents of widening argue against admitting more eastern European countries in which democracy and the rule of law are weak. Bulgaria’s accession, it is said, has allowed its numerous criminal gangs free access to the union. That is a fair objection for Albania, with which the commission is also proposing membership talks after its progress in other areas. But not for North Macedonia which has been doing well under Mr Zaev. 
 The commission’s original hope was for ministers to approve the two candidates’ EU bids at a meeting on June 18th. But resistance from MPs in Angela Merkel’s Christian Democratic Union makes that improbable: she needs a mandate from parliament before she can agree. A special summit could be called in July were North Macedonia’s bid sure to pass. But the Bundestag will soon begin its summer break, and another opportunity will not arise until October. By then the habit of delay may have become ingrained. 
 Such treatment would be shabby, and dangerous. North Macedonia’s opposition is ready to pounce at any sign of failure. And by autumn Greece may well have a new centre-right government that will face strong pressure from anti-Prespa voters to stall the talks. More broadly, for the EU to break its promise to one Balkan state will boost leaders in others who say the Europeans cannot be trusted, and other powers sniffing around, from Russia to China to Turkey, will take note. Conversely, opening talks with North Macedonia will strengthen the hand of pro-European reformers throughout the Balkans. Starting talks does not commit anyone to concluding them, as Turkey knows only too well. To reject North Macedonia without even trying to reach an agreement would be cruel, self-defeating and wrong. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Balkan['bɒ:lkәn]:a. 巴尔干的 
@@ -63,4 +64,6 @@
 50.cannot['kænɒt]:aux. 无法, 不能 
 51.reformer[ri'fɒ:mә]:n. 改革家, 改革运动者 [化] 转化炉; 转化器; 重整器; 重整炉 
 52.Balkan['bɒ:lkәn]:a. 巴尔干的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

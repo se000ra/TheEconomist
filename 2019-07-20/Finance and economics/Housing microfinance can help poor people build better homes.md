@@ -11,6 +11,7 @@
 Unlike business loans, which can be paid back out of greater profits, lending for housing creates no obvious income stream. But home ownership frees borrowers from paying rent. And some borrowers use loans to build rental units, shops or even schools. “Think of the house as a place from where the household earns money,” says Kecia Rust of the Centre for Affordable Housing Finance in Africa, a think-tank. 
 Habitat for Humanity recently commissioned two evaluations of microfinance products it had developed with lenders in east Africa. In Uganda, the likelihood that a household had a separate kitchen rose by 22% after taking out a loan. In Kenya, borrowers upgraded their roofs and walls. In both cases satisfaction with housing rose, though stress levels and school attendance were unchanged. Repayment rates have been high. “We’ve proved there’s a business case,” says Kevin Chetty of Habitat. 
 Microcredit is expensive, because lenders must assess risk and monitor repayment on even the tiniest amount. Housing loans are usually larger than business ones, so processing them is proportionally cheaper. But they also have longer maturities, which means lenders must chase scarce long-term funding. Throw in ponderous law courts and weak competition, and annual interest rates typically reach 20-35%. Some homebuilders are certainly eager for credit. But until such structural problems are addressed, others will keep doing things the old way—even if that means waiting longer to put a decent roof over their heads. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.microfinance[]:n. 小额信贷 
@@ -77,4 +78,6 @@
 62.ponderous['pɒndәrәs]:a. 沉重的, 笨重的, 毫无趣味的, 生硬的 
 63.typically['tipikәli]:adv. 代表性地；作为特色地 
 64.homebuilder['həʊm,bɪldə]:n. 住宅设计家；住宅建筑公司；住宅建筑商 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

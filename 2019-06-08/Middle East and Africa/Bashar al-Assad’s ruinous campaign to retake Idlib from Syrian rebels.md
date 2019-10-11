@@ -11,6 +11,7 @@
 Russia also doubts the capabilities of the Syrian army, which has demonstrated tactical incompetence time and again throughout the eight-year war. In late May, after the regime won a string of victories, rebels launched a surprise counter-attack on the village of Kafr Naboudeh. The Syrian troops garrisoned there were well-equipped and dug in. But they beat a disorganised retreat and left behind a cache of heavy weapons that were quickly turned on other regime troops. 
 None of this changes the strategic picture in Syria. Opposition supporters talk about a rebel counter-offensive emerging from Idlib. This is wishful thinking. Though they can harass the regime, their numbers are too small to retake much ground—and they are too radical to win much foreign support. 
 The question is simply how much suffering will be inflicted on Idlib. Mr Assad seems emboldened to retake the last bit of his country (never mind that what he controls is largely in ruins). Mr Putin is losing patience with rebels who have also shelled Russian bases in Syria. On June 3rd he blocked a statement in the UN Security Council that urged combatants to protect civilians in Idlib. But he may not want to damage his ties with Mr Erdogan over what will be a ruinous offensive. The two plan to meet later this month on the sidelines of the G-20 summit. As ever, the future of Syria will not be in the hands of Syrians. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.misery['mizәri]:n. 痛苦, 悲惨, 不幸, 穷困 
@@ -85,4 +86,6 @@
 70.UN[ʌn]:pron. 家伙, 东西 [经] 联合国 
 71.combatant['kɒmbәtәnt]:n. 争斗者, 格斗者 [法] 战斗者, 参战者 
 72.sideline['saidlain]:n. 副业, 旁线, 界线, 兼职, 旁观者看法 vt. 使退出比赛场地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

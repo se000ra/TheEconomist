@@ -10,6 +10,7 @@
 Just as they do to the seas in their path, hurricanes can change river levels. When Katrina churned through Louisiana the river level shot up from less than four feet to nearly 16 in the city, not enough to threaten the river levees, but close. Early forecasts had said that Barry might raise the Mississippi by four feet. That would have been enough to reach the tops of some of the city’s levees. Scientists are still trying to understand how the extra force a high river has might counteract the opposing surge a powerful hurricane carries. But had Barry been a monster like Katrina, or even a less-catastrophic storm like Gustav in 2008 or Isaac in 2012, it is likely that the flood defences along the river would have failed. 
 New Orleanians are used to thinking about stacked threats, for instance the possibility that a slow-moving hurricane could dump tons of rain, flooding the city from within even as a storm surge menaces from without. Barry introduced a new one: a high river in the summer, pushed over its banks by a hurricane. This new menace showed itself even though the Corps of Engineers has taken steps this year to lower the height of the river. The Bonnet Carre Spillway, a man-made sluice about 30 miles upriver from New Orleans that diverts water to Lake Pontchartrain, is not put into service in most years. This year, it has been open for 120 days, a new record. And yet the river remains high. 
 For New Orleanians, the brush with Hurricane Barry was a reminder that their city has been made more vulnerable by global warming, which brings rising seas and an increased likelihood of powerful hurricanes. Oil and gas exploration has hastened the erosion of the wetlands that once protected the region. And the river’s levees, while keeping the Mississippi in its banks, have starved the delta of sediment and led it to sink more quickly. Engineers and academics are starting to talk about ways to diminish the river’s flow safely in the future—by creating new reservoirs upstream, or perhaps restoring wetlands. While those questions are debated, New Orleanians will be keeping an eye on their mighty river, which is expected to remain well above its usual height as the peak of hurricane season approaches. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Barry['bæri]:n. 巴里（男子名） 
@@ -67,4 +68,6 @@
 53.reservoir['rezәvwɑ:]:n. 贮水池, 贮藏处, 贮备, 水库 vt. 储藏 
 54.upstream['ʌp'stri:m]:adv. 向上游, 逆流地 a. 向上游的, 逆流而上的 
 55.mighty['maiti]:n. 有势力的人 a. 有势力的, 强大的, 有力的 adv. 很, 极 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

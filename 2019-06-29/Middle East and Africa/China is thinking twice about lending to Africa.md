@@ -16,6 +16,7 @@
 Kenya’s railway has had its critics from the outset. Corruption made it a ludicrously expensive venture, costing twice the international average per kilometre of track. The railway’s freight-carrying capacity was miscalculated and has proved to be only 40% of what was predicted. It was meant to be cheaper to ship goods up the line than send them by road. Even though the opposite has proved true, Mr Kenyatta’s government has forced all containers coming out of the port onto the railway. Hapless traders in Mombasa have to pay for goods arriving by sea to be sent to Nairobi and back again as a result. China seems to have belatedly realised that throwing good money after bad would be an error. 
 So it is embracing caution instead. When Mr Kenyatta and his delegation arrived in Beijing in May, they were treated to an unfamiliar experience, according to a presidential adviser. The Kenyans were questioned not only about their sums, but about corruption. Mr Kenyatta was asked how he would afford a census and a referendum on constitutional change. The Chinese even wanted to know if he planned to stand for office again (he is obliged to stand down in 2022). “It was like talking to the World Bank,” grumbled another aide. 
 Mr Kenyatta did not return from Beijing empty-handed. He agreed to export avocados to China and won funds for a data centre and a road connecting Nairobi’s suburbs to its airport. Such laudably modest deals should be celebrated. Mr Xi might not be about to champion human rights, but China’s shift closer to Western lending standards is a step in the right direction. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -116,4 +117,6 @@
 96.avocado[.ævәu'kɑ:dou]:n. 鳄梨, 鳄梨树 
 97.datum['deitәm]:n. 论据, 材料, 资料, 已知数 [医] 材料, 资料, 论据 
 98.laudably['lɒ:dәbli]:adv. 值得赞赏地, 可佩地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -13,6 +13,7 @@
 Versailles failed chiefly because it was being asked to finish the job that the exhausted Allied armies had left unfinished. Unlike France and Belgium, Germany ended the war with its factories and mines intact. Germans felt undefeated. Upended by the Depression and goaded by Hitler, they were ready to take up arms again. 
 In her memoirs Elizabeth Wiskemann, a correspondent for The Economist, describes how she met Keynes in London in 1936: 
 A full list of sources for this article is available here. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ally['ælai. ә'lai]:n. 同盟者, 同盟国, 助手 vt. 使联盟, 使联合, 使有关系 vi. 结盟 
@@ -87,4 +88,6 @@
 70.memoir['memwɑ:]:n. 传记, 实录, 追思录, 回忆录, 自传 [化] 研究报告 
 71.elizabeth[i'lizәbәθ]:n. 伊丽莎白（女子名） 
 72.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

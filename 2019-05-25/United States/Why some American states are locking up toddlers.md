@@ -9,6 +9,7 @@
 According to Dr Sufrin’s study, as of December 2016, 3.8% of newly admitted women prisoners were pregnant. In 1976 the Supreme Court ruled that states must provide health care for prisoners, but what that means in practice varies, particularly for pregnant women. They are sometimes shackled while giving birth—a practice that often continues, according to Amy Fettig, a lawyer with the American Civil Liberties Union, even after states outlaw it. 
 New York opened the first prison nursery in 1901; today 11 states have them. Admission rules vary, but in general women convicted of child-related or violent crimes are ineligible, as are women with behavioural or mental-health problems, or with a poor disciplinary record in prison. To be accepted into Washington state’s scheme, women must be pregnant at the time of their imprisonment and have less than 30 months to serve from the time of delivery; mothers and children are released together. 
 Prison nurseries seem to be the best of several bad options facing pregnant inmates. Researchers have found that they are associated with lower rates of reoffending, compared with women forced to give up their children, and with fewer behavioural and disciplinary problems than among women in the general prison population. But whether that is because of the programmes, or because women capable of complying with the strictures that prison-nursery programmes impose were heading down the right path anyway, is unclear. That raises another question. “If women meet these conditions, what are they doing in prison?” wonders Dr Sufrin. “I think it’s essential to find ways to maintain family bonds. I just think we need to do it in ways that don’t involve barbed wire.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.childcare['tʃaildkεә]:n. 儿童照管；儿童保育 
@@ -47,4 +48,6 @@
 34.stricture['striktʃә]:n. 狭窄, 指责, 束缚 [医] 狭窄 
 35.unclear[.ʌn'kliә]:a. 不易了解的, 不清楚的, 含混的 
 36.barbed[bɑ:bd]:a. 有倒刺的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -14,6 +14,7 @@
 It did not help that Labor’s leader, Bill Shorten, is unpopular. (He stood down immediately after the election as head of the party, but will stay in parliament.) Mr Morrison is hardly beloved either. But he adopted a studied everyman persona, which seems to have gone down better than Mr Shorten’s equally studied efforts to look statesmanlike. 
 The Liberals were too divided to agree on a substantial platform. Mr Morrison’s only notable pledge was to lower income taxes. He focused instead on accusing Labor—quite implausibly—of imperilling the economy with its plans to cut emissions and close tax loopholes that benefit the wealthy. Those reforms frightened pensioners and owners of investment properties, in particular. Many of them turned on Mr Shorten. 
 This may be the last time an opposition party tries “a big-ticket campaign”, says Anne Tiernan of Griffith University. But now the campaign is over, Mr Morrison has a chance to be more ambitious than his bland campaign suggested. The defeat of Mr Abbott, the leader of the Liberals’ right wing, gives the prime minister an opportunity to pull the government back to the centre, argues John Hewson, another former Liberal leader. Whether he will take it is anyone’s guess. Having saved the party from disaster, without making many clear pledges, he has far more room for manoeuvre than his recent predecessors. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.coalition[.kәuә'liʃәn]:n. 结合体, 结合, 联合 [经] 联合, 联盟 
@@ -99,4 +100,6 @@
 81.Hewson[]:n. (Hewson)人名；(英)休森 
 82.manoeuvre[mә'nu:vә]:n. 调遣, 演习, 策略 vi. 调动, 演习, 用策略 vt. 调动, 操纵 
 83.predecessor[.predi'sesә]:n. 前任, 先辈, 前身 [医] 初牙, 前辈, 祖先 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -22,6 +22,7 @@
 Hong Kong has already endured limits on the freedom of locals to stand for election—they have to accept Chinese rule and forswear independence for Hong Kong—and has seen activists jailed. Critics and enemies of the Communist Party have never been truly safe, even without an extradition law. Some have been abducted, usually reappearing on the mainland mouthing stilted confessions of guilt. But the protection of their rights still matters to Hong Kongers. “People with a clear conscience in Hong Kong feel safe in their own beds,” says Mrs Chan. Now, with the prospect of being taken into arbitrary detention by China, that safety is at risk. 
 Mrs Chan hopes that the chief executive will think again and set out “viable options” for handling fugitives from China, with a long period of consultation. Alas, that seems too optimistic. It cannot help that Mr Xi is already under pressure within China’s elite for his handling of the trade war with America, suggests Jean-Pierre Cabestan of Hong Kong Baptist University. 
 China’s rulers have suffered a clarifying rebuke, and a lesson about the power of loss and the limits of bribing people to give up freedoms. Exposure to China’s cynical version of the rule of law feels like an unbearable loss to many Hong Kongers—outweighing the rewards of integration with a faster-growing mainland. Assuming that the extradition law is rammed through anyway, it will be a victory for fear and resignation, not parental love. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.palpable['pælpәbl]:a. 可感知的, 明显的, 触摸得到的 [医] 可触知的 
@@ -154,4 +155,6 @@
 128.integration[.inti'greiʃәn]:n. 综合, 与环境协调的行为, 集成 [化] 集成; 整合 
 129.ram[ræm]:n. 公羊, 撞锤 vi. 猛击, 撞 vt. 猛击, 填塞, 反复灌输 n. 只读内存, 随机存取内存, 随机存取存储器 [计] 随机存取存储器 
 130.parental[pә'rentәl]:a. 父母亲的, 做双亲的, 作为渊源的 [医] 父母的, 双亲的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

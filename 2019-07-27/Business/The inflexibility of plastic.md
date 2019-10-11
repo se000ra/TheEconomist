@@ -10,6 +10,7 @@
 These investments would add to abundant capacity. Wood Mackenzie, a research firm, estimates that $200bn has been sunk into petrochemical businesses since 2010 in North America alone. Were the increase in supply to collide with a secular decline in demand, profits would suffer. The price of polyethylene, a popular polymer, has already fallen by a third since the start of 2018. 
 Asked shortly after the premiere of “Blue Planet II” if looming regulations preoccupy plastics companies, a senior European lobbyist for the industry confessed to Schumpeter that they were not really a topic of conversation in boardrooms. They are now. Consumer brands are vowing to retrieve more of their packaging and to make more with recycled materials. BASF has launched packaging for mozzarella cheese made from polymers chemically recomposed from used plastics, perhaps spooked by upstarts that are working on something similar, such as Loop Industries of Canada. BP describes such “chemical recycling” as a “game changer”. 
 Firms are cagey about the extent of such efforts. Industry analysts suspect it is not large. Perhaps plastics executives are counting on the force of reason to prevail, or for Asian consumers not to succumb to plastic panic. This may be wishful thinking. People are easily persuaded that an eyesore despoiling their holiday paradise is intolerable; making them care about invisible, odourless carbon dioxide is tougher. In a contest with the logic of trade-offs, the emotive power of Sir David’s cinematography is likely to win. Hard-nosed polymer bosses should remember that.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Schumpeter[]:n. 熊彼特（美籍奥匈帝国经济学家, 当代资产阶级经济学代表人物之一） 
@@ -92,4 +93,6 @@
 78.odourless['әjdәlis]:[化] 无气味的 
 79.emotive[i'mәutiv]:a. 使感动的, 动感情的, 感情的 [医] 情绪的, 动感情的 
 80.cinematography[.sinәmә'tɒgrәfi]:n. 电影制片术 [医] [外科手术]电影照相术 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

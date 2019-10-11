@@ -10,6 +10,7 @@
 The law the government is eagerly enforcing requires all residents to prove that they or their forebears were in the state by March 24th 1971. That is a big hurdle for poor farmers and itinerant workers, especially women, many of them illiterate. Suspects can be denounced as non-citizens by anonymous tips, an invitation to abuse. There have been lots of mistakes, such as a decorated war hero who was declared not to be Indian. Roughly 60% of those found not to be citizens at the 100 “foreigners’ tribunals” the state government is setting up were not even present for the proceedings. Some 3.7m of the 4m people declared illegal immigrants are challenging their designation. There has been a spate of suicides tied to adverse rulings. 
 Worse, like so many of the BJP’s schemes, the hunt for illegal immigrants is openly anti-Muslim. Some Hindus have been caught in the dragnet, but Mr Shah says they do not need to worry, since the government has drafted a bill to make it easy for Hindu refugees to claim citizenship. Christian, Buddhist, Jain, Parsi and Sikh refugees can too—just not Muslims. 
 Anything that polarises voters by religion benefits the BJP, especially in nearby West Bengal, where Muslims are over a quarter of the population and the BJP is locked in a political knife-fight with a regional party it accuses of coddling Muslims, the Trinamool Congress. West Bengal is one of the places where Mr Shah has railed against termites. But it is not phantom foreigners, rather the BJP, through its stirring of sectarian tensions, that is gnawing away at the foundations of Indian democracy. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Muslim['mjzlim; (?@) 'mʌzlem]:n. 伊斯兰教, 伊斯兰教教徒 
@@ -91,4 +92,6 @@
 77.Trinamool[]:[网络] 崔纳姆国大党；纳木国大党；崔纳姆地区 
 78.phantom['fæntәm]:n. 幻影, 虚位, 幽灵, 化身, 令人恐惧的事物, 骇人的想法 a. 幻觉的, 幻影的, 幽灵的, 虚无飘渺的, 捉摸不定的, 有名无实的 
 79.gnaw[nɒ:]:v. 咬, 啃, 侵蚀, 消耗, 折磨 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

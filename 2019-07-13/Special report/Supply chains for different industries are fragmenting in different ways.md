@@ -23,6 +23,7 @@
 Many firms are discovering that leaving China is not so easy. John Kern is the head of supply chains at America’s Cisco, a telecoms-equipment company. Because of the concerns of customers in America and India who want non-China sourcing, it has upgraded its Mexican operations. But it still has many global customers without such concerns. He says China is a big manufacturing base for Cisco and “will remain so for many years to come”. 
 George Yeo of Kerry Logistics, which has lorries and men all over Asia, has noticed an uptick in clients investing in South-East Asia. Vietnam and Cambodia are the biggest beneficiaries, he reports. But labour productivity is a big problem across the region and infrastructure can be ropey. Much of the investment he sees is going into labour-intensive industries like textiles. In electronics, Mr Yeo thinks the exodus is limited to low-end kit. “Thanks to automation and high value-add, Shenzhen is still king.” 
 Scrutiny of these three sectors suggests a messy path forward from globalisation. Making this challenge more acute, MNC bosses are now faced with a double threat. Not only must they make supply chains shorter, they must make them faster.  
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -156,4 +157,6 @@
 129.scrutiny['skru:tini]:n. 细看, 仔细检查, 监视, 选票检查 [经] 复查, 评核, 仔细检查 
 130.globalisation[,gləubəlai'zeiʃən]:n. 全球化, =globalization 
 131.mnc[]:abbr. meningococcal serogroup C 脑膜球菌血清群C 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

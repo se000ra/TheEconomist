@@ -19,6 +19,7 @@
 As they do so, they will discover that “slowbalisation” brings challenges of its own. Mark Millar, author of “Global Supply Chain Ecosystems”, argues that just because supply chains shrink does not mean that they simplify. Quite the opposite. The point of getting closer to the consumer is to help companies expand customisation, accelerate innovation and speed up delivery. 
 Not everyone agrees that globalisation is slowing. Frank Appel, chief executive of Deutsche Post DHL Group, a German express-shipping and logistics giant, insists that longer-term fundamental forces, such as the rise of middle classes globally and productivity gains from digitisation, still favour global integration. A study published in February by his firm found that international flows of trade, information, capital and workers increased in 2017. However, that was before the full impact of Mr Trump’s tariffs and immigration crackdowns hit the global economy. 
 A more recent analysis by The Economist of a dozen factors related to globalisation found that eight pointed to a decline in connectedness (see chart). Pankaj Ghemawat of NYU Stern School of Business, one of the authors of the DHL report, sees a “semi-globalised” world in which international threats and opportunities matter but most business activities take place domestically. For most firms, this will mean supply chains will need to become not just shorter, but also faster and smarter. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.multinational[.mʌlti'næʃәnl]:a. 多国的, 跨国公司的 n. 跨国公司 
@@ -115,4 +116,6 @@
 92.Ghemawat[]:[网络] 格玛沃特；葛马万 
 93.nyu[]:abbr. 纽约大学（New York University） 
 94.domestically[dәu'mestikli]:adv. 家庭式地, 国内地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

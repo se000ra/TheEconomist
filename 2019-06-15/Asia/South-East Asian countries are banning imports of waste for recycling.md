@@ -8,6 +8,7 @@
 ![image](images/20190615_ASC255.png) 
 Thailand plans to ban plastic-waste imports by 2021. Vietnam’s government has similar ideas. Kate O’Neill of the University of California, Berkeley, reckons these bans are motivated not only by environmental concerns but also by pride: Asia does not want to be the world’s dumping ground. 
 Rodrigo Duterte, the president of the Philippines, recently threatened to go to war with Canada if it did not take back a shipment of plastic scrap. Canada agreed to take it away, and Mr Duterte stopped blustering after an election had passed. All the same, rich-world exporters might want to start work on Plan C.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.recycling[]:[电] 再循环 
@@ -45,4 +46,6 @@
 33.shipment['ʃipmәnt]:n. 装船, 出货 [经] 运送, 运送(寄出)货物, 装载 
 34.bluster['blʌstә]:vt. 风狂吹, 咆哮, 汹涌 vi. 咆哮着说出, 恐吓 n. 狂风声, 巨浪声, 夸口, 大话 
 35.exporter[ik'spɒ:tә]:n. 出口商, 输出者, 出口公司 [经] 出口商, 输出者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

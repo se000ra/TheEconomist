@@ -9,6 +9,7 @@
 Mr Meek throws ropes from the present to the past. His noblewoman is headstrong and emancipated—almost a millennial—who dreams of a storybook lover and self-harms in secret. Will is pursued by a besotted friend who plays provocatively with binary conceptions of gender. Thomas, the proctor, may live in the 14th century, but his musings carry a powerful message for stratified Brexit-era Britain: 
 This is a book about the power of perspective and the importance of broadening horizons. The Black Death is a kind of hold-all catastrophic metaphor: for climate change, political meltdown and moral decay. 
 Like all fiction, but perhaps more so, historical novels live or die by their use of language. Few attempt an accurate representation of the speech of a bygone era, seeking rather to forge their own idiom to give the reader the impression of that time. Mr Meek goes further: each protagonist speaks in a different register. Will’s tale is related in a kind of Chaucer-lite; in accordance with her reading, Bernadine’s narrative is French-inflected; Thomas is resolutely Latinate. This tapestry makes for a compelling story that, like all great historical fiction, is not only about the past, but says profound things about the present. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -65,4 +66,6 @@
 52.Latinate['lætineit]:a. 从拉丁文衍生的, 类似拉丁语的 
 53.tapestry['tæpistri]:n. 挂毯, 绒绣 vt. 用挂毯装饰 
 54.profound[prә'faund]:a. 极深的, 深厚的, 深刻的, 渊博的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

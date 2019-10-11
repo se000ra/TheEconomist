@@ -11,6 +11,7 @@
 All this should alarm the peddlers of the pills. Analysts differ on just how worried they ought to be. Tom Claps, a legal expert at Susquehanna Financial Group, an investment firm, calculates that the industry faces a legal risk of perhaps $37bn from ongoing cases. Patrick Trucchio of Berenberg, a German investment bank, thinks that distributors alone could face legal liabilities of $40bn. Across the entire opioid supply chain, Mr Trucchio reckons, the bill could run to a whopping $150bn. 
 That is the worst-case scenario. For the time being, investors seem calm. J&J’s share price ticked up on news of the award, a fraction of the $17bn the prosecutors had demanded. It could pay the $572m penalty nine times over from its latest quarterly net profit alone. Its high-powered lawyers, who groused that the state prosecutors’ legal theory was a “radical departure” from long-standing case law, vowed to appeal against the ruling, all the way up to the Supreme Court if necessary. Even if upheld, it may carry no weight beyond Oklahoma’s borders. Most states espouse a common-law understanding of public nuisance that is much narrower than the relevant statute in Oklahoma, notes Richard Ausness of the University of Kentucky Law School. There may be echoes of this argument in future legal cases, says Ms Burch. But nothing about the Oklahoma decision predetermines outcomes elsewhere. 
 Other legal theories against drugmakers and distributors have yet to be tested in court. After this week’s development, they may not get a chance. Andrew Pollis of Case Western Reserve University School of Law thinks the rest of the firms may fall in line behind Purdue. “Settlement feels impossible,” he says. “But trial is unthinkable.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.opioid[əʊ'pi:əʊɪd]:a. 类鸦片（引起）的 n. 类鸦片活性肽 
@@ -115,4 +116,6 @@
 100.andrew['ændru:]:n. 安德鲁（男子名） 
 101.pollis[]:[网络] 里斯 
 102.unthinkable[.ʌn'θiŋkәbl]:a. 不能考虑的, 不能想像的, 想像不到的, 不合理的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

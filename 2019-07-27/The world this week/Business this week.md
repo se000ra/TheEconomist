@@ -14,6 +14,7 @@
 Nissan confirmed it would cut 12,500 jobs worldwide, or 10% of its workforce, by 2022, as it curtails capacity. The Japanese carmaker has struggled in recent years. Profit in the latest quarter fell by 95% compared with the same three months last year, to ¥6.4bn ($58m). 
 General Motors delayed the large-scale roll-out of its autonomous-car ride-hailing service, which it has developed in collaboration with Cruise, its self-driving-car unit. It had hoped to deploy a fleet of robotaxis on the roads of San Francisco by the end of this year, but the launch has been delayed indefinitely. GM, like its competitors, is still dealing with technical obstacles and unresolved regulatory questions. 
 In the week when Tesla dismayed investors with another disappointing quarterly earnings report, Ford unveiled an electric-powered prototype of its F-150 pickup truck in response to a claim by Elon Musk that Tesla’s rival model would have better “functionality”. Ford’s F-series pickups are the best-selling cars in America. In a show of strength, its prototype pulled a freight train for 1,000 feet, a direct challenge to Mr Musk’s boast about the better performance of his new vehicle. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.BoJo[]:[网络] 伯爵；母情；坊城 
@@ -101,4 +102,6 @@
 83.elon[i'lɔn]:n. 埃伦（可溶性显影剂粉末） 
 84.musk[mʌsk]:n. 麝香, 麝香的气味 [化] 麝香 
 85.functionality[,fʌŋkәʃә'næliti]:[计] 功能性, 泛函性 [化] 官能度 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

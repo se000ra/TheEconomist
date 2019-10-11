@@ -11,6 +11,7 @@
 In Tokyo this week officials are at pains to stress that Japan’s move is not an export ban, rather the reimposition of controls on sensitive materials that had grown lax. Follow the procedures, they say, and the worst South Korean firms will experience is a bigger lag between requesting chemicals and receiving them. They clearly want to defend Mr Abe’s reputation as a global champion of open markets, but admit that claims that the controls have nothing to do with the court case are unconvincing. 
 The crisis plays right into the hands of China and North Korea. Japanese officials insist that when it comes to defence, security and intelligence-sharing, relations with South Korea remain cordial and effective. But it is hard to believe that there is no impact. America might be able to knock heads and get the two sides to back down, but has so far avoided getting involved. 
 Mr Moon has been weakened at home, not least because he has little to show for his attempts at détente with North Korea. The row has made him more popular. And with upper-house elections due this month, Mr Abe must not look weak. Both leaders face citizenries whose misgivings about the other country are hardening. There is no easy route to a climbdown. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.banyan['bænjәn]:n. 印度榕树 [医] 榕树, 孟加拉榕 
@@ -71,4 +72,6 @@
 56.citizenry['sitizәnri]:n. 市民 [法] 市民 
 57.misgiving[mis'^iviŋ]:n. 疑虑, 不安, 害怕, 担扰, 疑惧 
 58.climbdown[]:n. 爬下, 退让, 屈服 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 Channel 4, which broadcast this year’s final, had to move it to a sister channel, More4, for a period to accommodate the British Grand Prix. “It is an overly simplistic argument to think that the solution for cricket is just to list it and put all the Test [five-day] matches back on free-to-air TV,” says Paul Smith, an expert in sports broadcasting rights at De Montfort University. 
 The ECB appears to be willing to sacrifice some revenue to improve the sport’s reach. From next year the BBC will show some Test matches on free television, though Sky will retain the bulk of the live coverage. More important, the BBC has the right to use clips across its digital platforms. Not many Britons can spend all day watching a cricket match and, as media habits shift, the internet is a sensible place to focus efforts to popularise the sport. There seems to be an audience for it: the BBC’s “live” page covering the World Cup final received the highest number of views in the history of the corporation’s website.■ 
 Vacancy: The Economist is looking to hire a staff writer to cover British economics. Journalistic experience is not necessary; the ability to write clearly and entertainingly is. For details of how to apply, visit economist.com/britainjob2019. The deadline is August 4th. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -44,4 +45,6 @@
 31.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
 32.journalistic[,dʒ\\: nә'listik]:a. 新闻业的, 新闻工作者的, 报刊特有的, 新闻工作的 
 33.entertainingly[,entə'teiniŋli]:adv. 有趣地；使人愉快地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

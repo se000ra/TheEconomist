@@ -9,6 +9,7 @@
 “When we opened, we enjoyed great business,” says Mr Sharifi. But now it is not always as easy to fill up every hall. And costs, like the lights, remain undimmed. Running generators can burn over 1,000 litres of diesel a night. Hundreds of staff are involved: not just caterers and musicians, but dozens of armed security guards, since wedding halls are vulnerable to attacks by jihadis. In November a suicide-bomber killed 50 people at a gathering of clerics hosted at a wedding hall. That does rather put people off, admits Ahmad Azimie, the manager of the Arg wedding hall. 
 A typical ceremony, with perhaps 1,000 guests, plentiful food and at least two cans of Red Bull per person, might set a groom’s family back $9,000, in a country where annual GDP per person is around $520. Many Afghans complain about being asked to defray distant relatives’ wedding costs. Grooms’ families complain about being expected to host thousands of guests. Many families are taking on debt. “It is sad for me, but as a businessman, this is where my profits come from,” says Mr Sharifi. 
 Competition is fierce for the remaining customers. Many are from the diaspora. At the Arg, Azhar, a young Afghan-Canadian who drives forklift trucks for a living halfway around the world, is examining halls with his mother. At his wedding, he insists, “Everything must be perfect. I don’t care about money, I am looking to my future.” Such bravura—and deep pockets—are in dwindling supply.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.spectacular[spek'tækjulә]:a. 公开展示的, 惊人的, 壮观的 n. 奇观, 惊人之举, 展览物 
@@ -54,4 +55,6 @@
 41.forklift['fɔ:klift]:n. 铲车, 叉式升降机 
 42.halfway['hɑ:f'wei]:a. 中途的, 不彻底的, 部分的 adv. 半路地, 在中途, 在半途 
 43.dwindle['dwindl]:vi. 减少, 缩小, 衰落 vt. 使缩小 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

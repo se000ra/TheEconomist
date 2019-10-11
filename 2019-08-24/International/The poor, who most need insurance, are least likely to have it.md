@@ -24,6 +24,7 @@
 Many working on insurance for the poor believe that, to make a real difference, insurers need to do two things. The first is to think of their role rather differently, “to move beyond providing merely an indemnity for losses”, in the words of Hugh Terry, founder of the Digital Insurer, an online trade journal. Rather they should be helping clients reduce and manage risk, using the new technologies to advise and incentivise them into better practices: farmers into planting the right seeds at the right time; health-policy holders to manage medical conditions online and so on. 
 Second, in poor countries, they probably need to work with governments, and governments will need to use some of the money they spend on their poorest citizens to promote insurance. Pula, for example, is on a pilot scheme in Zambia, involving 150,000 farmers. They will be offered crop-yield insurance, sold with seeds and fertiliser, under the government’s Farmer Input Support Programme, which subsidises the cost of inputs to small-scale maize-producers. This will be the first time the government has used a “yield index”, covering a wide range of risks affecting the harvest, as opposed to a simple weather index. Pula already has a similar collaboration with Nigeria’s government. 
 The upshot should be that more farmers will benefit from the comfort Mr Chomba received from having something of a safety-net. And, as insurance becomes more commonplace, fewer, presumably, will be so taken by surprise. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -136,4 +137,6 @@
 108.collaboration[kә.læbә'ræʃәn]:n. 合作, 勾结 [法] 通敌卖国者, 奸细 
 109.upshot['ʌpʃɒt]:n. 结果, 结局, (论证的)要点 
 110.commonplace['kɒmәnpleis]:n. 寻常事, 老生常谈, 普通的东西 a. 平凡的, 普通的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -16,6 +16,7 @@
 Regional lenders, with neither the giants’ heft nor the community banks’ small-town appeal, may face a harder fight. This year BB&T and SunTrust, two south-eastern banks, agreed to merge, creating America’s sixth-biggest retail bank. More may bulk up to beat the behemoths. 
 But the biggest regionals are not exactly surrendering. Betsy Graseck of Morgan Stanley notes that US Bank, based in Minneapolis, gained share in the year after BofA opened; Wells, the city’s other leading bank, gave up ground. US Bank, meanwhile, will this year open its first branch in Charlotte—by chance, BofA’s hometown. Tim Welsh, head of consumer and business banking, says that it already has an office serving thousands of mortgage, car-loan and credit-card customers there. 
 American banking is unlikely ever to be as concentrated as in many other rich countries. But digitisation will help the biggest get bigger. Though giants are rarely nimble, it still takes a lot to fell them. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -104,4 +105,6 @@
 84.tim[tim]:n. 蒂姆（男子名） 
 85.Welsh[welʃ]:a. 威尔士的 n. 威尔士人 vi. 赖赌帐, 逃避责任 
 86.mortgage['mɒ:gidʒ]:n. 抵押, 约束性义务, 抵押借款 vt. 抵押, 以...作担保, 把...许给 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -12,6 +12,7 @@
 Regina Ip, a prominent pro-establishment politician in Hong Kong, says the territory is unhappy. She blames economic mismanagement, including a housing crisis and a failure to seize the opportunities offered by a rising China. She also blames meddling by foreign powers. “My own conspiracy theory is there are people trying to manufacture June 4th crises in Hong Kong,” she says darkly, referring to the date of the bloody end of the Tiananmen Square protests in 1989. Mrs Ip credits the central authorities with wisdom and pragmatism. But she fears that Hong Kong’s “weakened” government will now “lie low”, avoiding contentious bills. 
 Western governments face a dilemma. They feel obliged to speak out on the extradition bill, amid cries of alarm from businesses in Hong Kong. But when democracy activists petition Western consulates in Hong Kong, as hundreds of them did on June 26th, it prompts the central government to weigh in, and fuels Chinese propaganda. The West’s strongest argument is an appeal to enlightened self-interest. Western leaders urge Mr Xi to see the harm that his party’s clumsy actions could do to Hong Kong, a valuable place. Alas, each year brings more evidence that Mr Xi sees things the other way round. He worries about what troublesome places like Hong Kong might do to the Communist Party. 
 After previous mass protests in Hong Kong, the central government staged tactical retreats. It allowed the territory to drop contentious laws, then quietly tightened its grip. The party stepped up funding for loyalists to run for local office. It leant on businessmen to support government plans. Tame tycoons bought up media outlets. Political veterans expect more such efforts. Hence the pro-democracy camp’s caution. Its members may fear confronting Mr Xi. He does not fear confronting them. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.hong[hɔŋ]:n. （中国、日本的）行, 商行 
@@ -93,4 +94,6 @@
 77.loyalist['lɒiәlist]:n. 忠诚的人, 反对独立者, 反佛朗哥派的人 
 78.tycoon[tai'ku:n]:n. 企业界大亨, 将军 [经] 企业界巨头, 企业家 
 79.confront[kәn'frʌnt]:vt. 使面对, 对抗, 遭遇, 使对质, 比较 [法] 对证, 使对质, 比较 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

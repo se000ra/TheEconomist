@@ -17,6 +17,7 @@
 The institute’s researchers are also looking at plant varieties that might do particularly well indoors, including old varieties passed over in the search for crops which can withstand the rigours of intensive farming systems. By dipping into the institute’s gene banks, Dr Campbell thinks it may find some long-forgotten fruits and vegetables that would thrive in the security of a vertical farm. 
 All this could go down well with foodies, and unlock new and forgotten flavours. Shoppers might even find some exotic varieties growing in supermarket aisles. In Berlin a company called Infarm provides remotely controlled shelved growing cabinets for shops, warehouses and restaurants. Herbs and salad leaves, including exotics such as Genovese basil and Peruvian mint, are resupplied with seedlings from the company’s nursery as the mature plants are picked. 
 Vertical farming then will not feed the world, but it will help provide more fresh produce to more people. It may even be that, as vertical-farming systems improve further, miniature versions will be designed for people to put in their kitchens—thus proving that there is nothing new under either the sun or the LED. Such things used once to be called window boxes.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -128,4 +129,6 @@
 107.resupply[,ri:sә'plai]:v. 再供给, 再补给 
 108.seedling['si:dliŋ]:n. 秧苗, 树苗 [医] 籽苗, 幼苗, 实生苗 
 109.miniature['miniәtʃә]:n. 缩图, 小画像 a. 小规模的, 纤小的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -12,6 +12,7 @@
 The next government may even consider much-needed reforms of labour laws and welfare entitlements, according to Emmanuel Alvarez Agis, another adviser who served under Néstor Kirchner, Ms Fernández’s late husband and predecessor as president. “The future depends on building coalitions, for change, not governing just from one side or the other,” he has said. 
 Mr Nielsen says the next government will negotiate with the IMF, rather than walk away from it. Having already borrowed almost 80% of the $57bn on offer, Argentina will need new loans from the fund to help it repay the old ones. Mr Nielsen has also described China as a potential “financial life jacket”. Ms Fernández, who has remained remarkably quiet during the campaign, is known to covet Chinese investment, which might be attracted to Argentina’s infrastructure, 5G networks and renewable-energy projects. 
 If that is the extent of Ms Fernández’s influence on the next government, foreign investors will be relieved. And so will some Argentines. “Many of us could never vote for Cristina and Alberto Fernández,” says a retired woman, waiting at her bank this week to change pesos into dollars. “But who can trust any of our politicians after all this?...I trust only my purse.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Argentina[.ɑ:dʒәn'ti:nә]:n. 阿根廷 
@@ -79,4 +80,6 @@
 63.remarkably[ri'mɑ:kәbli]:adv. 显著地, 引人注目地, 非常地 
 64.covet['kʌvit]:v. 妄想, 垂涎 
 65.infrastructure['infrәstrʌktʃә]:n. 基础结构, 基础设施 [经] 基础设施 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

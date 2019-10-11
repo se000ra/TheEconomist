@@ -8,6 +8,7 @@
 The academics also hunted for signs of broader changes in Islamophobic sentiment in Liverpool since Mr Salah was signed. First they looked at hate crimes, in which the perpetrator is motivated by race, religion or another type of identity. Of 23 English regions analysed, almost all saw a rise in the number of such crimes in the ten months after Mr Salah’s arrival, part of a long-term trend that the Home Office puts down to better recording by the police. Merseyside, by contrast, reported a slight fall. The researchers built statistical models to predict monthly rates of various types of offences in Liverpool, and found that hate crimes had been 19% less common than expected, a gap that did not exist for any other illegal activity, suggesting that any “Salah effect” was limited to religious tolerance. 
 Then the researchers turned to Twitter. They identified British followers of Manchester United, Manchester City, Chelsea, Arsenal, Liverpool and Everton (a Merseyside rival), and analysed 44,000 tweets that mentioned Muslims, Arabs or mosques. In the 14 months after Mr Salah’s transfer, 7.6% of Islam-related tweets by Liverpool fans had negative sentiments, about the same as the 7.3% during the previous three years. But the figure for Everton jumped from 18.6% to 21.3%; for the other teams it rose from 7.1% to 10.9%. Online Islamophobia in Liverpool seems to have been kept in check at a time when it was rising elsewhere. (The researchers found no sign that the broader increase was caused by jealous fans abusing Mr Salah.) 
 Most parts of the country, including Merseyside, saw a spike in anti-Muslim sentiment in the summer of 2017, after terrorist attacks in London and Manchester. If Mr Salah has played even a small part in reining in Liverpool fans’ prejudice since then, that is an achievement as remarkable as leading the club to European glory. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Salah[sә'lɑ:]:n. = salat [变体] 
@@ -46,4 +47,6 @@
 34.online[]:[计] 联机 
 35.spike[spaik]:n. 长钉, 鞋钉, 钉状物, 尖峰状物, 穗 vt. 以大钉钉牢, 用尖物刺穿, 阻止, 弃置不用 [计] 尖峰信号 
 36.terrorist['terәrist]:n. 恐怖分子 [法] 恐怖份子, 恐怖主义 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

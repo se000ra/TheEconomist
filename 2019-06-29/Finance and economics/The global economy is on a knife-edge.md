@@ -9,6 +9,7 @@
 Meanwhile President Donald Trump is trying to harangue the Fed into a more accommodative monetary policy in the run-up to next year’s elections. But he is unwilling to abandon his belligerent approach to trade relations. At a meeting of the G20 on June 28th and 29th he and Xi Jinping, his Chinese counterpart, are expected to hold talks regarding their intensifying trade war. Unless they resolve a number of significant disputes America will probably extend its tariffs to an additional $300bn of Chinese imports. So far America’s tariffs have probably had only modest macroeconomic effects, though their impact is growing. But markets’ tendency to reel in the face of trade-war escalations suggests a growing concern that the present is prologue. 
 World leaders must always manage trade-offs between competing aims. So why are policy conflicts unsettling markets just now? Except during financial crises (and none appears imminent), economic growth is rarely so balanced on a knife-edge. But interest rates around the world remain very low, leaving little tolerance for policy correction. In the euro area both short-term and long-term interest rates are close to or even below zero. New ECB easing, if it occurs, will mostly help the economy by pushing down the value of the euro and boosting European exporters, at the expense of firms elsewhere. America’s position is not much better. When markets were expecting rate increases, the Fed could give a sagging economy a boost simply by delaying them. But markets now expect the Fed to cut rates by at least 0.75 percentage points during the next year. It can either disappoint them and risk adding to pessimism, or move rates much of the way back to zero. 
 Any misstep by Mr Trump or Mr Xi thus leaves central banks hard-pressed to keep economies on an even keel. And a central-bank slip-up, such as one interest-rate rise too many, increases the strain on already-conflicted governments. As slackening global demand crimps purchases of Chinese exports, for instance, the trade-off between domestic deleveraging and robust growth in Beijing becomes much starker. The global mood has not yet settled, meaning that a happy outcome remains possible. But if policymakers do not decide soon to put growth ahead of their other goals, the next turn towards pessimism could be decisive. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -89,4 +90,6 @@
 76.deleveraging[ˈli:vəridʒɪŋ]:[网络] 去杠杆化；去杠杆化过程；去杠杆化效应 
 77.starke[]: [人名] 斯塔克; [地名] [美国] 斯塔克 
 78.decisive[di'saisiv]:a. 决定性的, 坚定的, 果断的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

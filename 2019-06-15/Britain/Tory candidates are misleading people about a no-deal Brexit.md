@@ -15,6 +15,7 @@
 No-deal also has serious legal implications. Britain would become a third country. That not only implies tariffs and non-tariff barriers, but also falling out of most of the EU’s regulatory agencies. Membership of the Europol crime-fighting agency would lapse, as would eligibility to use the European Arrest Warrant. Replacing any of these would be time-consuming. 
 And there is a treaty obstacle. So far Brexit negotiations have come under Article 50, allowing a deal to be agreed by a majority of EU governments and approved only by the European Parliament. Once Britain is a third country, any negotiations would fall under a different provision, probably Article 218, which requires not just unanimous agreement but also ratification by all national and several regional parliaments. After Britain had repudiated the negotiated withdrawal agreement, the temptation for one of these bodies to reject any replacement deal would be large. 
 The risk of a no-deal Brexit under a new prime minister is greater than many think, and the consequences more serious. Any would-be Tory leader should acknowledge this. The worry is that many of them don’t even seem to realise it.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.dealer['di:lә]:n. 经销商, 商人 [经] 交易员, 贩卖商 
@@ -83,4 +84,6 @@
 64.regional['ri:dʒәnәl]:a. 地方的, 地域性的 [医] 区的, 部位的 
 65.repudiate[ri'pju:dieit]:vt. 声明离婚, 拒绝, 拒付, 拒绝履行 [经] 拒付(公债,国债等) 
 66.replacement[ri'pleismәnt]:n. 归还, 更换, 代替者 [医] 复位, 置换 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

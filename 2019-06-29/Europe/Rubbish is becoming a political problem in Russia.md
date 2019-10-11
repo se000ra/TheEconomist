@@ -7,6 +7,7 @@
 Yet Moscow’s leaders have hardly undergone a green awakening. Instead, rubbish has become a political hot potato. Landfill sites around the capital are full; Moscow plans to ship its rubbish to the provinces. Residents of those regions have, unsurprisingly, balked at being treated as Moscow’s bin. “It’s about dignity,” says Elena Kalinina, an activist. 
 The fiercest resistance has come from Ms Kalinina’s home region of Arkhangelsk. Protests have been bubbling there since late last year, drawing thousands. Activists have built a tent camp at the planned landfill site in Shiyes. “The Russian North is Not a Dump,” they chant. Local authorities have detained dozens of them. Activists now demand not only an end to landfill construction but also the resignation of the local governor. On June 25th Russia’s Supreme Court blocked activists’ attempt to force a referendum on the issue. 
 If there is a silver lining to the garbage, this is it. Just as ecology became an outlet for civic activism in the late Soviet era, so too have today’s rubbish problems. Moscow’s junk, in short, may be civil society’s treasure.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.trash[træʃ]:n. 垃圾, 废物 vt. 丢弃 
@@ -31,4 +32,6 @@
 20.referendum[.refә'rendәm]:n. （就重大政治或社会问题进行的）全民公决，全民投票 
 21.civic['sivik]:a. 市的, 市民的, 公民的 [法] 公民的, 市民的, 公民资格的 
 22.activism['æktivizm]:n. 激进主义, 行动主义, 能动论 [法] 激进主义, 行动主义 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

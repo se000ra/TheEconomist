@@ -18,6 +18,7 @@
 Minimum wages have been raised—sensible enough after years in the deep freeze. But some of the rises appear excessive. Spain’s has risen by 22% this year, after a 12% increase in 2017-18, despite double-digit unemployment. The Bank of Spain warns the uplift could cause 125,000 job losses, though others dispute that. 
 Other reforms seem half-baked. In 2018 Italy’s government raised severance pay for permanent workers and lowered time limits on temporary contracts, despite a warning from the national social-security administration that it would lead employers to shed temp workers. Thirty-year-old Giulia lost her job when the law came into force. “The situation was absurd,” she says: although employers were happy with her work, they were forbidden to renew her temporary contract, and decided to hire and retrain someone else instead. Frustrated by her experience in Italy, she has taken up a job offer in Marseilles. 
 As the global economy slows, the spectre of job losses returns. Another full-blown crisis is probably not in the cards. But, frets Mr Martins, a rollback of reforms could limit employers’ ability to spread the pain of job and wage cuts more evenly. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -80,4 +81,6 @@
 58.fret[fret]:n. 烦躁, 磨损, 焦急, 网状饰物 vi. 烦恼, 不满, 磨损 vt. 使烦恼, 腐蚀, 使磨损, 使起波纹 
 59.rollback['rәulbæk]:n. 回降, 卷回, 推回去 [电] 滚返 
 60.evenly['i:vәnli]:adv. 平衡地, 平坦地, 平等地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

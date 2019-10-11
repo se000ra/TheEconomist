@@ -12,6 +12,7 @@
 Another problem with pursuing frequent promotions is that it turns you into a supplicant, endlessly in search of favourable feedback from the higher-ups. This can lead you to lose control of your work-life balance. In Charles Handy’s new book, “21 Letters On Life And Its Challenges”, the veteran management theorist recalls an epiphany when working for Royal Dutch Shell, an oil giant. “In exchange for the promise of financial security and guaranteed work, I had sold my time to complete strangers with my permission for them to use that time for their own purposes,” he writes. 
 The higher up the ladder you go, the greater the demands are likely to be on your time. The chief executive will expect you to be available at weekends; after all, that is why you get paid the big bucks. Subordinates will also feel that they are able to ask you tricky questions whenever they arise; they don’t want to take decisions that are above their pay grade. If you are in charge of a geographical region, you may spend much of your time on planes, visiting the corporate troops. And when you are not travelling, your day will be filled with meetings. At the end of the day, you will have been extremely busy, but with a nagging feeling that you have achieved nothing of substance. 
 So that shiny promotion may not be for everyone. Beware the curse of overwork and dissatisfaction. Some people like to devote their whole lives to their job and be at the centre of events. It is best to let them get on with it. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bartleby[]:[网络] 巴特比；巴特白；老板是空气 
@@ -71,4 +72,6 @@
 55.beware[bi'wєә]:v. 小心, 谨防 
 56.overwork[.әuvә'wә:k]:n. 过度操劳的工作, 额外工作 v. (使)工作过度, 使过分劳累 
 57.dissatisfaction['dis.sætis'fækʃәn]:n. 不满, 不平 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

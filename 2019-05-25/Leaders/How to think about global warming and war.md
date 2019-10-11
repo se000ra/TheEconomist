@@ -12,6 +12,7 @@
 Climate-induced war is one more reason for governments to take global warming seriously. However, as Australia showed on May 18th, when it elected a coal-cuddling conservative government, voters are not yet willing to pay much to avert planetary peril. Cheaper ways to reduce emissions are urgently needed, along with incentives to remove carbon from the atmosphere. 
 Alas, none of this will help end conflicts today or prevent them in the short term. For that, poor countries need the help of the rich to build early-warning systems and pay for peacekeepers. Outsiders should also impose sanctions on warmongers and offer aid for governments that sincerely seek to rebuild themselves after wars, thereby reducing the risk of a relapse. For every dollar spent on such intervention, roughly $10 of harm can be averted, estimates Paul Dunne of the University of Cape Town. This is good value for money, and fits well with efforts by America, France and others to curb jihadism in Africa. 
 Since climate change will make some areas uninhabitable, people will leave them. Not many will move to rich countries—starving farmers cannot afford such a costly journey. Many more will move to towns or cities in their own country. It makes no sense to try to stop or discourage such migration, as many governments do. Moving is a rational way to adapt to a changing environment. Better for governments to manage the influx, building roads and schools to accommodate the newcomers. If people cannot act globally in a global emergency they will have to make do with acting locally.   
+<<<<<<< HEAD
 -- 
  单词注释:
 1.genocide['dʒenәu,said]:n. 种族灭绝, 灭绝整个种族的大屠杀 [医] 种族灭绝(侵略军队加害居民的罪行) 
@@ -105,4 +106,6 @@
 89.newcomer[nju:'kʌmә]:n. 新来者 
 90.globally[]:[计] 全局地 
 91.locally['lәukәli]:adv. 地方性地, 局部性地, 在当地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 The Kurds have become good at playing off regional rivals against each other. Iran and Turkey, which vie for influence in Kurdistan, have encouraged their merchants to return. Sanction-squeezed Iran needs outlets for exports; its oil trucks cram the roads of Iraqi Kurdistan. But America also sees the Kurds as a potential ally in its campaign to squeeze Iran, just as they were an ally in the battle against Saddam Hussein, Iraq’s former dictator, and IS. 
 For all the optimism, Kurdistan still faces challenges. Economic ties with the rest of Iraq are not what they were before the referendum. A chicken farmer says his sales inside Iraq, which fell by over half after the referendum, have only slightly recovered. Foreigners are returning to Kurdistan—but in smaller numbers. The government still wastes money on a bloated bureaucracy. Corruption is a problem. The Barzani and Talabani dynasties continue to dominate Kurdish politics, which would benefit from fresh faces. 
 Even though relations have improved, there is lingering distrust between the central government and the KRG—for good reason. The Kurds have not stopped dreaming of independence. Arabic is Iraq’s official language, but it has been three decades since it was properly taught in Kurdish schools. Courts refuse to accept Arabic documents without a Kurdish translation, says a businessman. Officials refer to the referendum as a step towards independence. “It is our title deed for a state,” says an official. “We will never give it up.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.comeback['kʌmbæk]:n. 复原, 复辟, 复位, 尖刻的对答, 抱怨的原因 [计] 复原的 
@@ -93,4 +94,6 @@
 78.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
 79.linger['liŋgә]:vi. 逗留, 消磨, 徘徊 vt. 消磨 
 80.distrust[dis'trʌst]:n. 不信任 vt. 不信任 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

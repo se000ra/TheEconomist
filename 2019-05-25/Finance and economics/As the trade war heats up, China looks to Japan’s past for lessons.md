@@ -12,6 +12,7 @@
 So the simplistic story—that the Plaza accord felled Japan—misses the mark. Rather, China should draw two lessons from Japan’s experience of trade tensions with America. First, it must get its domestic-policy response right. Japan feared that the deal with America would cause its growth to suffer; China fears the same about the absence of a deal. But the bigger dangers for Japan were over-stimulus and flawed regulation. China seems to grasp that. So far it has been cautious about pumping up growth. The real test will come if the trade war continues to escalate. 
 A second lesson is the danger of resisting America’s demands, just because it is America that is making them. Had Japan acted on some of America’s long-standing gripes, it might have fared better in the 1990s. Domestic competition would have been stronger. A bigger role for foreign investors might have prompted Japanese banks to tackle their festering problems. Similarly, it is China, not America, that would be the biggest beneficiary if it moves more quickly to open its economy to foreign firms. 
 China might also note a historical curiosity. The talks in 1985 were in New York’s Plaza Hotel, which was bought three years later by a property tycoon named Donald Trump. He paid nearly $1bn in today’s money. At the time he said he had “knowingly made a deal which was not economic”, because the hotel was a masterpiece, not just a building. Sure enough, in 1992 the Plaza Hotel entered bankruptcy. That Mr Trump ended up harming himself might be comforting for China. That he went ahead despite knowing the risks should be less so. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.miscue['mis'kju:]:n. 撞歪, 失误 v. 撞歪 
@@ -97,4 +98,6 @@
 81.knowingly['nәjiŋli]:adv. 会意地, 心照不宣地, 故意地, 有意地, 老练地 [法] 心照不宣地, 故意地, 有意地 
 82.bankruptcy['bæŋkrәptsi]:n. 破产者 [经] 破产, 倒闭 
 83.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 Until now, however, the technique has been used mostly on the molars of living mammals. Indeed, Mr Melstrom and Dr Irmis knew of no studies that had tested it extensively on crocodiles and their kin. This lack of testing made sense, because living crocodilians have no complex tooth morphologies to analyse—so why bother? However, the strange teeth of ancient crocodiles, they reasoned, might give OPCR something to work with. 
 In total, they threw 146 teeth from 16 extinct crocodilians at OPCR. For comparison, they also added teeth from a modern caiman into the mix. The analysis revealed that two of the extinct species were, like the caiman, carnivorous. But even these were notably different from modern animals in that one had serrated steak-knife-like teeth and the other had triangular teeth that made contact with one another when the animal closed its mouth (something not seen in modern crocodilians). The system identified two of the species as “durophagus”, meaning that their teeth looked as if they would be good at crushing the shells of clams, crabs and other armoured invertebrates. One species was identified as omnivorous. And eight, including Simosuchus, were identified by OPCR as obligate herbivores. (The other three were hard to classify, but may have been insectivores.) 
 What particularly surprised Mr Melstrom and Dr Irmis, though, was the way herbivory mapped onto the crocodile family tree. Rather than evolving once at some point long ago and then appearing in all later species on that branch, it came into existence at least three times during the history of these reptiles. Herbivorous crocodiles of the Jurassic and Cretaceous, then, were capable of competing successfully with their dinosaur counterparts in a way that a modern herbivorous crocodile presumably could not with the plethora of herbivorous mammals that now exists.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.palaeontology[,pæliɔn'tɔlәdʒi]:n. 古生物学 
@@ -82,4 +83,6 @@
 69.counterpart['kauntәpɑ:t]:n. 副本, 复本, 配对物, 相应物 [经] 副本, 正副二份中之一 
 70.herbivorous[hә'bivәrәs]:a. 食草的 [医] 草食的, 食草的 
 71.plethora['pleθәrә]:n. 过多, 过剩, 多血症 [医] 多血[症] 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

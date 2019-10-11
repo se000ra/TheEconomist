@@ -12,6 +12,7 @@
 But using the ordinance may not help the government as much as the party’s cheerleaders expect. Restricting liberties could strengthen support for the demonstrators. Business confidence could plummet should the authorities start confiscating assets. Some firms are already deeply worried about being caught in the crossfire. Hong Kong’s flagship airline, Cathay Pacific, is one. The participation of some of its staff in the protests has infuriated Chinese officials. In mid-August the company dumped its chief executive as Chinese pressure on the firm grew. On September 4th its chairman, John Slosar, also said he would resign. (Cathay says he is retiring.) 
 Ronny Tong, a member of Mrs Lam’s cabinet, says he personally has reservations about invoking the ordinance. He is concerned, for example, that if it were used to ban masks at protests (the pro-party press is eager for this to be done), the police might not be able to enforce the new rule strictly. If the police were struggling, in turn, he is worried that might prompt the mainland authorities to intervene as allowed for in the basic law. 
 In a recent off-record speech to businessmen, published by Reuters on September 3rd, Mrs Lam said officials in Beijing were not planning to send in the army. “They know that the price would be too huge to pay,” she said. But she admitted that she had few options. “Political room for manoeuvring is very, very, very limited,” she said, given the need to “serve two masters”: the central government and the people of Hong Kong. She admitted that she had caused “unforgivable” havoc in the territory and said that if she had a choice, she would quit. Later, pressed by reporters, she denied having asked the central government for permission to do so and insisted she had not even thought about it. She must surely be tempted. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.carrie['kæri]:n. 卡丽（女名, Caroline的昵称） 
@@ -81,4 +82,6 @@
 65.manoeuvre[mә'nu:vә]:n. 调遣, 演习, 策略 vi. 调动, 演习, 用策略 vt. 调动, 操纵 
 66.unforgivable['ʌnfә'^ivәbl]:a. 不可原谅的, 不可饶恕的 
 67.havoc['hævәk]:n. 大破坏, 蹂躏 vt. 严重破坏 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 Mr Erdogan is weaker than he looks. His approval ratings are dropping and in regional elections in the spring his Justice and Development Party (AKP) lost control of the country’s three largest cities, including Istanbul. Ali Babacan, his former deputy prime minister, has quit the AKP to form a new party and Ahmet Davutoglu, his former prime minister, could follow suit. Soon Turkey may also require outside economic assistance. At a time of such political and economic vulnerability the EU’s economic weight alone—its GDP is 24 times larger than Turkey’s—gives it huge leverage. It has not just the motive to do more to reel the country back, but the means too. 
 That might mean threatening greatly increased sanctions, perhaps modelled on those levied against Russia and targeting Mr Erdogan’s allies, as proof of European seriousness. Sanctions relief could then be added to a raft of goodies to bring Mr Erdogan to the table. Economic support, an upgraded customs union, new visa freedoms for Turks and a power-sharing settlement between the Greek and Turkish parts of Cyprus, including sharing the gas, could all be touted. In return the EU might demand an end to the illegal drilling and the Turkish military presence on the island (the main block on a deal between the two sides) as well as, in Turkey, central-bank independence, economic reforms and perhaps even steps to reverse the concentration of power in the presidency. 
 Europe aspires to a greater role in the world. But if despite all the carrots and sticks it has at its disposal it lastingly loses a direct neighbour and would-be accession state that is controlling territory claimed by an existing member of the EU, it might as well give up. Turkey is a natural priority for the EU. It is also a test.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Charlemagne['ʃɑ:lә'mein]:查理曼大帝(742-814, 世称 Charles the Great或Charles I, 768-814为法兰克王, 800-814为西罗马帝国皇帝) 
@@ -100,4 +101,6 @@
 85.presidency['prezidәnsi]:n. 总统职权, 总裁职位 
 86.aspire[ә'spaiә]:vi. 渴望, 立志于 
 87.lastingly[]: [医]有残留性, 持久地, 耐久地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

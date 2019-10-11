@@ -8,6 +8,7 @@
 Athena, America’s largest boutique lender, requires art worth about $2m to secure its minimum loan of $1m. At Bank of America and other private banks, the minimum loan is closer to $5m. Both accept only works by well-known artists as collateral, since they are the only ones with reliable longevity. Thus art-secured loans are less risky than many believe, says Arturo Cifuentes of Columbia Business School. 
 “We can lend millions of dollars in three or four weeks,” says Cynthia Sachs, chief investment officer at Athena. But boutiques’ greater speed and flexibility come at a price: interest rates that outstrip those at private banks by several percentage points. That may hobble their growth. Rachel Pownall, a professor of art finance at Maastricht University, thinks the market for specialist lenders may be limited, since most art by famous names belongs to super-rich clients of private banks. Among dealers and gallerists, only the smaller ones have to turn to boutique lenders. 
 The best prospect for growth in the sector may be Europe. None of the continent’s banks has an art-lending programme on the scale of those in America, where 90% of art-secured lending takes place. Art financiers such as the Fine Art Group in London and WestendArtBank in Berlin have moved in. Lenders say inquiries from wealthy clients about leveraging their art collection are rising. Though Europeans are in general reluctant to borrow against their possessions, those who buy art for reasons beyond the aesthetic may prove willing to make an exception. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Picasso[pi:'kɑ:ssɒ:]:n. 毕加索(法国画家) 
@@ -54,4 +55,6 @@
 42.financier[fai'nænsiә]:n. 财政家, 金融家 vi. 从事欺骗性金融活动, 欺骗 
 43.Berlin[bә:'lin]:n. 柏林, (软质)柏林毛线 
 44.aesthetic[i:s'θetik]:a. 美学的, 审美的, 有美感的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

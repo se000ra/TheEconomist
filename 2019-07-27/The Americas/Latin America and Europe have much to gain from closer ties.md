@@ -9,6 +9,7 @@
 The long-awaited breakthrough reflects bigger changes. Both sides worry about the trade war and the geopolitical conflict between China and Donald Trump’s United States. China is now Mercosur’s largest single trade partner (and the second-biggest for Latin America as a whole). Although the EU remains the largest investor in Latin America, Chinese investments and loans to the region have grown fast. China’s growing influence there is of concern not just to Mr Trump, but to Europe and Japan, too. The prospect of being squeezed between Mr Trump and China scares many Latin American leaders. 
 The Mercosur agreement is part of a broader European reassessment of Latin America. Both regions share a commitment to democracy and multilateralism, values that are on the defensive. In that sense, “though far apart geographically, we are closer than any other continents,” Federica Mogherini, the EU’s outgoing foreign-policy chief, stated in April. She unveiled a new policy statement aimed at achieving greater political co-operation between the two regions. This contains a healthy dose of realism. Having previously sought to work with Latin America mainly through CELAC, a comatose and divided 33-country outfit, the European Commission will now give priority to co-operating with smaller and more coherent groups. 
 Much can still go wrong. Ratification of the Mercosur accord by Europe’s national parliaments will take up to two years and will not be easy. If Mr Macri loses a presidential election in October, Argentina could pull out. Above all, distance and the press of other priorities may cause each side to lose interest once again. That would be a strategic error.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bello[]:n. 贝罗（姓氏） 
@@ -82,4 +83,6 @@
 69.coherent[kәu'hiәrәnt]:a. 互相耦合的, 清晰的, 明了的，凝聚性的, 连贯的 
 70.ratification[.rætifi'keiʃәn]:n. 批准, 承认, 认可 [经] 追认, 批准 
 71.presidential[.prezi'denʃәl]:a. 总统制的, 总统的, 首长的, 统辖的 [法] 总统的, 议长的, 总经理的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

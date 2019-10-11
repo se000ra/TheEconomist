@@ -8,6 +8,7 @@
 ![image](images/20190803_ASC905.png) 
 That may help explain the authorities’ apparent reluctance to stub out smoking, even though the World Health Organisation says smoking-related diseases claim around 225,000 lives across the archipelago each year. Indonesia is one of fewer than ten countries to refuse to sign the WHO’s convention on regulating tobacco. Around 21% of 13-15-year-old boys smoke and there are no penalties for selling tobacco to minors. Cigarettes are cheap (a pack of 20 costs around $2). Tobacco firms promote their wares in slick television advertisements showing manly pursuits. They sponsor sports tournaments and other events where scantily clad marketing girls hand out free samples. Smokers are allowed to light up in many public spaces. 
 Despite the widely accepted benefits of switching to e-cigarettes, the government sought to ban the first ones to arrive in the country on health grounds. The trade minister, Enggartiasto Lukita, memorably told people using e-cigarettes to smoke conventional cigarettes instead to preserve jobs for tobacco-growers. In the end the government backed away from a complete ban, but it has imposed onerous restrictions. Distributors have to secure lots of government approvals, a big hurdle for the small firms that dominate the market. Worse, last year the government slapped a 57% excise tax on e-cigarettes and liquids. That leaves Juul and other e-cigarette-makers chasing a relatively small number of rich smokers. The total market for e-cigarettes remains trifling in comparison with sales of the normal sort, at about $200m a year, according to Euromonitor. In fact, none of the big tobacco firms bothers to sell e-cigarettes in Indonesia, even though Sampoerna’s American parent offers “heated tobacco” products in other markets. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Indonesia[.indәu'ni:ʒә]:n. 印尼 
@@ -52,4 +53,6 @@
 40.slap[slæp]:n. 掴, 掌击, 侮辱, 拍击声 v. 拍击, 惩罚 adv. 正面地, 直接地, 突然地 
 41.excise[ek'saiz]:n. (烟、酒等)消费税, 货物税, 国产税 vt. 切除 
 42.bother['bɒðә]:vt. 烦扰, 迷惑 vi. 烦恼, 操心 n. 麻烦, 纠纷, 讨厌的人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

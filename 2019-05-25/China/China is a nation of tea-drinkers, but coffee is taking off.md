@@ -11,6 +11,7 @@
 Whale Coffee, a shop in Chengdu’s trendy Yulin neighbourhood, is run by Pang Wenlong, who three years ago was among Ms Zhang’s first students. On most days Mr Pang can be seen behind the counter perusing manuals on coffee roasting, or examining his beans and separating out defective ones by hand. On a recent visit your correspondent ordered a Square Coffee (so-called because Whale looks out on a square), which combines two roasts of one’s choice. Mr Pang said he would favour the Colombia roast, rather than the requested Ethiopia, as a fit with the Kenya. 
 There may be about 200 small coffee shops like Mr Pang’s in Chengdu, Ms Zhang estimates. Their growth is striking given the city’s renown for its tea-drinking culture. Many residents like to relax in open-air shops, sipping tea served gracefully by waiters from brass pots with long spouts. Xue Meiling, a Whale regular who owns a bakery, says she is as likely to invite a friend to coffee at Mr Pang’s as to tea. 
 But the two markets are different. The teahouses tend to cater to older people who like to spend long hours in them, playing mahjong and gossiping. At the coffee shops it is rare to see anyone over 40. Young people use them for socialising, but much of their interaction is online—sharing photos of their drinks, of the coffee-making equipment and of themselves in chic interiors. An option on the Chinese rating app Dianping allows users to search for wanghong (“internet viral”) coffee houses: ones with particularly photogenic decor. Where better to sip and WeChat? 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.chengdu['tʃʌŋ'du:]:n. 成都市（中国四川省省会） 
@@ -61,4 +62,6 @@
 46.viral['vairәl]:a. 病毒的, 病毒引起的 [医] 病毒的 
 47.photogenic[,fәutәu'dʒenik]:a. 发光的, 由于光而产生的, 适宜于拍照的, 拍照效果好的, 特别上镜的, 上照的 [医] 光所致的, 光原性的, 发光的 
 48.decor['deikɔ:(r); (?@) dei'kɔ:r]:n. 装饰, 布置 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

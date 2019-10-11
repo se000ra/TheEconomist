@@ -6,6 +6,7 @@
 Ms Herzog still thinks the merger makes sense, given the benefits of scale and geographical reach in what she calls the “global arms race” for “reduced-risk” products, which use fewer harmful chemicals. Last year Altria spent $12.8bn on 35% of Juul Labs, a maker of popular high-nicotine vaporisers. It paid $1.8bn for 45% of Cronos Group, a cannabis company from Canada (which, along with some American states, has legalised pot). PMI has spent $6bn since 2008 to develop IQOS, a smoke-free device which heats tobacco and is expected to represent 40% of its sales by 2025, up from 14% last year. In April it won approval from the Food and Drug Administration (FDA) to sell IQOS in America, starting next month (under an existing licensing agreement with Altria). 
 Worldwide cigarette sales fell by 4.5% in 2018, to $714bn, and may continue to decline. The FDA’s proposed rules on nicotine content, to make smokes “minimally addictive”, could cut profits of American tobacco firms by half, say analysts at Morgan Stanley, a bank. By contrast, e-cigarette revenues may grow by more than 8% annually over the next five years, from $11bn today, according to Mordor Intelligence, a research firm. 
 For all that, merging with Altria may expose PMI to regulatory risks from Juul, whose controversial devices are a worrying hit with teenagers. Altria could also be a drag on PMI’s profitability, which has exceeded its parent’s since the split. PMI’s share price fell by 7.8% on the news. The deal may yet go up in smoke.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.philip['filip]:n. 菲利普（男子名） 
@@ -41,4 +42,6 @@
 31.annually['ænjuәli]:adv. 一年一次, 每年 [经] 年度的, 每年的 
 32.mordor[]: 魔多 
 33.profitability[.prɒfitә'biliti]:n. 收益性, 利益率 [经] 可获利润率 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

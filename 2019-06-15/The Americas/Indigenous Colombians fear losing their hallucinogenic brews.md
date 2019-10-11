@@ -9,6 +9,7 @@
 Commercialisation is giving ayahuasca a bad reputation. Some dodgy shamans are said to infuse the drink with borrachero, a plant that contains hyoscine, a drug that can make people vulnerable. Reports of sexual abuse have become common. Colombians were shocked last month when Orlando Gaitán, a popular (non-indigenous) shaman and a celebrated peace activist (his organisation won the Swedish Right Livelihood Award in 1990) was found guilty of sexually abusing three under-age girls. At least one foreign tourist has died after taking part in a ceremony. 
 Without ayahuasca tribes are “nothing”, says Ernesto Evanjuanoy, the president of UMIYAC, an organisation created by elders and medicine men from the five tribes most closely associated with the hallucinogen, who are uncomfortable with its use by others. In an effort to take back control, UMIYAC has created a code of ethics around the use of ayahuasca. Member shamans must be approved by their community, and promise not to scam or sexually abuse their clients. The group hopes these measures will help prevent the brew from being stigmatised or criminalised. 
 But Alhena Caicedo, an anthropologist at Los Andes University in Bogotá, says it will be hard to stop people from selling ayahuasca. Most are extremely poor and lack other skills. The more money there is to be made, the harder it will be to enforce the code, which has no legal status. Ms Caicedo worries that if ayahuasca’s popularity continues to spread, it could follow the same trajectory as coca, the plant used to make cocaine. Coca was once also considered sacred by certain Colombian indigenous tribes. But as cocaine consumption rose and cartels started killing people, the tribes lost control of the plant. Anyone growing coca today is treated as a criminal.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.indigenous[in'didʒinәs]:a. 本土的, 国产的, 固有的 [医] 原产的, 本土的 
@@ -77,4 +78,6 @@
 64.coca['kәukә]:n. 古柯, 古柯叶 [医] 古柯 
 65.Colombian[kә'læmbiәn]:n. 哥伦比亚人 a. 哥伦比亚的 
 66.cartel[kɑ:'tel]:n. 卡特尔, 企业联合, 俘虏交换条约, 决斗挑战书 [经] 同业联合, 联合贩卖, 卡特尔 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

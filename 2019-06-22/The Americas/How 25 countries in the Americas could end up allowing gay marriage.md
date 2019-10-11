@@ -9,6 +9,7 @@
 Even where laws and attitudes are hostile campaigners for gay rights are making and winning legal arguments. By The Economist’s count, 25 of the 35 countries in the Americas have constitutions with equal-treatment clauses. The American Convention on Human Rights, to which 23 countries are party, has such a clause. In 2015 the United States Supreme Court legalised same-sex marriage on the grounds that to deny gay people the rights and privileges of marriage is to deny them equal treatment. Colombia’s constitutional court made a similar ruling. In January the Inter-American Court of Human Rights said that the convention’s equality clause required its signatories to permit same-sex marriage. 
 In some countries, politicians are putting up a fight. Paraguay’s president, Mario Abdo Benítez, campaigned in last year’s election on a promise to veto legislation to allow same-sex marriage. Both of the remaining candidates in Guatemala’s presidential election oppose gay marriage. 
 Ecuador’s ruling will encourage campaigners to continue challenging even the most formidable obstacles to same-sex marriage. This year they filed a case to overturn Honduras’s constitutional ban. When Latin Americans talk about a “pink tide”, they usually mean the spread of leftwing politics. In future, they may mean the increasing freedom of gay people to wed whom they love.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -41,4 +42,6 @@
 28.leftwing['leftwiŋ]:左派[翼]的, 进步的 
 29.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
 30.wed[wed]:vt. 与...结婚, 使结合 vi. 结婚 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

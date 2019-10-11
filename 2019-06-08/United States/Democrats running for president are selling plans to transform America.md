@@ -12,6 +12,7 @@
 Even if they were to win a narrow Senate majority, that would not automatically result in the kind of new New Deal that Democratic activists seem to dream of. Surmounting the filibuster, which requires a super-majority of 60 votes for legislation, will be impossible without Republican votes. Ms Warren has endorsed eliminating the filibuster, as has Mr Buttigieg. Her Senate colleagues and competitors, Cory Booker, Kirsten Gillibrand and Kamala Harris, are more skittish, even though it is difficult to imagine some of their signature campaign issues—gun control for Mr Booker, paid family leave and abortion rights for Ms Gillibrand, and marijuana legalisation for Ms Harris—attracting eight or so breakaway Republican supporters. 
 Many current policy debates would be rendered practically meaningless by divided government, or even by a slim Democratic majority in the upper chamber. A hypothetical President Joe Biden and a President Elizabeth Warren would accomplish much the same in legislative terms, which is to say next to nothing. In that scenario, policy differences over foreign affairs and trade, where the president does have a lot of unilateral power, would matter more. But these are hardly being debated. 
 The people chosen by a President Biden or Warren to run the regulatory agencies would push in the same centre-left direction: reversing rollbacks of environmental protections under this administration, creating more expansive definitions of civil rights and pushing anti-trust regulators to be bolder. These are not insignificant powers. But proposals for sweeping social change, the kind that will be offered by candidates in the primary debates, would probably languish in committees.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.democrat['demәkræt]:n. 民主人士, 民主主义者, 民主党党员 [经] 民主党 
@@ -119,4 +120,6 @@
 103.expansive[ik'spænsiv]:a. 扩张性的, 使扩大的, 广阔的 [化] 膨胀的; 可以膨胀的 
 104.regulator['regjuleitә]:n. 调整者, 校准者, 校准器, 调整器, 标准钟 [化] 调节剂; 调节器 
 105.languish['læŋgwiʃ]:vi. 憔悴, 凋萎, 苦思 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

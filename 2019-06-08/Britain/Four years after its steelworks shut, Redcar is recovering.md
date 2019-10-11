@@ -12,6 +12,7 @@
 The government’s response may have played a role, too. Some £50m ($64m) of state support, equivalent to £25,000 per worker formerly employed directly at the plant, has been made available to a “task-force”. About £4m was put towards offering advice and grants to help people form startups, and £14m was dedicated to training those directly affected by the closure. 
 Not everyone who needed help has got it. But other SSI alumni have had good experiences. James McDermott, who once conducted structural inspections at the plant, says he received help from the task-force to improve his skills with drones. After being awarded a £10,000 grant he now runs Overview Drone Services, providing aerial photography, inspection and land surveys to businesses. “I can’t fault the help I’ve been given,” he says. 
 Detailed research on the fortunes of Redcar’s ex-steelers—long promised by the government, not yet delivered—is needed to work out which programmes worked. The research cannot come soon enough: with British Steel on the brink in Scunthorpe, the government may soon be called into action again. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.mettle['metl]:n. 气质, 耐力, 勇气 
@@ -75,4 +76,6 @@
 59.photography[fә'tɒgrәfi]:n. 摄影, 摄影术 [化] 照相术 
 60.cannot['kænɒt]:aux. 无法, 不能 
 61.brink[briŋk]:n. 边缘, 陡岸 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

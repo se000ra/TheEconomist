@@ -11,6 +11,7 @@
 Yet the party’s future depends on factors beyond Ms Swinson’s control. Alliances with other remain-supporting parties offer the Lib Dems a route to gains in Parliament, and they are expected to win a forthcoming by-election in Brecon, Wales, where the Greens and Plaid Cymru have stepped aside to help their candidate. But any alliance, formal or otherwise, between the Conservatives and the Brexit Party would go some way to balancing out the Lib Dems’ advantage. As would Labour’s embrace of a more anti-Brexit position, which many of its activists want. 
 The Liberal Democrats’ recent improvement owes a good deal to their vehement opposition to leaving the European Union (their slogan for the European elections was “Bollocks to Brexit”). Scarred by the punishment that voters meted out in 2015, Ms Swinson has said there is no chance of the party entering a coalition with a Labour government led by Mr Corbyn or a Conservative one led by Mr Johnson. But a confidence-and-supply arrangement, in which the party backs the government on key issues, remains possible. 
 These potential routes to greater influence are all based on one assumption: that Mr Johnson does not manage to leave the European Union before the next election. If he does, the Lib Dems would be in a much trickier position. Tom Brake, the party’s Brexit spokesperson, admits that they would have to work out whether to seek immediate re-entry to the EU. The party’s clarity of purpose, on which its recent electoral improvement has been based, would be gone. In which case, leaving the EU would be a double disaster for the Liberal Democrats. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Brexit[]:[网络] 英国退出欧盟 
@@ -80,4 +81,6 @@
 65.EU[]:[化] 富集铀; 浓缩铀 [医] 铕(63号元素) 
 66.clarity['klærәti]:n. 清楚, 明晰 [化] 透明度; 透明性; 清晰性 
 67.electoral[i'lektәrәl]:a. 选举人的, 选举的, (有关)选举的 [法] 选举的, 选举人的, 由选举人组成的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

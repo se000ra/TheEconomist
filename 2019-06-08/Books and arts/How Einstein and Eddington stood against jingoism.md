@@ -11,6 +11,7 @@
 All this is explored through the eyes of Mr Stanley’s two subjects, both of whom resisted the tide of militarism and xenophobia. Einstein despaired at the war fever that overtook his colleagues in Berlin. Eddington was a Quaker and a conscientious objector. An early convert to relativity, he did more than anyone to spread its gospel in the West, as well as trying to keep open what lines of communication he could between the belligerent powers. His efforts culminated in an expedition in 1919 to observe a solar eclipse, with the goal of seeing whether light from distant stars could be deflected by a massive object like the sun, a key prediction of Einstein’s theory. 
 Eddington’s finding that light did indeed bend was a dramatic confirmation of Einstein’s ideas. More than that, it was a pointed restatement of ideals that the war had squashed. Einstein’s elevation to global celebrity was boosted by the fact (emphasised by Eddington) that an Englishman had confirmed a German’s hypothesis which rewrote the rules of the cosmos. 
 The breadth of Mr Stanley’s narrative inevitably comes at the cost of depth. His book is simultaneously a brisk biography of two great scientists, a brief introduction to relativity, and a potted history of the first world war. But it is punchy and well-written, and full of signposts for readers who might want to delve more deeply into the fascinating subjects it explores. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Einstein['ainstain]:n. 爱因斯坦 [化] 爱因斯坦(能量的单位) 
@@ -109,4 +110,6 @@
 94.signpost['sainpәust]:n. 招牌柱, 广告柱, 路标 
 95.delve[delv]:v. 探究, 查考 n. 坑, 穴 
 96.fascinate['fæsineit]:vt. 令人入神, 使着迷 vi. 入迷 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

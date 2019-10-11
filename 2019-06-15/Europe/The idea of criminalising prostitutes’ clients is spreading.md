@@ -16,6 +16,7 @@
 Natasja Bos, one of the leaders of Exxpose, claims that the Swedish model deters trafficking (ie, recruitment through force or deception) by discouraging both clients and pimps. But 15 years after the law was passed, Swedish police found no such decline. Men who might once have told police about women they feared had been trafficked become reluctant to do so. 
 Advocates of a more liberal approach point to New Zealand, which treats selling sex like any other job. An official report says that “the vast majority” of sex workers are safer and healthier since prostitution was decriminalised in 2003. Those working on the streets report that their relationship with the police has improved. Likewise, in the Australian state of New South Wales, where selling sex is legal, prostitutes’ use of condoms is higher than in other Australian states where it is banned. 
 No country has ever eliminated prostitution. Many people want more sex than they can get without paying. Sex workers meet that demand, and so long as the terms are freely negotiated, the law should not stop them, argue their unions. Police should concern themselves only with genuine cases of coercion. “Nobody wants a safer sex industry more than sex workers themselves,” says Fleur (not her real name), of the Prostitution Information Centre in Amsterdam. Perhaps Dutch lawmakers should listen to the experts. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.puritan['pjuәritn]:n. 清教徒 a. 清教徒的 
@@ -111,4 +112,6 @@
 91.coercion[kәu'ә:ʃәn]:n. 强迫, 威压, 高压统治 [法] 强迫, 强制, 高压统治 
 92.fleur[flә:]:n. 粉状填料 
 93.prostitution[,prɔsti'tju:ʃәn]:n. 卖淫, 糟蹋, 滥用 [法] 卖淫, 滥用 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

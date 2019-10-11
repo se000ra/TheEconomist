@@ -11,6 +11,7 @@
 The big question is whether we should expect these quirks to endure. Once a way to make above-market returns is identified, it ought to be harder to exploit. “Large pools of opportunistic capital tend to move the market toward greater efficiency,” say Messrs White and Haghani. For all their flaws and behavioural quirks, people might be capable of learning from their costliest mistakes. The rapid growth of index funds, in which investors settle for an average return by holding all the market’s leading stocks, suggests as much. 
 Part of the appeal of index investing is that it is cheap. Factor investing, by contrast, involves a lot of churn—and thus expense. A detailed study by AQR Capital Management, one of the big beasts of factor investing, finds that trading costs were around 40% of gross factor returns. The costs are mostly down to the weight of money moving stock prices unfavourably. This figure is high enough to warrant concern, say the Elm duo. It may go higher as more money piles in. If factor premiums are also slimmer in future, trading costs will eat up a larger share of the extra returns. 
 What worked in the past cannot always be relied on to work in future. Penalty shoot-outs used to be seen as lotteries; they are now exercises in data-mining. Every goalkeeper and kicker knows what his opponent has done in the past. The best penalty-takers still hope to induce the goalkeeper to move first. But goalies are not as easily fooled. They can hold their nerve, too. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.buttonwood['bʌtnwʊd]: 美洲悬铃木 
@@ -74,4 +75,6 @@
 59.lottery['lɒtәri]:n. 奖券, 彩票, 运气 [经] 抽彩给奖法 
 60.kicker['kikә]:n. 踢者, 善踢的人, 爱踢的马 [化] 抖动器 
 61.induce[in'dju:s]:vt. 引诱, 招致, 归纳出, 感应 [医] 诱导, 感应 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

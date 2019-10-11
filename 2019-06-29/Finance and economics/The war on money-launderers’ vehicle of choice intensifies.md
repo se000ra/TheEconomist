@@ -10,6 +10,7 @@
 In every congressional session since the financial crisis, a group of federal lawmakers has proposed corporate-transparency legislation, only to see it fail. This time looks different. On June 12th a bill was approved by the House Financial Services Committee—the first time such a law had reached that stage. A similar bill has been introduced in the Senate. Campaigners are hopeful that a merged version will become law by the end of the year. 
 If it does, America would not get a public register but its companies would be required to disclose their beneficial owners to the Financial Crimes Enforcement Network, a federal agency, and to keep their ownership information up-to-date. There is still opposition, including some from a small-business association that worries about red tape. But Delaware, the biggest state for incorporation, is on board, as is America’s treasury secretary, Steven Mnuchin. (His boss, Donald Trump, whose businesses have sold many a property to anonymously owned companies over the years, has not made his views known.) 
 If the bill passes, anti-graft activists would then push America to adopt a public register. But Britain’s experience shows that transparency alone is not enough. Investigations by campaigners suggest that the information provided to its register is of mixed quality, to put it mildly. With enforcement lax, ne’er-do-wells are seemingly tempted to lie about who owns a firm and hope to get away with it. The government has promised an overhaul, with more money to police submissions. It will be some time before robbers’ cars are forced off the world’s financial highways. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.intensify[in'tensifai]:vt. 加强 vi. 强化 
@@ -71,4 +72,6 @@
 57.seemingly['si:miŋli]:adv. 看来似乎, 表面上看来 
 58.overhaul[.әuvә'hɒ:l]:vt. 分解检查, 翻修, 精细检查, 彻底革新 n. 分解检查, 精细检查, 大检修 
 59.submission[sәb'miʃәn]:n. 屈服, 服从, 谦恭, 呈递, 提交, 意见 [经] 提交, 提出, 提交公断 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

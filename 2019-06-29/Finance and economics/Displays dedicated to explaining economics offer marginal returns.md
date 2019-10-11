@@ -9,6 +9,7 @@
 Does trade create domestic winners and losers, exacerbating inequality? On this, and just about anything contentious, Citéco is frustratingly silent. Perhaps its biggest shortcoming is its technocrat’s vision. There is only the vaguest sense that economists and policymakers do not all agree. The biases and political framing that define economics in real life are set aside rather than taken on. The juiciest debates are absent. 
 But it does not dumb down complicated subjects. An explainer on how money is created by commercial banks issuing loans goes beyond the simplifications of most textbooks. A game that allows players to set what they think is the correct interest rate is fun (try to visit before Jens Weidmann, a hawkish German in the running to lead the European Central Bank, pulls the lever out of the wall). A photo booth that prints banknotes with visitors’ faces in a watermark is a witty prompt to ponder what it is that makes currency worth its face value. 
 But presenting economics as a settled discipline allowing for a dispassionate display of its various facets, as Citéco tries to do, turns out to be beyond the wit of homo economicus. There is too much for a mere building, no matter how grand. Perhaps the best reason to visit is the impression it conveys that economics might not belong in a museum at all. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.dedicate['dedikeit]:vt. 献出, 贡献 
@@ -64,4 +65,6 @@
 51.facet['fæsit]:n. (多面体的)面, 方面, 琢面 [医] 小平面, 小面 
 52.HOMO['hәumәu]:[化] 最高占据轨道; 最高占据分子轨道; 最高已占分子轨道 [医] 人属 
 53.economicus[]:[网络] 经济论 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

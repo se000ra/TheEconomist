@@ -12,6 +12,7 @@
 Workers may also look to the past to find a way to organise themselves. Some have set up online forums which share information on the most reliable employers. Ms Gray and Mr Suri suggest that these could be expanded to create the equivalent of medieval guilds which could enable workers to learn new skills. Such guilds could also act as a repository for employees’ work records. At the moment, it is as hard—or harder—to transfer your work rating from one online platform to another as it is to wrest your user data from Facebook. Lack of interoperability means workers have to start each contract from scratch. 
 Responsible employers could pledge only to use workers from guilds and to apply minimum standards on issues such as prompt payment. They will benefit from more reliable and skilful employees. That way, if the workers of the world unite, everyone may gain. 
 * “The future of women at work: Transitions in the age of automation” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bartleby[]:[网络] 巴特比；巴特白；老板是空气 
@@ -56,4 +57,6 @@
 40.pledge[pledʒ]:n. 诺言, 保证, 誓言, 抵押, 信物, 保人, 祝愿 vt. 许诺, 保证, 使发誓, 抵押, 典当, 举杯祝...健康 
 41.skilful['skilful]:a. 灵巧的, 熟练的, 制作精巧的 
 42.transition[træn'ziʃәn]:n. 转变, 转换, 变迁, 过渡时期, 临时转调 [化] 跃迁 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

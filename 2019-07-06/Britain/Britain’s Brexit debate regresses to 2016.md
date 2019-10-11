@@ -13,6 +13,7 @@
 The second is a shift of Brexit talk towards the extreme, epitomised by the two candidates’ embrace of no-deal. The linguistic changes are telling. Mrs May’s deal used to be termed a “hard” Brexit, as it would take Britain out of the single market and customs union. Now it is widely derided as “Brexit in name only”. A “soft” Brexit that would keep Britain in the single market, like Norway, is pilloried as no Brexit at all. And a no-deal Brexit, once considered almost unthinkable even by most Leavers, has become normalised through talk of a “clean” or “WTO” exit that would at least give business certainty. 
 The harsh realities for whoever becomes prime minister will change little from those confronting Mrs May. The EU has the negotiating advantage. There is a clear trade-off between prosperity and sovereignty. And although most Tory party members like the sound of a no-deal Brexit, a majority of MPs and voters are firmly against it. Manoeuvring round all these obstacles would test any prime minister, never mind one who still believes old myths from 2016. ◼ 
 Vacancy: The Economist is looking to hire a staff writer to cover British economics. Journalistic experience is not necessary; the ability to write clearly and entertainingly is. For details of how to apply, visit economist.com/britainjob2019. The deadline is August 4th. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Tory['tɒ:ri]:n. 托利党党员, 保守党员, 亲英分子 a. 保守分子的 
@@ -118,4 +119,6 @@
 101.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
 102.journalistic[,dʒ\\: nә'listik]:a. 新闻业的, 新闻工作者的, 报刊特有的, 新闻工作的 
 103.entertainingly[,entə'teiniŋli]:adv. 有趣地；使人愉快地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

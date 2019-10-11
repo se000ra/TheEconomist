@@ -12,6 +12,7 @@
 The justice ministry, which acts as the defendant, argues that the claim is based on hearsay and that the country has no case to answer. That is understandable: it would be a public-relations disaster for a left-wing government like Mr Moon’s to agree to a multimillion-dollar payout to a prowling hedge fund. But it is a tricky stance to maintain, given the convictions of former officials for influence-peddling in the case. If the ongoing proceedings claim more scalps, the government’s position will become more awkward still. 
 Park Ju-gun of CEO Score, a corporate watchdog thinks prosecutors will struggle to prove that Mr Lee or his associates ordered the accounting fraud or were instrumental in destroying evidence—charges they deny. But even if the prosecutors fail, says Park Sangin of Seoul National University, they may unearth enough new evidence for the Supreme Court to decide to send Mr Lee’s bribery case back to a lower court. That court will then have to reconsider the reduction of his sentence in light of the new evidence. It is possible it may restore his original conviction. 
 That would put Mr Moon under pressure from conservatives and business lobbyists to return to the old practice of pardoning erring chaebol leaders for the good of the nation. The president will be hoping it never comes to that. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.chaebol['tʃæbəul]:n. 韩国大企业；韩国财阀 
@@ -92,4 +93,6 @@
 76.reconsider[.ri:kәn'sidә]:v. 再考虑, 重新考虑 
 77.lobbyist['lɔbiist]:n. 说客 [法] 院外活动集团成员 
 78.err[ә:]:vi. 犯错, 做错, 犯罪 [法] 弄错, 犯错误, 陈述 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

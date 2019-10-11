@@ -9,6 +9,7 @@
 ![image](images/20190525_USC955.png) 
 One explanation is that partisanship now colours Americans’ reading of the economy, as it colours their views on many other things. Polling on behalf of The Economist by YouGov shows that Republicans are four times as optimistic as Democrats about the state of the stockmarket, which Mr Trump often cheers on. Liberals complain about high housing costs and low wage growth—never mind that wages are growing more strongly now than towards the end of Mr Obama’s term. 
 Mr Trump’s election in 2016 was followed by a rapid switch in attitudes. From the six months before the election to the six months after, YouGov measured a 45 percentage-point increase in the share of Republican-aligned Americans who believed the economy was getting better. Democrats became sharply more pessimistic. So it’s not any longer the economy, stupid. It’s the partisanship. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.voter['vәutә]:n. 选民, 投票人 [法] 选民, 选举人, 投票人 
@@ -38,4 +39,6 @@
 25.YouGov[]:[网络] 民治调查公司；尤格夫；民治公司 
 26.democrat['demәkræt]:n. 民主人士, 民主主义者, 民主党党员 [经] 民主党 
 27.stockmarket[s'tɒkmɑ:kɪt]: 证券市场; 证券交易所; 证券行情 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

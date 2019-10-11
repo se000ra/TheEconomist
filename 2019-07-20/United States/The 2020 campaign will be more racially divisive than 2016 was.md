@@ -11,6 +11,7 @@
 First, Mr Trump’s campaign will be more racially divisive than it was in 2016, when he won white voters by 20 percentage points. He was still feeling his way then, looking for praise from the New York Times and MSNBC’s “Morning Joe”. And when he did ramp up the rhetoric he was criticised by Republican leaders. Even as late as Charlottesville, his inflammatory language was repudiated by elected Republicans, business leaders and senior aides including his daughter Ivanka and Gary Cohn. He has received nothing like such criticism this week. Moreover, his slur against the four congresswomen, Alexandria Ocasio-Cortez, Ilhan Omar, Rashida Tlaib and Ayanna Pressley—of whom only Ms Omar was born overseas and Ms Pressley is not even of recent migrant stock, merely black—came not from an eccentric candidate, but the president. If Mr Trump only repeated his divisive 2016 lines next year, they would carry more weight. And he will probably say worse, because he wants vindication, for himself and his reviled method. In the event of any setback, he is liable to double down. 
 It might work again, too, which is the second point. Mr Trump’s approval ratings are low, but resilient and competitive. Set aside the state-level polling, which is less positive for him, and he is only a few points short of the 46% he won in 2016. He need not be loved to make up the difference. He needs only to make his opponent more hated, which was his other ploy in 2016. This makes Democratic voters, whose early support for Joe Biden suggests a demand for a plain-vanilla moderate whom Mr Trump might find hard to demonise, more sensible than the party’s left-wing activists. They see in his vulnerability an opportunity to bring about a leftward shift that most Americans do not want. One plausible, though possibly too ingenious, theory for his attack on Ms Pressley and the rest, all of whom are left-wingers, is that he wanted to boost their prestige within the party. That may in any event be the result. 
 Democrats must resist Mr Trump setting their agenda in any way. They do not need revered anti-Trump warriors. They need to be able to rebuke his divisiveness smartly, keeping in mind their own reputation for hyperventilating. The bill introduced by Nancy Pelosi to censure his tweet passed that test. Its citation of a line from Ronald Reagan’s last presidential address, “If we ever closed the door to new Americans, our leadership in the world would soon be lost,” also spoke to the third point, which is the fundamental one. Mr Trump’s exclusionary vision of America is a travesty.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lexington['leksiŋtәn]:n. 列克星敦市（位于美国肯塔基州） 
@@ -126,4 +127,6 @@
 111.ronald['rɔnәld]:n. 罗纳德（男子名） 
 112.presidential[.prezi'denʃәl]:a. 总统制的, 总统的, 首长的, 统辖的 [法] 总统的, 议长的, 总经理的 
 113.exclusionary[ɪkˈsklu:ʒənri]:a. <正>排斥（性）的, 排除在外的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

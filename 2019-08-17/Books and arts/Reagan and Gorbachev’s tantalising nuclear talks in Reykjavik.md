@@ -9,6 +9,7 @@
 Mr Serina’s account, first published in French three years ago, draws on declassified archives and interviews with witnesses to paint a vivid and valuable picture of the two-day meeting in the Icelandic capital, despite the occasional redundant flourish and some unfamiliarity with the technology he mentions. He is a leading French correspondent dealing with the United States, not the Soviet Union, which sometimes shows. Moreover he blithely assumes the anti-nuclear case is self-evident, and is prone to unthinking moral equivalence between the communist empire and the free world. Dialogue indeed helps clarify disagreements and build trust. All the same, Reagan’s views of a malevolent Kremlin were well-founded. 
 If, just if, the summit could have gone on one more day…that might have given the two leaders time to build their burgeoning rapport and overrule sceptics in their delegations. Mr Gorbachev, accompanied by his wife Raisa, was willing to give the talks another 24 hours. Lonesome and exhausted, Reagan was not. “How might the world have changed if Nancy had come along for the ride?” asks Mr Serina. 
 Probably not a lot, in truth. The two big superpowers would hardly scrap their nuclear arsenals without the Chinese, Indians, Israelis and others doing the same—and how would that be verified? Still, despite the false start in Reykjavik, the negotiations continued, with the elimination of intermediate-range nuclear weapons in Europe and deep, verified cuts in the strategic arsenals on both sides. Happy days, by contemporary standards. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.reagan[]:n. 里根（姓氏） 
@@ -66,4 +67,6 @@
 53.scrap[skræp]:n. 碎片, 残余物, 些微, 片断, 铁屑, 吵架 vt. 扔弃, 敲碎, 拆毁 vi. 互相殴打 a. 零碎拼凑成的, 废弃的 
 54.Israeli[iz'reili]:a. 以色列的, 以色列人(语)的 n. 以色列人 
 55.negotiation[ni.gәuʃi'eiʃәn]:n. 谈判, 磋商, 交涉 [经] 谈判, 协商 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

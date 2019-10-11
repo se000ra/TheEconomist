@@ -15,6 +15,7 @@
 Beyond the jail walls he is trying other experiments, rethinking the role of the sheriff’s office and deploying his nearly 7,000 staff in ways his predecessors never imagined. There are over 3,000 sheriffs across America, law officers whose duties are limited mostly to policing and enforcing court orders. Under Mr Dart’s expansive view, the office can be a form of alternative government. His mandate is so nebulous, he argues, it amounts to “outrageously broad powers” for a willing sheriff, especially beyond city borders (his county includes 130 towns and villages outside Chicago). He tries what he calls “wildly different stuff…to make my job more bizarre.” 
 Examples include his office helping the mayor of a depopulated, crime-ridden and poor town, Ford Heights, to fix its public lighting and water, build a baseball diamond and replace a defunct police force. Elsewhere he has clashed with banks, by refusing to evict homeowners who are behind on mortgages. He resisted even facing threats of contempt orders against him personally. He called the evictions unjust for a “thoughtful society”. 
 Mr Dart campaigned to close Backpage.com, a website shuttered by federal authorities for hosting adverts for human trafficking and prostitution. And in Chicago he deployed officers to promote community policing—to build trust among residents in especially violent areas—even when city police, at first, seemed reluctant to accept help. Not all these efforts succeed. But through his willingness to try new things until someone stops him, and his enthusiasm for clashing with Democratic power-brokers in Springfield like the House Speaker, Mike Madigan, Mr Dart has reimagined what a sheriff can be.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.sheriff['ʃerif]:n. 郡治安官, 县治安官 [法] 司法行政官, 郡长, 执行吏 
@@ -119,4 +120,6 @@
 100.mike[maik]:vi. 偷懒, 游手好闲 n. 休息, 游手好闲, 扩音器, 话筒 
 101.Madigan[]:n. (Madigan)人名；(英、瑞典)马迪根 
 102.reimagine[]:[网络] 再定义 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

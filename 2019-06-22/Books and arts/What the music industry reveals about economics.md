@@ -8,6 +8,7 @@
 Mr Krueger’s love of music shines through as he anatomises the industry’s finances and its increasingly “winner takes all” nature. Today the top 5% of performers claim 85% of concert revenue, for example, and the top 1% take 60%. He looks at how recording and touring revenues have changed, the business model of streaming, how contracts work and whether political activism makes business sense for artists. He analyses why tickets are usually underpriced—and how Taylor Swift, Jay-Z and others have pioneered “slow ticketing”, whereby tickets are released gradually, so shows do not sell out straight away. 
 He also provides much wonkish detail on radio royalties and the evolution of copyright law. (It turns out that the number and quality of new operas increased in the parts of Italy where Napoleon imposed French copyright law; Rossini and Verdi were among the beneficiaries.) He notes that William Baumol used the example of a string quartet when formulating his “cost disease” theory about the relationship between prices and productivity (see Free exchange). A detailed analysis of the peculiarities of the Chinese music market is followed by a nod towards behavioural economics and music’s impact on happiness. There are also interviews with solo artists, bands and music executives. 
 Because it focuses on a single field, “Rockonomics” lacks the variety of “Freakonomics”. Despite its aspirations, the book is more effective at using economics to explain the music industry than vice versa. For readers with a budding interest in economics, other tomes will prove a more effective gateway drug. But for anyone thinking of entering the music industry, or working in it already, “Rockonomics” is an eye-opening and entertaining read. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.gig[gig]:n. 旋转物, 轻便双轮马车, 赛艇, 鱼叉, 记过, 爵士乐演奏会 vi. 乘轻便双轮马车, 乘快艇, (用鱼叉)叉鱼 vt. (用鱼叉)叉, 刺激, 记过 
@@ -53,4 +54,6 @@
 41.versa[]:a. 反的 
 42.tome[tәum]:n. 册, 卷, 大本书 
 43.gateway['geitwei]:n. 门, 通路 [计] 网关 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

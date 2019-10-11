@@ -17,6 +17,7 @@
 Remittances from relatives in the cities are also changing things. Mom-and-pop stores work as intermediaries for cash-transfer firms, allowing locals to send and receive cash swiftly. In 2016, 1% of the population used an app or a cash-transfer firm to move money. Now 80% do, says Brad Jones, boss of Wave Money, one such firm. It handled $1.3bn in Myanmar in 2018 and has already surpassed that figure this year. 
 The exodus has had a big impact on agriculture, in particular. Khin Aye, a farmer in the Ayeyarwady region, has 14 acres of paddy fields, which can be seen through the back window of his farmhouse. Over the oink of pigs, he explains how hard it is to find labourers. He says he has to pay double his previous daily rate. One study found that agricultural wages in the area jumped 40% between 2011 and 2016. Some farmers, struggling to make ends meet, have sold their paddy fields or switched to less labour-intensive crops. Automation is another option. Buffaloes are becoming a rarity, but ploughs pulled by tractors are a common sight. Mr Khin Aye started renting one two years ago. The amount he pays the rental firm is about the same as he used to pay for labourers, but now the work is done much quicker. 
 A recent study by Myat Thida Win and Ben Belton of Michigan State University and Xiaobo Zhang of Peking University found that the share of farms in southern Myanmar using machines to harvest increased from 10% to 54% between 2011 and 2016. They also looked at the annual sales of five local farm-vehicle dealerships. They found that between 2013 and 2016 the number of two-wheel tractors purchased doubled to 20,684. Sales of four-wheel tractors and combine harvesters soared 12-fold from 460 to 5,572. The paddy fields of Ayeyarwady region are one of the few places on Earth where a wave of automation is seen by nearly everyone as a relief.  
+<<<<<<< HEAD
 -- 
  单词注释:
 1.mover['mu:vә]:n. 移动的人, 原动力, 鼓动者 
@@ -118,4 +119,6 @@
 97.dealership['di:lәʃip]:n. 代理权, 经销权 [法] 商品经销特许权, 代理商 
 98.harvester['hɑ:vistә]:n. 收获者, 收割机 
 99.soar[sɒ:]:n. 高扬, 翱翔 vi. 往上飞舞, 高耸, 翱翔 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

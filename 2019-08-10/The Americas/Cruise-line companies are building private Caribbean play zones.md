@@ -8,6 +8,7 @@
 For cruise companies, the benefits are clear. Customers—and their money—are kept in one place. And the experience can be tailored to fit nervous travellers. Dillon Mangs, an expatriate resident of Labadie whom Royal Caribbean contracts to run shore excursions, says he tries to showcase Haiti’s culture without dampening holidaymakers’ spirits by exposing them to too much reality. One excursion is to a mock Haitian mountain village, complete with a Vodou show. 
 Is it a problem that cruise companies have such privileges? Some worry that the deals firms strike with governments are lopsided. To keep cruisers on side, Caribbean countries are “basically giving away parcels of land”, says Ross Klein, of the Memorial University of Newfoundland. Governments which demand too much find the ships go elsewhere. 
 But for the troubled Haitian government, the Royal Caribbean deal does at least generate some cash. Each passenger, of whom there are over 700,000 a year, pays the state a $12 surcharge. The company provides jobs, and has also contributed to a school. As a boy, Rodman Decius, who lives in Labadie, attended the École Nouvelle; now he works as first mate on a yacht chartered by Royal Caribbean. He is pleased with the job and does not mind clueless guests. “If they ask questions, it’s nice for me to tell them about my culture,” he says. “But it doesn’t bother me if they don’t.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Caribbean[.kæri'bi:әn]:n. 加勒比海 a. 加勒比海的, 加勒比人的 
@@ -63,4 +64,6 @@
 51.charter['tʃɑ:tә]:n. 特许状, 执照, 宪章 vt. 特许, 发给特许执照 
 52.clueless[ˈklu:ləs]:a. 无能的, 笨的 
 53.bother['bɒðә]:vt. 烦扰, 迷惑 vi. 烦恼, 操心 n. 麻烦, 纠纷, 讨厌的人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

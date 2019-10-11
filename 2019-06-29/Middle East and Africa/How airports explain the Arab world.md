@@ -8,6 +8,7 @@
 Iraq’s airports also replicate the plethora of checkpoints that punctuate its roads. To reach Baghdad’s main airport, you pass through a series of concentric rings, starting many kilometres before the terminal. Passengers offload their luggage numerous times, first onto airport buses, then onto trolleys. Sniffer dogs, x-ray machines and officials, all from different factions, scrutinise your contents several times over—and you feel none the safer. 
 Here and there across the Arab world, private VIP services, often in cahoots with official security chiefs, sell fast-track passage to bypass the rigmarole faced by hoi polloi. In Cairo baksheesh is the simplest way to cut through the airport’s tangle of red tape. And the equipment is only as good as its operators, who often seem more focused on their mobile-phone screens than their x-ray monitors. Semi-literate police at Egypt’s airports let passengers through only if they present a valid ticket—or something that looks like one. An old rental-car reservation recently sufficed. 
 At the airport serving Khartoum, Sudan’s capital, notices recently said that no one could leave the terminal once he or she had passed through security checks. No one paid the slightest attention, happily walking in and out.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.misnomer[mis'nәumә]:n. 取名不当 [法] 叫错姓名, 用词不当, 使用不适名称 
@@ -55,4 +56,6 @@
 43.tangle['tæŋgl]:n. 缠结, 纠结的一团, 困惑, 纠纷, 混乱 vt. 使缠结, 缠住 vi. 缠结, 乱作一团 
 44.suffice[sә'fais]:vi. 足够, 有能力 vt. 满足 
 45.Khartoum[ka:'tu:m]:n. 喀土穆（苏丹首府） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

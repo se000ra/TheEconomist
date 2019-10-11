@@ -8,6 +8,7 @@
 But his book is more than a litany of victims. Mr Winegard convincingly argues that the insect has shaped human life as well as delivering death. Mosquitoes helped save the Romans from Hannibal and Europe from the Mongols. And if malaria has changed history, so has resistance to it. Europeans believed that the relative immunity enjoyed by some Africans made them ideal slaves in the New World. Later, the tables were turned. “They will fight well at first, but soon they will fall sick and die like flies,” predicted Toussaint Louverture of the Frenchmen sent to end his slave revolution in Haiti. He was right. About 85% of the 65,000 soldiers deployed to the colony died of mosquito-borne illnesses, and Haiti won its independence. 
 These dashes across time and distance could become exhausting, but Mr Winegard is an engaging guide, especially when he combines analysis with anecdote. One highlight relays a bizarre plot by a Confederate zealot to infect Abraham Lincoln with yellow fever; another passage explains the ancient Egyptian habit of fighting malarial fevers by bathing in urine. (A few of the witticisms fall flat. Calling the 18th-century Caribbean a “dinner-party buffet” for mosquitoes seems glib, for example; anthropomorphising the pests as a “guerrilla force” is a metaphor too far.) 
 But much of Mr Winegard’s narrative is thrilling—above all the concluding chapters in which he tackles the modern mosquito. Drugs and insecticides have helped slash malaria rates, but mosquitoes can quickly develop immunity themselves. In total, the insects still kill over 800,000 people every year. And though gene-editing might one day render them harmless, or even obliterate them altogether, mosquito-borne illnesses such as Zika have recently been spreading to new regions. The destroyer of worlds has not finished yet. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.itch[itʃ]:n. 痒, 渴望, 疥疮 vi. 发痒, 渴望 
@@ -68,4 +69,6 @@
 56.quickly['kwikli]:adv. 很快地 
 57.obliterate[ә'blitәreit]:vt. 擦去, 冲刷(掉), 消灭, 忘掉, 盖销(邮票等) [法] 灭迹, 消灭, 涂抹 
 58.zika[]:[网络] 齐卡；齐卡兔；齐卡肉兔配套系 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

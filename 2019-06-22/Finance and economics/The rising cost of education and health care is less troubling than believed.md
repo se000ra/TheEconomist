@@ -9,6 +9,7 @@
 Neither do high prices necessarily need fixing. Many proposed solutions would be good for growth but would not solve the cost-disease problem. Boosting the supply of labour by increasing immigration could depress costs in both high-productivity sectors and low-productivity ones. But the price of a college education in terms of sedans would remain eye-watering. Innovation in stagnant sectors, while welcome, would shift the problem of cost disease elsewhere. A burst of productivity growth in education—because of improved online instruction, say—should contribute to a decline in the price of education per student. But because a given instructor could serve many more students than before, teachers’ potential income would rise, luring some would-be doctors away from the study of medicine and exacerbating the problem of cost disease in health care. A productivity boom in health care might shunt the cost disease to dentistry, or child care, or veterinary medicine. 
 The only true solution to cost disease is an economy-wide productivity slowdown—and one may be in the offing. Technological progress pushes employment into the sectors most resistant to productivity growth. Eventually, nearly everyone may have jobs that are valued for their inefficiency: as concert musicians, or artisanal cheesemakers, or members of the household staff of the very rich. If there is no high-productivity sector to lure such workers away, then the problem does not arise. 
 These possibilities reveal the real threat from Baumol’s disease: not that work will flow toward less-productive industries, which is inevitable, but that gains from rising productivity are unevenly shared. When firms in highly productive industries crave highly credentialed workers, it is the pay of similar workers elsewhere in the economy—of doctors, say—that rises in response. That worsens inequality, as low-income workers must still pay higher prices for essential services like health care. Even so, the productivity growth that drives cost disease could make everyone better off. But governments often do too little to tax the winners and compensate the losers. And politicians who do not understand the Baumol effect sometimes cap spending on education and health. Unsurprisingly, since they misunderstand the diagnosis, the treatment they prescribe makes the ailment worse. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
@@ -82,4 +83,6 @@
 69.unsurprisingly[]:adv. 不出所料的；不出奇的；意料中的 
 70.diagnosis[.daiәg'nәusis]:n. 诊断 [计] 诊断 
 71.ailment['eilmәnt]:n. 病痛, 疾病 [医] 疾病 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

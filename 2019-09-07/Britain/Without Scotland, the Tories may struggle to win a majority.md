@@ -9,6 +9,7 @@
 Mr Johnson needs those Westminster seats to stay blue in the general election that is expected to be called soon. In the election of 2017, a disastrous night for the Tories in England, the strong showing of the Scottish Conservatives was crucial to keeping the party in government. But the Tory roots in those Scottish seats are shallow, and the margin of victory last time mostly nothing to write home about. A majority of voters backed Remain in all but one of them. In Stirling, for example, where an SNP majority of 10,480 in 2015 gave way to a Conservative majority of 148 in 2017, only about a third voted Leave. The Tories would lose ten of their 13 seats to the SNP if there were an election, according to a YouGov poll for the Times on September 4th. 
 It is not just Mr Johnson’s government that is at stake, but the future of the union itself. Ms Davidson has been the main pro-British figure in Scotland since the independence referendum of 2014. She redesigned her party to make it more palatable to Scots, and reaped the electoral benefits. Her departure is a huge boost to Ms Sturgeon, who hopes to secure a second independence referendum within a few years and who will regard winning it as eminently more achievable in the absence of her erstwhile opponent. 
 Ms Davidson’s successor matters, therefore. Scottish Tory insiders expect a run-off between a pro-Brexit, pro-Johnson candidate (possibly Jackson Carlaw, Ms Davidson’s deputy), who might wrap himself in a union flag and prove popular with party members, and a candidate who argues for more distance and autonomy from the English party, such as Murdo Fraser, who is likely to be favoured by Tory members of the Scottish Parliament. The outcome will determine the shape of Scottish politics for years to come—and perhaps the survival or otherwise of the union. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Tory['tɒ:ri]:n. 托利党党员, 保守党员, 亲英分子 a. 保守分子的 
@@ -64,4 +65,6 @@
 51.Murdo[]:n. (Murdo)人名；(英)默多 
 52.fraser[]:n. 弗雷则河（加拿大西南部河流）；弗雷泽（男子名） 
 53.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

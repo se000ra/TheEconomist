@@ -10,6 +10,7 @@
 But it is at home that Mr Tokayev will face his greatest challenges. Mr Nazarbayev’s resignation has spurred some of Kazakhstan’s 18m citizens—especially people under 29, who have only ever known Mr Nazarbayev as leader and are now over half the population—to challenge the regime’s zero-tolerance attitude towards dissent. The authorities in Almaty and Nur-Sultan, the capital recently renamed after Mr Nazarbayev, arrested 500 protesters on election day and hundreds more later, after results were released and Mr Tokayev sworn in. Three mothers are under house arrest after taking part in a demonstration in May. The regime has jailed people for demanding a fair election. One man held up a blank piece of paper, with no overt criticism of anyone, to test the limits of peaceful expression. Police grabbed and detained him. (He was later released.) 
 Such repression has backfired. It has become a catalyst for protests invoking a phrase from a century-old poem urging Kazakhs to shake off Russian colonial rule: “I’ve woken up.” Inventive videos mocking the government’s heavy-handedness have gone viral. Offline, activists have formed a new movement, “Oyan, Qazaqstan” (Wake Up, Kazakhstan). Their nine-point platform for political reform includes the abolition of the executive presidency. The government’s apologists have been deriding them as out-of-touch sophisticates. 
 Even if he wanted to, Mr Tokayev will find it difficult to adopt reforms in the shadow of Mr Nazarbayev, who will not want to see the system he fashioned dismantled. Despite the country’s oil wealth many complain of unemployment, low wages, corruption and a lack of access to housing, health care and education. Before the election, Mr Tokayev took to Twitter to promise “political modernisation”. “Old problems—new solutions,” he tweeted brightly. Kassymkhan Kapparov, a democracy activist, riposted tartly: “Old problems—old people who created them.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.choreograph['kɒriәgrɑ:f]:v. 设计舞蹈动作 
@@ -86,4 +87,6 @@
 72.tweet[twi:t]:vi. 啁啾 n. 小鸟叫声 
 73.brightly['braitli]:adv. 生辉地, 明亮地, 鲜明地 
 74.ripost[]:n. 敏捷的回刺, 尖锐的反驳 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

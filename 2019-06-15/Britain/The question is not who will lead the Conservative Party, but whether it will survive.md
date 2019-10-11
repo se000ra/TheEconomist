@@ -11,6 +11,7 @@
 In Parliament, the Boris surge is being driven less by the self-interest of the affluent than by the panic of the petrified. MPs are coalescing around him not because they like or trust him but because they fear that they will otherwise be crushed by the Brexit Party or the Labour Party. ConservativeHome, a news site for activists, endorsed Mr Johnson “on a wing and a prayer” for much the same reason. But his electoral magic will have to be potent indeed if it is to overcome not just his obvious moral failings but also the fact that his views are so far outside the mainstream. 
 The panic is infecting more than just the leadership election. In 2016 Michael Anton, an American conservative, wrote a provocative essay dubbing the forthcoming presidential contest the “Flight 93 election”. He argued that, just as the passengers on the hijacked United plane in 2001 had no choice but to storm the cockpit, conservatives had no choice but to embrace Donald Trump, in order to avoid a victory by establishment Republicans (who were all sell-outs) or Hillary Clinton (who represented an existential threat to the republic). 
 Leading British Conservatives have started to talk like Mr Anton. Hard-Brexiteers are so worried about an establishment plot to block Brexit that they are embracing extreme tactics, such as suspending Parliament, and denouncing civil servants. A few months ago Mr Johnson was recorded at a private dinner salivating over the idea of Mr Trump “doing Brexit”. “He’d go in bloody hard…There’d be all sorts of breakdowns, all sorts of chaos. Everyone would think he’d gone mad. But actually you might get somewhere.” Now even more moderate Conservatives such as Jeremy Hunt and Rory Stewart have taken to talking about what the Conservatives can learn from Mr Trump. A panicking party seems primed to bring about “all sorts of breakdowns” and “all sorts of chaos”. Whether this will “actually get somewhere” is another matter. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Bagehot[ˈbædʒət]:白芝浩；巴杰特（人名） 
@@ -99,4 +100,6 @@
 84.jeremy['dʒerimi]:n. 杰里米（男子名） 
 85.Rory['rɔ:ri,'rәjri]:n. 罗里(m.) 
 86.stewart['stjuәt]:n. 斯图尔特（男子名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

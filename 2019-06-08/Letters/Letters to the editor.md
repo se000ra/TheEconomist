@@ -36,6 +36,7 @@
 ROLLO PRENDERGASTBerkhamstead, Hertfordshire 
 “Shear madness”? How do ewe sleep at night? 
 JOE JENKINSONBristol 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.uber['ju:bә]:[医] 乳房 
@@ -138,4 +139,6 @@
 98.Rollo['rɔlәu]:(=Rolf)罗洛(男子名) 
 99.ewe[ju:]:n. 母羊 
 100.joe[dʒәu]:n. 乔（男子名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 The best case for Mr Johnson is that he might use his skill as a salesman and his way with words to hawk the Brexit deal, or something much like it, to a Parliament that has three times rejected it. Mrs May fell 58 votes short on her final attempt. Both Labour and the Tories have since become much more scared of what Brexit is doing to their supporters, who are flocking to the Liberal Democrats and the Brexit Party respectively. It is conceivable that Mr Johnson—freshly elected, popular in his party and as magnetic as Mrs May is wooden—might persuade enough MPs to change their minds. The idea of him choosing a referendum on the deal so as to break the logjam in Parliament, as this newspaper would like, is far-fetched. But then, so much about him is. 
 Alas, the case against Mr Johnson is more plausible. He is not a signpost but a weather vane and, at the moment, the winds in Britain are blowing in a dangerous direction (see Briefing). The sudden rise of the populist Brexit Party, which came first in last month’s European election and now leads the polls with its promise of a no-deal exit, is terrifying the Tories, many of whom believe the only way to neutralise its insurgency is to ape it. Since long before the referendum, the Conservative Party has been slowly evolving into one whose supporters are bound more by cultural values than economic ones. Brexit has put rocket-boosters on that trend. The next Tory leader will be under pressure to continue the metamorphosis of his party from a force for free markets into a right-wing populist outfit in the (ironically) European mould. Mr Johnson would be capable of engineering that transformation. 
 Weather vane that he is, Mr Johnson would be unusually reliant on the people around him in 10 Downing Street and the cabinet for ideas, guidance and direction. By contrast with Mr Trump, who resents advice and experts, Mr Johnson is happy to delegate and let others do the work—provided he gets the glory. And whereas most mainstream Republicans at first disowned Mr Trump, thus ruling themselves out of working for him, moderate Tories are flocking to Mr Johnson’s banner, in the hope of landing a plum job in his cabinet. Many of them recognise that a no-deal Brexit would be bad for Britain—and thus, most likely, a disaster for the Conservative Party. If Mr Johnson ends up in power, it will fall to them to rein in his worst instincts. If they fail, it may not be long before the Brexit monster is chewing up and spitting out its third prime minister. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.boris['bɔris]:n. 鲍里斯（男子名） 
@@ -93,4 +94,6 @@
 78.mainstream['meinstri:m]:n. 主流 
 79.disown[dis'әun]:vt. 否认 [计] 不认, 驱逐 
 80.plum[plʌm]:n. 李子 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -14,6 +14,7 @@
 Reynolds, David. “Review: The cost of geography: Europe’s international history between the wars, 1918-1939”. Contemporary University Press, Vol 21, no 2, pp273-286 
 Tampke, Jürgen. A perfidious Distortion of History. Scribe, 2017 
 Trachtenberg, Marc. “Versailles after sixty years”. Journal of Contemporary History, Vol 17, no 3, pp487-506 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -58,4 +59,6 @@
 40.scribe[skraib]:n. 文书, 抄写员, 划线器 vi. 担任抄写员 vt. 用划线器划 
 41.trachtenberg[]: [人名] 特拉亨伯格 
 42.marc[mɑ:k]:n. 榨渣 [计] 机器可读目录; 机读目录 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -8,6 +8,7 @@
 In more normal times Mr Bishop ought to be a shoo-in. Yet with every election seemingly a referendum on President Donald Trump, these are not those times. The tightness of the race is not only a Trump phenomenon, though. NC-9—which was once as friendly to Republicans as a church picnic on the lawn of a country club to celebrate Barry Goldwater’s birthday—has been becoming steadily more competitive for a decade as its fields and trees have been replaced by suburbs and parking lots. In 2006 voters in the district gave the Republican candidate a vote share that was 20 points higher than the nationwide Republican tally. In 2018 the district was leaning to the right by just 2 percentage points (see chart). Mr Harris defeated his 2018 Democratic challenger Dan McCready, an ex-marine, by a mere 900 votes last year (and that includes the cheating). 
 ![image](images/20190907_USC989.png) 
 In light of the seat’s newfound competitiveness, money has flooded in. According to number-crunching by the Centre for Responsive Politics, a non-partisan research group, Mr McCready has raised $4.7m, whereas Mr Bishop has raised $1.9m. According to political polling, the race remains close. One survey from Harper Polling found Mr McCready beating Mr Bishop by four percentage points—within the margin of error—while another survey from the Democratic firm ALG Research found the two candidates tied on 46% each. McCready appears to have a slight edge, but the election could go either way. With luck, this time nobody will stuff the ballot boxes.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Sep[]:九月 
@@ -66,4 +67,6 @@
 54.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
 55.Harper['hɑ:pә]:n. 哈珀（英语姓氏） 
 56.ALG[]:[计] 算法 [医] 抗淋巴细胞球蛋白 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

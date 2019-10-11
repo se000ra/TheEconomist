@@ -11,6 +11,7 @@
 These problems have three remedies. First, governments need to ensure that central banks’ monopoly over coins and notes is not replaced by private monopolies over digital money. Rather than letting a few credit-card firms have a stranglehold on the electronic pipes for digital payments, as America may yet allow, governments must ensure the payments plumbing is open to a range of digital firms which can build services on top of it. They should urge banks to offer cheap, instant, bank-to-bank digital transfers between deposit accounts, as in Sweden and the Netherlands. Competition should keep prices low so that the poor can afford most services, and it should also mean that if one firm stumbles others can step in, making the system resilient. 
 Second, governments should maintain banks’ obligation to keep customer information private, so that the plumbing remains anonymous. Digital firms that use this plumbing to offer services should be free to monetise transaction data, through, for example, advertising, so long as their business model is made explicit to users. Some customers will favour free services that track their purchases; others will want to pay to be left alone. 
 Last, the phase-out of cash should be gradual. For a period of ten years, banks should be obliged to accept and distribute cash in populated areas. This will buy governments time to help the poor open bank accounts, educate the elderly and beef up internet access in rural areas. The rush towards digital money is the result of spontaneous demand and innovation. To pocket all the rewards, governments need to prepare for the day when crumpled bank notes change hands for the last time.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.cashless['kæʃlis]:a. 无现款的,无现金的,无钱的 
@@ -67,4 +68,6 @@
 52.populate['pɔpjuleit]:vt. 使人口聚居在...中, 殖民于, 移民于, 居住于, 定居于 
 53.innovation[.inәu'veiʃәn]:n. 改革, 创新 [法] 创新, 改革, 刷新 
 54.crumple['krʌmpl]:vt. 弄皱, 压皱 vi. 崩溃, 变皱 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

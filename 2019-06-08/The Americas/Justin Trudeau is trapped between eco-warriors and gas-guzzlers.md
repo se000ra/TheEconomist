@@ -12,6 +12,7 @@
 Greens mourned the federal government’s decision in 2018 to buy the existing Trans Mountain pipeline, which carries oil from Alberta to the west coast. They are still angry about its proposed expansion (the government’s final decision is expected by June 18th). Environmentalists and some indigenous groups are also fighting a new oil pipeline that would pass through Alberta and British Columbia. The federal government has proposed a ban on oil tankers sailing off the northern coast of British Columbia, but it has been held up in parliament by senators. 
 The most absurd battle may be in Ontario, where the operators of petrol stations now face fines of up to C$10,000 a day from the provincial government if they do not display stickers that criticise the federal carbon tax. The federal government has responded by reminding residents in provinces where the national tax has been imposed that they can apply for an income-tax rebate funded by its proceeds. 
 A real danger for Mr Trudeau is that the Liberals may lose the youth vote that helped push his party to power in 2015. A rise in the vote share of the Green Party or the New Democrats could split the left. Mr Kenney is planning to lend the federal Conservatives a hand by campaigning in the October election campaign. Mr Trudeau is discovering, like many prime ministers before him, that in an oil-producing country like Canada it is not easy being green.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.justin['dʒʌstin]:n. 贾斯廷（男子名） 
@@ -58,4 +59,6 @@
 42.criticise['kritisaiz]:v. 批评, 吹毛求疵, 非难 
 43.rebate[ri'beit]:n. 部分退款, 折扣 vt. 退还, 打折扣 vi. 退还部分付款 
 44.democrat['demәkræt]:n. 民主人士, 民主主义者, 民主党党员 [经] 民主党 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -15,6 +15,7 @@
 But measures such as these can only slow the pace of evictions. They will continue because for a significant share of the population—particularly for black women, whose incomes remain low—housing costs remain high and access to housing subsidies remains sporadic. The second problem might be the most immediately remedied, if there was the will. Approximately one in four Americans who are poor enough to qualify for rental vouchers actually receive them, because housing assistance is not an entitlement. 
 Instead, it is a literal lottery in which a mere 25% of randomly selected hopefuls receive vouchers. The losers get nothing and the waiting list for a voucher in high-cost areas such as Washington, DC, is more than a decade long. “There’s a hollowing out,” says Daniel Clark, a lawyer at Rising for Justice, a free service which provides advice to tenants facing eviction. “Those people who do qualify have been insulated, but those [who] do not get squeezed out,” he adds. When asked where those people go, Mr Clark gestures to an elderly black man who has just shuffled into the hallway dragging a suitcase. He was a former client who had been evicted but is now homeless. Every few days he comes by to linger outside their office.■ 
 “Does Eviction Cause Poverty? Quasi-Experimental Evidence from Cook County, IL” (John Eric Humphries, Nicholas S. Mader, Daniel I. Tannenbaum, Winnie L. van Dijk; 2019)“The effects of evictions on low-income households” (Robert Collinson, Davin Reed; 2018) 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.probe[prәub]:n. 探索, 调查, 探针, 探测器 v. 用探针探测, 调查, 探索 
@@ -106,4 +107,6 @@
 87.made[meid]:a. 人工制成的, 成功的, 创造的 make的过去式和过去分词 
 88.Tannenbaum[]:n. (Tannenbaum)人名；(英、德、罗)坦嫩鲍姆 
 89.L[el]:n. 见习驾驶员 [计] 电感, 标记, 语言, 负载, 局部, 线路 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

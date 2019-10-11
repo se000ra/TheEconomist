@@ -9,6 +9,7 @@
 Mr Mubarak and his sons have stoked nostalgia by returning to the public eye. In May the former president sat for a rare interview with a Kuwaiti journalist. The discussion was largely about foreign affairs. He held forth on Iraq’s invasion of Kuwait in 1990 and Donald Trump’s efforts at Israeli-Palestinian peace. But it cast him back in his cherished role as a well-travelled elder statesman. His eldest son, Alaa, has also become more visible. He pops up in photos on social media, playing backgammon in humble cafés or dining in El Prince, a popular haunt in the working-class Imbaba district, famed for heaping portions of fried liver and other healthy fare. 
 All of this seems to unnerve Mr Sisi. On June 26th Alaa was photographed cheering for Egypt at an Africa Cup football match in Cairo. The authorities revoked his fan ID card shortly after, barring him from future matches. Last month he tweeted criticism of a minister who quipped that those who speak ill of Egypt should have their throats cut. A sycophantic newspaper soon accused him of links to the banned Muslim Brotherhood. Samir Sabri, a hyperactive pro-government lawyer, sued him for “solidarity with a terrorist group”. 
 This seems irrational. No one truly expects Alaa to challenge Mr Sisi. His patrimony would not protect him—even a former army chief who stood for the presidency last year wound up in jail. But the public has soured on Mr Sisi, who lacks a political party or trusted allies (ironically, his own sons are increasingly powerful aides). “Mubarak had a regime. Sisi has himself,” says an activist. The government’s overreactions are signs of its weakness, not Mr Mubarak’s strength. Coincidentally, your correspondent noticed last month that Egyptair no longer serves processed cheese with its in-flight meals. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.La[lɔ:, lɑ:]:[医] 镧(57号元素) 
@@ -92,4 +93,6 @@
 79.overreaction[]:[经] 反应过度 
 80.coincidentally[]:adv. 巧合地；一致地 
 81.egyptair[]: 埃及航空公司 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

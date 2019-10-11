@@ -11,6 +11,7 @@
 Taliban fighters in the field often say they cannot negotiate for anything less than a strictly Islamic system. “Without that Islamic regime, a deal for me personally would offend and dishonour those thousands of Taliban and leaders we sacrificed,” says a commander in Ghazni, a town 150km south of Kabul, the capital. 
 The Taliban also refuse the main demand of the Afghan government: a ceasefire. While vowing to protect civilians, the Taliban nonetheless say the war must continue. It is the pressure of war, they say, that has led to negotiations, so they must keep it up. In the past week the Taliban have attacked government buildings in Ghazni and Kabul, wounding scores of children in schools nearby. By the same token, an Afghan commando raid on a hospital in the province of Wardak, just west of Kabul, reportedly killed at least two of its staff. 
 The Taliban and America are in the middle of their seventh round of talks. There have been hints of progress on a timetable for an American withdrawal and on assurances that the Taliban will not harbour terrorists. Talks among Afghans will be longer and messier. But they are the only way to end the country’s decades of agony.  
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Taliban[]:塔利班 
@@ -66,4 +67,6 @@
 51.wardak[]:n. 瓦尔达克（省），阿富汗 
 52.assurance[ә'ʃuәrәns]:n. 保证, 把握, 信心, 保险 [经] 保证, 担保, 保险 
 53.Afghan['æfgæn]:a. 阿富汗的, 阿富汗人的 n. 阿富汗人, 阿富汗语, 阿富汗毛毯 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

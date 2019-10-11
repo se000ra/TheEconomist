@@ -12,6 +12,7 @@
 As for Mr Duterte’s most pressing concern, autonomy for mainly Muslim parts of Mindanao, circumstances have changed. A more comprehensive peace agreement with the main insurgent group in 2014 is being implemented without any objection from the Supreme Court, which is ever less inclined to challenge the president. 
 In the end, the main kibosh to federalism has come from the technocrats running the economy for Mr Duterte. They are struggling to build the infrastructure needed to prevent the economy hitting the buffers. To fund it, the government must borrow. Yet neither the central government nor the new federated states would be a good credit risk until the division of revenues is settled. 
 Mr Duterte appears not to have slammed the door entirely on constitutional tinkering. The same economic managers who are wary of federalism are in favour of removing constitutional limits on foreign ownership of local companies, as are many investors. But that is both a relatively modest reform and hardly a crowd-pleasing one—not the sort of idea, in other words, to which Mr Duterte pays attention. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.banyan['bænjәn]:n. 印度榕树 [医] 榕树, 孟加拉榕 
@@ -73,4 +74,6 @@
 57.constitutional[.kɒnsti'tju:ʃәnl]:a. 宪法的, 立宪的, 体质的 [医] 全身的; 体质的 
 58.wary['wєәri]:a. 谨慎的, 小心的, 机警的, 周到的, 唯恐的 
 59.investor[in'vestә]:n. 投资者 [经] 投资者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

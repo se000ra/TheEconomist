@@ -8,6 +8,7 @@
 Both Mr Barroso and Ms Kroes took up their corporate positions following an 18-month embargo on lobbying work prescribed by the code of ethics for commissioners. Under Mr Juncker’s new rules, this cooling-off period has been extended to two years for commissioners and three for the president. This is still a short spell by the standards of some countries. Many admire the Canadian system, which prohibits ministers and MPs from lobbying for five years after leaving office. 
 More troubling is the proviso that the cooling-off period applies only to matters related to a commissioner’s former portfolio. Corporate Europe Observatory, a campaign group, claims this is an artificial distinction, because commissioners discuss major policy decisions among themselves before assuming collective responsibility. It is also unclear how this rule would be applied to Mr Oettinger. He is currently responsible for the EU’s budget, which funds all areas of the bloc’s activity. 
 Transparency International, a good-governance watchdog, points to another problem. Under current rules, deciding whether Mr Oettinger’s consulting venture breaches the code of ethics will fall to the other sitting commissioners, his longtime colleagues, a few of whom may be exploring similar opportunities. Mr Juncker has requested a purely advisory opinion from a three-person ethics committee, but it has been appointed by the commissioners themselves. Commissioners are unlikely to be deterred by existing sanctions, which range from a public rap on the knuckles to losing their EU pension of around €55,000 ($62,000) a year. They can expect a lot more than that in the corporate world. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.gravy['greivi]:n. 肉汁, 外快 
@@ -64,4 +65,6 @@
 52.sanction['sæŋkʃәn]:n. 核准, 制裁, 处罚, 约束力 vt. 制定制裁规则, 认可, 核准, 同意 
 53.rap[ræp]:n. 轻敲, 拍击, 责骂, 无价值的东西 vt. 轻敲, 厉声说出, 叱责, 抢走, 使着迷 vi. 敲击, 发敲击声, 交谈, 同情 [计] 随机存取程序, 资源分配处理器, 常驻汇编程序 
 54.knuckle['nʌkl]:n. 指节, 蹄爪, 膝关节 v. 以指节打, 以手指射 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

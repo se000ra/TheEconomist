@@ -10,6 +10,7 @@
 And for all the sound and fury, negative rates for retail depositors appear some way off. The central bank’s deposit rate is -0.4%, meaning that rather than paying interest on the reserves kept with it by lenders, it charges to hold them. Some banks have passed those negative rates on to corporate clients, and a smaller fraction have done so to wealthy retail clients, many of whom appear reluctant to move their money elsewhere, even when squeezed. But Vítor Constâncio, a former ECB official, told Der Spiegel he doubted whether banks would offer negative interest rates for ordinary retail depositors. That might be because those customers are bigger flight risks. 
 Banks themselves detest negative rates, which reduce the amount they can earn from interest. The Association of German Banks (BDB) says lenders in Germany paid €2.3bn to the ECB last year, equivalent to nearly a tenth of profits for 2017. But it is also horrified by the prospect of the government setting a floor on retail interest rates. That could restrict banks’ room for manoeuvre and, the BDB warns, cause financial disruption. (The ECB is considering other ways to ease the squeeze on banks’ interest margins, such as exempting some reserves from negative rates.) 
 The backlash may indicate that the ECB should be wary of the costs of cutting rates further. The risk is that depositors stash their savings under mattresses rather than in banks. Even so, the ECB can reasonably feel irked by the stance of German officials. As Mr Constâncio pointed out, the root cause of low interest rates in the euro area is an excess of saving over spending. Germans’ obsession with frugality bears much of the blame. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.prudence['pru:dns]:n. 审慎, 慎重, 精明, 节俭 
@@ -78,4 +79,6 @@
 64.euro['juәrәu]:n. 欧元（欧盟的统一货币单位） 
 65.obsession[әb'seʃәn]:n. 困扰, 困扰人的情绪 [医] 强迫观念 
 66.frugality[fru:'gæliti]:n. 节俭, 俭省 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

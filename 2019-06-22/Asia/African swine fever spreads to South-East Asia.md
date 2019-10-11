@@ -9,6 +9,7 @@
 Culling swine is one of the main ways officials hope to curb the disease. Vietnam has slaughtered 2.5m pigs, twice as many as China. Bans on the import of pigs and pork are another tactic. But many of the region’s pig farms are tiny, as in China. Their owners cannot afford to erect special fencing or buy commercial feed. The temptation, if they suspect their pigs are infected, is to kill or sell them quickly and quietly, to save themselves from financial ruin. Although the Vietnamese government compensates farmers who report sick pigs that are subsequently culled, the fear of slow or low payments can still put farmers off. 
 Fortunately, international co-ordination, especially between governments and companies in South-East Asia’s pork industry, has been impressive, says Wantanee Kalpravidh of the Food and Agriculture Organisation, a UN agency. She lauds a scheme to send Thai pork to Cambodia to meet demand at affordable prices—on carefully cleaned and monitored vehicles—to discourage the smuggling of possibly contaminated meat from Vietnam. Somkuan Choowatanapakorn of Charoen Pokphand Foods, a big Thai agribusiness that handles lots of pork, says the company has “taken steps already” to train farmers to recognise and respond to the disease’s symptoms. He adds that contingency plans for an outbreak are also in place. 
 Despite such efforts, the scale of the porcine plague in China means that South-East Asia will probably struggle with it for as long as its neighbour does. A working vaccine is still a long way off. It is hard to see what can save the region’s bacon. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.swine[swain]:n. 猪, 卑鄙的家伙 
@@ -49,4 +50,6 @@
 36.porcine['pɒ:sain]:a. 猪的, 猪似的 [医] 猪的 
 37.plague[pleig]:n. 瘟疫, 天罚, 麻烦, 灾祸 vt. 折磨, 使苦恼, 使得灾祸 
 38.vaccine['væksi:n]:n. 牛痘苗, 疫苗 a. 疫苗的, 牛痘的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

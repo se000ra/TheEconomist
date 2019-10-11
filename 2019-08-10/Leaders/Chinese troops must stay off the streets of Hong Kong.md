@@ -13,6 +13,7 @@
 Hong Kong has already become a factor in the cold war that is developing between China and America. China is enraged by the high-level reception given in recent weeks to leading members of Hong Kong’s pro-democracy camp during visits to Washington. Their meetings with senior officials and members of Congress have been cited by China as evidence that America is a “black hand” behind the unrest, using it to pile pressure on the party as it battles with America over trade (a conflict that escalated this week, when China let its currency weaken—see article). 
 Were the Chinese army to go so far as to shed protesters’ blood, relations would deteriorate further. American politicians would clamour for more sanctions, including suspension of the act that says Hong Kong should be treated as separate from the mainland, upon which its prosperity depends. China would hit back. Sino-American relations could go back to the dark days after Tiananmen, when the two countries struggled to remain on speaking terms and business ties slumped. Only this time, China is a great deal more powerful, and the tensions would be commensurately more alarming. 
 None of this is inevitable. China has matured since 1989. It is more powerful, more confident and has an understanding of the role that prosperity plays in its stability—and of the role that Hong Kong plays in its prosperity. Certainly, the party remains as determined to retain power as it was 30 years ago. But Hong Kong is not Tiananmen Square, and 2019 is not 1989. Putting these protests down with the army would not reinforce China’s stability and prosperity. It would jeopardise them. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.abyss[ә'bis]:n. 深渊, 深邃, 地狱 
@@ -86,4 +87,6 @@
 69.slump[slʌmp]:n. 暴跌, 垂头弯腰的姿态 vi. 猛然掉落, 陷入, 衰落(经济等) 
 70.commensurately[]:adv. 相当地, 相称地；同量地 
 71.jeopardise[]:vt. 使受危险, 危及, 危害 [法] 使受危害, 使陷入危险, 危及 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

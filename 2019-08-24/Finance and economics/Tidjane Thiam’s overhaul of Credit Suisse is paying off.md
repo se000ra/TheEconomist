@@ -18,6 +18,7 @@
 Though an outsider, Mr Thiam has relied mainly on insiders. He brought in Pierre-Olivier Bouée, the chief operating officer, a colleague at McKinsey and Aviva and his chief risk officer at Prudential, and Adam Gishen, the head of investor relations and communications, who advised him at the Pru. But he has mainly promoted from within, having decided that Credit Suisse already contained the right people, even if they were a rung or two from the top. The chief financial officer, David Mathers, has been in his job since 2010. That is unusual; incoming bosses at other troubled banks have swept away more senior people. One internal success, however, has turned sour: Iqbal Khan, the head of international wealth-management, left abruptly in July. 
 With its time in purgatory seemingly over, Credit Suisse is aiming to push its RoTE into double figures. Market conditions permitting, it aimed to breach 10% this year, but that now looks a stretch. With global interest rates falling, trade wars raging and markets jittery, the months ahead may be tricky for banks and wealth managers everywhere. 
 After four years, Mr Thiam is an outsider no more. Running one of Europe’s banks is a hazardous occupation: ask John Cryan, sacked after less than three years at Deutsche Bank in 2018, or John Flint, ousted from HSBC this month, after 30 years at the bank but a mere year and a half in the hot seat. Mr Thiam says he wants to become a Swiss citizen in due course. He was recently elected to the International Olympic Committee, based in Lausanne. Perhaps he will stay a while yet.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Tidjane[]:提贾尼 
@@ -132,4 +133,6 @@
 110.oust[aust]:vt. 逐出, 罢黜, 剥夺, 驱逐 [法] 驱逐, 剥夺, 免职 
 111.hsbc[]:abbr. 汇丰银行（Hong Kong and Shang Hai Banking Corporation） 
 112.Lausanne[lәu'zæn]:洛桑[瑞士西部城市,在日内瓦湖北岸] 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

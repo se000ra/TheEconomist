@@ -15,6 +15,7 @@
 If a technology cold war breaks out, it would smash today’s highly integrated technology supply chains and force an expensive realignment. It may even lead to a bifurcation in the rollout of 5G, a new telecoms-network technology that is the essential enabler of coming marvels such as the internet of things (IOT). With the proliferation of inexpensive sensors, the IOT will allow homes, factories and cities to be digitally monitored and managed. A “splinternet of things” (in which America followed one standard and China another) would not only be costly and inefficient, it would also fail to address legitimate security concerns about future cyber-threats in the age of 5G. 
 Even if Huawei is eventually spared, and the truce in America’s trade war with China turns into a frosty peace, the era of frictionless supply lines flowing from Shenzhen to San Francisco and Stuttgart has ended. As globalisation is transformed into something messier, the consequences for MNCs and the world economy could be momentous. 
 This report will show that supply chains were already becoming shorter, smarter and faster before politicians started taking a hammer to the trading system. Given today’s riskier world, supply chains will need to become safer too. This transformation threatens firms that have entrenched supply networks, but it also presents opportunities for those that adapt nimbly. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -100,4 +101,6 @@
 81.risky['riski]:a. 危险的 
 82.entrench[in'trentʃ]:vt. 围以壕沟, 防护, 保卫, 使处于牢固地位 vi. 掘壕, 侵犯 
 83.nimbly['nimbli]:adv. 敏捷地, 机敏地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -8,6 +8,7 @@
 Opening an embassy in London also helps to raise the profile of the institution more broadly, says Tony Edwards, the Loughborough campus’s incoming head. His university sometimes makes the top ten in British rankings, but suffers in international ones, which put more weight on the views of academics in other countries who may not have made it to the East Midlands. 
 London outposts typically offer courses in vocational subjects, like business or management, which are cheap to teach. In some cases they forge links with businesses that would be hard to replicate back at base. But not always. “It is quite striking how often the proximity to big, prestigious employers is flagged up, as if geographical proximity would be enough to improve employment outcomes,” says Rachel Brooks, a sociologist at the University of Surrey (which does not yet have a London branch). She and Johanna Waters of UCL found that academics at London offshoots had fewer qualifications than those at their parent campuses, and often had professional rather than academic experience. 
 And though the bright lights of the city may appeal, an administrator at one university thinking of setting up a campus confesses he worries about the student experience. Facilities in the capital can be cramped and, with few students on campus, opportunities for sports teams and student unions are limited. Universities hope that the central location makes up for a somewhat stripped-back education. As more outposts open, that idea will be put to the test.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.statu[]:[网络] 状态查看；雕像；特级雪花白 
@@ -53,4 +54,6 @@
 41.UCL[]:[化] 上控制限 
 42.offshoot['ɒ:fʃu:t]:n. 分支, 旁系, 衍生事物 
 43.cramp[kræmp]:n. 痉挛, 腹部绞痛, 铁夹钳 a. 狭窄的, 难认的 vt. 使抽筋, 以铁箍扣紧, 束缚 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

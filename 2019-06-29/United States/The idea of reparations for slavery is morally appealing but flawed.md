@@ -10,6 +10,7 @@
 Republicans are liable to dismiss any Democratic racial-justice scheme as identity politics. In this case they would be right. Mr Coates, who appeared alongside Mr Booker at the recent congressional hearing, argues that black Americans’ legacy of injustice is incomparably worse than that of any other group. Yet native Americans, a smaller and less Democratic group, would beg to differ. And though some Democrats propose giving them reparations too—last week California’s governor Gavin Newsom announced the launch of a commission to study the issue and Elizabeth Warren has said she might support it—that is less a solution than a warning against embarking on the endeavour at all. It would be liable to keep spreading—maybe to poor Hispanics next. 
 That such a clearly impractical and politically no-win scheme made it through the Democratic policy machine might seem amazing; but it did not. It flew more or less straight from Mr Coates’s pen to Congress and the presidential primary, where Ms Williamson added noughts to it. No think-tank or policy unit appears to have given real thought to slavery reparations. Its sudden prominence reflects a lack of rigour characteristic of the party’s activist fringe. The Green New Deal and Medicare-for-all, two other fashionable ideas on the left, received similarly scant consideration before being pushed by activists into the mainstream. 
 In their defence, Democratic candidates have mostly made far more measured commitments to all three ideas than the activists would like. Asked for his reparations policy, Mr Booker points to his proposal to fight wealth inequality by giving cash—in the form of “baby bonds”—to poor families. That is the sort of colour-blind anti-poverty measure which would have benefited African-Americans disproportionately and which Mr Obama would have approved of. Mr Booker should describe it as such. By flirting with reparations the Democrats have already provided Mr Trump with racially incendiary attack lines. And to what end? The issue is not even all that popular with African-Americans, only a small majority of whom support it. They tend to be as pragmatic as Mr Obama was, and so must know that it is a pipe-dream.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lexington['leksiŋtәn]:n. 列克星敦市（位于美国肯塔基州） 
@@ -98,4 +99,6 @@
 84.flirt[flә:t]:n. 卖弄风骚的人, 急动, 急扔 vt. 忽然弹出, 轻快摆动, 挥动 vi. 调情, 玩弄, 摆动, 轻率地对待 
 85.incendiary[in'sendjәri]:a. 放火的, 煽动的, 燃烧的 n. 纵火犯人, 煽动者, 燃烧弹 
 86.pragmatic[præ^'mætik]:a. 忙碌的, 爱管闲事的, 自负的, 固执己见的, 实际的, 务实的, 国事的, 国务的 [法] 闲断的, 固执己见的, 实用主义的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

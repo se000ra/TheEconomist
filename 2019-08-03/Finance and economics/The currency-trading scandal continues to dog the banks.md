@@ -9,6 +9,7 @@
 Few collective cases have yet reached the CAT. One, against a maker of mobility scooters, was withdrawn in 2017. Two involve claims by hauliers against lorry manufacturers. In another, a consumer champion argues that railways are, in effect, charging commuters into London twice for the part of their journey that overlaps with Transport for London’s network. 
 By far the biggest case is heading to Britain’s highest court. The representative, Walter Merricks, an ex-head of the Financial Ombudsman Service, a dispute-settlement body, claims that between 1992 and 2008 some “interchange” fees set by Mastercard, though paid by merchants accepting its cards, harmed consumers because they were passed on in higher prices. (The European Commission banned the fees in December 2007.) Mr Merricks puts the damage at a whopping £14bn. In July 2017 the CAT ruled the claim ineligible, saying that the damage to consumers, in aggregate or individually, could not be accurately assessed. In April the Court of Appeal declared that the CAT had been too hasty. On July 24th the Supreme Court said it would hear an appeal by Mastercard against the Court of Appeal’s judgment. 
 The busy Supreme Court will not hear the case before February and possibly not for a year. Because it concerns the criteria for the CAT even to consider damages, its verdict will be eagerly awaited by lawyers, litigation financiers and consumer watchdogs. Whatever the outcome of the foreign-exchange case, banks will face more bills. Several big investors are suing on both sides of the Atlantic, reckoning they will win more in conventional damages claims than from American class actions or their British imitators.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.allege[ә'ledʒ]:vt. 宣称, 主张, 提出, 断言 [法] 断言, 指称, 指证 
@@ -66,4 +67,6 @@
 53.eagerly[]:adv. 渴望, 热衷于, 热切 
 54.watchdog['wɒtʃdɒg]:n. 看门狗, 监察人 [化] 监控设备; 监视器 
 55.reckon['rekәn]:vt. 计算, 总计, 估计, 认为, 猜想 vi. 数, 计算, 估计, 依赖, 料想 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

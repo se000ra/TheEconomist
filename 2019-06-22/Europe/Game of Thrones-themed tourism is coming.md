@@ -7,6 +7,7 @@
 In 2015 the mayor claimed that “Game of Thrones” was responsible for half of the city’s annual growth in tourism. Of the 18 walking tours offered by the tourist administration, eight are about “Game of Thrones”. “I had 85 people on the 11am tour. The history walking tour at half past only got 15,” says Mr Vukovik. At a store that sells merchandise from the show, visitors can pay 110 kuna ($17) to be photographed on a replica of the Iron Throne, the uncomfortable seat over which the main characters fight. As your correspondent stood on the city’s elegant 17th-century Jesuit Stairs, an Australian tourist stripped down to his speedos while onlookers threw flip-flops at him chanting “shame!”, a re-enactment of an even ruder scene from the show. Nearby bars offer “shame mojitos”. 
 Dubrovnik is not the only place invaded by “Game of Thrones” fans. One in six foreign tourists to Northern Ireland last year was apparently inspired to visit because of the show. Visitors spent £50m ($63m) during their stay, according to the country’s main tourism body. Spain, too, has seen a big influx. 
 Such tourism boosts the local economy, but can be annoying. “We went all over Croatia and didn’t see another American, but here I can’t throw a stick without hitting one,” complains Shannon, who has come from Texas to visit her family. (King Joffrey would have known what to do about unsightly crowds, but it wouldn’t be legal today.) Dubrovnik is under threat of losing its UNESCO world heritage status because of over-tourism. One cashier hopes the boom “dies soon”, like so many characters in “Game of Thrones”. She will be happy when winter comes. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -45,4 +46,6 @@
 34.heritage['heritidʒ]:n. 遗产, 祖先遗留物, 继承物 [医] 遗传性 
 35.statu[]:[网络] 状态查看；雕像；特级雪花白 
 36.cashier[kæ'ʃiә]:n. 出纳员 [经] 司库, 出纳员, 收支员 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

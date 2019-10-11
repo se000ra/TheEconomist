@@ -10,6 +10,7 @@
 As a result, cruise lines that have gone too native, or that rely too much on shopping for profits, have suffered. Norwegian launched its first ship built especially for China in 2017, armed with shops, gambling machines, Asian restaurants and a karaoke bar. Two years later, amid disappointing ticket sales, Norwegian spent $50m ripping out all the Chinese fripperies and moved the ship to Alaskan fjords. In 2018 Royal Caribbean scuttled SkySea Cruises, a joint venture with Ctrip, a Chinese online travel agency, when it discovered it could make more money running its own vessels with fewer nods to local taste. Carnival maintains its joint venture with CSSC, a state-owned Chinese firm. One reason might be to appease regulators keen to boost Chinese shipyards’ order books. 
 Royal Caribbean has found it more lucrative to offer a Western experience at sea at a premium price than to compete against cheap Chinese resorts. It is among the few lines in China that makes money, claims Richard Fain, its executive chairman. It is still adding more ships. On June 6th, after The Economist went to press, Spectrum of the Seas, its newest vessel, was due to embark on its maiden voyage from Shanghai carrying nearly 5,000 passengers. 
 Mr Fain thinks that the Chinese market will eventually rebound. Analysts at Goldman Sachs, a bank, reckon that just 0.5% of potential passengers in China took a cruise in 2017, compared with over 4% in America. Pierfrancesco Vago, executive chairman of MSC Cruises, the world’s fourth-largest line, blames regulation. Western lines cannot sail between two Chinese ports. China is thinking about relaxing some of these rules, but only for domestic firms, which are few in number and tiny in size. To grow, they—and their regulators—may need to turn international.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.slump[slʌmp]:n. 暴跌, 垂头弯腰的姿态 vi. 猛然掉落, 陷入, 衰落(经济等) 
@@ -74,4 +75,6 @@
 60.vago[]:迷走神经 
 61.MSc[]:理科硕士 
 62.cannot['kænɒt]:aux. 无法, 不能 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

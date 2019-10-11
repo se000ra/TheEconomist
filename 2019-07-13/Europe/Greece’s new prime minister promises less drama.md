@@ -10,6 +10,7 @@
 Mr Mitsotakis’s 51-member government is a mixture of seasoned conservative politicians like Christos Staikouras, the new finance minister, and bright but untested technocrats serving as deputy ministers. “It’s a hopeful sign that he’s found so many international experts in their respective fields who are keen to make a difference,” said Antonis Kamaras, a political commentator and expert on Greece’s diaspora. The government includes only five women, however; the most senior is Niki Kerameus, 38, a Harvard-trained lawyer charged with clearing up the muddle in the education system left by Syriza’s policy of disregarding academic excellence. 
 Mr Tsipras declared the day after the election that Syriza would not “disappear”. He stressed that under his leadership his party grew from a splinter group with just 3% of the vote to become the mainstream party of the left. Syriza won 31.5% of the vote this time (compared with 39.9% for ND), only some four points down from its winning percentage at the previous general election in September 2015. 
 True to its communist background, Syriza will focus on self-castigation over the next few months, say analysts, before holding a party congress. That may be the moment for Mr Tsipras to transform Syriza into a left-of-centre party that could command broader support. In the meantime, he promises that his party intends to practise “dynamic” opposition—which is left-wing code for street protests, strikes and sit-ins. Mr Mitsotakis has been warned. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Syriza[]:[网络] 激进左翼联盟；激进左派联盟；左翼激进联盟 
@@ -70,4 +71,6 @@
 56.splinter['splintә]:n. 碎片, 尖片, 分裂出来的小派别, 微小的东西 v. 使分裂, (使)破裂 
 57.mainstream['meinstri:m]:n. 主流 
 58.analyst['ænәlist]:n. 分析者, 精神分析学家 [化] 分析员; 化验员 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

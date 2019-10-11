@@ -16,6 +16,7 @@
 Accountability works only if there is competition. This lowers prices, boosts productivity and ensures that firms cannot long sustain abnormally high profits. Moreover it encourages companies to anticipate the changing preferences of customers, workers and regulators—for fear that a rival will get there first. 
 Unfortunately, since the 1990s, consolidation has left two-thirds of industries in America more concentrated. The digital economy, meanwhile, seems to tend towards monopoly. Were profits at historically normal levels, and private-sector workers to get the benefit, wages would be 6% higher. If you cast your eye down the list of the 180 American signatories this week, many are in industries that are oligopolies, including credit cards, cable TV, drug retailing and airlines, which overcharge consumers and have abysmal reputations for customer service. Unsurprisingly, none is keen on lowering barriers to entry. 
 Of course a healthy, competitive economy requires an effective government—to enforce antitrust rules, to stamp out today’s excessive lobbying and cronyism, to tackle climate change. That well-functioning polity does not exist today, but empowering the bosses of big businesses to act as an expedient substitute is not the answer. The Western world needs innovation, widely spread ownership and diverse firms that adapt fast to society’s needs. That is the really enlightened kind of capitalism.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.shareholder['ʃєә.hәuldә]:n. 股东 [法] 股东, 股票持有人 
@@ -119,4 +120,6 @@
 99.expedient[ik'spi:diәnt]:n. 权宜之计 a. 权宜的, 方便的, 有用的 
 100.innovation[.inәu'veiʃәn]:n. 改革, 创新 [法] 创新, 改革, 刷新 
 101.enlightened[in'laitnd]:a. 有知识的, 进步的, 文明的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

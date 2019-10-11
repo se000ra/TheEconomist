@@ -21,6 +21,7 @@
 China and Russia agreed to upgrade their relationship to what they called a “comprehensive strategic partnership of co-ordination for a new era”. This was announced after a meeting in Moscow between China’s president, Xi Jinping, and his Russian counterpart, Vladimir Putin. Tass, a Russian news agency, quoted Mr Putin as saying the partnership had reached “an unprecedentedly high level”. Mr Xi told Russian media that Mr Putin was his “best and bosom friend”. 
 ![image](images/20190608_wwp002.jpg) 
 In China, censorship of the internet was stepped up and tight security maintained around Tiananmen Square to prevent any attempt to commemorate the crushing of pro-democracy protests in the square on June 4th 1989. The measures appeared largely effective in Beijing, but in Hong Kong about 180,000 people joined a candlelit vigil to mark the bloodshed, organisers said. China’s defence minister, Wei Fenghe, said the army’s “resolute measures” in 1989 were “correct” and had “preserved stability”. China has never given an official figure for how many people died. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.disruption[dis'rʌpʃәn]:n. 分裂, 崩溃, 瓦解 
@@ -145,4 +146,6 @@
 120.bloodshed['blʌdʃed]:n. 流血 
 121.wei[]:n. 魏（姓氏）；魏（朝代）；渭河 
 122.resolute['rezәlu:t]:n. 果断的人 a. 坚决的, 刚毅的, 毅然的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

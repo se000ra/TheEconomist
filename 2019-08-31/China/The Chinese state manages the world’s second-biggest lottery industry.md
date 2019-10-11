@@ -17,6 +17,7 @@
 Ms Wang estimates that, all told, the money spent on unofficial gambling is at least five times that wagered on the state lottery. The International Centre for Sport Security, a Qatar-based outfit, reckoned in 2016 that illegal sports gambling in China alone attracts $600bn a year—of a global illegal market worth between $750bn and $1trn. In the hope of luring these punters, the state lotteries have jazzed up their offerings. The Sports Lottery, for instance, offers virtual car-racing and football games. 
 China’s tech titans are tempting their fortunes. AGTech, which runs four-fifths of the state’s lottery terminals, was bought in 2016 by Alibaba, an e-commerce giant. It recently received a contract to develop augmented-reality products. Tencent has a stake in China Lotsynergy, which builds “video lottery terminals” for the Welfare Lottery. These closely resemble slot machines, but involve betting on which random numbers the terminals will generate. They have become among the lottery’s most popular products. On a recent Friday afternoon one such lottery hall in central Shanghai was packed, though mostly with older customers. 
 But the hopes of private firms seem at variance with state aims. John Sun, the boss of AGTech, has grumbled that the lotteries could double their returns if they reopened online sales. Officials recently announced that they were slowing down a popular “fast-paced” lottery-ticket game from ten-minute playing intervals to 20, because of worries about money-laundering. Any bets that legal gambling will flourish in China must surely have long odds. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.rien[]:n. (Rien)人名；(泰)连；(日)璃园(姓) 
@@ -127,4 +128,6 @@
 106.grumble['grʌmbl]:n. 怨言, 满腹牢骚 vi. 抱怨, 发牢骚, 发隆隆声 vt. 抱怨 
 107.reopen[.ri:'әupәn]:v. 重开, 再开始, 再开 
 108.odds[ɒdz]:n. 可能性, 几率, 机会, 胜算, 不平等 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

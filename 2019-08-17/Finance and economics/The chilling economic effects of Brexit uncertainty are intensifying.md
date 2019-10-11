@@ -9,6 +9,7 @@
 The results are startling. The uncertainty that comes with a rise in oil prices or an unexpected bank failure can be costly, but typically abates as more information becomes available. Brexit uncertainty is unusually persistent—after all, three years after the vote, the terms of departure are still unclear. The authors track the share of bosses reporting that Brexit is one of the top three sources of uncertainty, if not the biggest, facing their business (see chart). This remained elevated a full two years after the referendum, then rose further in 2018 as stalling talks with the EU raised the odds of a no-deal Brexit. 
 Bosses reporting greater uncertainty also appear to have scaled back investment more. But the depressing effect is not quite what forecasters had envisaged in 2016. They had pencilled in a steep drop in investment immediately after the vote that would ease as firms adjusted to the new world. But in fact the drag on investment has worsened over time. (The effect of uncertainty on hiring is more ambiguous.) 
 Importantly, the deceleration in investment has had significant knock-on effects on Britain’s productivity, which even before the referendum was dismal. That is partly because managers have been forced to spend valuable time planning. Between November 2018 and January 2019, nearly three-quarters of bosses put aside time each week to prepare for various outcomes. But uncertainty has also been a bigger burden on exporters, which tend to be more productive than firms catering to the home market. All told, productivity is 2-5% lower than it would have been without the uncertainty. Brexit still carries plenty of unknowns. The effect on Britain’s economy, though, is becoming ever clearer. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Brexit[]:[网络] 英国退出欧盟 
@@ -51,4 +52,6 @@
 38.productivity[.prәudʌk'tiviti]:n. 生产力 [经] 生产率, 生产能力 
 39.dismal['dizmәl]:a. 阴沉的, 凄凉的, 令人忧郁的 n. 低落的情绪, 沼泽 
 40.exporter[ik'spɒ:tә]:n. 出口商, 输出者, 出口公司 [经] 出口商, 输出者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

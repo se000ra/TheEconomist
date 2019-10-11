@@ -7,6 +7,7 @@
 Giulio Douhet, an Italian general, had argued in 1921 that bombing distant civilian settlements could swiftly ruin a country’s morale. Hugh Trenchard, head of Britain’s nascent Royal Air Force, likewise maintained that aerial bombing could be the key to winning entire wars. He put these conjectures into practice in Iraq, where villages that rebelled against colonial rule were bombed by RAF aircraft. “Within 45 minutes”, observed a squadron leader called Arthur Harris in 1924, “a full sized village…can be practically wiped out.” As head of RAF Bomber Command, Harris oversaw devastating raids on Hamburg and Dresden during the second world war. 
 As the exhibition shows, however, such carnage provokes defiance as often as it wrecks morale. “What Remains” includes displays and propaganda videos depicting the ravages inflicted by Islamic State (IS) in Mosul and Palmyra. In the end the videos rallied opposition to IS; several projects are now restoring what was lost. In 1942 Joseph Goebbels scrambled to present the Baedeker raids, in which Nazi planes attacked historic British towns, as legitimate retaliation rather than gratuitous vandalism. 
 When historic buildings are destroyed, says Eyal Weizman of Forensic Architecture, a group that has documented Yazidi towns and villages that IS tried to raze, “you also destroy the culture—you destroy the communities.” Gruesome as they are, the theories that led to the creation of the NBR continue to have adherents: war is still in part an architectural endeavour. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.vandalism['vændәlizm]:n. 故意毁坏文物的行为, 破坏他人财产的行为 
@@ -85,4 +86,6 @@
 74.creation[kri:'eiʃәn]:n. 创造, 创作物, 发明 [化] 产生 
 75.architectural[.ɑ:ki'tektʃәrәl]:a. 有关建筑的, 建筑学的 
 76.endeavour[in'devә]:n. 努力, 力图, 尽力 vi. 努力, 力图, 尽力 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

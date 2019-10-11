@@ -10,6 +10,7 @@
 Neither Mr Moro nor Mr Dallagnol has denied the authenticity of the messages, though they complain that they were obtained illegally. That means they might not be admissible as evidence in Lula’s lawyers’ attempt to quash his sentence. Even if they succeed, the bigger picture still looks bad for Lula. In February he was convicted, on stronger evidence, of receiving a country house from construction firms; he faces another six cases. As for Mr Moro, he had already aroused suspicion over his motives when he became Mr Bolsonaro’s justice minister. He is a hero to many Brazilians. But his position now looks untenable. 
 Mr Moro and Mr Dallagnol were central protagonists of Lava Jato, in which some 200 businessmen, officials and politicians have been convicted. The investigation has plenty of enemies on the right as well as the left. Although many of its critics are self-interested, others worry about the prosecutors’ use of preventive detention and plea bargaining. For all that, Lava Jato has broken new ground in holding the powerful to account and revealing the unbearable scale of corruption in Brazil. Its excesses should be corrected. But its enemies will now feel emboldened to ensure that further investigations of politicians die. 
 Mr Moro is a close student of Mani Pulite (Clean Hands), an Italian anti-corruption campaign in the 1990s. It ended with a counter-revolution, led by Silvio Berlusconi, a prime minister and frequent target of investigation, which weakened judicial powers. In a study published by the IMF, Maria Cristina Pinotti, a Brazilian economist, notes that in Italy since then trust in the courts and other indicators of good governance have plunged—and so have productivity and economic growth. That is a warning for Brazil, whose economy has yet to recover from a slump in 2015-16, mainly because investment remains low. Having gone so far towards punishing corruption, it would be tragic if Brazil turned back now.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bello[]:n. 贝罗（姓氏） 
@@ -90,4 +91,6 @@
 76.productivity[.prәudʌk'tiviti]:n. 生产力 [经] 生产率, 生产能力 
 77.slump[slʌmp]:n. 暴跌, 垂头弯腰的姿态 vi. 猛然掉落, 陷入, 衰落(经济等) 
 78.tragic['trædʒik]:a. 悲惨的, 悲剧的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

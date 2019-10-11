@@ -13,6 +13,7 @@
 Elaine Kamarck of the Brookings Institution, a think-tank, and author of “Primary Politics: Everything You Need to Know about How America Nominates Its Presidential Candidates”, believes this system makes it far too easy for parties to be hijacked by outsiders. “No other political process in the modern world”, Ms Kamarck writes, “has so abandoned this critical vetting function of the political party in the nominating process.” A system of peer review by elected officeholders before candidates were put before primary voters would, she argues, work better. 
 What would this look like in practice? Ms Kamarck presents three possible solutions. First, both parties could increase the role that superdelegates—convention delegates who can vote whichever way they please—play in the process. Currently Republicans do not use superdelegates in their selection process, and Democrats have recently cut their power. Second, parties might consider a national convention to endorse a limited number of candidates before the choice between them is presented to the voters. The third option would be to let a party’s members of Congress present a slate of endorsed candidates to primary voters. Julia Azari, an associate professor of political science at Marquette University, says that the ideal system probably lies somewhere between the brokered conventions of the 1960s and the nearly fully democratised system of today. 
 It is too late for reformers to affect the system that will be used in 2020, but it is not unimaginable that they may do so later on. Both parties already enact restrictions on who may run, and even the constitution includes some anti-democratic requirements, such as the need to be 35 years or older to run for president. Nor is it abnormal for the parties to exercise a heavy hand in their nomination processes. In the 2008 primary, for example, the Democratic National Committee voted to strip Michigan and Florida of all their pledged delegates after they scheduled their primary elections earlier in the year than originally agreed. The rules committees of the two parties still have the power and flexibility to reform a system that is failing to work. They should use it.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.overcrowd[.әuvә'kraud]:vt. 容纳过多的人, 使过度拥挤 
@@ -96,4 +97,6 @@
 79.pledge[pledʒ]:n. 诺言, 保证, 誓言, 抵押, 信物, 保人, 祝愿 vt. 许诺, 保证, 使发誓, 抵押, 典当, 举杯祝...健康 
 80.originally[ә'ridʒәnli]:adv. 本来, 原来, 最初, 就起源而论, 独创地 
 81.flexibility[.fleksi'biliti]:n. 弹性, 适应性 [计] 灵活性; 适应性 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

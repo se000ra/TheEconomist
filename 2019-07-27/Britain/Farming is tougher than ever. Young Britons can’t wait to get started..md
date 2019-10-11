@@ -8,6 +8,7 @@
 Many are the children of farmers. About four in five students at Coleg Cambria Llysfasi, an agricultural college, have farming backgrounds. “It’s in the blood,” says Llyr Jones, 18, who began helping on the family farm when he was seven. “I’ve always been tractor mad.” But some lack that excuse. Molly Hodge, an 18-year-old, got her first job on a farm last month. Her mother manages a casino; her father works in construction. Her motivation is the same as that of farmers for generations: to work outdoors. 
 Oddly, Brexit has enhanced the appeal for some. Even those who voted for it (as most farmers did) think it will unleash at least a decade of agricultural upheaval. “You’ve got to be ballsy about it,” says Andrew Fisher, 23, on his annual holiday from the farm. Dafydd Jones, the 29-year-old chairman of the Welsh young farmers’ association, casts it as nothing less than a battle for the Welsh soul. “Everyone loves a challenge,” he says. “We can farm like we’ve never farmed before.” More prosaically, the domestic farm lobby could become far more powerful after Brexit. 
 As farming begins to make better use of data and drones, it is becoming a little more appealing to those who are reluctant to get up at five in the morning to milk the cows. Automation will allow farmers to work more sociable hours, says Dewi Jones of Coleg Cambria. “Traditionally it was a lot of menial work,” he says. “It’s up to us to make it attractive, otherwise it sounds a little bit like you’re the kid who’s been sent up a chimney.”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.pasture['pæstʃә]:n. 牧场, 草地, 牧草 vt. 放牧 vi. 吃草 
@@ -63,4 +64,6 @@
 51.Dewi[]:n. (Dewi)人名；(英)戴维, 黛维(女名)；(印尼)黛维 
 52.traditionally[]:adv. 传统上；传说上；习惯上 
 53.menial['mi:niәl]:a. 适合仆人做的, 卑微的 n. 仆人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

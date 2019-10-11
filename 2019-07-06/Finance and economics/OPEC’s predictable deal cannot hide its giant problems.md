@@ -11,6 +11,7 @@
 That helps explain why, despite cutting production somewhat, Saudi Arabia accounts for almost as much of the global market as it did in 2016. Russia has been even more protected. That year it agreed to work with OPEC to stabilise the oil price. Its influence in the Middle East has grown and it has helped shape OPEC’s decisions, big and small. On June 29th Vladimir Putin, Russia’s president, said that he had agreed with Saudi Arabia to extend OPEC’s production cuts, making the imminent meeting in Vienna seem all but redundant.  
 Russia has given up relatively little in return. In most months its output has exceeded the level it had agreed with OPEC. (May was a rare—and possibly unintended—exception: an important crude pipeline suffered contamination.) In March its share of the global market was higher than in 2016. “By doing only a little, they got quite a lot,” says Martijn Rats of Morgan Stanley, a bank. 
 OPEC and Russia look set to continue co-operating. The meeting in Vienna included a charter to formalise OPEC’s partnerships with non-members. But there is a limit to how much further output in Venezuela and Iran can fall. If oil prices remain low, Saudi Arabia and Russia may face an uncomfortable choice: let prices dip or cut production more steeply, thereby losing market share and propping up American shale. This month’s meeting was straightforward. Future ones may be less so. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.predictable[pri'diktәbl]:a. 可预言的 
@@ -73,4 +74,6 @@
 58.steeply['sti:pli]:adv. 险峻地 
 59.prop[prɒp]:n. 支柱, 支持者, 倚靠人, 道具, 螺旋桨 vt. 支撑, 维持 
 60.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

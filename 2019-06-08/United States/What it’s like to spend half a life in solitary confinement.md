@@ -16,6 +16,7 @@
 In conversation Mr Medina is articulate and measured, but he says isolated confinement takes a toll. He experiences intense rage, which he calls beneficial, towards “the system—the way I hold onto my sanity is by reminding myself to be angry at the people that put me here.” The anger helped him “build a lot of walls very high…in my mind”, but “it’s not very healthy” for it “can eat at you”. He has heard of inmates in Texas, released from solitary, unable to cope among other people. 
 His response echoes the words of Albert Woodfox, a prisoner kept in solitary confinement in Louisiana for 40 years before being released in 2016, aged 69. Mr Woodfox recently published a book, “Solitary”, in which he writes that “the fight for sanity never goes away” and says he “shut my emotional system down” to cope with being locked away alone. 
 At issue is not whether to punish the guilty—though Mr Woodfox did eventually prove he was wrongfully convicted. It is whether America should treat even its worst offenders like this. “I feel like we’re seen in the same light as places like China, Saudi Arabia and Iran. That’s the company we keep,” says Mr Medina. “Human beings are not meant to be isolated in this way.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.brutish['bru:tiʃ]:a. 畜生般的, 愚钝的, 粗野的, 残忍的, 野蛮的 
@@ -91,4 +92,6 @@
 71.saudi['sajdi]:a. 沙乌地阿拉伯（人或语）的 
 72.Arabia[ә'reibiә]:n. 阿拉伯半岛 
 73.Iran[i'rɑ:n]:n. 伊朗 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

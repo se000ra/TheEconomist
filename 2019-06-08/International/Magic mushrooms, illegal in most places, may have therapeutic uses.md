@@ -26,6 +26,7 @@
 ![image](images/20190608_IRC185.png) 
 Although psilocybin seems safe compared with other mood-altering drugs (see chart), messing with your mind is inherently risky. “People will get hurt,” says Brad Burge of the Multidisciplinary Association for Psychedelic Studies. “That’s inevitable. People will drive when on magic mushrooms. That can lead to a pushback.” But nobody in the field wants to prolong a situation in which, in the words of Cindy Sovine, who worked on the decriminalisation campaign in Denver, “people are going to jail and losing their children” for personal use of a drug that can bring pleasure and enlightenment. 
 In the current climate, progress towards a more liberal regime, whether through the medical or the legal route, is likely to continue. After all, as Max Planck, a great physicist, put it: “A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.dormouse['dɒ:maus]:n. 榛睡鼠 
@@ -211,4 +212,6 @@
 181.regime[rei'ʒi:m]:n. 政权, 当权期间, 政体, 社会制度, 体制, 情态 [医] 制度, 生活制度 
 182.MAX[mæks]:[计] 最大 
 183.planck[plɑ:ŋk]:n. 普朗克（德国物理学家） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

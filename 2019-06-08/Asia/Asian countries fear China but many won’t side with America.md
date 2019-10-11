@@ -12,6 +12,7 @@
 Mr Shanahan did his best to assuage these concerns. He pointed out that the Indo-Pacific was America’s “priority theatre”, with four times as many American forces as any other American military command. America’s freedom of navigation operations in the South China Sea were also growing more routine: unusually, there were two in May alone. 
 But muscle is only half of it. The larger issue is that Donald Trump’s unpredictably incendiary foreign policy sits uneasily with the principles of FOIP. Tensions with Iran are pulling America’s attention back to the Middle East. The compulsive resort to tariffs undercuts a rules-based trading order. Mr Trump’s lack of interest in human rights hardly furthers freedom. And to many in Asia, America’s war on Huawei or its sanctions against buyers of Russian arms or Iranian oil look an awful lot like China’s “toolkit of coercion”, as Mr Shanahan put it. 
 That is unfair. An Asian order sculpted by China would be more capricious and suffocating than anything Mr Trump could devise. General Wei’s defence of the crushing of the Tiananmen Square protests—he called it a “correct policy” that gave China the stability to grow richer—was a reminder of the ideological stakes. Australia, India and Japan are on board. Singapore and Vietnam’s sympathies are clear. But most ASEAN countries hate the idea of taking sides, despite widespread misgivings about China’s intentions. Mr Shanahan reckons they will eventually come round: “I think they’re building up their confidence.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.banyan['bænjәn]:n. 印度榕树 [医] 榕树, 孟加拉榕 
@@ -83,4 +84,6 @@
 67.ideological[.aidiә'lɒdʒikәl]:a. 意识形态的, 空想的 [法] 思想的, 思想上的, 意识形态的 
 68.misgiving[mis'^iviŋ]:n. 疑虑, 不安, 害怕, 担扰, 疑惧 
 69.reckon['rekәn]:vt. 计算, 总计, 估计, 认为, 猜想 vi. 数, 计算, 估计, 依赖, 料想 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

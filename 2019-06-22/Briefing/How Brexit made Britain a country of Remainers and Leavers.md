@@ -35,6 +35,7 @@
 The Brexit Party’s success has strengthened the case for courting cultural conservatives for many Tories. Boris Johnson, the front-runner in the party’s leadership contest, is doing his best to outflank Mr Farage, threatening a no-deal Brexit and comparing burqa-wearing women to “letterboxes”. This may alienate liberals who had backed the party for its pro-business policies. But as Mr Johnson reportedly said last year, “fuck business.” Similarly, a surge by the Liberal Democrats, who promise to stop Brexit, is making many in Labour argue for an explicitly pro-Remain position. 
 Still, there is immense caution in both parties about regrouping along cultural lines. The European election, with its turnout of 37%, is a poor guide to how a general election might go. Labour’s fudged position on Brexit has just about held up, helping it to win a by-election in Peterborough earlier this month. Jeremy Corbyn, its leader, is so obviously a cultural liberal—with his allotment, vegetarianism and endless pledges of “solidarity” with oppressed people—that the tribe may forgive his feebleness on Brexit. Moderate Tories, meanwhile, point out that their party embraced cultural conservatism in the 2017 election, and flopped. After Brexit, some believe, the country will go back to normal. 
 That is doubtful. For one thing, being outside the club means endlessly talking about your relationship with it, as Switzerland has found. More important, the two tribes are united by more than Brexit. The emergence of a coalition of young, urban, university-educated liberals, and an opposing group of older, rural, school-leaver conservatives, began long before the vote. The referendum simply gave them an identity. There is no reason to think that when Brexit is over the tribes will disband. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Brexit[]:[网络] 英国退出欧盟 
@@ -233,4 +234,6 @@
 194.emergence[i'mә:dʒәns]:n. 出现, 浮现, 发生 
 195.coalition[.kәuә'liʃәn]:n. 结合体, 结合, 联合 [经] 联合, 联盟 
 196.disband[dis'bænd]:vt. 解散, 遣散 vi. 被解散 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

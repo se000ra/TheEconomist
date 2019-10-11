@@ -14,6 +14,7 @@
 The fuss this caused makes it unlikely others will get away with it. But plenty of shady avenues remain, such as pooling $50,000 allowances with others; making an arrangement with a Hong Kong resident or foreigner in China; inflating invoices for overseas payments; and cryptocurrencies. RCBI professionals say they do not advise their customers how to navigate China’s exchange controls. They even deny knowledge of how this is done. But they say clients do seem to be finding it more difficult. 
 Oddly, China has recently liberalised the RCBI market. Last November it lifted a requirement that RCBI firms obtain a licence from the police. So competition has become more intense. Some of this comes from new entrants. But there may be a more serious threat to incumbents, says Christian Nesheim, editor of Investment Migration Insider, a trade journal. Banks and other wealth managers might be tempted to poach RCBI professionals to offer clients a fuller service, he says. 
 There is no sign of any slackening in demand for such business. More people now find golden-visa schemes affordable. Ever since Deng Xiaoping a generation ago decreed (perhaps apocryphally) that to get rich is glorious, those who have succeeded in doing so have deemed it even more glorious to get out—or at least to be able to. Mr Tang has his eyes on Ireland. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.parachute['pærәʃu:t]:n. 降落伞 vi. 跳伞 
@@ -93,4 +94,6 @@
 75.decree[di'kri:]:n. 法令, 判决, 天意 vt. 颁布, 判决 vi. 发布命令 
 76.apocryphally[]:伪造地 
 77.deem[di:m]:v. 认为, 相信 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

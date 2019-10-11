@@ -12,6 +12,7 @@
 Getting them to diversify is both a challenge and a “business opportunity,” says Toshihide Endo, the FSA’s director, given that the net assets of elderly households have been almost flat for 20 years. “This implies that wealth formation is failing to keep pace with increased longevity.” 
 Mr Yoshino draws an unflattering comparison with America, where major asset classes have increased in value far faster than in Japan. But the fear of losses deters many Japanese investors. Nerves have been jangled by a record loss in the most recent quarter at the Government Pension Investment Fund, the world’s largest. Five years ago Shinzo Abe, the prime minister, pressed its managers into shifting about half its assets into equities and slashing its holdings of domestic bonds. 
 Japan is a harbinger of changes to come elsewhere. The World Bank forecasts a shortfall in retirement savings in big countries of about $400trn dollars by 2050. More adventurous investment may be part of the solution. Japan’s government also wants to raise the retirement age from 65 to 70. “The very easy answer is that everyone should keep working as long as possible,” says Mr Yoshino. But with a general election just weeks away, Mr Abe may not have felt able to point that out. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.retirement[ri'taiәmәnt]:n. 退休, 隐居, 撤退 [经] 退休, 退股, (固定资产)报废 
@@ -66,4 +67,6 @@
 50.harbinger['hɑ:bindʒә]:n. 通告者, 预告者, 先驱, 预兆 vt. 预告, 充做...的前驱 
 51.shortfall['ʃɒ:tfɒ:l]:n. 不足, 不足量 [经] 缺少, 不足, 亏舱运费 
 52.adventurous[әd'ventʃәrәs]:a. 喜欢冒险的, 有进取心的, 危险的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

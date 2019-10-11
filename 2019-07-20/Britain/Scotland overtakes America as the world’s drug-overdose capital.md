@@ -10,6 +10,7 @@
 But whereas health and justice policy are largely devolved, drug law is not. The Scottish government argues that the Misuse of Drugs Act needs to be amended before the fix rooms can go ahead. Westminster is unwilling to do this. The SDF and others think a “letter of comfort” from the Lord Advocate, Scotland’s attorney-general, would be enough. But James Wolffe, the holder of the post, disagrees, saying a “comprehensive legal framework” is required. There is a feeling no one is exhausting every possibility. 
 Meanwhile, calls are growing for stronger medicine. On July 4th the Daily Record newspaper called in a front-page editorial for drug use to be decriminalised. The Greens and Liberal Democrats back the idea, but the Scottish National Party, which runs the government, is less sure. A growing number of countries are experimenting along such lines. In 2001 Portugal decriminalised all drugs. Nearly two decades on, it is at the opposite end of the Europe’s drug-death league table to Scotland. ■ 
 Vacancy: The Economist is looking to hire a staff writer to cover British economics. Journalistic experience is not necessary; the ability to write clearly and entertainingly is. For details of how to apply, visit economist.com/britainjob2019. The deadline is August 4th. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Trainspotting[]:（电影名）猜火车 
@@ -41,4 +42,6 @@
 27.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
 28.journalistic[,dʒ\\: nә'listik]:a. 新闻业的, 新闻工作者的, 报刊特有的, 新闻工作的 
 29.entertainingly[,entə'teiniŋli]:adv. 有趣地；使人愉快地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

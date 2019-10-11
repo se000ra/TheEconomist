@@ -10,6 +10,7 @@
 Smaller banks, which for years have been urging the Fed to build a system, are delighted to be promised a choice. “The private sector has a product but not the reach,” says Cary Whaley of the Independent Community Bankers of America, a trade group. “The public sector has all the reach but not yet the product.” (Most of America’s 4,900 community banks have assets of less than $1bn; the country’s biggest lenders weigh in at $2trn-plus.) 
 Aaron Klein of the Brookings Institution, a think-tank in Washington, argues that the Fed has not gone far enough. Five years is too long to get its new system up and running, he says. Meanwhile, the banks will still be pulling in overdraft fees. He adds that the Fed should also have obliged banks to let customers draw funds as soon as they are deposited. 
 Last month Chris Van Hollen, a Democratic congressman, and Senator Elizabeth Warren, one of the Democratic candidates for the presidency in 2020, introduced a bill that would amend the Expedited Funds Availability Act of 1987 to force banks to do just that. Time is money, goes the adage. That’s even more true for struggling Americans than for rich ones. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.interbank[,intә'bæŋk]:管排间的, 管束间的 
@@ -62,4 +63,6 @@
 48.expedit[]:n. 埃克佩迪（品牌名称） 
 49.availability[ә.veilә'biliti]:n. 有效性, 可利用性, 可利用的人 [计] 有效性; 可用性 
 50.adage['ædidʒ]:n. 格言, 谚语 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

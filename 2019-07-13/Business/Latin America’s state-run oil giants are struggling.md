@@ -21,6 +21,7 @@
 In some ways the region’s brightest spot has been Colombia. Álvaro Uribe, president from 2002 to 2010, set about restructuring Ecopetrol. His changes included the creation of an independent regulator and the listing of 11% of Ecopetrol shares, which provided an infusion of capital that helped the company enlist better managers. In 2015 it recruited Felipe Bayón Pardo, a former senior executive at BP, a British oil giant, who became boss in 2017. After the downturn in oil prices at the end of 2014, Ecopetrol slashed spending. When prices ticked up, spending rose, though more slowly than in Mexico. But Ecopetrol’s reserves are dwindling. To boost them, it is teaming up with international oil majors and investing $500m in fracking. 
 Success is not assured, in Colombia or elsewhere. The International Energy Agency, an intergovernmental forecaster, predicted that Brazilian output would boom last year—yet output dipped as new oilfields were slow to begin production and mature ones fell. 
 Those concerned about climate change might argue that the region’s inefficient state-run firms would do well to return more money to shareholders and invest the rest in cleaner energy. Rivals in other parts of the world are taking tentative steps in that direction. Statoil, Norway’s titan, has reinvented itself as Equinor; its portfolio comprises both oil projects and wind farms. Even the world’s oil colossus, Saudi Aramco, is making a bet on petrochemicals and refining, demand for which should remain robust even if a global carbon price one day depressed that for crude. Latin American oilmen are too consumed by old challenges to deal with these new ones. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.disarray[.disә'rei]:vt. 弄乱, 使混乱, 使脱去衣服 n. 无秩序, 杂乱, 不整齐的衣着 
@@ -199,4 +200,6 @@
 174.petrochemical[.petrәu'kemikәl]:a. 石化的, 石化制品的, 岩石化学的 n. 石化产品 
 175.robust[rәu'bʌst]:a. 健康的, 强健的, 要用力气的, 坚定的, 粗野的 [计] 健壮性 
 176.oilman['ɒilmәn]:n. 石油工人, 石油商 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

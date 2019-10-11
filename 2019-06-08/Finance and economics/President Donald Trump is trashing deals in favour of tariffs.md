@@ -13,6 +13,7 @@
 Indeed, Mr Trump may even have pushed his own party too far. America’s constitution says that trade policy falls to Congress, though over time Congress has delegated certain powers to the president. He has tested the limits of that delegation, for example by claiming national security as justification for tariffs on imported steel and aluminium. But the latest threat of tariffs on Mexican imports requires him to declare a state of national emergency, which Congress has the power to override. Even if it declines to, a court might. John Murphy of the US Chamber of Commerce, a business group, says that “the Chamber is examining all legal options”. 
 In its admirers’ telling, Trumponomics is muscular pragmatism. Regarding China, they say that earlier efforts failed and multilateral approaches are timid or naive. If you believe that trade weakens economies and steals jobs, it all makes sense. 
 But it also sits ill with Mr Trump’s glee when he actually agrees to a trade deal. Last November he signed one with Mexico and Canada, the USMCA, and boasted of making progress in talks with China. The president can be a dealmaker, or, in his own phrase, a “tariff man”. He cannot be both. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bully['buli]:n. 欺凌弱小者, 土霸 vt. 威胁, 恐吓, 欺负 vi. 欺负 a. 特好的, 第一流的 adv. 十分 
@@ -73,4 +74,6 @@
 56.glee[gli:]:n. 欢乐, 高兴 
 57.dealmaker[]:n. 交易人 
 58.cannot['kænɒt]:aux. 无法, 不能 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

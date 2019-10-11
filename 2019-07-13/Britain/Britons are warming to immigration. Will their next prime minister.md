@@ -12,6 +12,7 @@
 But the figures do suggest that Mrs May was wrong to assume public opinion on immigration was homogeneous or that it would retain its salience, says Sunder Katwala of British Future. He calls most people “balancers”, who see both the benefits and drawbacks of immigration and have differing views depending on the circumstances of each migrant. 
 Polling for the report bears this out. Most voters are content with current—or, in a few cases, higher—inflows of highly skilled migrants, students and family members. But they are much less enthusiastic about low-skilled migrants, refugees and asylum-seekers. 
 Most of those who have warmed to immigration attribute their change of heart to increased awareness of the contributions that migrants make. Newspapers are running fewer—and more positive—stories about migrants. And the scandal over the shoddy treatment of the Windrush generation of migrants, who came to Britain legally but struggled to prove it, demonstrated that being perceived as too harsh can be as politically toxic as appearing too lenient. Whether or not her successor salvages any of Mrs May’s Brexit policy, her tub-thumping speeches on immigration ought to be destined for the dustbin. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Briton['britәn]:n. 大不列颠人, 英国人 
@@ -77,4 +78,6 @@
 61.lenient['li:njәnt]:a. 宽大的, 温和的, 慈悲为怀的 [法] 宽大的, 仁慈的 
 62.salvage['sælvidʒ]:n. 海上救助, 抢救, 打捞, 抢救出来的财物 vt. 海上救助, 抢救, 打捞, 营救 [计] 文件恢复程序 
 63.destine['destin]:vt. 注定, 预定 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

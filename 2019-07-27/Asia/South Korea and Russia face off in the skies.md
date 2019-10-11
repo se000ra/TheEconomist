@@ -8,6 +8,7 @@
 ![image](images/20190727_ASM998_5.png) 
 The third worry is of an accident or misunderstanding. For two countries that have long been at peace, Japan and South Korea keep their fighter pilots busy. In the 12 months that ended this March Japan scrambled its jets 999 times in response to aerial incursions—two-thirds of them by China over the Senkakus, the rest by Russia over yet more disputed islands to the north of Japan. South Korean pilots, too, frequently respond to Chinese forays into the KADIZ. With so much muscle-flexing in the skies, it is easy to imagine a disastrous miscalculation—especially if, as this week, shots are fired. 
 America must hope the incident will remind South Korea and Japan that the security threat to each comes not from the other but from North Korea and an assertive China, further encouraged by its ever closer ties with Russia; and that in response South Korea and Japan should be shoulder to shoulder, not eyeball to eyeball. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Korea[kә'riә]:n. 朝鲜, 韩国 
@@ -55,4 +56,6 @@
 43.disastrous[di'zɑ:strәs]:a. 损失惨重的, 悲伤的 
 44.assertive[ә'sә:tiv]:a. 武断的, 过分自信的 [法] 断言的 
 45.eyeball['aibɒ:l]:n. 眼球 [医] 眼球 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

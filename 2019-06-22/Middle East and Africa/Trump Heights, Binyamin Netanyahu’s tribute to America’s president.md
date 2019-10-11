@@ -7,6 +7,7 @@
 Many foreign leaders have realised that Mr Trump enjoys vacuous flattery. But even by the standards of the past two-and-a-half years, the inauguration of Trump Heights is a particularly empty gesture. Not only is it an illegal settlement under international law, it isn’t even a new one. An Israeli village called Brukhim was established on the land in 1991, but did not attract many residents. Since Mr Netanyahu failed to form a government after the election in April, he leads on an interim basis—without the legal authority to allocate land or money for Trump Heights. The project has no timetable. About all the government can do is erect a fancy sign. 
 On June 25th the Trump administration is expected to present elements of a long-delayed peace plan for Israel and the Palestinians at a conference in Bahrain. Ever since he was elected, Mr Trump has promised to deliver “the ultimate deal”. But the Palestinians have shunned him since he recognised the disputed city of Jerusalem as Israel’s capital in 2017. They will not attend the conference. Nor will Israeli officials, whom the Americans did not invite, perhaps to lower expectations. Saudi and Emirati leaders may show up, no doubt to praise both the plan and Mr Trump. 
 An American official admits that the entire peace plan will probably not be unveiled until after Israel’s election in September. Another official says it will probably wait for Mr Trump’s second term—assuming he wins one. If not, the developers of Trump Heights might consider investing in a new sign. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.flattery['flætәri]:n. 谄媚, 阿谀, 巴结 
@@ -35,4 +36,6 @@
 24.saudi['sajdi]:a. 沙乌地阿拉伯（人或语）的 
 25.Emirati[]:n. (Emirati)人名；(意)埃米拉蒂 
 26.developer[di'velәpә]:n. 开发者 [计] 显影器 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

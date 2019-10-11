@@ -60,6 +60,7 @@
 Narayanappa, in Chittoor district, has no such scam to support him. The butterflies enjoying the shade of the well he dug in the 1990s flit over a stagnant puddle. He and his family have borrowed from local moneylenders to drill five bore holes across the smallholding. Four of them, including the one which goes down 460 metres (1,500 feet), are now dry. And even in better years than this one, bore-well water is not always sweet or safe to drink, given naturally occurring levels of arsenic. For the past five years, the water tankers have been coming to farms around Kuppam village too. 
 The gamble on the rains is not just for finance ministers. If, despite ENSO and Cyclone Vayu, the monsoon comes good, as Mr Rajeevan thinks it will, Narayanappa wins out, sells his crops, repays his debts. If not he goes deeper into hock. The desperation such debt drives has led to protests—some violent—and suicide. The misery is one example of how water and the want of water determine inequalities, and even fates. Another can be seen in attacks on people of lower caste using water tanks customarily monopolised by the upper castes. There are also water wars between states. These phenomena are not new—the bitter dispute between Karnataka and Tamil Nadu over extracting water from the Cauvery river dates back to the 1890s—but they speak poorly of modern India’s ability to manage the stakes in its monsoonal roulette. 
 At the far end of Narayanappa’s land runs the railway from Mumbai to the south. To the old folk of the village the crammed carriages rolling past are another world, one that fleetingly flows through theirs a few times a day. When the rains fail, their children and grandchildren join the flow, streaming into Bangalore in search of work as labourers or security guards. They throng the steps of Kuppam station, crowding the train well before it has even clanged to a halt. Only the old folk are left in the fields, looking up at the fierce, empty sky.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.gamble['gæmbl]:n. 赌博, 冒险 v. 赌博, 孤注一掷 
@@ -516,4 +517,6 @@
 452.fleetingly['fli:tɪŋlɪ]:adv. 飞快地, 疾驰地 
 453.Bangalore[,bæŋ^ә'lɔ:]:n. 炸药桶 
 454.clange[]:[网络] 叮当地响；生理学家朗格 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

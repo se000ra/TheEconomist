@@ -10,6 +10,7 @@
 The opposition’s show of strength came after a crackdown aimed at stifling dissent—a tactic that worked in 2011-12. Since the protests began on July 14th, baton-wielding riot police have arrested more than 2,500 people, often violently. Although many of the protesters were quickly released, 14 people are facing up to eight years in prison on dubious charges of “mass unrest”. Among them is a man who is accused of throwing an empty plastic bottle at police. 
 The protests are also providing the opposition with new figureheads. Most prominent is Lyubov Sobol, a 31-year-old lawyer who works with the anti-corruption organisation run by Alexei Navalny, a prominent critic of the Kremlin. Ms Sobol, who went on hunger strike in a bid to force her way onto the city-council ballot, was dragged out of her office and arrested by police ahead of last weekend’s rally. 
 The danger for Mr Putin now is that the protests will trigger a chain reaction throughout Russia. At a state-organised forum in southern Russia this weekend, participants, including members of the ruling party’s own youth wing, voiced grievances over corruption and inequality that would not have sounded out of place at a Moscow opposition rally. “We have only one solution—revolution,” said one young woman. “We are like an explosive cocktail. We are ready to go off.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.unbowed[.ʌn'baud]:a. 不弯的, 不屈服的 
@@ -77,4 +78,6 @@
 63.grievance['gri:vәns]:n. 委屈, 冤情, 苦况 [经] 不满(对雇用条件的) 
 64.inequality[.ini'kwɒliti]:n. 不平等, 不同, 不平坦, 不平均 n. 不平等, 不等式 [计] 不等式 
 65.cocktail['kɒkteil]:n. 鸡尾酒, 开味品 a. 鸡尾酒会的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

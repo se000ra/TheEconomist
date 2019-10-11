@@ -8,6 +8,7 @@
 This new life is a rollercoaster. The girl excels at school and reconnects with an old friend in the city whom she was forced to leave behind. But eventually tragedy strikes, rocking and nearly rupturing the family. Meanwhile, for all her progress, she is constantly afflicted by a feeling of rootlessness: “I was a child of separations, false or unspoken kinships, distances. I no longer knew who I came from.” 
 And she doesn’t know why she was returned. Did the woman she still calls “Mamma” give her up because she was ill, even dying, or did her supposedly “real” parents want her back? For most of the novel Ms Di Pietrantonio keeps both her protagonist and her readers in the dark. All their questions are answered by way of shock truths in the final act, in which the girl and her mamma are brought together for a powerful showdown. 
 Expertly translated by Ann Goldstein, “A Girl Returned” is as heart-warming as it is heart-rending. Both the heroine’s resilience and her confusion are poignant—as is her naive belief that her loved ones will realise their error and come to collect her. In this shrewd examination of identity and belonging, Ms Di Pietrantonio ensures that her character’s loss is her reader’s gain. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.mamma['mɑ:mә]:n. 妈妈, 乳房 [医] 乳房 
@@ -52,4 +53,6 @@
 40.resilience[ri'ziliәns]:n. 弹回, 有弹力, 恢复力 [化] 回弹; 弹性; 弹回性; 回能; 弹能 
 41.naive[nɑ:'i:v]:a. 天真的, 纯真的, 幼稚的 
 42.shrewd[ʃru:d]:a. 精明的, 锐利的, 剧烈的, 机灵的, 厉害的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

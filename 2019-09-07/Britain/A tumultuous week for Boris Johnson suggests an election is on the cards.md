@@ -9,6 +9,7 @@
 Mr Johnson responded to his defeat with characteristic belligerence. Although he conceded that he was bound to observe the law, he also said there were no circumstances in which he would ask for an extension of the October 31st deadline. The solution, he suggested, was to hold an election before then, to let the people decide who should be negotiating with the EU. He let it be known that October 15th was his preferred date. 
 His problem is that, under the Fixed-term Parliaments Act (FTPA) of 2011, prime ministers can no longer call an election when they want. Doing so needs a two-thirds majority of MPs, so Mr Johnson requires Labour support. Although Mr Corbyn has long called for an election, he now insists the Benn-Burt bill to stop no-deal must become law first. Late on September 4th, a motion by Mr Johnson calling for an election duly failed because it passed with too small a majority. There are ways round the FTPA, however. A one-sentence motion calling for an election despite the act might get a simple majority. Or Mr Johnson could engineer defeat via a vote of no confidence. With his majority shot, an election seems to be coming. Can he win it? 
 Here Mr Johnson is bullish. The latest polls give the Tories a ten-point lead over Labour. Yet elections go wrong, as Mrs May found when squandering an even bigger lead in 2017. Without a pact with Nigel Farage’s Brexit Party, which may be hard to agree, it could take Tory votes. The Tories may lose seats in Scotland, London and the south. To win a majority, they must make big gains in the midlands and north. These regions have many pro-Brexit voters, but they are by instinct anti-Tory. An election could be harder for Mr Johnson to win than some of his advisers think. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tumultuous[tju:'mʌltʃuәs]:a. 吵闹的, 纷乱的, 骚乱的 [法] 喧嚣的, 骚乱的, 凶猛的 
@@ -57,4 +58,6 @@
 44.nigel['naidʒәl]:n. 奈杰尔（男子名） 
 45.midland['midlәnd]:n. 中部地方, 内地 
 46.voter['vәutә]:n. 选民, 投票人 [法] 选民, 选举人, 投票人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

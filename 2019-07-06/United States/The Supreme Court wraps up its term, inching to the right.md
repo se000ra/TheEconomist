@@ -11,6 +11,7 @@
 Another challenge to the integrity of America’s democracy was averted in a row over the Trump administration’s wish to add a citizenship question to the 2020 census. After the oral argument, it seemed certain the five conservative justices would hand the government a win despite evidence the question would spur a pronounced undercount of people in mostly Democratic states. The stakes were high: population data from the decennial census direct the flow of billions of federal dollars and set the number of congressional representatives allocated to each state. 
 Chief Justice Roberts knocked down the challengers’ legal arguments one by one but saved a plot-twist for the end. While there is nothing in the constitution or federal law stopping the government from asking census-takers if they are citizens, he wrote, Wilbur Ross, the commerce secretary, violated administrative law when he gave a “contrived” reason for the change. Enforcing the Voting Rights Act of 1965, the official justification was a “distraction”, the chief wrote. This is as close as a chief justice gets to calling a cabinet secretary a liar. 
 The ruling left open a small window for Mr Ross to come up with a “genuine” rationale, but on July 2nd he closed it, saying the census form was rolling off the presses without the citizenship question. Pandemonium ensued on July 3rd after a defiant tweet from Mr Trump; the government now says it will give the question another go. However this circus ends, Melissa Murray of New York University cautions that the Supreme Court ruling “does not foreclose such a question being included in a future census” and predicts that if Republicans hold the White House in 2030, “it will be on there.” She also notes that the lawsuit may depress response rates even with no citizenship query. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -100,4 +101,6 @@
 85.york[jɔ:k]:n. 约克郡；约克王朝 
 86.foreclose[fɒ:'klәus]:vt. 阻止, 排除, 预先处理, 取消抵押品赎回权 vi. 取消抵押品赎回权 
 87.query['kwiәri]:n. 疑问, 疑问号, 质问, 查询 v. 询问, 质问 [计] 查询 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

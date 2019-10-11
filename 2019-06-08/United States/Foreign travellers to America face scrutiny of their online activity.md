@@ -11,6 +11,7 @@
 Does this amount to unacceptable scrutiny, even an authoritarian turn? It is not new in kind. As the hapless Mr Van Bryan learned, nothing previously stopped officials from checking on visitors’ public, online statements. But the new regime is different in scale, so could make such scrutiny easier. Officials retort that a decision to deny anyone entry will never be based solely on social-media statements. 
 Several worries linger. The Brennan Centre frets that “wholesale monitoring of social media creates serious risks to privacy and free speech”. That includes the privacy and speech of Americans, since scrutiny online looks at how foreigners interact with those already inside America. How masses of personal data are shared between security agencies is opaque. It seems likely that foreigners applying for visas will self-censor online, for fear of having their applications rejected. 
 More practical concerns also exist. Bureaucrats may be ill-equipped to study five years of online posts, in hundreds of different languages, of 15m people each year. Instead, the online activity of certain individuals, such as young Muslim men, could be unfairly targeted. Migration lawyers also say paperwork for applicants coming to America—already long and tedious—is getting too unwieldy. Equally troubling is a fear of retaliation. What stops immigration officials in Russia, Turkey, China or elsewhere demanding that all American travellers give up details of their emails and social-media accounts? ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.wtf[]:abbr. 世界跆拳道联盟（World Taekwondo Federation）；世界旅游资源博览会（World Travel Fair） 
@@ -65,4 +66,6 @@
 50.unwieldy[.ʌn'wi:ldi]:a. 难处理的, 笨大难使用的, 笨拙的 
 51.equally['i:kwәli]:adv. 相等地, 同样地, 平等地 
 52.retaliation[ri.tæli'eiʃәn]:n. 报复 [法] 报仇, 报复, 回敬 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

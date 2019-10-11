@@ -50,6 +50,7 @@
 Others hit the border and keep going. Zsike, a graphic designer from Debrecen, ended up in the Netherlands: “If you don’t have important friends or family [in Hungary], you can never get anywhere.” Maria and her husband went to Austria to keep their children out of Hungary’s increasingly rote-oriented schools. For Monika, an English teacher who also ended up in the Netherlands, the final straw was when the government went after civil-society organisations: “That’s like dystopian, I’m thinking like 1984.” 
 Other countries in central and eastern Europe have seen a larger share of their citizens move west since joining the EU. But an analysis by R. Daniel Kelemen, a political scientist at Rutgers University, shows that the number of Hungarians living elsewhere in the EU has gone up by 186% since 2010, the biggest percentage increase of any member state. Those who go tend to be well educated. When Mr Boda, of the Academy of Science, is asked how many of his students are thinking of leaving Hungary after graduation, he replies: “All of them.” 
 From the government’s perspective, this may be fine. The emigration of liberal-leaning graduates only cements Fidesz’s power. Hungary’s communists might have been relieved if a free-thinking law student named Viktor Orban had gone off to Oxford and stayed there, ideally on Mr Soros’s dime. Instead, he came home, helped unseat them and replaced them with his own quasi-autocratic rule. “We thought we had come out of socialism and now we were going to be normal,” says Maria. “Instead it’s still the same old shit.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.entanglement[in'tæŋglmәnt]:n. 纠缠, 卷入, 缠绕物 [化] 缠结 
@@ -347,4 +348,6 @@
 293.dime[daim]:n. 10分硬币(美、加) 
 294.unseat['ʌn'si:t]:vt. 剥夺...的席位, 使失去资格, 使退位, 罢免, 使去职, 使退职 
 295.shit[ʃit]:vi. 拉屎 vt. 欺骗, 在...拉屎 n. 粪, 屎 interj. 狗屁 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

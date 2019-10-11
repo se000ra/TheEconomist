@@ -8,6 +8,7 @@
 ![image](images/20190907_FNC941.png) 
 The lunch market is local. New Yorkers do not care about prices in London. And they—alongside Bostonians and Washingtonians—are used to their local high prices, for reasons that include bigger portions (though not at Pret) and tipping habits. Londoners are keener on sandwich lunches, which means stiffer competition in that part of the market. 
 Often lunch prices vary by neighbourhood. JD Wetherspoon, a British pub chain, prides itself on low prices, but allows them to differ by branch. In 2017 the Financial Times found that the most expensive Spoons charged over 40% more than the cheapest one. They also vary by time: many restaurants charge more for dinner than for lunch. Perceptions of value for money are relative not absolute. For Pret’s lobster rolls, it’s a case of claws and effect.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lobster['lɒbstә]:n. 龙虾 
@@ -44,4 +45,6 @@
 32.JD[]:法学博士 
 33.Wetherspoon[]:[网络] 识饮识食；威勒斯本 
 34.perception[pә'sepʃәn]:n. 知觉, 感觉, 领悟力, 获取 [医] 知觉 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

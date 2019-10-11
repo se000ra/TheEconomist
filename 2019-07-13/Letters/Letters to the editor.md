@@ -36,6 +36,7 @@
 I fear that your hankering for European Union linguistic purity may suffer the same fate as porcine aviation (“Silly sausages”, June 29th). 
 Indeed, it seems to me that, conformably with the sage advice (not a herb or culinary flavour enhancer) given to James Hacker, by his principal private secretary, Bernard Woolley in “Yes, Prime Minister”, only a cognitively challenged emulsified high-fat offal tube will do if we are to avoid the lanolin-encased naturally ovine fibres being pulled in front of our ocular enabling mechanisms. 
 MARK COHENWaterloo, Australia 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.GP[]:普通医师, 普通医生开业医生 [计] 通用程序设计, 图形处理器 
@@ -167,4 +168,6 @@
 127.ovine['әuvain]:a. 绵羊的 [医] 羊的 
 128.ocular['ɒkjulә]:a. 眼睛的, 用眼的, 凭视觉的, 目击的 n. 目镜 
 129.mechanism['mekәnizm]:n. 机械, 机构, 结构, 机理, 技巧 [化] 机理; 历程; 机构 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

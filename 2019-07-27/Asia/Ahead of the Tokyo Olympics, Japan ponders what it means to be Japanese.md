@@ -12,6 +12,7 @@
 This strikes fear into some. The response of diehard revisionists, including a few close to the prime minister, Shinzo Abe, is to look backwards. They talk of making Japan great again, inspired by a glorious, if often fictionalised, past. Some are pushing to change the constitution, written by the United States in 1947, in particular to make Japan a normal military power. Others focus on putting a divine emperor and the Shinto religion back at the heart of Japan’s identity, even if that was largely devised in the Meiji restoration of 1868, reinventing tradition for the purposes of the creation of a modern constitutional state. 
 Since that moment Japan has in fact been remarkably adept at changing. It took on Western forms of economic, military and governmental organisation in order to fight off Western imperialism. After Japan’s defeat in the second world war, its transformation from a country in ruins to the world’s third-largest economy, from warmaker to peaceable nation—it has not fired a single bullet in anger since the end of the second world war—is extraordinary. 
 The dichotomies of its identity today make it intriguing, as evidenced by the ever-rising numbers of foreign visitors. Other countries dream of having Japan’s problems. Its worries about demographic change, an economy that no longer fizzes and a relatively less visible role in the world are nothing compared with its earlier challenges. Japan remains impressive in its own right. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.banyan['bænjәn]:n. 印度榕树 [医] 榕树, 孟加拉榕 
@@ -80,4 +81,6 @@
 64.dichotomy[dai'kɒtәmi]:n. 两分, 分裂, 二分法 [医] 二分(二分之一); 二叉, 二歧 
 65.intrigue[in'tri:g]:n. 阴谋, 复杂的事 vi. 密谋, 私通 vt. 激起...的兴趣, 用诡计取得 
 66.demographic[.demә'græfik]:a. 人口统计的 [法] 人口统计的, 人口学的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

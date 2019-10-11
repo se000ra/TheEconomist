@@ -12,6 +12,7 @@
 Such combinations will be helped by the second trend that the merger underscores: the constant re-engineering of old-fashioned industrial structures, especially conglomerates. The motivation is partly to avoid attacks by activist investors and also to generate higher returns. Jorge Rujana of Bain, a consultancy, says managers who frequently streamline their portfolios by buying and selling assets have, over the past decade, returned far more to shareholders than those doing big one-off deals—or nothing. The fashion led two famous chemicals firms, Dow and DuPont, to merge in 2017 and simultaneously promise to split into three parts. 
 The trouble is that reconfiguring conglomerates can be a nightmare. General Electric has been through endless, pointless, contortions. Shareholders in DowDuPont have not been well rewarded. And activists are unpredictable. The newly formed chemicals giant was pressured to rejig its rejigging after interventions by two activists, Nelson Peltz of Trian and Daniel Loeb of Third Point. Already some accuse Mr Hayes of the “reconglomeration” of UTC by merging with Raytheon. William Ackman of Pershing Square, a UTC investor, has written a letter urging him to call it off. “It does not seem consistent with the Greg Hayes we know.” 
 Perhaps Mr Hayes is keen to stroke his own ego; he will be the new firm’s chief executive and, in 2022, become its chairman, too. But by grappling with the new dynamics of aerospace and defence, as well as the changing nature of the industrial firm, he is being proactive. It is better to fight the next war than the last one.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Schumpeter[]:n. 熊彼特（美籍奥匈帝国经济学家, 当代资产阶级经济学代表人物之一） 
@@ -112,4 +113,6 @@
 96.persh[]:abbr. perishable 易腐坏的（东西） 
 97.grapple[græpl]:v. 抓住, 掌握 n. 抓住, 系紧, 掌握, 与...扭打 
 98.proactive[,prәu'æktiv]:a. 〈心理〉前摄的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

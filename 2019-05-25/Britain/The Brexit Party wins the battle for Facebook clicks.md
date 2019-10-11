@@ -9,6 +9,7 @@
 Its focus on digital strategy is a legacy of the Vote Leave campaign, which spent 98% of its marketing budget online. Some £2.7m ($3.4m) of Vote Leave’s £7m allowance was paid to AggregateIQ, a data-mining firm linked to the now-defunct Cambridge Analytica. The Brexit Party has canny youngsters, such as Steven Edginton, its 19-year-old digital strategist, running its social-media feeds. Facebook’s algorithm rewards videos, especially those streamed live from events. The Brexit Party has posted more than any other page, including broadcasts of rallies in Wolverhampton, Durham and Newport. Its punchier clips are also popular on Twitter. 
 It benefits from having a clear message, something both Labour and the Tories lack. Just as Vote Leave identified immigration and health as vote-winning subjects, the Brexit Party has alighted on the theme of democracy and its supposed betrayal. “This isn’t about left or right. It’s about right and wrong,” reads one post. “Democracy comes before party politics,” declares another. 
 Who is paying for all these ads? After the referendum, the Electoral Commission found that Vote Leave broke the £7m cap by giving £675,000 to BeLeave, a youth group. Questions now hang over the Brexit Party’s finances. The commission is looking into whether any of its income has come via (prohibited) foreign donations of more than £500, which the party denies. Meanwhile the European Parliament is pursuing a complaint that Mr Farage, an MEP, failed to declare a personal gift of £450,000 from Arron Banks, a businessman whom the National Crime Agency is investigating for soliciting foreign money for Leave.EU, another pro-Brexit group (Mr Banks denies it). These are worrying allegations—which Leave-supporters who get their news from Facebook may never read about. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.climber['klaimә]:n. 登山者 [电] 登杆器 
@@ -57,4 +58,6 @@
 44.MEP[]:[化] 最低能量途径 
 45.arron[]:n. 炎亚纶（飞轮海成员之一）；亚纶（郭富城的英文名） 
 46.solicit[sә'lisit]:v. 请求, 乞求, 招揽, 征求 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

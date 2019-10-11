@@ -15,6 +15,7 @@
 Police have long gathered immense amounts of data, but have not always organised them well. Police complain about the amount of time they spend doing paperwork; others lament how hard it is to get accurate data from police departments. Several firms fishing for business at the conference in Jacksonville offered tools designed to organise the huge amounts of information that police take in, rather than gadgets that generate more of it. Such tools are supposed to present officers with as much information as possible as soon as they need it, and make data taken from disparate sources easily accessible and searchable. They are also supposed to organise data in such a way that the cops can see where they need to improve. 
 Chris Fisher, executive director of strategic initiatives for the Seattle Police Department, recently oversaw the building of a data system linking previously siloed streams of information, such as emergency-call records, stops based on reasonable suspicion, and police use of force. This let the department know precisely where disparities occur. Before, says Mr Fisher, they often relied on guesswork and anecdotal evidence to fill in the blanks. “Now we can know: in how many of our dispatches did it end up that a person was in crisis, and in that subset, how often did we use force?” 
 Axon, which makes body-worn cameras and Tasers (the police weapon that gave the firm its former name) is building a system for managing records. Jenner Holden, the firm’s chief information-security officer, says that “what we can do to help officers improve most isn’t the sexy stuff. It’s helping them be more efficient and spend more time on the street.”  
+<<<<<<< HEAD
 -- 
  单词注释:
 1.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
@@ -93,4 +94,6 @@
 74.jen[]:n. 珍（女子名） 
 75.holden['hәuldәn]:v. 留下；抱住；拿住（hold的过去分词） 
 76.sexy['seksi]:a. 有性感的, 色情的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -10,6 +10,7 @@
 Russia has admitted that an “isotope power source” was being tested, and Rosatom, the country’s atomic-energy agency, has said a “nuclear battery” was involved. Some Russian sources suggest it was this—rather than a reactor—which failed, exploding when it was pulled from the water. 
 Why go to such trouble in the first place? Russia has ballistic missiles that can reach any part of the world, but it is worried that they may be vulnerable to current or future American defences. Cruise missiles can fly along low, erratic paths capable of skirting those defences. But Russia’s longest-range cruise missile, Kalibr, can travel only a few thousand kilometres, so hitting America would require launching it from planes, ships or submarines. Burevestnik, by contrast, could be fired from deep inside Russian territory, and would thus be a more credible threat. 
 Pranay Vaddi, an arms-control expert at the Carnegie Endowment, a think-tank, suggests it might also serve as a bargaining chip. “This may be an effort to gain leverage in arms-control negotiations, to force the United States to the table,” he says. New Start, a treaty that limits American and Russian nuclear forces, covers only ballistic missiles. America does not seem keen on renewing it when it expires in 2021. The Russians may hope that Burevestnik will change America’s attitude—if they can make it work.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.propulsion[prә'pʌlʃәn]:n. 推进, 推进力 [医] 前冲, 慌张步态 
@@ -55,4 +56,6 @@
 41.chip[tʃip]:n. 屑片, 薄片, 碎片 vt. 削, 切, 削成碎片, 使摔倒, 凿 vi. 削下屑片 [计] 孔屑; 组件; 晶片; 芯片 
 42.negotiation[ni.gәuʃi'eiʃәn]:n. 谈判, 磋商, 交涉 [经] 谈判, 协商 
 43.expire[ik'spaiә]:vi. 期满, 呼气, 断气 vt. 呼出 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

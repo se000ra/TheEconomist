@@ -9,6 +9,7 @@
 These ideas are as harmful as they are wrongheaded. Free speech is the cornerstone not only of democracy but also of progress. Human beings are not free unless they can express themselves. Minds remain narrow unless exposed to different viewpoints. Ideas are more likely to be refined and improved if vigorously questioned and tested. Protecting students from unwelcome ideas is like refusing to vaccinate them against measles. When they go out into the world, they will be unprepared for its glorious but sometimes challenging diversity. 
 The notion that people have a right not to be offended is also pernicious. Offence is subjective. When states try to police it, they encourage people to take offence, aggravating social divisions. One of the reasons the debate about transgender rights in the West has become so poisonous is that some people are genuinely transphobic. Another is that some transgender activists accuse people who simply disagree with them of hate speech and call the cops on them. Laws criminalising “hate speech” are inevitably vague and open to abuse. This is why authoritarian regimes are adopting them so eagerly. A new Venezuelan law, for example, threatens those who promote hatred with 20 years in prison—and prosecutors use it against those who accuse ruling-party officials of corruption. 
 Governments should regulate speech minimally. Incitement to violence, narrowly defined, should be illegal. So should persistent harassment. Most other speech should be free. And it is up to individuals to try harder both to avoid causing needless offence, and to avoid taking it.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.polarise['pәjlәraiz]:vi.vt. (使)极化, (使)偏振, (使)两极分化 
@@ -92,4 +93,6 @@
 79.persistent[pә'sistәnt]:a. 固执的, 坚持的, 持续的, 作用持久的 [法] 坚持的, 固执的, 持续的 
 80.harassment['hærәsmәnt]:n. 困扰, 烦扰, 烦恼 [法] 折磨, 骚扰, 侵扰 
 81.needles[]:n. 针数, 千针本；折页顶针（needle复数形式） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

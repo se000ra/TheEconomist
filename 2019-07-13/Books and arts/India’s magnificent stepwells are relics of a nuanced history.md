@@ -16,6 +16,7 @@
 Meanwhile, the trust also turned to the adjacent, huge gardens belonging to Humayun’s tomb, a Mughal building of even more breathtaking beauty than the Taj Mahal. The lush grounds are covered in tanks and wells that the trust is restoring. With Ratish Nanda, the AKTC’s enthusiastic head in India, this correspondent recently descended to the bottom of a baoli that was being cleared of centuries of rubble and sludge, bucket by laborious bucket. Two weeks later, water was starting to gush in. One find, covered over by the British, is a 16th-century well built not to capture water, but to ensure it flows back into the underlying aquifer. Mr Nanda says the restoration work has helped raise the area’s water table by several metres. 
 Next door, in Sunder Nursery, the trust has converted 90 acres (36 hectares) of abandoned land into the sooty capital’s first new park in years, laid out as a classical Persian garden. Again, tanks and wells are an essential component. “Delhi needed a refuge,” says Mr Nanda. The gardens have become one of the most popular spots for the city’s families and lovers. The AKTC is now taking on the most ambitious project yet: a 106-acre site in Hyderabad, where seven stepwells were built by the Qutb Shabi dynasty in ornate, white-plastered granite. As became clear during the restoration, they were linked by underground channels that also connect to aquifers. 
 Some of the obstacles to this effort are not physical but political. To help pay for its conservation work, the trust seeks donations from Indian companies. Yet supporters of the Hindu-nationalist government of Narendra Modi, the prime minister, dislike the idea of a body headed by the Aga Khan, an Islamic leader, being involved in Indian cultural work; besides, the Hindutva agenda is to expunge Mughal influence from Indian life, as if it were an alien, Muslim carbuncle rather than an intrinsic part of the country’s inheritance. They are said to have been leaning on companies not to donate. That arid worldview is refuted by the joyful families picnicking in Sunder Nursery, and the devotion of pilgrims at Nizamuddin baoli. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.asset['æset]:n. 资产, 有益的东西 
@@ -162,4 +163,6 @@
 142.inheritance[in'heritәns]:n. 遗传, 遗产 [医] 遗传 
 143.donate['dәuneit]:v. 捐赠 
 144.worldview['wɜ:ldvju:]:n. 看; 视力; 观点; 目的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

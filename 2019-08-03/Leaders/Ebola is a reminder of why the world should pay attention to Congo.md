@@ -8,6 +8,7 @@
 The most urgent task is to identify those who have been infected, treat them and vaccinate the people with whom they have come in contact. A big push now will cost less, and save more lives, than a weaker effort that lets the epidemic grow. Neighbouring countries should resist the temptation to ban travellers from Congo—many would simply sneak across borders, making it harder to monitor infections. Fighting Ebola will require some actual fighting, too. The UN peacekeeping force in Congo, which normally sticks to defending civilians, is helping the Congolese army push rebel groups that threaten aid workers out of the Ebola zone. It is right to do so. And the $1bn a year that donors spend on blue helmets in Congo is a bargain compared with other conflicts. It should not be reduced. 
 In the long run, Congo needs better, cleaner government. If Mr Tshisekedi is sincere about reform, there are several things he could start doing now. His predecessor hardly built anything—Congo has whole cities without grid power. Mr Tshisekedi should work with private investors to build roads and generate electricity, without which Congo cannot properly exploit its mineral wealth, let alone move beyond it. More important, he should end the impunity that has let warlords kill and politicians steal. Some of the fatter fish should be put behind bars. To curb the smaller fry, the government should simplify the impossible tangle of rules and inspections that lets corrupt officials bully businesses into paying bribes to be left alone. Until it is easier to do business in Congo, the country will stay poor and unstable. 
 Most donors do not want to reward a stolen election. But no one wants to see the collapse of a state seven times the size of Germany at the heart of Africa, either. It is too early to say whether Mr Tshisekedi’s regime will be as corrupt as its predecessors, but it might not be. Mr Kabila’s baleful influence may wane. Despots who seek to remain in charge by bequeathing their office to a puppet sometimes succeed (think of Vladimir Putin). But sometimes they fail, as in Angola, where the appalling dos Santos clan has been swept aside. Donors should offer Congo lots of technical help. And if the new regime proves serious about cleaning up its act—a big if—they should back it with cash, too.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.heed[hi:d]:n. 注意, 留心 v. 注意, 留心 
@@ -76,4 +77,6 @@
 64.dos[du:z]:磁盘操作系统 [计] 磁盘操作系统; DOS内部命令:该命令用于将DOS核心部分装入高内存区 且允许其设备驱动程序或常驻程序装入上层内存块 
 65.Santos['sæntәs]:桑托斯(巴西港市) 
 66.clan[klæn]:n. 氏族, 宗族, 集团 [医] 支 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

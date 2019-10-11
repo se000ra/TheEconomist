@@ -10,6 +10,7 @@
 In the end, AI systems may save humankind as well as themselves. Besides climate change, Mr Lovelock fears other natural ways that Gaia—the principle that maintains the balance in the planet’s climate—could be destroyed, such as a severe volcanic eruption. Keeping the planet cool will make it more resilient to such threats, he contends; so, as well as preserving organic life, the cyborgs will probably enact other kinds of geoengineering that lower Earth’s temperature. Hence the Novacene is to be welcomed, not feared. “Whatever harm we have done to the Earth, we have, just in time, redeemed ourselves by acting simultaneously as parents and midwives to the cyborgs. They alone can guide Gaia through the astronomical crises now imminent,” Mr Lovelock writes. 
 As a thinker, he defies categorisation. He adamantly favours nuclear energy and rejects the Green movement as utopian. He considers work on autonomous weapons to be as foolish as it is deadly. He attributes his originality to a decision to abandon academia for independent research, which allowed his curiosity to roam. In “Novacene”, his most impassioned argument is that humans are cursed by language because it forces causal, linear thinking at the expense of intuition, which is a truer way to understand the reality of the world. 
 He expands on this point on his seaside patio. Most of his own inventions came from intuition, he reflects on a warm summer day, not from following the logical steps from known science. A statue of Gaia stares back at him blankly from his garden. But it gets hot, and Mr Lovelock goes inside to escape the sun. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.gaia['^eiә, '^aiә]:n. [希神]盖亚（希腊神话中的大地女神, 等于Gaea） 
@@ -73,4 +74,6 @@
 59.linear['liniә]:a. 线的, 直线的, 线状的 [计] 线性 
 60.intuition[.intju:'iʃәn]:n. 直觉, 直觉的知识 
 61.blankly['blæŋkli]:adv. 茫然地, 毫无表情地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

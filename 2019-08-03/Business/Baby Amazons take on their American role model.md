@@ -19,6 +19,7 @@
 The companies are hoping that their markets will expand fast enough to generate profits before the capital taps run dry. There is room to grow. Fewer than 1% of retail sales in Jumia’s markets currently take place online. By 2025 that figure may reach 10% in Africa’s biggest economies, consultants at McKinsey reckon. The consumer class is growing fast, says Jeremy Hodara, one of Jumia’s co-founders. “They come to us and say, ‘Look, it’s the Africa Cup of Nations [football tournament] and my country’s qualified. I need my first TV.’” 
 Shopee’s revenues are rising even as it spends less on marketing and promotions. Last year it had 50m active buyers, up from 21.7m the year before. In 2017 Google and Temasek, a Singaporean sovereign-wealth fund, predicted that the south-east Asian internet economy will be worth $200bn by 2025. Last year they revised their forecast up by a fifth, to $240bn. Marcel Motta of Euromonitor International expects e-commerce’s share of total retail in Brazil to double to 10% by 2023. In Russia annual online sales of physical goods could reach €50bn by then, from €22bn in 2019. 
 The e-commerce hopefuls see a route to riches by closing the gap between online retail’s penetration in their markets and that enjoyed by Amazon in America, which remains three times larger. The sale of goods is not their only path to profits. Some will sell themselves to the giants, as Souq and Flipkart have done. Others will continue on their own. MercadoLibre wants to be something close to a fully fledged digital bank. All show that, having built their own infrastructure, they can sell access to it. In this respect, at least, they may give their American role model a run for its money. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bezos[]:贝索斯（人名） 
@@ -119,4 +120,6 @@
 96.Euromonitor['juərəu'mɔnitə]:n. (英国)欧洲商情市场调研公司 
 97.riche[]:n. 暴发户 
 98.penetration[.peni'treiʃәn]:n. 穿透, 渗透, 侵入, 识穿, 洞察(力) [化] 渗入 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

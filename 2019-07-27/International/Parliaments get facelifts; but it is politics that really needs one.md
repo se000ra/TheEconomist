@@ -22,6 +22,7 @@
 Alessandro Saia, an economist at the University of Lausanne, finds that it does. Between 1991 and 2017 a politician who sat among others who did not hew to the party line was 30 percentage points more likely to rebel. Over time, Mr Saia finds, parliamentary neighbours even began to use similar words in speeches. Who sits next to you seems to matter more than who is in front or behind, perhaps because gossip is easier if you do not have to turn round. 
 Hints of the same effect can be seen elsewhere. A paper by Nikolaj Harmon of the University of Copenhagen and others finds that members of party blocks in the European Parliament tend to vote like their neighbours, especially if both are women. That is not because like-minded people choose to sit together: most are seated alphabetically. It is probably not a coincidence that two Republicans who sit next to each other in the US Senate, Susan Collins and Lisa Murkowski, often vote together—and against the party line. 
 So seating arrangements matter. What is less clear is whether any arrangement at all could endear politicians to voters. Even before the Brexit vote in 2016 paralysed Westminster, Britons believed there was a lot of room for improvement. They particularly dislike Prime Minister’s Questions, where the Commons is most shouty and adversarial. But nowhere is politics working splendidly. The Pew Research Centre’s latest survey of 27 democracies—some more perfect than others—finds that 51% of people think democracy is not working well; in 19 of those countries, pessimism grew between 2017 and 2018. Americans’ opinions of Washington have been on the slide since 2001. Arrange people differently, and you might merely give people something different to complain about.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.facelift[]:n. 除去面部皱纹的整容手术 
@@ -163,4 +164,6 @@
 137.pessimism['pesimizm]:n. 悲观, 悲观情绪, 悲观主义 [医] 悲观主义 
 138.Washington['wɒʃiŋtn]:n. 华盛顿 
 139.differently['difrentli]:adv. 差异, 不同, 各别, 各种 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -14,6 +14,7 @@
 Governing a country as poor and fractious as Liberia is an unenviable task. But Mr Weah is simply not up to the job. He is said to forget key facts, bungle media interviews and drift off in meetings. 
 In Gbarnga, Mr Taylor’s base during Liberia’s first civil war between 1989 and 1997, social workers say crime and hard-drug use are rising. David Brown, a 25-year-old salesman who voted for Mr Weah, says this is because people have lost hope. Keba Collins started her business selling handbags on the streets. Two years ago she was making the equivalent of $75,000 a year. Now her business is near to collapse—as are those of several of her friends—because of high inflation and the costs of corruption. Frustration over graft and poor governance led to people staging huge, peaceful protests in June (pictured). 
 St Peter’s Lutheran Church in Monrovia, the capital, is filled with children and worshippers. But its windows, pockmarked by bulletholes, hint at a dark history: in 1990 government soldiers massacred 600 people here. Isaac Dowah, the pastor, points at two white stars marking the mass graves and frets: “We’re at a breaking point.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.corruption[kә'rʌpʃәn]:n. 腐败, 堕落, 贪污 [计] 论误 
@@ -82,4 +83,6 @@
 64.bullethole[]:un. 弹孔；枪眼 [网络] 子弹孔；弹痕；射孔孔眼 
 65.isaac['aizәk]:n. 艾萨克（男人名）；以撒（希伯来族长, 犹太人的始祖亚伯拉罕和萨拉的儿子） 
 66.pastor['pæstә]:n. 牧师 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

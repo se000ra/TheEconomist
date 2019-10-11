@@ -21,6 +21,7 @@
 The party’s interest in reviving the bill grew after the Umbrella Movement because of the support that campaign fuelled for “localists” calling for much greater autonomy for the territory. Officials in Beijing saw this as nascent separatism, and hoped that an anti-sedition law would help to curb the tendency. It is now evident that any attempt to revive such a bill could trigger more massive demonstrations. 
 The party’s frustrations are evident. Newspapers it controls in Hong Kong are full of conspiracy theories about alleged efforts by America to foment unrest in the territory as part of a cold-war strategy to “contain” China. The party will not be pleased that Joshua Wong, a 22-year-old activist who was a prominent leader of the Umbrella Movement, was freed from jail on June 17th after serving half of a two-month sentence for contempt of court. Mr Wong (pictured, holding a photo of Mrs Lam) is very popular; his return to the streets could energise protesters. 
 Calls for Mrs Lam to step down will persist. But there are some who see such demands as futile: her successor will be chosen by the same party-controlled method and will be of the same pro-party stripe. “That is why we need democracy,” says Martin Lee, a veteran of the pro-democracy cause. “Otherwise, whoever is chief executive, they will come across the same thing again and again and again.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.carrie['kæri]:n. 卡丽（女名, Caroline的昵称） 
@@ -124,4 +125,6 @@
 99.energise['enәdʒaiz]:vt. 供给…能量；使精力充沛（等于energize） 
 100.successor[sәk'sesә]:n. 继承者, 接任者 [计] 后继 
 101.Martin['mɑ:tin]:n. 马丁, 圣马丁鸟 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 The two have long been rivals. Over the past year Mr Thaci has discussed a potential deal with Aleksandar Vucic, Serbia’s president, which could involve giving up the Serb-inhabited northern part of Kosovo in exchange for an Albanian-inhabited part of south Serbia. Mr Haradinaj argues this would destabilise the whole region. Last November Serbia successfully prevented Kosovo, which it does not recognise, from joining Interpol for a third time. Mr Haradinaj took revenge by imposing a 100% tariff on Serbian imports, and Serbia suspended talks. With Serbian elections due next year they are unlikely to restart until after. 
 Just because he has been called to answer questions in The Hague does not necessarily mean Mr Haradinaj will be indicted, says Jeta Xharra, a leading Kosovar journalist. Many speculate that the prosecutors are calling up lots of former senior guerrillas, hoping to break one. But, says Ms Xharra, given the UN tribunal tried Mr Haradinaj twice and failed to convict him, it is unlikely that this court will succeed. 
 For now Mr Haradinaj stays as acting prime minister. It is doubtful a new government can be cobbled together, so elections will probably take place in the autumn. Mr Haradinaj is a past master at snatching victory from the jaws of defeat. Despite his promises Kosovars still cannot travel to the Schengen zone without visas (although Kosovo has fulfilled European demands). He has doubled his salary even as the country remains isolated and poor. But with his decision to go to The Hague he has turned the electoral spotlight back to the war. Ardian Gjini, a close ally, says that, not for the first time, a challenge has given him “political wings”. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lazarus['læzәrәs]:n. 乞丐, 穷人 
@@ -72,4 +73,6 @@
 59.spotlight['spɒtlait]:n. 照明灯, 反光灯, 聚光灯 
 60.ardian[]:[网络] 阿迪安 
 61.ally['ælai. ә'lai]:n. 同盟者, 同盟国, 助手 vt. 使联盟, 使联合, 使有关系 vi. 结盟 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

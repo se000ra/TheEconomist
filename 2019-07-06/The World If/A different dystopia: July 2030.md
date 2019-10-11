@@ -14,6 +14,7 @@
 Britain was an extreme case. Other countries faced different problems, or managed them better. Japan and South Korea have seen their workforces shrink in absolute terms but, by investing in robots and software to perform repetitive tasks, and by retraining workers for employment in caring professions, both countries softened the blow of the demographic transition and maintained high productivity growth. 
 Germany also had to deal with an ageing, shrinking workforce but reaped the rewards of allowing a large number of migrants into the country in 2015-16. America’s population did not age as quickly as those in other rich countries so its workforce did not contract. After the isolation of the Trump years, the country has become more welcoming to immigrants; it has also maintained its traditionally high investment in automation. As for China, its workforce has contracted dramatically, damaging the Communist Party’s attempt to introduce a proper pension- and social-security system, and making it hard even to find enough soldiers for the People’s Liberation Army. Social disruption and discontent have reined in China’s global ambitions. 
 The dystopia predicted in the late 2010s, of widespread technological unemployment, has not come to pass. Even at the time, the evidence for an imminent jobs apocalypse was noticeably lacking: employment across the rich world reached record levels in 2019, while productivity growth in many countries was anaemic. That suggested machines were not displacing human workers after all, and their ability to do so had been overstated. In retrospect, the doom-mongers of Davos were worried about the wrong thing. Today another dystopian scenario looms instead: that of a world in which there are too few robots, not too many. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -119,4 +120,6 @@
 101.retrospect['retrәspekt]:n. 回顾, 追忆, 回溯 v. 回顾, 追忆 
 102.scenario[si'nɑ:riәu]:n. 剧本提纲, 情节, 剧本, 方案, 事态 [计] 方案 
 103.loom[lu:m]:n. 织布机, 若隐若现的景象 vi. 朦胧地出现, 隐约可见, 可怕地出现 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

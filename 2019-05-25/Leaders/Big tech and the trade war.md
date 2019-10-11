@@ -11,6 +11,7 @@
 The ripple effect would hurt America’s allies in Asia, because they host factories that supply China’s tech-manufacturing hubs and are home to companies that operate in China. In October 2017, for example, components for smartphones accounted for over 16% of exports in Malaysia and Singapore and over 33% in Taiwan. Two Taiwanese giants, TSMC (which makes chips) and Foxconn (which assembles devices), straddle the fault line of the tech cold war, having production and customers in both America and China. The same is true of South Korea’s champion, Samsung. America’s allies face an impossible test of loyalty. 
 Consumers will suffer, too. Until now, the cost of the trade war has been masked, because tariffs are paid by producers who absorb their cost or pass it on stealthily to consumers. Now the bill could become visible. Huawei has sold 300m handsets outside China in the past five years. Their buyers may soon find that their phones no longer work properly. And just imagine if Americans were suddenly unable to buy Chinese-made iPhones. 
 The cost of a rupture means that both sides are likely to back down. Yet the battle will hasten the race to develop an indigenous capacity to supply every vital technology in China—and in every aspiring power, including India. America’s hold over the digital economy lets it enforce its will. But by unleashing its power so clumsily, it will hasten the end of its own dominance. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.breaker['breikә]:n. 断路器 [化] 破碎机 
@@ -79,4 +80,6 @@
 64.unleash[.ʌn'li:ʃ]:vt. 解开...的皮带, 发出, 发动 
 65.clumsily['klʌmzili]:adv. 笨拙, 粗陋, 不漂亮 
 66.dominance['dɔminәns]:n. 优势, 显性, 统治, 控制, 支配 [计] 控制, 扰势 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

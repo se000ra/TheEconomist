@@ -14,6 +14,7 @@
 With a degree from China’s most prestigious university, she is at least confident she will soon secure a good job. Graduates from lesser-known institutions face a much harder time. Several recruiters at the job fair in northern Beijing admit to chucking CVs from “no-name schools” straight into the bin. Part of the problem, says Joshua Mok, a professor at Lingnan University in Hong Kong, is that the “average quality” of graduates may have deteriorated in recent years. The number of universities has increased from just over 1,000 in 2000 to around 2,700 today. Employers, unfamiliar with so many new names, often dismiss the obscure ones as degree mills. They are not always wrong. 
 In 2009 a sociologist coined the term yizu, or “ant tribe” to refer to struggling graduates from the provinces who swarm to megacities. An estimated 100,000 so-called “ants” lived in Beijing in 2010. But the term is no longer widely used, says a graduate from the southern province of Yunnan who lives in Beijing. Rising rents, combined with a crackdown on the illegal subdivision of flats, have driven most provincial graduates away. She, too, may move home soon: salaries may be lower in Yunnan, but so is the cost of living. 
  Many graduates have unrealistic expectations, says Yao Yuqun of Renmin University: “Everybody wants to be a manager right away.” There are plenty of jobs to go around, he says. A report in May by the China Institute for Employment Research, a think-tank, found that there were 1.4 entry-level vacancies (excluding unskilled work) for each graduating student. Many jobs are in second- and third-tier cities. Graduates, it seems, are too snooty to take them. One calls this the “BAT or bust” mentality, referring to Baidu, Alibaba and Tencent, three sought-after online giants. The government counsels humility. Anyone blessed with a job offer, it said recently, should “promptly sign the contract”. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.unemployed[.ʌnim'plɒid]:a. 失业的, 未被利用的 [经] 没有被雇用的, 失业的, 没有被利用的 
@@ -94,4 +95,6 @@
 76.counsel['kaunsәl]:n. 商议, 忠告, 法律顾问 v. 商议, 劝告 
 77.humility[hju:'militi]:n. 谦逊, 谦虚, 谦卑 
 78.promptly['prɒmptli]:adv. 敏捷地, 迅速地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

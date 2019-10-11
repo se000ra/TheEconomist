@@ -26,6 +26,7 @@
 TRAVIS WHITE-SCHWOCHChicago 
 My greatest joy as an American reading your publication is to become acquainted with British slang. Bagehot lamented the “berks” who now control the Tory party. Upon looking up the etymology of this particular lingo, I was not disappointed. I recommend your other readers give it a whirl. 
 JED CRUMBONashville, Tennessee 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Hungary['hʌŋgәri]:n. 匈牙利 
@@ -153,4 +154,6 @@
 123.lingo['liŋgәu]:n. 外国话, 隐语 [经] 行话, 航业暗语 
 124.jed[dʒed,jed]:n. 杰德（男子名, Jedediah的昵称） 
 125.Tennessee[.teni'si:]:n. 田纳西州 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

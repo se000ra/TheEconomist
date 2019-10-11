@@ -8,6 +8,7 @@
 The religion of no-deal has wrecked other Conservative principles. Sajid Javid, the fiscally prudent chancellor, this week dished out billions of pounds worth of pre-election goodies. He gave money to public services without demanding much in the way of reform, and focused on day-to-day spending rather than investing for the future. Spending power was supposedly being kept aside to cope with a no-deal crash-out. But faith dictates that no-deal will do no great harm to the economy, so no safety-net is required. To show any such caution, as Mr Javid’s predecessor (now an ex-Tory) did, is a form of heresy. 
 The most unconservative behaviour of Mr Johnson’s government has been its constitutional recklessness. Not only has it suspended Parliament (having said that it would not), so as to limit MPs’ time to legislate on Brexit (which, again, it said was unconnected). It also toyed with using even more underhand tactics, such as recommending that the queen not enact legislation passed by Parliament. Would the government abide by the law, a cabinet ally of Mr Johnson was asked? “We will see what the legislation says,” he replied. In a country whose constitution depends on a willingness to follow convention and tradition, even making such a threat weakens the rules—and paves the way for the next round of abuses, be it by a Labour or Tory government. 
 This week there were still just enough conservatives in the Conservative Party to block the most dangerous part of Mr Johnson’s Brexit policy. As we went to press, a bill designed to stop no-deal was making its way through the House of Lords. But the defeat of the government, and its loss of any sort of majority, points towards an election. It will be a contest in which, for the first time in living memory, Britain has no centre-right party. Nor, thanks to Labour’s far-left leader, Jeremy Corbyn, will it have a mainstream opposition. Instead the two leading parties will, in their different ways, be bent on damaging the economy; and both will pose a threat to Britain’s institutions. Brexit’s dreadful consequences continue. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -73,4 +74,6 @@
 61.Corbyn[]:科尔宾（人名） 
 62.mainstream['meinstri:m]:n. 主流 
 63.dreadful['dredful]:a. 可怕的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

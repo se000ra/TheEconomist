@@ -16,6 +16,7 @@
 The censors don’t yet appear to have caught up with Mr Han. The second novel in the “Hospital” trilogy even won Chinese sci-fi’s top honour in 2017, the first time so subversive a book had taken it, says Mr Song. Mr Han is still cranking out sci-fi stories. For his part, Mr Liu has not written a novel since the final instalment of “The Three-Body Problem”, instead focusing on movies and scripting “Wangzhe Rongyao” (“Honour of Kings”), a video game that was the world’s most popular in 2017. 
 A crop of younger writers are now emerging in the duo’s wake. “Waste Tide”, by Chen Qiufan, takes place on an island devoted to electronics refuse in a fictionalised South China Sea. A member of the lowest caste, Mimi, toils away recycling computer components for her masters. One day she is infected by a virus from the rubbish, gaining special powers and igniting class warfare. The setting is not too far divorced from parts of real-life China, in which the by-products of the electronics industry create uninhabitably toxic environments. 
 The writers of Chinese science fiction anticipated their genre’s rising profile. In 2010 Fei Dao, another author, described its devotees as a “lonely hidden army”. Chinese sci-fi, he said, might “unexpectedly rush out and change heaven and Earth”. That has not quite happened yet. But in the future, anything is possible. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -140,4 +141,6 @@
 120.dao['dɑ:әu]:n. 长划；大刀 
 121.devotee[.devә'ti:]:n. 爱好者, 献身者, 虔诚的宗教信徒 
 122.unexpectedly[]:adv. 想不到的, 突然的, 意外的, 出乎意料的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

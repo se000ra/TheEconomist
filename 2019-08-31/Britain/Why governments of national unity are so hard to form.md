@@ -8,6 +8,7 @@
 ![image](images/20190831_BRC978.png) 
 Andrew Blick of King’s College, London, says history shows that Mr Corbyn is wrong to claim that only the leader of the opposition can become prime minister. In 1916 David Lloyd George ousted Herbert Asquith to form a national government that lasted until 1922, only to see Labour later displace his party. In 1931 the Tories joined a national government under the Labour prime minister, Ramsay MacDonald, but he was then disowned by his own party. In 1940 the Labour opposition told Neville Chamberlain, the Tory prime minister, that it would join a national government only if it was led by Winston Churchill, who won the war but lost the 1945 election. 
 Gnus are common beasts in other European countries. But as Benjamin Disraeli said, “England does not love coalitions”, an aphorism confirmed by the recent one under David Cameron. And there is a big flaw in all talk of governments of national unity. What Brexit reveals is a total lack of national unity. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.gnu[nju:]:n. 牛羚, 角马 [计] GNU 计划，又称革奴计划，是由Richard Stallman在1983年9月27日公开发起的，目标是创建一套完全自由的操作系统 
@@ -56,4 +57,6 @@
 44.aphorism['æfәrizm]:n. 格言, 警语 
 45.cameron['kæmәrәn]:n. 卡梅伦/隆（男子名） 
 46.flaw[flɒ:]:n. 缺点, 裂纹, 瑕疵, 一阵狂风 [化] 划痕; 裂缝; 裂纹 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

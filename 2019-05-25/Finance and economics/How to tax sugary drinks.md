@@ -9,6 +9,7 @@
 One of the main determinants of the optimal tax rate turns out to be the price elasticity of demand for sugary drinks. If demand is sensitive to changes in price, then a tax will change behaviour, benefiting poorer people’s health and aligning their behaviour more closely with what they say they desire. Those gains would offset the regressive effects. But if consumers really have a sweet tooth—that is, demand is price-inelastic—then the regressivity effects dominate and a sugar subsidy would actually help redistribute income from the rich to the poor. 
 By analysing shoppers’ behaviour, the authors find that demand is elastic enough that a tax, and not a subsidy, is socially beneficial. They compute an optimal tax rate of 1-2 cents per ounce of soft drink in America. That is higher than the average rate of 1 cent in those cities with a tax. 
 But there is a wrinkle. In the real world, if taxes in one place get too high shoppers will arbitrage the rules by travelling to buy soft drinks elsewhere. Taking this into account they reckon that the optimal rate for cities is 0.5 cents, although a more efficient system would be a state or national tax to control America’s sugar rush. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.sugary['ʃugәri]:a. 含糖的, 糖一般的, 甜的 
@@ -45,4 +46,6 @@
 32.shopper['ʃɒpә]:n. 购物者 [经] 顾客, 购物的人 
 33.arbitrage[.ɑ:bi'trɑ:ʒ]:n. 套利, 套汇, 仲裁 [经] 套汇, 套利, 公断 
 34.reckon['rekәn]:vt. 计算, 总计, 估计, 认为, 猜想 vi. 数, 计算, 估计, 依赖, 料想 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

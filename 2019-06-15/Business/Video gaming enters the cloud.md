@@ -9,6 +9,7 @@
 It all sounds promising in theory. Whether cloud gaming will catch on, though, remains uncertain, for it is technically much more demanding than existing streaming services. Unlike films or music, games are interactive, which means they must respond instantly to a player’s input. The laws of physics impose limits on how quickly a player’s commands can traverse the internet to reach a data-centre to be processed, and then how quickly the resulting video can be sent back. For the twitchy action games that dominate bestseller lists, even delays of a fraction of a second are an irritation for players. Such technical glitches are one reason that previous attempts at cloud gaming, by firms such as OnLive (which launched its service in 2010 but shut down in 2015), failed to catch on. 
 The cloud giants insist that times have changed. Microsoft, Amazon and Google have data-centres dotted around the world, which should help keep response times low. Consumer internet connections are faster than ever and data allowances more generous. And although dedicated gamers may turn up their noses at even short time-lags, cloud gaming could prove attractive to the less hard-core. 
 Cloud computing can be used in other ways, too. Rather than running the whole game remotely, one intermediate option is to use it for tricky calculations that are also relatively insensitive to small delays. “Crackdown 3”, an action game released for the Xbox and PC in February, uses cloud computing for complex physics calculations, allowing players to blow up their environment in a realistic way without overtaxing their computers. An updated version of Microsoft’s “Flight Simulator”, shown at E3, was also, according to its trailer, “powered by Azure”. Cloud computing has already disrupted everything from films to corporate IT departments. Gaming, it seems, is now also in play. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.unconsoled[]:[网络] 不赞成 
@@ -81,4 +82,6 @@
 68.trailer['treilә]:n. 追踪者, 拖车 [电] 拖车 
 69.disrupt[dis'rʌpt]:a. 分裂的, 中断的 vt. 使分裂, 使瓦解 
 70.corporate['kɒ:pәrit]:a. 社团的, 合伙的, 公司的 [经] 团体的, 法人的, 社团的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -7,6 +7,7 @@
 The dollars at stake for these centres do not go towards funding abortions. Rather the cuts would hurt clinics’ ability to administer contraception or STI and cancer screenings to women with few other options for care. The rule is also unpopular. About three-quarters of Americans surveyed by the Kaiser Family Foundation said it is important that the federal government provides funding for reproductive health services for poorer women. 
 At the moment most forms of preventive birth control must be prescribed by a doctor or nurse, which can make obtaining it harder. But a consortium of medical groups including the American College of Obstetricians and Gynecologists has long endorsed the idea of making oral contraception available over the counter. Studies have consistently shown that women can use checklists to screen themselves for possible health concerns associated with taking hormonal birth-control pills. Moving birth control over the counter is one of the few issues where Democrats and Republicans agree, at least in principle. But the parties’ different stances on crucial details, such as age limits and insurance coverage, have so far frozen any progress. 
 Moving some forms of birth control over the counter is not the only way to increase access for women who live far from a family-planning clinic. States have passed laws that require insurers to dispense larger amounts—a six-month supply, rather than three months, for example. There is also a gaggle of newish “telehealth” startups prescribing and mailing birth-control pills directly to women, no doctor’s visit necessary. Some of these apps take insurance but they must navigate regulations that can vary in each state, making coverage patchy for women in regions, such as the Great Plains, that would most benefit from the service. One of the newest firms, Hers, has plastered subway cars in New York City with glossy ads. Perhaps it should do the same in Omaha. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -54,4 +55,6 @@
 43.york[jɔ:k]:n. 约克郡；约克王朝 
 44.glossy['glɒ:si]:a. 平滑的, 有光泽的 
 45.omaha['әumәhɑ:]:n. 奥马哈市（美国内布拉斯加州）；美国奥马哈族印第安人；奥马哈 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

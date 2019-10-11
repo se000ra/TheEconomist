@@ -8,6 +8,7 @@
 ![image](images/20190713_BRC397_0.png) 
 With four parties polling in the 20s, more constituencies will be won by tiny margins. In a two-way race, forecasters might get away with over- or underestimating a party’s performance by a few percentage points. In a multi-party race, that small error is likelier to be the difference between victory and defeat. Martin Baxter of Electoral Calculus, a forecasting website, says any projections will be highly sensitive to errors and movements in the polls. He estimates that, at the moment, a percentage-point increase in support for the Tories would yield a change of 20-25 seats. 
 It is unclear whether the four-way split would survive an election campaign. Rob Ford of Manchester University points out that general elections have “feedback loops”: if voters think a party won’t win, they drop it. In the past, this has hit the Lib Dems. Yet with four parties neck and neck, any one of them is in danger of slipping out of contention in the minds of voters. Will Jennings of Southampton University doubts that anyone can confidently predict how an election would go at the moment: “People are just throwing out crazy numbers.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -42,4 +43,6 @@
 30.jennings['dʒeniŋz]:n. 詹宁斯（姓氏） 
 31.southampton[sauθ'æmptәn]:n. 南安普敦（英国港市） 
 32.confidently[]:adv. 自信地；安心地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

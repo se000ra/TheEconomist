@@ -13,6 +13,7 @@
 Warren Buffett, the 88-year-old chairman of Berkshire Hathaway, said he will donate $3.6bn-worth of shares in the conglomerate to five charities. It is one of his largest charitable gifts ever. Mr Buffett, the world’s fourth-richest person, has pledged to give away his entire fortune. Since 2006 he has donated more than $34bn. 
 Donald Trump announced via Twitter that he would be nominating Christopher Waller, director of research at the Federal Reserve Bank of St Louis, and Judy Shelton, America’s representative on the board of the European Bank for Reconstruction and Development, to fill two vacancies on the Federal Reserve Board. Ms Shelton, a former adviser to Mr Trump’s presidential campaign, will no doubt be the more controversial pick. She is an outspoken critic of the Fed and has called for a return to the gold standard. See article. 
 Ithaca Holdings, a music-investment company run by Scooter Braun, a music manager, announced it was acquiring Big Machine, a Nashville-based independent record label. The deal, reportedly valued at more than $300m, includes the entire six-album catalogue of Taylor Swift, a pop star. Ms Swift, who signed with Big Machine at 15 and left the label in November, criticised the acquisition and Mr Braun, saying she had spent years trying to buy back her master recordings. Justin Bieber, another pop star, came to Mr Braun’s defence and suggested the three talk it out. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -97,4 +98,6 @@
 80.recording[ri'kɒ:diŋ]:a. 记录的, 记录用的 n. 录音 
 81.justin['dʒʌstin]:n. 贾斯廷（男子名） 
 82.bieber[]:比伯（人名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

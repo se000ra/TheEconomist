@@ -8,6 +8,7 @@
 The brouhaha is an uncomfortable reminder of Decree Number 4, a media-gagging rule imposed by Mr Buhari when he was a military ruler. It criminalised the publication of “any message, rumour, report or statement” that brought the government or any public officer “to ridicule or disrepute”—ie, any journalism feistier than a weather report. 
 Nigeria has vibrant and critical media. And unlike several other African leaders, Mr Buhari has never tried to shut down the internet to silence critics. But repression is on the rise. The Nigerian Guild of Editors called the closure of the stations a “barbaric crackdown” on free speech and pointed out that the government has closed several other radio and television stations over the past year. In January soldiers raided the offices of one of the country’s leading newspapers, the Daily Trust, and arrested reporters. In March a journalist who had previously been held without access to a lawyer for two years was rearrested. In both cases, national security was cited as justification. The Committee to Protect Journalists, a watchdog in New York, has also recorded multiple instances in which security forces have beaten and arrested journalists, including an attack on a reporter by police on June 5th. 
 The lyrics of a musician Mr Buhari’s old military regime once jailed, the late Fela Kuti, still resonate as powerfully as ever. “Je’nwi temi” (“Don’t gag me”), he crooned in Yoruba. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.gag[gæg]:n. 箝口物, 箝制言论, 讨论终结 vt. 阻塞, 压制言论自由, 使窒息, 使呕吐, 插科打浑, 欺骗 vi. 窒息, 作呕, 欺骗, 插科打浑 
@@ -58,4 +59,6 @@
 46.temi[]:[网络] 单晶片能力认证；单晶片系统发展协会；限量款 
 47.croon[kru:n]:v. 低声歌唱, 低唱, 低吟 n. 低唱, 低吟, 轻哼 
 48.Yoruba['jɑ:rubә, 'jɔru'bɑ:]:n. (非洲)约鲁巴人[语] 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

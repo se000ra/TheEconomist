@@ -7,6 +7,7 @@
 Novels about female athletes are rare. “The Falconer”, a debut from Dana Czapnik, a veteran sports journalist, is a corrective. The moments when Lucy, the book’s narrator, is shooting hoops offer some of the liveliest sports writing in fiction. Yet the real joy of this coming-of-age story derives from inhabiting such a nuanced 17-year-old, who vividly captures the hubris and insecurity of youth. 
 For all her vulnerability, Lucy has the shrewdness of a native New Yorker who attends an elite private school, plays pick-up games on city courts and smokes pot on rooftops. This is the still-gritty early 1990s, and she roams the streets with the curiosity of a photographer. (The book is also a love-letter to the dynamism of New York, which sometimes seems like “an orchestra in a constant state of warming up”.) Lucy wants to know how to avoid the traps of convention—“Is there anything more tragic than being boring?”—but is dismissive of advice, particularly from well-meaning adults. She loves the way her body is perfectly calibrated to basketball, but worries that the guy she likes will never care for her small breasts and frizzy hair. She envies the way boys unapologetically take up space, but she doesn’t want to be a boy; just a girl who has more fun. 
 Lucy’s precocity is occasionally implausible. Few teenagers—even terribly clever ones—are ever likely to compare a September night to “the burnt edge of a saxophone solo” in a Tennessee Williams play. The insightful dialogue often sounds like wishful thinking. But these are forgivable flaws. “The Falconer” is a winning tale about the often-painful alchemy of adolescence, which transforms the misadventures of youth into something like wisdom. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.hoop[hu:p]:n. 箍, 铁环, 呼呼声 vt. 加箍于, 包围 vi. 发呼呼声 
@@ -64,4 +65,6 @@
 53.forgivable[fә'givәbl]:a. 可宽恕的 [法] 可宽恕的 
 54.flaw[flɒ:]:n. 缺点, 裂纹, 瑕疵, 一阵狂风 [化] 划痕; 裂缝; 裂纹 
 55.misadventure[.misәd'ventʃә]:n. 运气不佳的遭遇 [法] 意外事故, 不辛遭遇, 灾难 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -20,6 +20,7 @@
 Yet Western governments, led by America, are clear that political reform must precede economic assistance. Here Mr Mnangagwa has dragged his feet. The West has suggested that he remove two repressive laws as a starting point. Mr Mnangagwa has repeatedly promised to repeal them, but has not done so. His security services, meanwhile, keep shooting, abducting and beating his opponents with impunity. 
 This terror has cowed civil society. But such is the anger among ordinary Zimbabweans that calls for further protests have grown. The opposition MDC Alliance will stage a rally in Harare on August 16th. 
 Some Zimbabweans are protesting in a different way. By leaving. A decade ago economic crisis forced hundreds of thousands to flee. So far the new outflow is much smaller. But it has begun, reckons Bishop Muparutsa. He brings up the latest Bible verse he has distributed on WhatsApp. It is a passage from the Book of Exodus. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Zimbabwe[zim'bɑ:bwei]:n. 津巴布韦 
@@ -115,4 +116,6 @@
 91.rally['ræli]:n. 重振旗鼓, 集合, 群众集会, 跌停回升 v. 重整旗鼓, 集合, 恢复精神, 团结, 挖苦, 嘲笑 
 92.outflow['autflәu]:n. 流出, 流出物 [医] 流出, 传出, 流出物 
 93.exodus['eksәdәs]:n. 大批的离去 [法] 退出, 大批离去, 成一外出 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

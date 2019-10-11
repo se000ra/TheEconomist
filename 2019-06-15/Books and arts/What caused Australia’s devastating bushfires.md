@@ -11,6 +11,7 @@
 Mr Sokaluk emerges as both vulnerable and an odd, sometimes malicious, pest. To the detectives, he was a cunning fiend capable of “unleashing chaos and horror”. To his lawyers he was hapless and naive. After the verdict was delivered they felt devastated, “for it seemed they were leaving behind a child”. 
 Another villain lurks in the background of this story: the Hazelwood power station, a coal-powered plant that looms over Latrobe Valley and provided almost a quarter of the state’s electricity before it was closed in 2017. Brown coal is dirty and unstable, and the lives of those associated with it are liable to be equally volatile. The plant’s privatisation in the 1990s led to a rise in long-term unemployment. “People’s friends and family worked cutting the stuff out, burning it, and then everyone breathed in the vapours of strife,” writes Ms Hooper. “The valley became a human sink.” 
 Unpredictable as arson can be, she learns that people are more inclined to destruction in places where “high youth unemployment, child abuse and neglect, intergenerational welfare dependency and poor public transport meet the margins of the bush”. In an age of climate change and stubborn inequality, in Australia and beyond, that is an unsettling conclusion to a gripping and insightful book. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.inferno[in'fә:nәu]:n. 地狱, 地狱似的地方 
@@ -85,4 +86,6 @@
 70.inequality[.ini'kwɒliti]:n. 不平等, 不同, 不平坦, 不平均 n. 不平等, 不等式 [计] 不等式 
 71.unsettle[.ʌn'setl]:vt. 使移动, 搅乱, 使动摇, 使不安宁 vi. 动荡不定, 离开固定位置 
 72.insightful['in.saitful]:a. 有深刻见解的, 富有洞察力的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

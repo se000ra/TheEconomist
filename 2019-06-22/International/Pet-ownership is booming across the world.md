@@ -21,6 +21,7 @@
 A still trickier question is whether pets are good for people. John Bradshaw, the author of “The Animals Among Us”, argues that pets seem to calm people down and help them create bonds with other people. Only some people, though. Anecdotal evidence that some people are disposed to adore pets, whereas others fear or loathe them, has been borne out by studies. Statistical research on Swedish twins by Tove Fall of Uppsala University and others suggests that more than half of the propensity to own dogs is heritable. 
 Pet-pushers have spent years trying to prove that animals improve human health, and have largely failed. The problem is the selection effect. Showing, as some studies have done, that dog owners get out more and visit the doctor less does not show that dogs are good for you. It could be that comparatively sociable, healthy people are more likely to acquire dogs. Certainly, pet owners are wealthier than average and more likely to own their homes. A study of California that tried to correct for social and economic influences concluded that having a pet is not associated with better general health (it is, however, correlated with having asthma). A recent randomised controlled trial of therapy dogs in juvenile cancer wards found almost no effect on children’s levels of stress or quality of life. 
 Undoubtedly, however, one species of animal helps one kind of human. A decade ago researchers positioned a 20-year-old man in a park in Paris and had him repeat the same chat-up line to 240 young women. When the man lacked a dog, he obtained 9% of the women’s phone numbers. While holding a dog on a lead, however, his success rate rose to 28%. A more recent survey of users of Match.com, a dating website, confirms that many women are attracted to men with dogs. Fewer are attracted to men with cats, possibly because owning a cat is less convincing proof of domestic competence. (Men seem to mind less either way.) If there is a pet-loving gene, its prospects seem excellent.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -144,4 +145,6 @@
 119.randomise['rændəmaiz]:vt. [主英国英语]＝randomize 
 120.therapy['θerәpi]:n. 治疗 [医] 疗法, 治疗 
 121.juvenile['dʒu:vinail]:n. 少年, 少年读物 a. 少年的, 不成熟的, 适于少年的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

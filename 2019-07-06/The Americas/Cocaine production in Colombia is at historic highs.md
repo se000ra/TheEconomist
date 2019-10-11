@@ -12,6 +12,7 @@
 For Mr Duque’s government, there are few options for reducing production. Aerial spraying of crops with glyphosate, a herbicide, is what America would like. In early June Mike Pompeo, America’s secretary of state, told the Senate that spraying “is an important tool they need”. And Mr Duque does not want to upset America more (see article). Speaking to The Economist last month, he used the same phrase as Mr Pompeo. He argues that cutting coca production is the only way to stop the drug from financing armed groups and so wrecking Colombia’s fragile peace. 
 However, aerial spraying was banned after a ruling by the constitutional court in 2015, because of concerns that it causes cancer. The government may be able to persuade the court that it can spray safely, complying with its ruling. But, says Isabel Pereira of Dejusticia, a think-tank, that is a dangerous strategy. Even if the court allows some spraying, the government could still find itself liable for damages. To reduce production by the equivalent of one hectare, 32 must be sprayed, at a cost of as much as $25,000. Ms Pereira thinks the best thing is to focus on reducing violence, not the coca crop. Countries like the Netherlands produce lots of illegal drugs without suffering from insurgencies. But, she says, it is easier for politicians to get public opinion on side by targeting coca farmers. 
 Since a change of heart in the prohibition of narcotics seems unlikely, the government will instead resort to more manual eradication—sending soldiers in helicopters to tear out crops while others hold farmers back. The number of teams doing that has already increased from 23 when he came to office last year to over 100 now, says Mr Duque. According to Lilian Olarte Aranda, another former coca farmer in Uribe, when manual eradication was used there, it was “like a war between farmers and the army”. It seems that war may soon return.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.cocaine[kә'kein]:n. 可卡因, 古柯碱 [化] 可卡因; 古柯碱 
@@ -73,4 +74,6 @@
 57.olarte[]:奥拉特 
 58.aranda[ə'rændə]:n. 阿兰达人；阿兰达 
 59.eradication[i,rædi'keiʃәn]:n. 连根拔除, 歼灭, 消灭, 根除, 使断根 [医] 根除, 扑灭, 消灭 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

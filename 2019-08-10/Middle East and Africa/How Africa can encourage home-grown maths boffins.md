@@ -9,6 +9,7 @@
 The course was founded by Moustapha Cisse, who runs Google’s AI research in Ghana. It is sponsored by Google and Facebook. One of the students, Ines Birimahire, a Rwandan, explains that she wants to apply machine learning to areas that Western researchers neglect. She is collecting audio data from radio stations to ensure that “natural language processing” software (such as Google Translate) can manipulate African languages. Another project involves collecting photos of cassava leaves to develop software that helps farmers identify diseases. 
 Professor Ndifon argues it is vital that the institute does not just teach, but conducts research as well. African researchers bring “unique perspectives”, he argues. Google has funded Quantum Leap Africa, an artificial-intelligence centre, in Kigali, and AIMS has plans for seven new research chairs. Some of these will be dedicated to climate science; Professor Ndifon notes that African policymakers need better forecasting models. 
 African mathematicians, like all ambitious masterminds, will still look for jobs at top global universities and companies abroad. The resources at elite colleges in Europe or America surpass those in Senegal or Rwanda. But the growth of AIMS means that there is at least a chance for more scholars to do world-class work nearer home. “Maths is a universal language,” says Mr Ntwali. AIMS is making sure more Africans are fluent in it. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.boffin['bɒfin]:n. 研究员, 科学工作者 
@@ -59,4 +60,6 @@
 46.mastermind['mɑ:stәmaind]:n. 优秀策划者, 才子 vt. 指导, 主持, 策划 
 47.elite[ei'li:t]:n. 精华, 精锐, 中坚分子 
 48.surpass[sә'pɑ:s]:vt. 超越, 凌驾, 胜过 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

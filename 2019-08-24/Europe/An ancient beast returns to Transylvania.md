@@ -7,6 +7,7 @@
 Eastern Europe’s ecologically diverse wildflower meadows and old-growth forests provide near-perfect conditions for bison and other scarce species. Wild bees, dragonflies and glow-worms (and the birds which feed on them), threatened by intensive agriculture in western Europe, still thrive here. In the communist era, wildernesses benefited from a reluctance to farm agriculturally marginal land. More recently, rural areas have seen mass emigration since Romania joined the European Union. The population of Caras-Severin county, where Curt and his herd will roam, fell from 380,000 in 1990 to 280,000 today. 
 “On the face of it, we’re just releasing some big animals into the forest,” says Rob Stoneman of Rewilding Europe, a group overseeing the project with the Worldwide Fund for Nature, a charity. “But this is a keystone species. They open the forest up.” Bison herds will prevent shrubs from spreading across pastures. Red deer will flourish in their wake. Deer and bison will be preyed on by grey wolves and brown bears. 
 Some locals have doubts about bringing back the giant ruminants. But they seem to be coming around. Simona Boieriu, who owns a small farm on the slopes of the Tarcu mountains, now sells her tomatoes to bed-and-breakfasts that cater to eco-tourists. The bison, she says, are “attracting people from other cultures to visit us, people interested in nature conservation”. Romanians, she adds, are less so. From farther up the valley comes the thunder of a summer storm. Or perhaps it is the hooves of the mighty but tentative Curt.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.butt[bʌt]:n. 粗大的一头, 烟头, 靶, 笑柄 [医] 对核 
@@ -54,4 +55,6 @@
 43.Romanian[ru:'meiniәn]:n. 罗马尼亚人, 罗马尼亚语 a. 罗马尼亚的 
 44.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
 45.mighty['maiti]:n. 有势力的人 a. 有势力的, 强大的, 有力的 adv. 很, 极 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

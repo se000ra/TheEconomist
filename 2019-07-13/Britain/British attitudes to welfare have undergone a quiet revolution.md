@@ -14,6 +14,7 @@
 The change in mood is matched in the political debate. Not long ago, opposition parties boasted that they would be tougher on welfare than the incumbent. As recently as 2015 Labour—then under the caretaker leadership of Harriet Harman, a veteran of Mr Blair’s administrations—whipped its MPs to abstain on a vote on Mr Osborne’s benefit cuts, rather than vote against them. Ed Miliband, who preceded her as leader, promised to crack down on migrants receiving benefits. 
 A bunch of left-wing backbenchers, including Jeremy Corbyn and John McDonnell, ignored Ms Harman’s orders, with Mr McDonnell pledging to “swim through vomit” to oppose the cuts. Mr Corbyn has since become Labour’s leader, and the party has moved in a different direction. It has mooted a universal basic income and hinted that it would scrap universal credit. Labour’s emollient approach means that the Tories no longer need to be macho about welfare. “Politicians now in Parliament can’t get up and speak the way they did a few years ago,” says Mr McDonnell, now the shadow chancellor. “In those days, we were still at ‘scrounger’ and all the rest.” 
 One person, at least, has not changed his mind on benefits. When asked last October whether he regretted his actions in government, Mr Osborne admitted to policy failures regarding the EU, immigration and the banking industry. But he mounted a staunch defence of his welfare cuts. “If you are going to have to deal with the fact the country was spending too much, it would be a bit odd to leave out the very large chunk the government was spending on welfare,” said Mr Osborne. Voters, it seems, now disagree. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -92,4 +93,6 @@
 74.EU[]:[化] 富集铀; 浓缩铀 [医] 铕(63号元素) 
 75.staunch[stɒ:ntʃ]:vt. 止住, 止血 a. 坚固的, 坚强的, 忠实的, 忠诚的, 不透水的 
 76.chunk[tʃʌŋk]:n. 大块, 矮胖的人(或物) [经] 定样 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

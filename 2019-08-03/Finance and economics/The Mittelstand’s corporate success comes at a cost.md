@@ -12,6 +12,7 @@
 Germany’s tax system does little to counter these trends. Revenues from property taxes are relatively low and falling. Reforms in 2009 excluded business wealth from inheritance tax. As wealth accumulates, the share of income flowing to the rich rises, further widening inequality. 
 Government officials say that some of these trends are reversing. The labour market has tightened, allowing wages to rise and profits to fall. But the IMF reckons that in order for disposable household incomes to regain their 2005 share of GDP, wage growth would have to outstrip nominal GDP growth by 1.5 percentage points for the next decade—a tall order. 
 Policy could speed things along: tax relief for low-income households to reduce the concentration of income, and property and inheritance-tax reform to reduce the concentration of wealth. But that would mean recognising that a much-vaunted economic model is in need of repair. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.uneven[.ʌn'i:vәn]:a. 不平坦的, 不均等的, 奇数的 
@@ -58,4 +59,6 @@
 42.regain[ri'gein]:vt. 取回, 恢复, 重回, 复得 [化] 回潮 
 43.outstrip[.aut'strip]:vt. 追过, 胜过, 凌驾 
 44.nominal['nɒminl]:a. 名义上的, 名字的, 有名无实的, 稍许的 n. 名词性词 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

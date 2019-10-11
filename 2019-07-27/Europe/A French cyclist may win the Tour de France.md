@@ -7,6 +7,7 @@
 Today, the tour has recovered its credibility as an extreme test of muscular endurance, and with it the country’s enthusiasm. The French airwaves have been filled with breathless live coverage of the race, with its 21 separate stages covering 3,480km (2,162 miles). This year is also the centenary of the maillot jaune, or yellow jersey, awarded daily to the race leader. To celebrate, on July 20th President Emmanuel Macron was at the Col du Tourmalet in the Pyrenees to congratulate maillot jaune-wearing Mr Alaphilippe as well as the day’s winner, who happened to be Mr Pinot. 
 ![image](images/20190727_EUC461.png) 
 In 1903 Henri Desgrange, an early cycling enthusiast, devised the tour to help publicise his sports newspaper. Yet these days the tour also serves to promote France. On July 24th cyclists sped past the medieval village of Faucon, having started at the Roman aqueduct of the Pont du Gard, before ending in the foothills of the Alps. More of the French think of the race as an opportunity to admire the scenery than see it as a great sporting event, says a poll. This being France, existential musings are also in order. The tour, said Christian Prudhomme, its director, is “life, condensed… all the wonderful, exceptional, disconcerting, unfortunate things that can happen: it is life.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.de[di:]:[化] 非对映体过量 [医] 铥(69号元素铥的别名,1916年Eder离得的假想元素) 
@@ -62,4 +63,6 @@
 51.prudhomme[]: [人名] 普鲁多姆 
 52.exceptional[ik'sepʃәnәl]:a. 例外的, 异常的, 特别的 
 53.disconcert[.diskәn'sә:t]:vt. 使困惑, 使仓皇失措, 打乱(计划等) 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

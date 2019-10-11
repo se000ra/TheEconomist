@@ -16,6 +16,7 @@
 These changes will only have limited effect. “You can make it harder to share misinformation,” says Mr Cheeseman. “But that just means that it takes longer to share—it doesn’t make it impossible.” As long as WhatsApp allows the sharing of information in groups, it will be used to share lies as well as truths. The only resilient defence is savvier, more sceptical users. 
 There are some efforts to use WhatsApp to encourage those. Several were set up ahead of the elections in South Africa on May 8th. One was “What’s Crap on WhatsApp”, an initiative by Africa Check, an NGO with offices in four African countries. It invited South Africans to forward them potential cases of misinformation, which it tried to debunk through one of its WhatsApp channels. 
 Another is the creation of Sizwe Mpofu-Walsh, a 30-year-old activist and writer. Eager to produce a political show for young people, he first considered YouTube and radio, but instead launched one via WhatsApp. Mr Mpofu-Walsh uses WhatsApp for Business, the platform’s commercial arm, which makes it possible to broadcast to more than the 256-person limit in an ordinary group. It is a format that has proved successful in China (via an app called WeChat) but is rare in Africa (or anywhere, really). He produces five shows every week. They have about 10,000 viewers, not far off what a cable news show gets in South Africa. “There is an intimacy to WhatsApp that makes people ready to listen to a message,” says Mr Mpofu-Walsh. That is why the platform is popular. But it is also what can make it dangerous. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.WhatsApp[]:[网络] 智能手机；联络电话；每月活跃用 
@@ -116,4 +117,6 @@
 96.APP[]:[计] 应用, 应用程序; 相联并行处理器 
 97.WeChat[]:[网络] 微信；微讯；腾讯微信 
 98.intimacy['intimәsi]:n. 亲密, 熟悉, 亲昵行为(言语) [法] 亲近的行为, 亲密, 隐私 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -10,6 +10,7 @@
 These numbers suggest that the existence of even a small legal market increases the incentive for poaching. It allows black-marketeers to pass off illegal ivory as the legal variety, and it sustains demand. The biggest market is in China. Last year the government banned domestic sales of ivory, but its customs officials seize a lot of smuggled products—notably from Japan, which CITES licensed as a market in 2007. For the poachers, ivory is fungible. If it is hard to secure in Zambia or Botswana, another country’s elephants will be in the gun-sights. Congo, Mozambique and, especially, Tanzania, have seen sharp declines. Unfair though it is, countries with better-run conservation programmes are, in effect, paying for the failings of those with feeble institutions. 
 In the long run technology can help make trade compatible with conservation. In better-resourced national parks, drones are used to make it easier for rangers to spot poachers. DNA testing of ivory shipments can establish where they came from, and thus whether they are legal. As prices fall and countries get richer, both technologies are likely to spread. 
 The objection to trade in products of endangered species is not moral, it is pragmatic. When the world is confident that it will boost elephant numbers rather than wipe them out, the ivory trade should be encouraged. Regrettably, that point has not yet come. And until it does, the best hope for the elephant—and even more endangered species, such as rhinos—lies not in easing the ban on trading their products, but in enforcing it better. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ivory['aivәri]:n. 象牙, 乳白色 a. 象牙制的, 乳白色的 
@@ -51,4 +52,6 @@
 37.shipment['ʃipmәnt]:n. 装船, 出货 [经] 运送, 运送(寄出)货物, 装载 
 38.pragmatic[præ^'mætik]:a. 忙碌的, 爱管闲事的, 自负的, 固执己见的, 实际的, 务实的, 国事的, 国务的 [法] 闲断的, 固执己见的, 实用主义的 
 39.regrettably[ri'^retәbli]:adv. 抱歉地, 遗憾地,可悲地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

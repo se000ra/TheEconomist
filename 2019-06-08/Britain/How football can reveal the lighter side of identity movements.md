@@ -10,6 +10,7 @@
 There are no politics on the pitch. The crowd is good-natured. “This is the only chance these lads have to play international football,” says one supporter. Another pair of Yorkshire fans debate whether the Jersey team are “southern softies” or, worse, from “northern France”. The Yorkshire mascot, a man in a Viking outfit, applied for the gig on the basis of once playing Spiderman at a children’s party. He comes from Newcastle and lives in County Durham. 
 Many teams have sought to register with FIFA, world football’s governing body, and been rejected. Instead they have joined the Confederation of Independent Football Associations (CONIFA), which organises a biennial World Cup. The last one, held in London, was won by Karpatalja, a Hungarian team. 
 “We want CONIFA to be a viable alternative to FIFA,” says Mr Hegarty, who hopes that in ten years 10,000 people might watch Yorkshire on television. It is an ambitious goal, but not an impossible one: 521 people turned up to the field in Ossett, even on the day of that other big match in Madrid. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -64,4 +65,6 @@
 50.Hungarian[hʌŋ'gєәriәn]:a. 匈牙利的, 匈牙利人的, 匈牙利语的 n. 匈牙利人, 匈牙利语 
 51.viable['vaiәbl]:a. 能养活的, 能生长发育的 [医] 有活力的, 有生机的 
 52.ambitious[æm'biʃәs]:a. 有野心的, 抱负不凡的, 雄心勃勃的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -12,6 +12,7 @@
 ![image](images/20190810_BRM926.png) 
 Another argument against is that Britain used to have a few until 2012, but no one complained when they were phased out. That was probably because EU state-aid rules prevented them from bringing in truly freewheeling policies on regulation, tax and labour standards. The WTO is less stringent. Mr Johnson’s government may therefore use aggressive supply-side policies to create real free ports, but the Treasury would count the cost. 
 Which ports will win the new status? The government wants free ports to help rebalance the economy away from the south-east. Of 30 big ports, 17 are in poor areas, mainly in the north and Wales. They should be at the front of the queue. But the south is home to many ports (see map). It might be hard to overlook Bristol Port, which gave to Mr Johnson’s campaign. Ben Houchen, mayor of Tees Valley, says Teesside should come ahead of Dover. If free ports are the gateway to prosperity, as Ms Truss says, it will be hard to be left out. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -73,4 +74,6 @@
 57.Teesside[]:蒂赛德（地区）（地名）（英国） 
 58.Dover['dәuvә]:n. 多佛(英国港口) 
 59.gateway['geitwei]:n. 门, 通路 [计] 网关 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

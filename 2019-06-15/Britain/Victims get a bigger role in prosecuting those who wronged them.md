@@ -8,6 +8,7 @@
 Plenty of the changes in the strategy are uncontroversial. Few could quibble with attempts to ensure that police and prosecutors inform victims of developments in their case. In one survey, only a little more than a third of victims felt that had happened. Offering tours of the court before a trial starts and providing separate waiting areas for the defence and prosecution ought to make the process less daunting. Lady Newlove wants victim-liaison staff from different authorities to share office space, so that traumatised people do not have to keep repeating their stories. 
 Other reforms raise more questions. Victims are banned from expressing their views on an appropriate sentence in their personal statements, but some defence briefs worry that judges will nevertheless be swayed by emotional accounts. “Judges are only human,” says Sarah Vine, a criminal-law barrister. Some doubt that victims should take part in parole hearings, since they are not qualified to assess how likely a prisoner is to reoffend. There is also a risk in applying the label too loosely. Police have been rebuked for referring to complainants as victims before the accused is tried. It “implicitly presumes guilt on the part of the defendant,” says Ms Vine. 
 Yet protecting defendants’ rights does not require victims to be silent. Evidence from several jurisdictions that now allow personal statements suggests their introduction did not lead to harsher sentences. But victims who make a statement are more satisfied with the process than those who do not, suggesting that paying them more attention will increase the perceived legitimacy of the justice system. “It makes the person human, instead of being a case file,” says Lady Newlove. The court must be fair, but it need not be cold. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.prosecute['prɒsikju:t]:vt. 告发, 起诉, 彻底进行, 执行, 从事 vi. 告发, 起诉, 作检察官 
@@ -53,4 +54,6 @@
 41.guilt[gilt]:n. 罪行, 内疚 [法] 罪, 犯罪, 罪行 
 42.jurisdiction[.dʒuәris'dikʃәn]:n. 司法权, 审判权, 管辖权 [经] 法律管辖权, 审判权 
 43.legitimacy[li'dʒitimәsi]:n. 合法, 正统, 正当 [法] 合法性, 正统性, 婚生 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

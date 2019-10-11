@@ -9,6 +9,7 @@
 Vancouver was among the first cities Uber tried to enter, in 2012, and “the first city that Uber ever left”, in the same year, says Michael van Hemmen, who leads the company’s operations in western Canada. Forbidding rules, such as classifying it as a limousine service, which for some reason must charge a minimum of C$75 ($57) per trip, killed its business. British Columbia is now inviting it back to Vancouver (and other cities in the province) in hopes of complementing its public-transport system rather than undermining it. It will not be classified as a limousine service. 
 Mr Curran says ride-hailing could increase use of public transport by ferrying people from their houses to a bus or train stop. It could also improve transport for people with disabilities. Currently, TransLink hires taxis to give door-to-door rides to some disabled people. The requirement for drivers to have commercial licences will contain the services’ growth and protect taxi-drivers, ride-hailing’s fiercest foes, or so the province hopes. 
 But the commercial-licence requirement could have the opposite effect. Analysts think it will reduce the number of drivers available to pick up passengers in distant suburbs. Instead, they will cluster in the centre. Some of Uber’s future competitors say they are not worried. The commercial-licence rule will discourage most drivers, believes Chris Iuvancigh of Sharenow, which runs Car2go, one of Vancouver’s four car-sharing services. A driver who offers rides in his Mercedes SUV to people who hire him via WeChat, a Chinese app, thinks they will stay loyal. If ride-hailing does come to Vancouver, he predicts, it will just slow their journeys down. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Columbia[kә'lʌmbiә]:n. 哥伦比亚 
@@ -51,4 +52,6 @@
 38.mercedes['mә:sidi:z]:n. 梅塞德斯（人名）；梅赛德斯（公司名） 
 39.suv[]:abbr. 多功能车（SportsUtilityVehicle）；小型单层水泡（small unilamellar vesicles） 
 40.WeChat[]:[网络] 微信；微讯；腾讯微信 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

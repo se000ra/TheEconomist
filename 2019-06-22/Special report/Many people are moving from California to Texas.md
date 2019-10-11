@@ -25,6 +25,7 @@
 According to Mr Broome, the state needs to develop a strategic plan and invest in a more robust economic-development agency to persuade companies to stay. In other words, California needs to adopt a pro-business attitude and strategy more like that of Texas. “We’re incorporating a lot of ideas from Texas, and we’re not just going to roll over any longer,” says Mr Newsom. In the future his administration will try to encourage businesses to relocate or expand to more affordable areas within the state. But it is not obvious that such a pitch will succeed. Costs are lower in places like the Central Valley, but they are even lower in other states. 
 Mr Newsom has also asked his team to examine the licensing requirements for various occupations, so that California can reduce bureaucratic red tape. But more dramatic changes are required. “I don’t know that a week goes by where we’re not engaged in tax-reform discussions,” declares Mr Newsom. However, a major tax overhaul may not be politically feasible. Proposition 13, which caps the rate at which property taxes can rise, is why the state is so heavily reliant on personal-income tax. In 2020 voters will decide whether to exempt some commercial properties, which could lead to billions of dollars in extra tax revenue. But that alone is unlikely to solve the state’s precarious fiscal balance. 
 Today Texas is better placed to grow than California, but that could change. Some firms worry that the state is not investing enough to retain its competitive edge. Texas has thrived by importing skilled Americans, but it needs to cultivate its home-grown workforce, too. “The private sector creates jobs but the public sector must provide the infrastructure to enable growth to occur,” says Tom Luce, a lawyer, who says he is “concerned about how Texas will deal with its future” and whether it can produce enough educated workers to fill the jobs that companies will create. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.California[.kæli'fɒ:njә]:n. 加利福尼亚 
@@ -166,4 +167,6 @@
 137.infrastructure['infrәstrʌktʃә]:n. 基础结构, 基础设施 [经] 基础设施 
 138.tom[tɒm]:n. 雄性动物, 雄猫 
 139.luce[lu:s]:n. 白斑狗鱼 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

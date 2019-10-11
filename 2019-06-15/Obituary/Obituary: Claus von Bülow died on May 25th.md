@@ -10,6 +10,7 @@
 As an aristocrat, tall in his double-breasted suits, he could do stiffly jut-jawed one moment, warm and charming the next: a study in inscrutability, or a witty ornament to the highest social tier of Newport or New York. He also had an outrageous side. When he worked for John Paul Getty, the oil tycoon, in London in his bachelor days he fell in with the Clermont set, including John Aspinall and Lord Lucan (who had hoped to murder his wife, but killed the nanny), and hosted their illegal gambling parties. During his second trial he posed for Vanity Fair in zippered black leather, tight blue jeans and a devilish grin, with a new, thrice-divorced mistress in tow. He liked unsettling jokes, telling them in his best dark voice. “What is another name for fear of insulin? Claus-trophobia.” 
 His feelings for Sunny changed in different lights. They had been happy early on and had a daughter, Cosima, whom he adored. He and Sunny fell out because she did not like him working; she did not mind his mistresses, as long as he was discreet. In sum she was a fair and decent human being who would, he thought, have been his strongest defender. He wore his wedding ring at the trials, though he had to get it back from Ms Isles. He spoke of wanting to visit Sunny, who lay comatose for 28 years until she died, but he moved to London by agreement with the stepchildren, giving up too any claim to her fortune. In Knightsbridge his life revolved round amusing dinner parties, theatre reviewing and quiet acts of charity. He complained that “Reversal of Fortune”, a film of his trials made in 1990, did not tell the truth in dozens of small ways. He did not say what the truth actually was. In the end, the film had left the verdict open. He preferred to be seen as he generally was in London, as the victim of a miscarriage of justice. 
 He did not make that claim himself; he had agreed not to mention the case. Instead, he saw it as a tragedy that satisfied “all of Aristotle’s definitions”. Everyone was wounded. As for him, he was a tragic hero straight out of the “Poetics”: neither a villain nor a virtuous man, but someone in between. His misfortune had occurred not because of depravity, but by some error, some ambiguous action. It was hardly surprising that there could be no catharsis. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.claus[]:n. 克劳斯（男子名） 
@@ -102,4 +103,6 @@
 88.misfortune[mis'fɒ:tʃәn]:n. 不幸, 灾祸, 坏运气 [法] 不幸事故, 不幸, 灾祸 
 89.depravity[di'præviti]:n. 堕落, 腐败, 邪恶 [法] 堕落, 腐化, 败坏 
 90.catharsis[kә'θɑ:sis]:n. 陶冶, 净化, 导泻 [医] 导泻, 泻法, 精神发泄 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

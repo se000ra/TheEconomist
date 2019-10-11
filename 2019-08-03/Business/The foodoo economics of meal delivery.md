@@ -11,6 +11,7 @@
 Yet as with ride-hailing, it is by no means clear if anyone can make money by delivering meals. In fact, the economics may be even worse. Co-ordination is more complicated. Meal-delivery firms must handle dishes that take different amounts of time to cook, while restaurants cope with orders from in-house customers. Most important, bookings must be split three ways: between delivery firms, restaurants and riders, rather than just between the ride-hailing firms and their drivers. The restaurants in particular are restive, not least because food is already a low-margin business. The most popular brands like McDonald’s and Starbucks wield the power to squeeze the delivery startups in exchange for access to millions of customers. Uber admits that Uber Eats may be forced to lower service fees for big restaurant chains. 
 Moreover, potential growth may be overstated. Subsidies make true demand hard to gauge. When delivery charges and service fees eventually rise, which they will have to if profits are to materialise, some customers may flee. In the meantime, cheap money lets firms undercut rivals but distorts incentives. The war of attrition could get even worse if giants like Amazon muscle in, as it has tried to do by buying a stake in Deliveroo (the deal is stalled at present because of antitrust concerns). Alibaba, Amazon’s Chinese counterpart, uses Ele.me as a loss leader helping drive traffic to its profitable e-commerce sites. 
 Delivery businesses have ways to cut their losses. One is to diversify further, by delivering groceries, flowers, booze, and even people (as Uber does), as well as meals. Another is to provide cheaper meals by centrally supplying ingredients to restaurants, or building “ghost kitchens” that prepare food only for delivery. In “winner takes most” markets, the best way to drive up volumes and share of the proceeds is through consolidation across countries and cities. Mr Groen’s attempt to gobble up Just Eat marks the biggest foray so far. In the unappetising dog-eat-dog world of food delivery, it will still be a hard deal to digest. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Schumpeter[]:n. 熊彼特（美籍奥匈帝国经济学家, 当代资产阶级经济学代表人物之一） 
@@ -96,4 +97,6 @@
 81.centrally['sentrәli]:adv. 在中心, 在中央 
 82.gobble['gɒbl]:n. 火鸡叫声 vt. 狼吞虎咽 vi. 贪食, 咯咯叫 
 83.foray['fɒrei]:vi. 侵略, 劫掠, 袭击 n. 侵掠, 侵略, 攻击 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

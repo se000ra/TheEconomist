@@ -10,6 +10,7 @@
 Mr Lyons likes to use the metaphor of the Nike “swoosh” to describe what would happen next. Disruption would cause a dip in growth, but once outside the EU’s “regulatory stranglehold” Britain could latch on to the coat-tails of fast-growing emerging markets. Brexit would also allow the British economy to look, in effect, more Chinese, through stronger export performance and more investment. But the book does not convincingly pin the blame for Britain’s failings on its EU membership, rather than British government policy. 
 The big question—whether a hard Brexit would cause permanent economic damage—gets to the heart of Mr Lyons’s identity. He regards himself as an outsider. As he sees it, the “economics establishment” was proved wrong about the ERM and wrong about the euro. He was proved right. Why shouldn’t he also be right about Brexit? And, like Mr Johnson, he believes that if only the country could muster up some vim, Brexit would be great. “Britain’s biggest export is its pessimism,” he says. 
 Many Brexiteers would love Mr Lyons to get the bank job (if he does not, expect accusations of an establishment stitch-up). Whether it would be good for Britain as a whole is less clear. Mr Lyons has little experience of central banking. What would be widely construed as a political appointment would hurt the bank’s credibility among investors. Yet Mr Johnson’s cabinet is stuffed with radicals; one more would be no great surprise. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Lyon['laiәn]:n. 里昂 
@@ -80,4 +81,6 @@
 66.construe[kәn'stru:]:vt. 解释, 分析, 对...逐字直译 vi. 作句法分析 n. 直译 
 67.credibility[.kredi'biliti]:n. 可信用, 确实性, 可靠 [法] 证据能力, 可信程度, 确实性 
 68.investor[in'vestә]:n. 投资者 [经] 投资者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

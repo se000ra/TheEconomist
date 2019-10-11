@@ -6,6 +6,7 @@
 In Test cricket batsmen often block the ball defensively, to preserve their wickets. But because it is rare for ten men to get out in just 120 balls, players in T20 try riskier shots in pursuit of faster rewards. The result makes baseball look sedate. Whereas an average night at Yankee Stadium produces two home runs, an average T20 match features 39 boundary shots. 
 These aggressive tactics have also been adopted in one-day internationals (ODIs), the format used in the World Cup, which gives each side one innings of 300 balls. Boundary rates in ODIs have soared since 2003. In contrast, the long increase of run-scoring in Tests stopped just when T20 was invented. It may not be possible to hit much more than 6.4% of balls to the boundary, as batting teams did in 2000-03, while occupying the crease for five days. 
 Purists insist that slow-building Tests are more gripping than a flurry of sixes. But a survey of fans in 2018 found that only 69% are interested in Tests, rising to 92% for T20. Media Partners Asia, a consultancy, expects broadcasters to pay $1.4bn a year for T20 over the next four years, compared with $190m for Tests. England and Australia hope to emulate the IPL’s success, using a similar template. Once a sporting imitator, India is now setting the trend. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.sizzle['sizl]:vi. 发出嘶嘶声 vt. 烧灼 n. 咝咝声 
@@ -48,4 +49,6 @@
 38.emulate['emjuleit]:vt. 效法, 尽力赶上, 同...竞争 [计] 仿真 
 39.template['templit]:n. 样板, 模板, 垫木 [计] 模板 
 40.imitator['imi,teitә]:n. 模仿者, 临摹者, 仿造者, 伪造者 [计] 模拟, 模拟程序, 模拟器 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

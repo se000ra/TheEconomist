@@ -16,6 +16,7 @@
 TESS will also provide a catalogue of interesting targets, like TOI-270, for study by future missions. One of these, CHEOPS (Characterising Exoplanet Satellite), will be launched this autumn by the European Space Agency, ESA, with the aim of measuring the precise sizes of as many super-Earths and mini-Neptunes as possible. These data, combined with knowledge of objects’ masses, will lead to a better understanding of what particular planets are made of. Gassy planets will have low densities. “Water worlds” will have rather higher ones. Higher still will be the densities of rocky worlds made principally of silicates. The highest of the lot will belong to those planets made mainly of iron. 
 After CHEOPS, ESA’s next planet hunter will be PLATO, a bigger version of TESS—so big, indeed, that it will be sensitive enough to look for terrestrial bodies that, like Earth itself, orbit at longer periods around bright sun-like stars. Oliver Shorttle of Cambridge University reckons that, using PLATO and its successors, astronomers are likely, within three or four decades, to have found all the planets in the nearest portion of the galaxy to Earth. And this will allow the $64,000 question to be answered: how propitious are astronomical circumstances for the development of life? 
 With an extensive sample of this sort it should be possible to estimate how many Earthlike worlds exist in the galaxy, and what fraction of those are located at a distance from their parent star that might permit liquid water to form on their surfaces. Meanwhile, astronomers and geologists will be scrutinising those examples that have turned up within the range of the telescopes then available, in a bid to understand how their climates work, look for chemical signatures of life, and watch for weather and geological events such as volcanic eruptions. “If we find these alien Edens,” says Dr Shorttle, “how could we not stop and stare?”■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.exoplanet[ek'sɒpleɪnɪt]:n. 外星球 
@@ -99,4 +100,6 @@
 79.eruption[i'rʌpʃәn]:n. 爆发, 喷出物, 出疹 [化] 喷发 
 80.alien['eiljәn]:n. 外国人, 外侨 a. 外国的, 相异的 
 81.Eden['i:dn]:n. 伊甸园, 乐园 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

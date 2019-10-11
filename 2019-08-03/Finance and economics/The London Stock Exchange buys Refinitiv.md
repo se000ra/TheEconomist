@@ -12,6 +12,7 @@
 It also tried to revive growth at Refinitiv, which has been stagnant (see chart). In 2018, notes KBW, its revenues were 7% lower than in 2012, at $6.3bn. Although some divisions, including compliance and Elektron, are doing decently, the desktop business is shrinking. Traders complain that Eikon terminals are clunky compared with those of the market leader, Bloomberg. 
 So Mr Schwimmer’s bold move will slow down what has been one of the world’s fastest-growing stock-exchange groups in recent years. Investors hope that as well as cutting more costs at its new acquisition, LSE can increase revenues by exchanging data between Refinitiv and its index and other business. If it keeps the desktop business it will need to say how it will fix it, says Kyle Voigt of KBW. 
 Competition authorities in both Europe and America are sure to look hard at the deal. European market watchdogs are already investigating the rising price of financial data, which is partly caused by industry consolidation. If they intervene, expect much breast-beating about a cruel continent blocking a bold British deal. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -73,4 +74,6 @@
 57.watchdog['wɒtʃdɒg]:n. 看门狗, 监察人 [化] 监控设备; 监视器 
 58.consolidation[kәn.sɒli'deiʃәn]:n. 巩固, 团结, 合并, 加强 [医] 实变 
 59.intervene[.intә'vi:n]:vi. 插入, 调停, 干涉 [经] 进场干预 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

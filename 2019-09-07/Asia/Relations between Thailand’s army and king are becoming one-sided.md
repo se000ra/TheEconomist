@@ -12,6 +12,7 @@
 King Vajiralongkorn has stoked factionalism, too, weakening the bond between the army and the government that it installed. Mr Prayuth and his deputy prime minister, Prawit Wongsuwan, are both former army chiefs. They rose up through the Queen’s Guard, elite troops from a regiment within the army’s Second Infantry Division. The current army chief, Apirat Kongsompong, belongs to the King’s Guard, a faction nestled instead within the First Infantry Division. The king himself once served in it. General Apirat must retire next year and his most likely successor is also from the King’s Guard. 
 During the reign of the king’s father, Bhumibol, the relationship between the armed forces and the monarchy was ambiguous. The king’s advisers had a role in the appointment of senior generals, but then again, most of them were former generals themselves. The king never visibly opposed the many coups that took place during his reign, but he did once give a dressing down to a coup leader who had violently suppressed public protests, causing the offending general to resign. 
 Under King Vajiralongkorn, the ambiguity has diminished. Mr Prayuth has meekly complied with even the most awkward of the king’s demands, agreeing, for instance, to change the text of the new constitution even after Thai voters had signed off on it. The king left the generals squirming by declining to accept the crown for almost two months after his father’s death, in an unexpected show of modesty. “Prayuth’s days are numbered,” predicts Paul Chambers of Naresuan University. And when the inevitable happens and the army next mounts a coup, the king will be in a commanding position. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Sep[]:九月 
@@ -113,4 +114,6 @@
 97.modesty['mɒdisti]:n. 谦逊, 质朴, 羞怯 
 98.paul[pɔ:l]:n. 保罗（男子名） 
 99.Naresuan[]:纳腊萱 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

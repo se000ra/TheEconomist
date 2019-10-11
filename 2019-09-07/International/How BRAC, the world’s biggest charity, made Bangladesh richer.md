@@ -23,6 +23,7 @@
 A combination of foreign expansion, fees and cost-cutting will probably not be quite enough to escape the squeeze. If BRAC is to remain potent in Bangladesh and beyond, it will probably have to do something more radical. Rather than providing the services that governments fail to, it will have to teach them how to do the work. The charity has deep experience in many areas. It began opening pre-primary schools in Bangladesh in 1985; the government followed only in 2012. It has learned how to identify the poorest people in a village—much harder than it sounds. Mr Saleh points out that the government of Kenya, which is weaving a social safety-net, has hired BRAC to assess whether it is targeting the right people. Bangladesh’s government could do something similar. 
 Getting involved with politics is a tricky business, though—especially in Bangladesh. Even by the dismal standards of the trade, Bangladesh’s politicians are a brutal, vindictive bunch. In 2007, soon after being awarded the Nobel peace prize for his microfinance work, Mr Yunus tried to set up a political party. Four years later the political establishment struck back, forcing him out as leader of Grameen Bank. 
 BRAC’s path is hard and strewn with traps. But it has done well to acknowledge the challenges posed by economic growth and to set out on the journey. Where it goes, other large charities are bound to follow. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.BRAC[]:abbr. 孟加拉乡村进步委员会（Bangladesh Rural Advancement Committee）；基地关闭与重组委员会（Base Realignment and Closure） 
@@ -127,4 +128,6 @@
 100.vindictive[vin'diktiv]:a. 有报仇心的, 怀恨的, 惩罚的 [法] 报复的, 有报仇心的, 复仇的 
 101.Nobel['nәubel]:n. 诺贝尔 
 102.strew[stru:]:vt. 散播, 撒满 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

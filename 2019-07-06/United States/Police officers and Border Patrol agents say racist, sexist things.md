@@ -8,6 +8,7 @@
 Jerry Ratcliffe, a former Metropolitan Police officer in London and now head of the Centre for Security and Crime Science at Temple University, finds the officers’ posts abhorrent, but worries about policing policemen’s thoughts. “Are we going to fire people for having views we don’t like?” Some of the posts are political in nature and are opinions held by a lot of Americans, including the president. Social-media training is unlikely to change thinking, though policy may change superficially to satisfy critics. It is already difficult to recruit high-quality officers, says Eugene O’Donnell of John Jay College of Criminal Justice. Some departments have had to lower academic requirements. Perhaps too far: ten police cadets in Philadelphia resigned this week after they admitted cheating in an exam. 
 Richard Ross, Philadelphia’s police commissioner, put 72 of the 300 Philadelphia officers identified by the database on administrative leave. He expects some to be fired. The department intends to develop social-media training and will monitor officers’ accounts in the future. He has asked an outside law firm to conduct a probe to determine whether the posts are protected under the constitution’s first amendment, which protects free speech. 
 Prosecutors, meanwhile, are refusing to work with some officers. Larry Krasner, Philadelphia’s district attorney, says he is reviewing the database. Some officers may no longer be asked to testify in court because they lack credibility. He wants to avoid having to notify defence lawyers of any evidence that could help their clients (such as that the arresting officer would appear to be racist). About 120 Philadelphia officers in the database have had federal civil-rights cases filed or settled against them. St Louis’s prosecutor also refuses to work with certain officers. She has banned 22 from bringing cases to her office. That, ultimately, may be the best incentive for officers to change.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.slur[slә:]:n. 连音符, 诽谤, 玷污, 印刷模糊 vt. 草率地看过, 忽略, 含糊地念 vi. 模糊不清 
@@ -96,4 +97,6 @@
 84.credibility[.kredi'biliti]:n. 可信用, 确实性, 可靠 [法] 证据能力, 可信程度, 确实性 
 85.client['klaiәnt]:n. 客户, 顾客, 委托人 [计] 客户, 客户机, 客户机程序 
 86.incentive[in'sentiv]:n. 动机 a. 激励的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

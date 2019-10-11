@@ -12,6 +12,7 @@
 During the growth spurt of the past two decades, many countries saw their stock of capital increase. Quite a few experienced periods of urbanisation and economic reform that helped pull workers into factory and office employment, at higher productivity levels. And in some economies the groundwork for sustained growth was also laid during the boom. The dense supply chains that grew up around China served as conduits for technological know-how, transmitting the elements of sustained innovation to underdeveloped economies. For India, exports of commercial services played something of the same role. India is the world’s biggest exporter of information-technology services bar Ireland, where the figures are skewed by the tax-avoiding accounting antics of American tech firms. 
 If convergence is not dead, slowing rates of growth are nonetheless cause for concern. Governments may have become complacent, abandoning needed reforms and skimping on investments in productivity-enhancing things like education. India would like to overtake China, but its literacy rate, at about 70%, is lower than China managed 30 years ago. Worse, the decades-long march towards greater global openness may be ending. Amid rising economic belligerence, in particular from America, rich-world companies will naturally think twice before investing abroad. A serious breakdown in global trade, were it to occur, could harm emerging markets’ prospects for a decade or more. Such delay would be made even more devastatingly costly by climate change, which poorer countries will find harder to manage than rich ones. 
 Still, there is hope. The obstacles that have sprung up in the way of development might yet be cleared. President Donald Trump could be gone in 18 months. Governments unsettled by visions of economic mortality could discover a renewed zeal for reform, investment and liberalisation. But whichever theory is right, emerging-market dominance has been exposed as anything but inevitable. To put the developing world’s billions back on the path to rich-world incomes will take heroic efforts by governments, firms and workers around the world—and a hefty dose of luck. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -83,4 +84,6 @@
 67.liberalisation[,libərəlai'zeiʃən, -li'z-]:n. 自由化；开放 
 68.dominance['dɔminәns]:n. 优势, 显性, 统治, 控制, 支配 [计] 控制, 扰势 
 69.hefty['hefti]:a. 重的, 肌肉发达的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

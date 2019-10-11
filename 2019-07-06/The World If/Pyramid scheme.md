@@ -11,6 +11,7 @@
 If the Egyptian government lost control, foreign powers would intervene to keep the Suez canal open to global shipping. The United States, which uses the canal to move naval forces from the Mediterranean to the Gulf and farther east, would swiftly take charge, with a token coalition of Saudis and Emiratis at its side. But given the humiliation they suffered in the Suez crisis of 1956, Britain and France would be understandably reluctant to participate. 
 Some of Egypt’s vast ungoverned territory would provide a safe haven for killers. Rebels from Libya would use the borderlands as a rear base. Jihadists would set up a new caliphate on Egyptian turf. Israel would find this intolerable—Egypt would have transformed from a partner in peace to a mortal threat. Israeli jets would bomb Islamic State targets in Egypt as ferociously as they bombed Iranian missile units in Syria. Even then, having lost its main mediator with Hamas in Gaza, Israel would be desperately vulnerable. 
 As the chaos in Syria and Libya shows, putting Egypt back together would be excruciatingly hard, and might take decades. Far better to stop it collapsing in the first place—but it is far from obvious that Mr Sisi is the right man for that job. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Egypt['i:dʒipt]:n. 埃及 
@@ -117,4 +118,6 @@
 102.desperately['despәrәtli]:adv. 拼命地；绝望地；极度地 
 103.vulnerable['vʌlnәrәbl]:a. 易受伤害的, 有弱点的, 易受影响的, 脆弱的, 成局的 [医] 易损的 
 104.excruciatingly[ɪk'skru:ʃɪeɪtɪŋlɪ]:adv. 极痛苦地, 难忍受的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

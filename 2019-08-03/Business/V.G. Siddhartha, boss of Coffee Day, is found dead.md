@@ -9,6 +9,7 @@
 In a carefully worded statement responding to Mr Siddhartha’s note, KKR, an American private-equity firm, said it had sold a 4.25% stake in the company (out of a holding of 10.3%) on the stock exchange last year and was “deeply saddened by the developments”, adding that “We have not sold any shares before or after February 2018.” Three other foreign vehicles held stakes in the firm. 
 Tax authorities for the state of Karnataka acknowledged they had blocked Mr Siddhartha’s shares. They said this was in order to cover potential tax liabilities stemming from a concealed transaction which Mr Siddhartha was involved in and which was unearthed during an investigation into a prominent Karnataka political leader. This has led to speculation about whether ties of Mr Siddhartha’s family to politicians may have played a role in his death. Coffee Day announced that it would launch its own investigation. 
 The impact of the tycoon’s death will linger—and not only because of its mysterious circumstances and his high profile. The factors that apparently pushed him over the edge—dodgy political ties, tax investigations, high debts—are all too common in Indian business. What happened was tragic. Perhaps it should not have been a surprise.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.entrepreneur[.ɒntrәprә'nә:]:n. 企业家, 主办人 [经] 承包商, 企业家 
@@ -47,4 +48,6 @@
 34.profile['prәufail]:n. 侧面, 轮廓, 传略 vt. 描绘...轮廓, 写...的传略 [计] 提问档; 剖面图法; 剖面法 
 35.apparently[ә'pærәntli]:adv. 表面上, 清楚地, 显然地 
 36.tragic['trædʒik]:a. 悲惨的, 悲剧的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

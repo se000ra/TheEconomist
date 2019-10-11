@@ -10,6 +10,7 @@
 Mr Prabhushankar explains that the city has been able to sustain about two-thirds of normal supply because it planned ahead. Two recently built desalination plants, new borewells, expanded facilities to recycle sewage and a new 220km pipeline from a distant reservoir all add to supply. Both desalination and recycling capacity are set to triple within five years. Faced with complaints of dwindling groundwater, the government promises to enforce long-standing laws mandating that all buildings should be equipped to harvest rainwater. It has also pledged to maintain not only its big reservoirs, but hundreds of smaller bodies of water that could help insure against drought. 
 The promise is welcome, but not convincing to Sekhar Raghavan of the Rain Centre, an NGO that lobbies for better water management. Its research shows that, despite 99% compliance on paper, only 40% of buildings actually do trap rainwater and store it or inject it into aquifers. The severity of floods that hit the city in 2015 was largely owing to the government’s failure to clean and desilt canals and lakes or to build an adequate sewer system, Mr Raghavan says: “They are jokers. They would rather spend huge money on big new projects and giant storm drains than on fixing what is broken, which is our natural water-storage capacity.” 
 Still, Mr Raghavan is optimistic. When he started out decades ago, his was a lonely voice. Now, he says, ordinary citizens are demanding action, or acting themselves. He has another new ally, too. Spooked by rapidly depleting groundwater, the central government plans a vast nationwide campaign to revamp local reservoirs. Perhaps if the government also stopped promoting greedy crops such as rice and sugarcane, did more to curb rampant pollution, and considered installing meters and applying realistic prices to regulate water consumption, India really would not have to worry about going thirsty. As Mr Raghavan says, “You cannot complain about nature. It’s we that have to adapt to nature.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -66,4 +67,6 @@
 52.meter['mi:tә]:n. 米, 公尺, 仪表, 计量器 vt. 以仪表计量 
 53.realistic[riә'listik]:a. 现实的, 逼真的, 现实主义的, 实在论的 
 54.cannot['kænɒt]:aux. 无法, 不能 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

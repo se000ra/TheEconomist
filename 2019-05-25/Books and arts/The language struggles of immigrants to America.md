@@ -13,6 +13,7 @@
 Just how permissive should receiving countries be? Corine Dehabey, a Syrian-American who helps immigrants learn English in today’s Ohio, thinks that, if policies are too accommodating, there is a risk that people don’t feel any pressure to acquire the language. But if she could make one change, it would be to give them more time to do so. Current policies push newcomers to find work as soon as possible. That leads to doctors and engineers driving taxis, because they have yet to requalify in America. 
 Adults often struggle to learn a new language, as Mr Golinkin’s mother did, going from being a psychiatrist in Ukraine to a security guard in America. Some pull it off, as Mr Golinkin’s father did by studying English for years before the move. But nearly all children master their adopted country’s language, as Mr Golinkin (now a writer) did quickly. Children are sponges for languages—and for attitudes, too. Their views of their new homes will forever be shaped by the way they are treated when they arrive. 
 Correction: Johnson’s previous column mistakenly said that “Tuesday” includes the Indo-European root dyeu twice. Dyeu produced the word for day in other languages, but English “day” is thought to be from dhegwh, “to burn”. Sorry. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.johnson['dʒɔnsn]:n. 约翰逊（姓氏） 
@@ -71,4 +72,6 @@
 54.golinkin[]: [人名] 戈林金 
 55.quickly['kwikli]:adv. 很快地 
 56.mistakenly[mɪ'steɪkənlɪ]:adv. 错误地, 被误解地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

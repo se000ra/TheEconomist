@@ -38,6 +38,7 @@
 ![image](images/20190615_brd000.jpg) 
 To clarify Bagehot’s contention that the Canadian conservative party was “wiped out” in the election of 1993 (June 15th), two conservatives survived that drubbing and were returned as members of Parliament: Mrs Elsie Wayne and Mr Jean Charest. Some wag observed the party was now an endangered species and perhaps faced extinction, given it had been reduced to but a single breeding pair. 
 WILLIAM MACGREGORHalifax, Canada 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.york[jɔ:k]:n. 约克郡；约克王朝 
@@ -141,4 +142,6 @@
 99.specie['spi:ʃi]:n. 硬币 [经] 硬币 
 100.extinction[ik'stiŋkʃәn]:n. 消失, 消灭, 废止 [化] 消光; 熄灭 
 101.william['wiljәm]:n. 威廉（男子名）；[常作W-][美俚]钞票, 纸币 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

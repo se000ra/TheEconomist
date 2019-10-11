@@ -12,6 +12,7 @@
 Limited firepower also threatens its legitimacy. A country’s financial contribution to the IMF determines its share of votes in the institution. So without an overall increase in quotas, the fund will struggle to redistribute voting power from over-represented countries in Europe to faster-growing members elsewhere. To do so would require cutting some members’ stakes in absolute terms, rather than merely freezing them as others expand. China, according to the IMF’S independent evaluation office, is now more under-represented than it was before the voting reform of 2008, because its share of global GDP has grown faster than its share of IMF votes. 
 The fund’s response to this impasse has been innovative. Just as it has sought alternative sources of financing, it has also sought alternative wells of legitimacy. Ms Lagarde has energetically broadened its concerns to include inequality, gender and climate change. 
 Critics worry that the IMF is now spreading itself too thinly, taking on new tasks when it has yet to master its customary responsibilities. It does not seem sure how to stop prices from rising in Argentina or those in Japan from threatening to fall. Should it wage an additional crusade against rising temperatures worldwide? But its new preoccupations may also help it meet some of its core duties. Its traditional advice to tighten belts, for example, carries more weight in many parts of the world because it has shown that it is sensitive to broader social ills. Good parents know that showing the cane is no substitute for showing that you care. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lagarde[]: [地名] [法国] 拉加尔德 
@@ -67,4 +68,6 @@
 51.crusade[kru:'seid]:n. 改革运动, 十字军东侵 vi. 从事改革运动, 加入十字军 
 52.preoccupation[pri:.ɒkju'peiʃәn]:n. 抢先占据, 先人之见, 入神 [医] 成见, 注意散漫, 心不在焉 
 53.tighten['taitn]:vt. 勒紧, 使变紧 vi. 变紧, 绷紧 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

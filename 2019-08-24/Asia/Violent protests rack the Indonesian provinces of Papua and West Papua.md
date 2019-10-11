@@ -6,6 +6,7 @@
 The next day, thousands of people took to the streets in cities across Papua, blocking roads and burning tyres. In Sorong they vandalised the airport and set fire to a prison (258 prisoners escaped). In Manokwari, the capital of West Papua province, they burned shops and the provincial parliament. In addition to holding banners reading “We’re Papuans, not monkeys”, protesters waved the Morning Star flag, a symbol of Papuan nationalism, and chanted: “We are not white and red, we are Morning Star”. As The Economist went to press on August 22nd, the protests had not abated. 
 In a statement about the protests Benny Wenda, a Papuan separatist, linked the struggle against racism to the fight for independence. Papua remained a Dutch colony after the rest of Indonesia became independent in 1945. It was only in 1969 that it voted to join Indonesia in a referendum. But the vote was a sham: out of a population of some 800,000, the Indonesian army selected just 1,026 people to take part. Indonesian security forces have tried to suppress a tiny separatist movement, often with brutal tactics. Widespread unrest has been rare—up to now. 
 Veronica Koman, a human-rights lawyer, believes these protests mark a new chapter in the liberation movement. She cites the sheer intensity of the protesters’ anger, and the power of videos of the protests on social media to convince Indonesians of Papuans’ commitment to their cause. A few politicians are showing some sensitivity: the governor of East Java province apologised for the racism in Surabaya, and President Joko Widodo announced plans to visit Papua. But the communications minister shut down the internet in certain parts of Papua, ostensibly to prevent false rumours fanning unrest, while the minister for security blamed the protests on “negative news”. On August 20th extra troops were deployed to Papua. Morning Star flags were there to greet them. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Indonesian[.indәu'ni:ʒәn]:a. 印尼的 n. 印尼人, 印尼语群 
@@ -49,4 +50,6 @@
 39.widodo[]:[网络] 阿斯 
 40.ostensibly[]:adv. 可公开, 显然, 表面, 外表, 诡称, 假装 
 41.deploy[di'plɒi]:v. 展开, 配置 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

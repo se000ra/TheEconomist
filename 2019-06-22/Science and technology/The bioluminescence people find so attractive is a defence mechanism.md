@@ -7,6 +7,7 @@
 Dr Selander and Mr Prevett conducted their experiments on Lingulodinium polyedra, a common dinoflagellate. They raised, in tanks, several colonies of a strain of L. polyedra that is unable to produce defensive toxins. These tanks also contained colonies of other species of plankton, thus creating mixed communities. In some cases, the researchers tinkered with the dinoflagellates’ internal biological clocks, to rob them of their ability to glow during the experimental period. In some, they let the critters luminesce normally. And to some of these normally luminescing cultures they also added a fat called copepodamide to the water. This substance is produced by small crustaceans called copepods that often graze on dinoflagellates. Then, once all the colonies were flourishing, they unleashed some copepods on them. 
 They expected the copepods to gobble up the toxin-free dinoflagellates quickly. And this proved true in those colonies where the creatures had been robbed of their luminescent abilities. While L. polyedra made up only a quarter of the possible prey items in these colonies, they constituted three-quarters of the copepods’ diets. By contrast, in colonies where L. polyedra were able to glow normally, the dinoflagellates formed only a quarter of the copepod diet. Meanwhile, in the third set of colonies—those in which the dinoflagellates had been primed to the presence of copepods by exposure to copepodamide—they flashed brightly as the copepods approached, and in doing so drove the crustaceans instantly away. In this case L. polyedra made up only 2% of copepods’ diets. 
 Precisely why a bright flash drives copepods away is unclear. The simplest explanation is that it blinds them temporarily, and they did not wish to repeat the experience. Another suggestion is that the flashes attract predators of copepods. Whatever the details, though, the likely explanation for the bioluminescence caused by waves, swimmers and ships is that the pressure their passage generates triggers anti-predator flashes on a grand scale, and that the light which people find so attractive is thus actually a warning to scram.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.dinoflagellate[,dainә'flædʒilit, -'leit]:n. [动]腰鞭毛虫(属于腰鞭毛目的原生动物,一种海生单细胞生物) 
@@ -53,4 +54,6 @@
 42.temporarily['tempәrәrәli]:adv. 暂时, 一时, 临时 
 43.predator['predәtә]:n. 食肉动物, 掠夺者 [医] 捕食者 
 44.trigger['trigә]:n. 触发器, 扳机 vt. 触发, 发射, 引起 vi. 松开扳柄 [计] 切换开关 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

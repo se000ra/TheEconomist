@@ -8,6 +8,7 @@
 That is when prosecutors began investigating Mr Middelhoff’s conduct at the company. They uncovered his use of Arcandor aircraft for private purposes and company cash to part-finance a book honouring his mentor at Bertelsmann. In 2014 a court in Essen found him guilty. He was arrested in the courtroom in front of his family. A year later he declared personal bankruptcy. 
 Mr Middelhoff’s tale of hubris resonated beyond the corporate world. He served as the model of the title character in “Johann Holtrop”, a novel by Rainald Goetz. At the end of the novel Holtrop commits suicide. “For Germans there is no rise after the fall,” says Mr Middelhoff. 
 The repentant mogul has already published one book in 2017 about his time in the nick and his autoimmune disease. Jarringly, he prefaced several chapters with quotes from Dietrich Bonhoeffer, a pastor imprisoned and executed by the Nazis, seemingly equating their respective fates. He is now working on his third book, a novel about the rise and fall of a business tycoon. Mr Middelhoff may be humbled. But his favourite topic is still Mr Middelhoff. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.mea[]:abbr. 维修工程分析（Maintenance Engineering Analysis）；β-巯基乙胺（β-Mercaptoethylamine）；沿航线最低高度（Minimum Enroute Altitude） 
@@ -75,4 +76,6 @@
 63.Nazi['nɑ:tsi]:n. 纳粹党人 a. 纳粹党的 
 64.seemingly['si:miŋli]:adv. 看来似乎, 表面上看来 
 65.equate[i'kweit]:vt. 使相等, 视为平等 vi. 等同 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

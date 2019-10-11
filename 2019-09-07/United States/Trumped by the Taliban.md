@@ -12,6 +12,7 @@
 There are two problems with this somewhat hopeful case. Mr Trump may prefer to fold. His supporters want an end to America’s wars almost as much as a border wall—and, having failed to wall off Mexico, he may consider the former campaign promise easier to keep. That would be consistent with an emerging paradox of his presidency. His unorthodoxy has consistently created novel opportunities—a possible splurge on infrastructure at home; a peace process with the Taliban abroad—that his personal shortcomings make him especially unlikely to realise. 
 More fundamentally, ushering the Taliban and government to the table, and keeping them there, would require a degree of political nous and flexibility that America lacks above all else in Afghanistan. Its efforts have been disjointed, with soldiers, diplomats and spies pushing conflicting priorities that only the faraway president can adjudicate between. Hence the policy shifts, as Mr Bush and his successors flitted from one recommendation to the next, often in response to domestic pressures. The complex politics of a country torn by war and ethnic rivalry, and between modernity and tradition, have rarely penetrated that self-absorbed process. 
 The limited understanding of American political officers, cycled in every six months or so, has made matters worse. Mr Neumann recalls his unsuccessful effort to persuade Mr Ghani’s predecessor to sack a provincial governor convicted of selling heroin in America. It was months before the then ambassador learned that the president owed a big favour to the drug-pusher’s father. Remember that next time you hear politicians cudgelling each other with arguments for and against state-building. There is little recent evidence that America is capable of it. Even the more modest task of saving Afghanistan’s current shaky structure may be beyond it.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lexington['leksiŋtәn]:n. 列克星敦市（位于美国肯塔基州） 
@@ -100,4 +101,6 @@
 84.heroin['herәuin]:n. 海洛因, 吗啡 [化] 海洛因; 二醋吗啡; 二乙酰吗啡 
 85.cudgel['kʌdʒәl]:n. 棍棒 vt. 用棍棒打 
 86.shaky['ʃeiki]:a. 震动的, 摇晃的, 动摇的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 There are strong arguments against doing so. A walkout would probably trigger an election, and polls suggest the SPD could lose a third of its seats. “Giving up because we are weak would be to admit publicly that we are not capable of governing, and who should vote for a party like that?” says Ralf Stegner, a deputy SPD leader. Many would prefer to demand policy changes from the CDU/CSU on pensions, taxes on the rich and climate protection—issues on which the SPD believes voters share its views—and to leave only if the party is unable to obtain concessions. 
 Yet the CDU is in no good position for early elections either, notes Gero Neugebauer, a political scientist in Berlin. Ms Kramp-Karrenbauer is also struggling. If an election looms, party rivals might challenge her to become the CDU’s chancellor-candidate (Mrs Merkel has promised to step down). The CDU too stands to lose seats. Optimists in the SPD hope such worries would force the CDU to back down on policy. That could strengthen the new SPD leader and let the coalition stagger on. 
 Perhaps. But optimism has rarely proven a winning bet for the SPD. “They have a leadership problem, a policy problem and a coalition problem—they have to solve all of them, and they don’t know how,” says Lothar Probst, a political scientist in Bremen. No wonder senior SPD figures have hurried to rule themselves out as candidates to replace Ms Nahles. Having dumped its Trümmerfrau, the SPD is desperately scrambling for someone else to clean up the mess she leaves behind. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.rubble['rʌbl]:n. 粗石, 碎砖, 粗石堆 
@@ -81,4 +82,6 @@
 66.probst[]: [人名] 普罗布斯特 
 67.desperately['despәrәtli]:adv. 拼命地；绝望地；极度地 
 68.scramble['skræmbl]:n. 攀缘, 爬行, 抢夺, 混乱, 紧急起飞 vi. 攀缘, 杂乱蔓延, 争夺, 拼凑, 匆忙 vt. 攀登, 扰乱, 使混杂 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

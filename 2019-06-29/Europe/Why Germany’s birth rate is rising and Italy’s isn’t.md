@@ -12,6 +12,7 @@
 This is gradually changing. In 2007 Germany’s federal government introduced generous parental-leave laws and tweaked the rules to encourage fathers to take time off. In 2013 it declared that children over one year old had a right to nursery places. Although there are still not enough places to meet demand, supply is growing. Between 2006 and 2017 the number of children under three enrolled in nurseries rose from 286,000 to 762,000. 
 Unlike those in France, Scandinavia and eastern Europe, German politicians seldom talk explicitly about boosting the birth rate—probably because the Nazis did. Instead they talk about empowering women. Still, their policies seem to promote fecundity. Lena Reibstein of the Berlin Institute for Population and Development says they could do more if they changed the tax system. At present married couples are allowed to file joint income-tax returns. This encourages mothers to stay at home by reducing their husbands’ tax bills if they do. 
 Compare all that to the situation in Italy. It has immigrants too—but many come from low-fertility countries like Romania and Albania. Its economy has stagnated, which puts people off having children. And Italian politicians have no idea how to raise the birth rate. Three years ago the government ran an advertising campaign informing women that their biological clocks were ticking, as though this had not occurred to them. The campaign was withdrawn amid heckling. Italy is now the world’s second-oldest country, after Japan. And the truth is, says Maria Letizia Tanturri, a demographer at the University of Padova, that “people don’t care”.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -75,4 +76,6 @@
 59.letizia[]:[网络] 丝雅；莱蒂齐亚；西班牙王妃莱蒂西亚 
 60.demographer[di:'mɒgrәfә]:n. 人口统计学家 
 61.Padova['pɑ:dɔ:vɑ:]:<意>=Padua 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

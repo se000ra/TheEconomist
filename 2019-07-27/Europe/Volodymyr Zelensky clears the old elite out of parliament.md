@@ -10,6 +10,7 @@
 Cautious is the operative word. Mr Zelensky’s tenure has been as contradictory as it is unconventional. Calls to bar Poroshenko-era officials from serving in government have set off alarm bells among Ukraine’s Western backers and civil-society activists, who fear that could exclude some competent reformers. So too have some of Mr Zelensky’s associated. His chief of staff, Andrei Bogdan, is a lawyer who most recently represented Ihor Kolomoisky, a controversial oligarch, in his efforts to retake control of PrivatBank, which was nationalised in the wake of fraud allegations. 
 The battle for PrivatBank will be a litmus test. Mr Kolomoisky, whose TV channel airs Mr Zelensky’s shows, raised a glass of vodka to celebrate Mr Zelensky’s win; he returned to Ukraine following almost two years of self-imposed exile shortly thereafter. Ukraine’s courts, widely seen as crooked, may help him take back the bank: one Kiev judge recently ruled the nationalisation illegal. That would jeopardise the country’s IMF loans. Mr Zelensky has said that he will defend the interests of the state. Both men have played down their ties. Yet Mr Kolomoisky now tells The Economist that he has discussed PrivatBank by telephone with Mr Zelensky; the president’s team declined to comment. 
 How much Mr Zelensky can challenge the old system, entrenched in the bureaucracy, the courts and the security services, depends on the team he can assemble. The president has yet to choose a defence minister, a big gap given the war with Russia simmering in the east. Although some appointees boast impressive reform backgrounds, others came over from Mr Zelensky’s production studio, Kvartal 95. Little binds the incoming SP MPs beyond the banner they ran under; Mr Zelensky may struggle to control his party. Oligarchs, including Mr Kolomoisky, are said to have their own factions inside it. As Mikhail Minakov, a political philosopher, cautions, “This elite won’t necessarily be better than the previous one.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.volodymyr[]:[网络] 昊宇 
@@ -89,4 +90,6 @@
 75.faction['fækʃәn]:n. 小派系, 内讧 [法] 宗派, 派别, 小集团 
 76.Mikhail[]:米哈伊尔（人名） 
 77.Minakov[]:米纳科夫 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

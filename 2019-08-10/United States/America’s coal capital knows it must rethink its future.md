@@ -13,6 +13,7 @@
 Michael Von Flatern, a state senator, expects “we’ll be headed for bust more often than boom” as the industry slows. He praises efforts to test how to burn coal cleanly, by catching emissions, but says “we’re 20 years too late” in starting such experiments. Mr Ford describes a $20m international effort at Dry Fork to extract carbon from flue gases while producing marketable products from it. Some local firms hope to use coal to make asphalt, carbon fibre or water filters. 
 Such activities, so far, are small-bore. Mr Von Flatern thus expects tighter belts and rising property taxes to come, because residents cannot expect taxes on minerals (oil, gas and some uranium are also extracted) to keep paying for 58% of all the county’s bills. Wyoming gets an estimated $900m a year in royalties and fees from coal miners. That sum is starting to fall. 
 The mayor talks of luring firearm-makers or other industries to use Gillette’s railway, roads, airport, energy, skilled labour and water. She notes how trade shows, tourism and conferences are growing. “We know we need to diversify, but it takes time,” she says. And time is short.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.rethink[ri:'θiŋk]:v. 再想, 重想 
@@ -89,4 +90,6 @@
 72.uranium[ju'reiniәm]:n. 铀 [化] 铀U 
 73.royalty['rɒiәlti]:n. 皇室, 王族成员, 王权, 特权阶层, 庄严 [经] 特许权, 使用费, 使用税 
 74.lure[luә]:n. 饵, 诱惑 vt. 引诱, 诱惑 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -15,6 +15,7 @@
 Yet much was also left undone. Grievances over land and marginalisation have remained largely unaddressed. A wave of land-grabbing in recent years has increased resentment among the Lendu. Although most of the militias were disbanded, little effort was made to reintegrate their members into society. Drifters from the conflict, skilled in pillage but unable to find gainful employment (of which there is little), have left a deep pool from which groups like CODECO can recruit. 
 Although there are officially no foreign troops on Congolese soil, Ituri is in danger of reliving its past. As in 2003, tens of thousands of terrified civilians are again sheltering in schools, churches and a handful of cash-strapped camps. Ebola, which broke out in neighbouring North Kivu province last year, is adding to the misery, killing 136 people in Ituri. New cases were reported in Bunia last month. 
 The Congolese army is a bit more disciplined than in 2003, when its soldiers in Ituri sold their weapons to Lendu rebels. It recently chased the militiamen out of their hideouts in the woods. Halting the fighting will be tough, however. The army has dispatched some troops, as has the UN peacekeeping force in Congo, but most are pinned down by conflicts elsewhere in the country. The militiamen may have been beaten back, but they are still armed and hiding out. A desire to avenge recent attacks is likely to grow. Unless the violence can be checked, Ituri’s residents will fear that the ghosts of their recent past are being reawakened. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.killing['kiliŋ]:n. 谋杀, 杀戮 a. 杀害的, 疲惫的, 迷人的 
@@ -118,4 +119,6 @@
 99.dispatch[dis'pætʃ]:vt. 派遣 n. 派遣, 急件 [计] 调度 
 100.avenge[ә'vendʒ]:vt. 为...报复, 报仇 
 101.reawaken[ri:ә'weikәn]:vi.再度觉醒 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

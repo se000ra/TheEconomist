@@ -11,6 +11,7 @@
 Mr Weitzman acknowledged that this result was detached from reality: “obviously it cannot be taken literally,” he said. Nobody believes in giving up everything today in the name of future safety. Atheists are rarely persuaded by Pascal’s wager—the argument that you should believe in God to avoid the infinite downside risk of eternal hellfire. But Mr Weitzman thought he had made a deeper point about the fragility of cost-benefit analysis in the face of extreme risks. “We desperately need more information about what’s going on in these tails,” he said. “It’s not the median values that are gonna kill us.” 
 Mr Weitzman is thought to have taken his own life, the second celebrated economist to do so this year. His ideas on tail risks might yet prevail in the profession, despite his apparent passing-over for the Nobel prize. Certainly campaign groups, such as Britain’s Extinction Rebellion, increasingly emphasise catastrophic risk above all else. He died a political moderate and, according to one colleague’s recollection, was no fan of the Green New Deal, the plan for fighting climate change proposed by America’s left, which downplays the role of carbon pricing. 
 Still, Mr Weitzman was not one to say precisely what should be done. His domain was that which is not known. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Martin['mɑ:tin]:n. 马丁, 圣马丁鸟 
@@ -81,4 +82,6 @@
 66.downplay['daunplei]:vt. 不予重视 
 67.precisely[pri'saisli]:adv. 精确地, 明确地, 刻板地, 拘泥地, 正好, 恰恰, 对, 正是如此, 确实如此, 不错 
 68.domain[dәu'mein]:n. 领域, 领土, 产业, 范围 [计] 域, 区域, 支配命令 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

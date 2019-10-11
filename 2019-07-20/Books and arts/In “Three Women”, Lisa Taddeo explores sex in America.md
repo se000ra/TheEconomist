@@ -9,6 +9,7 @@
 Ms Taddeo spent time in these women’s home towns to better grasp their lives, and she writes about them with sensitivity. She has a novelist’s interest in small details: how the whiff of Aidan’s preferred beer is associated by Lina with “pure passion”; Maggie’s raddled copy of “Twilight”, her favourite book, which is sprayed with her teacher’s cologne and filled with his notes. Rather than dealing in cheap titillation, the author crafts engaging narratives. The reader first meets Maggie in court—years after the event, she has reported Aaron for corrupting her as a minor. Sloane’s cool adult demeanour is juxtaposed with her adolescent eating disorders and her emotionally stifled upbringing. 
 “Three Women” captures the pain and powerlessness of desire as well as its heady joys. Still, the abiding impression is not of the subjects’ candour, nor their lust, nor even of the abuse that, one way or another, all three have suffered. Rather it is a sense that, for all the freedoms women have won, female desire is often still considered unruly and unacceptable, even repulsive. 
 The sort of names some women call Sloane behind her back—slut, tart, whore—they say to Maggie’s face. Lina’s acquaintances are sympathetic about her failing marriage but scornful of her affair. “I set out to register the heat and sting of female want,” Ms Taddeo reflects, “so that men and other women might more easily comprehend before they condemn.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lisa['li:zә, 'laizә]:n. 丽莎（女子名） 
@@ -74,4 +75,6 @@
 61.tart[tɑ:t]:a. 酸的, 辛辣的, 尖酸的 vt. 妖艳打扮 n. 果馅饼, 妓女 
 62.scornful['skɒ:nful]:a. 轻蔑的 
 63.comprehend[.kɒmpri'hend]:vt. 理解, 包括 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

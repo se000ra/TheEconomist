@@ -8,6 +8,7 @@
 After decades of civil war (which pitted the ethnically Sinhalese, Buddhist majority against largely Hindu Tamils), one might expect Sri Lankans to be wary of demonising minorities. Alas, many are doing just that. Since the bombings in April, police have not just randomly arrested Muslims, who are about 10% of the population, but responded lackadaisically to repeated mob attacks against Muslims and Muslim-owned businesses. Facebook groups have organised boycotts of Muslim-owned shops; fake pictures of huge weapons caches “found in mosques” have circulated. Landlords have evicted Muslims because of their faith. A taxi firm advertises that its drivers are Sinhalese; that is, not Tamils or Muslims. A big poultry company has destroyed its stocks of packaging, so it can roll out a new version, proudly stripped of halal certificates. 
 Muslim leaders point out that they had for years warned authorities about the emergence of cult-like radical groups. After the bombings, it was local Muslims who led police to what was believed to be the jihadists’ lair. Co-religionists also took it upon themselves to demolish one of the radicals’ mosques with sledgehammers. 
 Some Muslims have called for introspection. The prosperous Muslim elite, they say, has for too long turned a blind eye to creeping extremism. This is partly a product of widespread migration to the Gulf, and partly a reflection of a global trend among Muslims to abandon “diluted” local forms of Islam in favour of a “purer” Arabian kind. At the same time Buddhist groups with similarly narrow-minded inclinations have also gained ground. And just when Sri Lanka needs strong leadership to steer clear of such obvious dangers, its leaders stand disgraced.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.sri[sri]:n. 斯里兰卡（Sri Lanka）；（拉）神圣罗马帝国（Sacrum Romanum Imperium） 
@@ -83,4 +84,6 @@
 71.dilute[dai'lju:t]:vt. 冲淡, 稀释 a. 淡的, 稀释的 
 72.Islam['izlɑ:m]:n. 伊斯兰教 
 73.inclination[.inkli'neiʃәn]:n. 倾向, 趋向, 倾斜度, 点头 [化] 倾角 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

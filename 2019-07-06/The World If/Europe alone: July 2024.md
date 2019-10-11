@@ -23,6 +23,7 @@
 As the year turned, things came off the rails. In January 2024, Italy’s parliament dramatically refused to ratify the alliance, with populist parties on left and right clubbing together. Greece and Spain followed weeks later. In Montenegro and Macedonia, coups brought to power pro-Russian governments—which promptly pulled out, too. France and Germany desperately tried to hold the ETO together. Ms Kramp-Karrenbauer even pledged that Germany would spend 2.5% of its GDP on defence, a plan that would make it the world’s third-largest military power, after America and China, by 2030. Even so, others began hedging their bets. 
 The Nordic countries agreed a tight-knit defence pact—the Kalmar Arrangement—and invited Britain to join on equal terms. Poland, Hungary, Romania and Bulgaria signed their own deal, the Metternich Pact, in February 2024. They pointed to the trouble brewing in Ukraine and Belarus; left unsaid was their anxiety over the breakneck pace of German armament to the west. Weeks later, Italy formed its own Adriatic Alliance, focused on beating back migration from north Africa. 
 Mr Trump’s own assessment, tweeted from the third hole of the Trump International Golf Club in Florida, was curt: “Europe wanted to build its own army instead of paying its dues to NATO. How did that work out for them?” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.NATO['neitәj]:北大西洋公约组织, 北约组织 [经] 北大西洋公约组织 
@@ -192,4 +193,6 @@
 165.alliance[ә'laiәns]:n. 联盟, 联合 [法] 同盟, 联盟, 联姻 
 166.migration[mai'greiʃәn]:n. 移民, 移往, 移动 [计] 迁移 
 167.Florida['flɒridә]:n. 佛罗里达州 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

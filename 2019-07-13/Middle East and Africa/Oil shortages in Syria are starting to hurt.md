@@ -11,6 +11,7 @@
 The Suez Canal would have been more direct, but the heaviest tankers cannot sail straight through. They must offload their cargo first and have it piped to the other side. The pipeline is partly owned by Saudi Arabia, which forbids Iran from using it. And maritime-traffic data suggest that Egyptian authorities may be blocking lighter vessels from crossing Suez if their destination is Syria. One tanker, the Sea Shark, has been anchored near the canal’s southern entrance since April. America’s Treasury Department had added it to a list of vessels that carry oil to Syria. 
 That leaves the long route around Africa, and the risk of interception in European waters. Iran cried foul after the Grace 1 was seized. Abbas Araghchi, Iran’s deputy foreign minister, says it was not going to Syria but “somewhere else”. Iran also threatened to retaliate. On July 10th a British warship drove off Iranian boats trying to “impede” a British tanker. Relations are already fraught. Iran is angry that European powers have not done more to offset America’s sanctions and preserve the deal it reached in 2015 to restrict its nuclear programme in exchange for relief from some sanctions. The tanker incidents will not help. 
 As for Mr Assad, he may seek help from his other close ally. Russia is already shipping wheat from Sevastopol, in occupied Crimea, to its military port in Tartous, Syria. Oil may be the next commodity. But Vladimir Putin will probably not be generous with the terms—and Mr Assad can ill afford to pay. “Let’s grant that he won the war. He did that,” says a European official. “But he can’t win the peace.”  
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Syria['siriә]:n. 叙利亚 [经] 叙利亚 
@@ -69,4 +70,6 @@
 54.commodity[kә'mɒditi]:n. 农产品, 商品, 有用的物品 [经] 商品, 货物, 日用品 
 55.Vladimir[vlɑ'dimɪr]:n. 弗拉基米尔（古罗斯弗拉基米尔-苏兹达里公国的古都） 
 56.putin['putin]:n. 普京（人名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

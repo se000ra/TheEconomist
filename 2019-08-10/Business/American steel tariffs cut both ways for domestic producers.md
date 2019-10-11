@@ -9,6 +9,7 @@
 There may be nowhere for all the extra steel to go. Overseas, America’s high-cost producers cannot compete with cheap alloys from places like China. At home, last year’s uptick in volumes was caused chiefly by customers substituting domestic steel for suddenly pricier imports. Demand is now likely to grow at its underlying rate of 1-2% a year, estimates Andreas Bokkenheuser of UBS, an investment bank. 
 Higher prices may even be dampening it. Some American manufacturers have delayed steel-heavy projects or switched to alternative materials. With factory activity slowing, as it did in July for the fourth straight month, demand for steel is slipping, too. US Steel has acknowledged that “market conditions have softened”. 
 Peter Marcus of World Steel Dynamics, a research firm, praises Mr Trump for stimulating “massive investment that will modernise the industry”. Most has gone into “electric arc” furnaces, which smelt steel more cheaply from scrap metal rather than from iron ore. But high fixed costs, testy trade unions—and Mr Trump himself—discourage companies from retiring old, inefficient blast furnaces. Some of these will have to go if the industry is to avoid what Ms Tanners calls a “steelmageddon” of excess capacity. Fresh levies from the trade-warrior-in-chief may postpone it—but at a cost of making the eventual reckoning all the more painful.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tariff['tærif]:n. 关税, 关税表, 价格表, 收费表 vt. 课以关税 [计] 价目表 
@@ -53,4 +54,6 @@
 40.levy['levi]:n. 税款, 所征的人数, 征收 vi. 征税, 课税 vt. 征收, 强求, 召集 
 41.eventual[i'ventʃuәl]:a. 最后的, 终于的 
 42.reckon['rekәn]:vt. 计算, 总计, 估计, 认为, 猜想 vi. 数, 计算, 估计, 依赖, 料想 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

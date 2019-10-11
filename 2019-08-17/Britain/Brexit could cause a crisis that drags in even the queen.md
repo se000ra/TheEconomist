@@ -9,6 +9,7 @@
 More problems may come if an election produces another hung parliament. In 2010 the cabinet secretary, Gus O’Donnell, facilitated talks between David Cameron and Nick Clegg. In 2017 Theresa May spent days negotiating with the Northern Irish Democratic Unionists, delaying the Queen’s Speech (at the risk of making the monarch late for the Royal Ascot horse races). 
 Mr Johnson’s government also plans to stop MPs legislating to demand another extension of the Brexit deadline. Yet the Speaker, John Bercow, says that Parliament must be heard before a no-deal Brexit. He too is bound by conventions, in this case set out in “Erskine May”, the bible of Commons procedure (available free online since July). But in January he overruled precedent, and his own clerks, to allow an amendment from Remainers to a motion that would normally be unamendable. Nobody can challenge the Speaker’s rulings. 
 Vernon Bogdanor of King’s College London thinks Brexit is pushing the constitution to its limits, especially on citizens’ rights and devolution. It might even lead to a written constitution and more judicial oversight—just as Brexiteers crow over sovereignty regained.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Brexit[]:[网络] 英国退出欧盟 
@@ -64,4 +65,6 @@
 51.judicial[dʒu:'diʃәl]:a. 法庭的, 公正的, 审判上的, 司法的 [法] 司法的, 审判上的, 法官的 
 52.Brexiteers[]:支持英国退欧的人（Brexiteer的复数） 
 53.sovereignty['sɒvrәnti]:n. 主权, 独立国 [法] 主权, 主权国家, 统治权 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

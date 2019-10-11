@@ -13,6 +13,7 @@
 Mr Johnson’s government hangs by a thread that is easily snipped. If his majority falls to one, a single hitherto unknown Conservative MP, hardly recognised beyond close relatives, could decide the fate of Britain by backing a no-confidence vote. 
 Mr Johnson’s supporters insist that tough talk about Conservative MPs being willing to bring down their own government, or cross the floor to the Liberal Democrats or Plaid Cymru, is just bluster. They point out that Labour MPs were expected to pile in and support Mrs May’s deal earlier this year; in the event, few defied the party line. But there is a difference of scale. Whereas it would have taken a squadron of rogue Labour MPs to force through Mrs May’s deal, Mr Johnson could be brought down by just a few. “You blow your career up,” admits one former cabinet minister, before adding: “Some won’t care.” 
 An election without Brexit being sorted would be hazardous for the prime minister, as some Tory voters switch to a surging Brexit Party. A ballot after a no-deal Brexit, with chaos at ports, livestock slaughtered en masse and medicine shortages, could be a massacre. By comparison, a vote following a successful Brexit deal could become a victory lap. Supporters predict an election this autumn regardless. If Brexit is sorted, it would make no sense for a government to limp on without a majority, explains an aide. If Brexit rumbles on, then fed-up hardliners may bring down the man who once led them. Either way a vote is coming, which Mr Johnson will probably relish. His rhetoric is better suited to the campaign trail than to governing.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.BoJo[]:[网络] 伯爵；母情；坊城 
@@ -121,4 +122,6 @@
 104.rumble['rʌmbl]:n. 隆隆声, 辘辘声 vi. 发隆隆声, 辘辘响 vt. 使隆隆响, 低沉地说 
 105.hardliner[ˌhɑ:d'laɪnə(r)]:n. 强硬路线者 
 106.relish['reliʃ]:n. 滋味, 风味, 美味, 爱好, 食欲, 调味品 vt. 调味, 喜欢, 玩味 vi. 有味道 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

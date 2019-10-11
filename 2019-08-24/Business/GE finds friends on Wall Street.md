@@ -9,6 +9,7 @@
 Even some short-sellers backed GE—and chastised Mr Markopolos for giving them a bad name by writing his report for an investor in exchange for a cut of any profits made if GE’s share price declined. One prominent short-seller called Mr Markopolos “reckless, dishonest, and most importantly secretive”. 
 This sudden flurry of support does not mean that GE is in the clear. Joshua Ronen, an accounting professor at New York University’s Stern School of Business, has reviewed GE’s official filings about its holdings in Baker Hughes and found them “confusing”. The SEC and the Justice Department are investigating it for accounting irregularities at its insurance and power-generation divisions. GE vehemently denies any wrongdoing. As for the risks embedded in its long-term-care portfolio, the diverging opinions from Goldman Sachs and Fitch suggest that reasonable people can disagree about the size of the liabilities. But they are large. 
 And Mr Markopolos, too, has his defenders. Carson Block of Muddy Waters, a prominent short-seller, points out the investigator’s fee is not improper as long as he disclosed his economic interest, which he did. “Nobody does research for charity,” Mr Block says. Still, the fact that so many people jumped to GE’s defence betrays a renewed optimism about America Inc’s erstwhile darling. With Mr Culp, recruited after a successful stint running Danaher, a smaller conglomerate, at the helm, GE may at last be finding friends on Wall Street. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -73,4 +74,6 @@
 60.danaher[]:达纳赫（人名） 
 61.conglomerate[kәn'glɒmәrit]:a. 聚成球形的, 砾岩性的 n. 集成物, 混合体, 砾岩 v. (使)凝聚成团 
 62.helm[helm]:n. 舵, 驾驶盘, 枢机, 头盔 vt. 给...掌舵, 指挥, 给...戴头盔 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

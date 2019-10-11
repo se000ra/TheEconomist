@@ -12,6 +12,7 @@
 Istanbul, which boasts a GDP bigger than Portugal’s and a budget of just over $4bn, has also become a cash cow for companies close to the ruling party. Amid a building frenzy that has consumed the city over the past couple of decades, developers have raked in billions of dollars. Successive AK administrations have helped transform Istanbul into a rentier economy. “The rent provides profit for business”, says Selva Demiralp, a Koc University academic, “and opportunities for the government to bond with the businessmen.” Some of the key players in construction also run some of Turkey’s biggest media groups. For Mr Erdogan, controlling them means controlling the press. 
 Losing the city would also spell trouble for a number of foundations that are close to Mr Erdogan and his party. According to a recent report, foundations managed by the president’s children and friends, as well as a range of Islamic groups, received nearly $100m in subsidies from the municipality between 2014 and 2018. TURGEV, whose board includes Mr Erdogan’s daughter, the wife of his communications director and a former AK mayor of Istanbul, collected nearly 51.6m lira ($8.8m). An archery club headed by one of the president’s sons got 16.6m lira. Such foundations are also known to benefit from largesse from abroad. As a former deputy prime minister revealed a few years ago, TURGEV received $100m from unspecified foreign donors between 2008 and 2012. Mr Imamoglu has pledged to cut off municipal funding to such groups. Cigdem Toker, a journalist who documented the subsidies earlier this year, was promptly sued by one of the foundations. In today’s Turkey, that is par for the course. On June 14th, an Istanbul court accepted an indictment seeking prison terms of up to five years against a pair of Bloomberg reporters, a popular economist, and dozens of others for journalism and social media posts “targeting Turkey’s stability and economic order.” 
 Despite earlier speculation that he would stump tirelessly on Mr Yildirim’s behalf, Mr Erdogan has largely stayed off the campaign trail over the past month, possibly to avoid being associated with another defeat. But make no mistake. Turkey’s leader has plenty of skin in the game. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Istanbul[.istæn'bu:l]:n. 伊斯坦布尔 
@@ -90,4 +91,6 @@
 74.speculation[.spekju'leiʃәn]:n. 沉思, 推测, 投机 [经] 投机交易, 买空卖空 
 75.stump[stʌmp]:n. 残株, 树桩, 烟蒂, 讲演台 vt. 砍断, 挑战, 难住 vi. 蹒跚而走 
 76.tirelessly[]:adv. 不知疲倦地；不屈不挠地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

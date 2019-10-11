@@ -24,6 +24,7 @@
 Instead, the high-seas model is the one that looks likely to prevail. Both America and Luxembourg, which has long punched above its weight in the satellite and aerospace industries, have passed legislation that explicitly allow firms incorporated on their territories to carry out space mining; the United Arab Emirates is about to follow suit. Proponents of the high-seas approach like the fact that it allows commercial firms to act fast. But unbridled competition for resources is also a recipe for trouble. If a Chinese miner and an American one were to set up shop next door to each other on the lunar surface, say, domestic laws would be no help in resolving any conflict that might result. 
 That argues for co-ordination and common standards. The award of licences by national authorities could be notified to an international body modelled on the ITU’s radio-frequency regime for satellites. Rules could usefully be set for the duration of mining licences, for the placement of buffer zones around mining sites and for dispute-resolution processes. 
 Ms Hanlon, who also runs an NGO called For All Moonkind, suggests an even narrower goal: an agreement on common lunar landing-pads in order to protect historic sites such as the landing area of Apollo 11 in 1969. “We are not going to agree a treaty in the next five years, but we can take baby steps,” she says. Mr Bezos would approve of that. His talk ended with a picture of him alone at a desk in the early days of Amazon and the caption “Big things start small”. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lawless['lɒ:lis]:a. 非法的, 违法的 
@@ -152,4 +153,6 @@
 124.ngo[]:abbr. 民间组织；非政府组织（Non-Governmental Organization） 
 125.historic[hi'stɒrik]:a. 历史上著名的, 有历史性的 
 126.Apollo[ә'pɒlәu]:n. 阿波罗(太阳神), 美男子 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

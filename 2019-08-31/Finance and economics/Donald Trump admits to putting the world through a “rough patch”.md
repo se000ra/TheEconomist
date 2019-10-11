@@ -11,6 +11,7 @@
 Over the next couple of days Mr Trump softened his rhetoric, emphasising “meaningful talks” with China. He trumpeted progress towards a trade deal with Japan, which negotiators hope to seal in September. Robert Lighthizer, the United States Trade Representative, said it would cover industrial tariffs, digital trade and agriculture. The element that seemed to excite Mr Trump most was a Japanese promise to encourage firms to buy American corn. 
 Trade tensions with the European Union also eased a little. A French tax on digital services, imposed in July, had triggered an investigation into whether American businesses were being unduly burdened. Mr Trump had threatened retaliatory tariffs on French wine. But officials hashed out a deal to avoid tit-for-tat measures, in which the French reiterated that they would remove the tax once a multilateral equivalent had been agreed and was in place, and added that they would refund companies any difference between the unilateral measure and any eventual replacement. 
 Mr Trump is likely to take away from his hectic week the message that he has more leverage to reshape trade than his critics claim. Details of what was agreed during the G7 weekend are scant, but it seems that the Japanese and French both gave ground under the threat of American tariffs. It would be wrong, though, to infer that the Chinese will also do so, not least because what America is demanding of them is vastly greater. Moreover, for all Mr Trump’s sporadic boasts of being dealmaker-in-chief, his truces tend to be temporary. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -57,4 +58,6 @@
 42.vastly['vɑ:stli]:adv. 广大地, 许多, 巨大 
 43.sporadic[spәu'rædik]:a. 偶尔发生的, 零星发生的, 分散的 [医] 散在的, 散发的 
 44.truce[tru:s]:n. 停战, 休战 vi. 停战, 休止 vt. 以休战结束 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

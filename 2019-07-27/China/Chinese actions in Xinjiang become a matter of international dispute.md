@@ -9,6 +9,7 @@
 Days later, 37 countries, among them Russia and Saudi Arabia, responded with a letter of their own, defending China’s policies on the grounds of fighting terrorism. Some signatories were anti-Western autocracies which can be relied upon to rally round anyone that the West criticises. They include Russia and Venezuela. Other signatories are Western allies, such as Egypt and Saudi Arabia, which oppose what might be called the global human-rights regime. They lock up plenty of their own opponents on security grounds. Still others are beneficiaries of Chinese investment, such as Pakistan and Laos, which cannot easily afford to bite the hand that feeds them. 
 Most intriguing, however are Gulf states which back China for a combination of defence, economic and even religious reasons. The United Arab Emirates, for example, cannot get the drones it wants from America, so is buying China’s Wing Loong 2 drones. (Its de facto ruler was in Beijing this week.) It signed the letter, along with 19 other members of the Organisation of Islamic Co-operation, an international group of mostly Muslim-majority states. In 2018 China signed construction and investment contracts worth $28bn in the Middle East, a region that is struggling to attract foreign investment elsewhere. And some Gulf states, such as the UAE and Saudi Arabia, are trying to fight jihadist extremism at home by encouraging more modern forms of Islam. They seem receptive to China’s claim that it is merely attempting to modernise Uighur beliefs (though in reality Chinese actions go far beyond that). 
 China’s attempt to divide international opinion about Xinjiang has worked so far. But, as more details leak out about the region’s camps, Muslim leaders are beginning to come under domestic pressure to defend their co-religionists. One day, they may find it harder to kowtow. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -66,4 +67,6 @@
 53.modernise['mɔdәnaiz]:vt.vi. (使)现代化, (使)适应现代需要 vi. 用现代方法 
 54.Muslim['mjzlim; (?@) 'mʌzlem]:n. 伊斯兰教, 伊斯兰教教徒 
 55.kowtow[.kәu'tau]:n. 磕头 vi. 叩头 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

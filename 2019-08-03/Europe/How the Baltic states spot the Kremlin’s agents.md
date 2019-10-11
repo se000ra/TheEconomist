@@ -14,6 +14,7 @@
 Russia also recruits by blackmailing visitors who accept the advances of beautiful women, Mr Kerza says. Another approach involves creating a legal problem for a relative living in Russia or Belarus. The Balt is then told that the charges will be dropped in exchange for spying services. Mr Kerza says Lithuania checks to see if applicants for a government job have relatives in Russia. Arrests of suspected spies are common in the Baltic countries. 
 Some fret that the search for fifth columnists can be taken too far. Eitvydas Bajarunas, the Lithuanian foreign ministry’s top official for hybrid threats, tells the story of men spotted in a wooded area near Vilnius. They were quickly rounded up by special forces but released soon after. They had been playing paintball. To process leads more effectively, a new intelligence centre is quietly being readied in Vilnius for operations to begin later this year. The Baltic Special Operations Forces Intelligence Fusion Cell, as it is called, is an initiative of Estonia, Latvia, Lithuania and Poland, with American help. They are being designed so that the analysts can be rapidly dispersed to work from vehicles, lest the headquarters be targeted in a conflict. 
 Were Russia to invade the Baltic states, local Kremlin supporters could no doubt hamper resistance. But Anders Fogh Rasmussen, a former boss of NATO, says Russia is more likely to step up efforts to stoke divisions and undermine trust in Baltic democracies with the help of its “useful idiots” there. On that, many Baltic officials are cautiously optimistic. Resistance to the Kremlin narrative of a decadent, fascist West is stronger in the Baltic region than in poorer eastern Ukraine. And even there, Russia is so unpopular that it has so far failed to secure control of a land corridor to Crimea. The Kremlin’s propagandists do not always win. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Baltic['bɒ:ltik]:a. 波罗的海的 
@@ -140,4 +141,6 @@
 122.unpopular['ʌn'pɔpjulә]:a. 不得人心的, 不受欢迎的, 不流行的 
 123.propagandist[.prɒpә'gændist]:n. 宣传者 a. 宣传的, 宣传者的 
 124.alway['ɔ:lwei]:adv. 永远；总是（等于always） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

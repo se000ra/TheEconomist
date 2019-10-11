@@ -11,6 +11,7 @@
 The question is whether voters will find Cristina’s pragmatic turn and her voluntary demotion credible. Or will they see Mr Fernández as another Cámpora, a puppet rather than the boss? Whereas in Brazil three vice-presidents have taken over in the past 35 years, in Argentina two vice-presidents have resigned over the same period, points out Andrés Malamud, an Argentine political scientist at the University of Lisbon. Presidents command great power and resources. A first test of which Fernández would be in charge will come in drawing up their slate for congress. 
 Mr Macri’s team insist that Mr Fernández, who is an experienced backroom operator but not a crowd-puller, is a worse candidate than she is. Nevertheless, the race may have become more difficult for the president. His allies may press him to try to incorporate Mr Lavagna’s camp. 
 There is a silver lining for Argentina in Ms Fernández’s decision. Mr Macri has been trying to polarise the campaign as a contest between him and her. That is economically risky: when she nosed ahead, the peso trembled (it rallied this week). The opposition is now trying to woo voters in the centre. And as Mr Berensztein points out, almost everyone is now talking about the need to seek broad national agreements. Out of crises come opportunities. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bello[]:n. 贝罗（姓氏） 
@@ -81,4 +82,6 @@
 66.economically[i:kә'nɔmikәli]:adv. 节约地, 不浪费地, 节省地, 节俭地, 在经济上, 在经济学上 
 67.rally['ræli]:n. 重振旗鼓, 集合, 群众集会, 跌停回升 v. 重整旗鼓, 集合, 恢复精神, 团结, 挖苦, 嘲笑 
 68.opposition[.ɒpә'ziʃәn]:n. 反对, 敌对, 相反, 在野党 [医] 对生, 对向, 反抗, 反对症 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

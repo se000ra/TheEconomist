@@ -10,6 +10,7 @@
 The shops score highly on two other elements of a marketer’s wish-list: “dwell time” and positive association, since customers feel loyal to their branch. More than a third of customers Shift monitored spent over five minutes in a shop after receiving their food, and one in eight stuck around for more than 20. Mr Ibrahim, now 21, still goes about once a week to the shop he frequented as a child. He feels guilty if he orders chicken elsewhere, because he thinks of it as the “hub of the community”. And a lifetime’s experience tells him he can trust the food: “I know they don’t sell pigeon.” 
 Chicken shops are also in the right places. They are concentrated in deprived areas, which are also home to gangs, says Simon Harding of the University of West London. When the Home Office trialled the idea in March, it picked 15 branches in knife-crime hotspots. Shan Selvendran, boss of Morley’s, was keen on the campaign because a 15-year-old boy was stabbed to death outside one of his branches last year. And gangs sometimes groom new recruits by buying them fried chicken and then making them repay the debt, for example by running drugs. “There is a logic there,” says Mr Harding. “It’s just the execution has been pretty clunky.” 
 Even so, the campaign seems unlikely to work. Research suggests people who carry knives do so to protect themselves in areas they perceive to be unsafe, points out James Densley, an expert on British gangs. Inspirational stories alone are unlikely to alter that perception. The boxes will be split between 210 shops, or about 1,500 per branch. Since a branch can go through 1,000 in a day, it is all rather small fry. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.roost[ru:st]:n. 栖木, 休息所, 群栖的禽鸟 vi. 栖息, 安歇 vt. 使栖息 
@@ -64,4 +65,6 @@
 50.jame[]: 灰岩井 
 51.inspirational[.inspә'reiʃәnәl]:a. 凭灵感的, 鼓舞人心的, 神感的 
 52.perception[pә'sepʃәn]:n. 知觉, 感觉, 领悟力, 获取 [医] 知觉 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

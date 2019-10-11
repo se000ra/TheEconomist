@@ -14,6 +14,7 @@
 A long stretch of cost-cutting and the sale of its shale-gas business boosted the fortunes of BHP. The mining company reported underlying income of $9.1bn for the 12 months ending June, its best annual profit in five years, and returned a record dividend to shareholders. Although demand for BHP’s iron ore, copper and coal is still strong in China, it flagged trade tensions as a potential threat to business. 
 As it works towards restoring investor confidence following its troubled acquisition of Monsanto, Bayer agreed to sellits animal-health business for $7.6bn. The German drugs and chemicals group recently sold its Coppertone sun-cream unit and Dr Scholl’s foot-care division, bringing in more cash. Bayer faces a host of legal claims that its Roundup weedkiller, which it inherited when it took over Monsanto, causes cancer. 
 The weakness of the pound, which lowers the cost of buying British assets to overseas investors, was reportedly one of the factors behind an offer from CK Asset Holdings, a property investment firm based in Hong Kong, for Greene King, a pub chain. The deal is worth £4.6bn ($5.6bn). Founded in 1799, Greene King operates around 2,700 pubs, which CK Asset believes will continue to form a central part of British culture long after Brexit. Cheers to that. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.apocalypse[ә'pɒkәlips]:n. 启示, 天启 
@@ -90,4 +91,6 @@
 72.holding['hәuldiŋ]:n. 把持, 支持, 保持 [法] 租借地, 占有物, 拥有的财产 
 73.greene[]:n. 格林（姓氏） 
 74.Brexit[]:[网络] 英国退出欧盟 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

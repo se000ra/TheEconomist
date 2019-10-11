@@ -24,6 +24,7 @@
 In 1960, 15% of electorates in western Europe were affiliated with a party. Now the share is below 5%. Britain’s two big parties were once the largest civic organisations in the country. Now their combined membership is less than that of the Royal Society for the Protection of Birds. 
 Membership of unions and churches has fallen, marginalising the institutions that buttressed the centre-left and centre-right, respectively. And, except in America, voters are more fickle. Alessandro Chiaramonte of the University of Florence and Vincenzo Emanuele of Luiss University in Rome found that 8% of European voters changed their votes between national elections in 1946-68; in 1969-91, 9% did so; in 1992-2015, 13% changed their minds. 
 Everywhere, parties are finding it harder to recruit and retain members and to mobilise voters. Parties are the organising forces of parliamentary democracy. They pick candidates, approve manifestos and get out the vote. Coalitions usually revolve around one large party. If parties continue to decline, political systems are likely to become at least more fluid, and at worst harder to govern. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -182,4 +183,6 @@
 154.mobilise['mәjbilɑiz]:vi.vt. 动员, 松动, 使活动, 调动, 发动 
 155.manifesto[.mæni'festәu]:n. 宣言, 声明 
 156.revolve[ri'vɒlv]:v. (使)旋转, 反复考虑, 循环出现 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

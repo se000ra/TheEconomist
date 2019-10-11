@@ -12,6 +12,7 @@
 Only if these possibilities can be ruled out can central bankers conclude that markets are telling them something they need to hear about growth and inflation. Discerning this signal becomes trickier the more the Fed appears to respond to the market. To see why, suppose that the Fed ignores market movements completely, and instead sets policy in an entirely predictable way, responding only to hard data on growth and inflation. Any change in market expectations about Fed policy would then reflect only changes in investors’ perception of the outlook for those variables. “If Fed policy is clear and systematic,” says Charles Calomiris of Columbia University, “policymakers can glean useful information from markets.” The more the Fed responds to the market, however, the more it is “looking in the mirror”, as Alan Greenspan, a former Fed chairman, supposedly once quipped. 
 If monetary policy were entirely automated, however, the information embodied in markets would be useful but unused. What is more, reacting only to real data is like driving while looking only in the rear-view mirror. Central bankers often say that monetary policy works only with a lag of 18 months or two years. Many economists believe that flat-footedness at the Fed has been to blame for numerous post-war American recessions. 
 If the Fed wants to glean useful information from markets, it cannot pander to them. “The Fed needs to be the dog that wags the tail,” says Mr Mishkin. But when market movements have a fairly clear cause—in today’s case, the trade war—and the reaction is severe, it is likely that a rate cut will eventually be necessary. The short-term risk of moving in anticipation of events is that the outlook brightens and the rate cut then sparks inflation. Yet to the extent that economic data are telling a clear story, it is that inflation is contained. Consumer-price inflation, for example, slowed to 1.8% in May. That suggests it would be better for the Fed to get on with the rate cuts that the market expects. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.monetary['mʌnitәri]:a. 货币的, 金钱的 [经] 货币的, 金融的 
@@ -59,4 +60,6 @@
 43.cannot['kænɒt]:aux. 无法, 不能 
 44.pander['pændә]:vi. 勾引, 怂恿, 卑劣地迎合 n. 拉皮条者, 怂恿者, 助恶者 
 45.anticipation[æn.tisi'peiʃәn]:n. 预期, 预料 [医] 提前出现(如遗传病) 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

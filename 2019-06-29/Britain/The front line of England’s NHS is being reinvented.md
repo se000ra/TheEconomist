@@ -13,6 +13,7 @@
 Perhaps the biggest problem is that patients have grown used to having a doctor on demand. Although those who no longer have to queue for an appointment may be happy, others might feel fobbed off if diverted to another clinician. A study published last year by Charlotte Paddison of the Nuffield Trust, and colleagues, in the British Medical Journal found that patients had less trust in the care provided by a nurse if they initially expected to see a doctor. Patients who have a close relationship with their GP tend to be more satisfied and enjoy better health outcomes than others. 
 But other evidence suggests that, for some conditions, nurses provide care that is as good as or better than that provided by GPs. The aim, says Nav Chana of the National Association of Primary Care, which helped develop the new approach, is therefore to use small teams of doctors and other clinical staff to replicate the sort of relationship with patients that used to be more common. Just parachuting in “a lot of people who look like doctors” will not raise standards, he warns. 
 The shortage of GPs leaves the NHS with little choice but to try something new. “A lot of the world has either copied or is trying to copy English primary care,” in particular its openness to all and the continuity of care that it provides, says Dr Chana. Keeping these strengths, while changing how primary care works, is the task NHS officials are now facing up to. Even if they succeed, it will take time for the public to adjust. Having explained the benefits of the new way of doing things, one GP pauses, before adding: “I should say, though, patients don’t love it.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.nh[]:abbr. 不吸湿的（nonhygroscopic）；全日空航空公司；美国地名, 新罕布什尔（New Hampshire） 
@@ -74,4 +75,6 @@
 57.parachute['pærәʃu:t]:n. 降落伞 vi. 跳伞 
 58.openness['әupәnnis]:n. 公开；宽阔；率真 
 59.continuity[.kɒnti'nju:iti]:n. 连续性 [化] 连续性 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -8,6 +8,7 @@
 Colombia is a road-builder’s nightmare. The Andes split into three ranges at the southern border. The mountains can climb to 4,000 metres (13,000 feet) from sea level in less than 100km. Colombia gets more rain than any other country in the world, which makes maintenance difficult. Currently 12 major roads are blocked by mudslides. In a ranking of 137 national road networks by the World Economic Forum, Colombia’s comes 110th. 
 Short of cash, the government has given private firms concessions to build roads. Vía al Llano, among the earliest projects built under concession, has been accident-prone. Recently a crater opened up in Guayabetal, near the site of the biggest mudslide. Under the terms of the contract the government, not the concessionaire, is responsible for carrying out the work needed to prevent mudslides. It will now have to do that, expensively. 
 To relieve los llanos’s isolation in the meantime, Satena, a state-owned airline, and EasyFly have announced more flights between Bogotá and Villavicencio. The government has suspended passenger fees on flights between the cities. Tolls on the two alternative roads will be halved. But what the plains need most is a road that can cope with Colombia’s treacherous, rain-soaked topography. That goes for much of the rest of the country.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.llano['lɑ:nәu]:n. 大草原 
@@ -44,4 +45,6 @@
 32.halve[hɑ:v]:vt. 二等分, 对半分享, 把...减半 
 33.treacherous['tretʃәrәs]:a. 不可信任的, 危险的, 背叛的, 不可靠的 [法] 奸诈的, 背叛的, 背信弃义的 
 34.topography[tә'pɒgrәfi]:n. 地志, 地形学, 地势, 局部解剖学 [医] 局部解剖, 局部记载 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

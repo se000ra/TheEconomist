@@ -10,6 +10,7 @@
 The results became evident in Moscow over the past month. Whereas the pre-approved candidates barely bothered to campaign, certain to be ushered through by a subservient electoral commission, the opposition ones managed to collect the necessary signatures despite the authorities’ best efforts to thwart them (such as sending in thugs who intimidated volunteers and threw excrement at candidates). 
 But then, just as the opposition candidates reached the required number of backers, the electoral commission simply disqualified them. When verifying the signatures, it deliberately misspelled the names of voters and declared the lists void. As Kirill Rogov, a political analyst, wrote, “We are dealing with one of the biggest shams in Russia’s electoral history.” 
 The sham backfired. Instead of dampening interest, the Kremlin in effect mobilised those 3% of the electorate who signed their names in support of opposition candidates. “I used to be unique—they would not even acknowledge my existence,” Mr Navalny boomed from the stage. “And now they tell us that 150,000 people, who gave their signature for independent candidates, don’t exist. At last we are together.” On July 24th the authorities acknowledged his existence by detaining him (again), for 30 days, and raiding the homes of independent candidates. Faced with the problem of his own succession in 2024, Vladimir Putin has decided to nip any protest in the bud. But this escalated aggression suggests that room for a peaceful transition of power in Russia is shrinking fast. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.thuggery['θʌ^әri]:n. 谋财害命 
@@ -69,4 +70,6 @@
 55.nip[nip]:n. 捏, 夹, 寒冷, 尖刻话 vt. 捏, 夹, 钳, 剪断, 损伤, 冻伤, 一小口 vi. 夹, 捏, 刺骨, 快走, 一小口一小口地抿(酒) [计] 核心程序的初始程序 
 56.escalate['eskәleit]:vi. 逐步扩大, 逐步升高, 逐步增强 vt. 使逐步上升 
 57.transition[træn'ziʃәn]:n. 转变, 转换, 变迁, 过渡时期, 临时转调 [化] 跃迁 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

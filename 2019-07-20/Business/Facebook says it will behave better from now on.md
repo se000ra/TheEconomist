@@ -10,6 +10,7 @@
 Facebook’s new, mature face plays well with investors. After a year of scandal and abysmal press, its share price is just shy of record highs. It gained more than 1% on the news of the latest fine, which had already been priced in thanks to astute telegraphing earlier this year—a sign, perhaps, of a good working relationship with the American regulator. A Facebook which works with governments rather than around them appeals to shareholders. 
 So does Facebook’s ability to rake in money. The growth of its core social network is slowing down (see Graphic detail). But revenues from Instagram, its popular photo-sharing app, are growing apace. It has yet to realise the money-spinning potential of WhatsApp, its messaging service. Analysts expect Facebook’s second-quarter results, due out on July 24th, to show revenues up by 25% from last year, to $16.3bn. Unlike profits at some other technology firms (see article), its net income is expected to rise, by 6% to $5.4bn—more than enough to cover the fine. 
 Facebook is not out of the woods. Other regulators and politicians are lining up to take a swipe at Big Tech, and not just in America. Financial authorities are leery of Libra, worrying that it could become a vehicle for fraud and money laundering, as happened with some other cryptocurrencies. Central bankers fear that if adopted widely enough it could threaten financial stability. On July 16th Ursula von der Leyen, president-elect of the European Commission, the EU’s executive arm, said she wants the tech giants to pay more taxes. The next day the bloc’s competition chief, Margrethe Vestager, announced a probe into Amazon’s use of merchant data. In some countries data-protection regulators want to order non-compliant companies to stop processing data altogether. That would hurt considerably more than a fine.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.facebook[]:n. 脸谱网 
@@ -67,4 +68,6 @@
 53.margrethe[]:[网络] 丹麦女王玛格丽特；丹麦玛格丽特；丹麦女王玛格丽特二世 
 54.probe[prәub]:n. 探索, 调查, 探针, 探测器 v. 用探针探测, 调查, 探索 
 55.considerably[kәn'sidәrәbli]:adv. 非常地, 很, 颇 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

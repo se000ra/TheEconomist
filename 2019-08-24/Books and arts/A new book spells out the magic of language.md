@@ -11,6 +11,7 @@
 Many of the universals that hold up best are negative. There are many sensible things languages could do, but don’t. Notably, their grammars do not make use of “continuous” features, such as the length of vowels. For instance, a past-tense verb could be pronounced for a longer time to indicate how long ago the action occurred—perfectly logical, but no language does this. Syntax uses discrete units, not continuous ones. Whether this is proof of universality is a matter of opinion. 
 Lastly, Mr Adger embraces the latest of Mr Chomsky’s theories, “Merge”, a mental function in which two units may be joined to a larger one that can then be operated on by the mind’s grammar-processor. The two-year-old who beat Kanzi could Merge “water and lighter” and apply the verb to both; Kanzi seemed to treat words like beads on a string, rather than mentally grouping them into bigger units in a structure. 
 Mr Chomsky thinks a single human developed the ability to perform Merge tens of thousands of years ago, and that this is the only feature unique to human language. Mr Adger does not explicitly defend either of these claims. But his tour of Chomskyan linguistics is entertaining and accessible—in contrast to Mr Chomsky’s own notoriously baffling prose. His book is a handy introduction to a vexed debate on the infinite power of the finite mortal mind.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.johnson['dʒɔnsn]:n. 约翰逊（姓氏） 
@@ -76,4 +77,6 @@
 61.baffle['bæfl]:vt. 困惑, 为难, 使挫折 vi. 徒作挣扎 n. 迷惑, 挡板 
 62.prose[prәuz]:n. 散文 v. 写散文 a. 散文的, 平凡的 
 63.finite['fainait]:a. 有限的, 有穷的, 限定的 n. 有限物 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -13,6 +13,7 @@
 So the old EPP-S&D duopoly in the parliament is dying, but nothing has yet emerged to replace it. Fragmentation has already come to the European Council, where the 28 member states are represented. Now it is coming to the Parliament. Then it will come to the next commission, which is appointed by the former and approved by the latter in a process that will begin at a post-election EU summit on May 28th. Under a convention established back in 2014 the designated candidate of the largest group in the parliament has the first claim to the commission’s presidency. But securing the necessary majority in the fragmented new legislature will be tricky. Manfred Weber, the EPP candidate, whose group will probably be the largest, will need the backing not just of the S&D but of liberals and perhaps some greens—a new centrist “super-grand coalition”. Leaders may pick an alternative figure deemed to have broader appeal, like Michel Barnier, the commission’s chief Brexit negotiator. They will be influenced by the quest for regional and ideological balance among the big posts to be filled in the coming months, which also include those of European Council president, High Representative for Foreign and Security Policy and president of the European Central Bank. 
 The absence of easy majorities in the next parliament will mean an array of subject-by-subject coalitions, especially on contentious looming subjects like the next seven-year budget, carbon emissions targets, border policies and the rule of law in countries like Hungary and Poland. Simon Hix of the London School of Economics notes that the outgoing parliament has already seen the joint power of the two big groups decline, with a left-liberal coalition winning votes on justice and the environment and a right-of-centre one winning some economic votes. He predicts more of this, though with more horse-trading and uncertainty. A similar shift could occur in the council, with the weakened Franco-German alliance ceding more prominence to new groupings like the fiscally hawkish “Hanseatic League” of northern states. 
 All of this fragmentation will advance the other tendency of the campaign evident at Mr Salvini’s gathering in Milan: European politics is slowly becoming more truly European. The old days of stitch-ups by the EPP and S&D or by Paris and Berlin are fading. Ideological conflicts are crossing borders more often. Much EU business will continue to be done at late-night summits and in little-watched parliamentary debates. But more than in the past they will spill out of these. A more fragmented EU is also a more political EU. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.centrifugal[sen'trifjugl]:a. 离心的 n. 离心机, (离心机的)转筒 
@@ -108,4 +109,6 @@
 91.Berlin[bә:'lin]:n. 柏林, (软质)柏林毛线 
 92.ideological[.aidiә'lɒdʒikәl]:a. 意识形态的, 空想的 [法] 思想的, 思想上的, 意识形态的 
 93.parliamentary[.pɑ:lә'mentәri]:a. 国会的, 议会的, 议会制度的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

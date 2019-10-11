@@ -14,6 +14,7 @@
 That worries some Batswana. As president, Mr Khama built up the country’s spy agencies and surrounded himself with securocrats, who appointed allies to top jobs, such as head of the main anti-corruption body. Human-rights groups accuse the authorities of intimidating journalists and NGOs. “The space for civil society has shrunk,” says Alice Mogwe, a lawyer. 
 Mr Masisi says he was once a “bootlicker”, but is now his own man. So far, that seems to mean making rash populist pledges in order to shore up the BDP’s support. The repeal of the hunting ban has impressed rural voters, but hurt tourism bookings nationwide. A proposal to build electric cars in Botswana is unrealistic. 
 The election campaign does not bode well for Botswana’s reputation for sound policy. That matters as the country tries to reduce its dependence on diamonds, which make up roughly the same share of exports today (73%) as they did in 1992 (71%). Botswana still has enviable institutions. But there is a sense among Batswana that what made their country special is at risk. “Botswana’s exceptionalism?” ponders David Sebudubudu of the University of Botswana. “That’s history now.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -104,4 +105,6 @@
 86.enviable['enviәbl]:a. 令人羡慕的, 可羡慕的 
 87.ponder['pɒndә]:v. 沉思, 考虑 
 88.david['deivid]:n. 大卫；戴维（男子名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

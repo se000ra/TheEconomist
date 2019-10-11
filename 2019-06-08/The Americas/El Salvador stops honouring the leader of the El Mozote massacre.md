@@ -7,6 +7,7 @@
 Then, in 2016, the Supreme Court declared the amnesty law unconstitutional and ordered a new investigation into crimes like the El Mozote massacre. The elderly survivors trekked to mass graves in the mountains to watch anthropologists exhume their murdered relatives’ bones and to a courtroom in a dusty town to testify in the trial of 18 military officers accused of participating in the carnage. On May 21st peasants in house dresses and ranchero hats picketed the halls of congress to protest against an attempt by Arena and the FMLN to pass a new amnesty law. After an outcry and an intervention from the Inter-American Court of Human Rights, the politicians postponed the vote. 
 Mr Bukele, who was just four months old at the time of the massacre, is the first president since the war to belong to neither political party. He got his start in advertising, and his seven years of political experience—most recently as mayor of San Salvador, the capital—have been characterised by urban regeneration, social-media wizardry and feuds with journalists and political rivals (in 2017, he engineered his ejection from the FMLN by criticising it). Young people and poor people support him but he has few allies in congress. His inauguration speech in a packed plaza in San Salvador offered little in the way of plans to tackle the country’s myriad problems: gang violence that drives thousands of refugees to leave each year; a shortage of cash for social programmes; and corruption scandals involving both the FMLN and Arena. 
 Mr Bukele’s order to take down Monterrosa’s name—which he announced on Twitter—signals an attempt to break with those parties’ legacies. Less than 24 hours after Mr Bukele’s tweet, on the afternoon of June 2nd, soldiers in T-shirts and camouflage trousers appeared with ladders outside the barracks in San Miguel. They chipped away at the paint until Monterrosa’s name had disappeared.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.killer['kilә]:n. (非正式)杀人者, 屠杀者, 猛兽, 致死(疾病), 杀手, 止痛药, 限制器, 瞄准器 [计] 删除程序; 断路器 
@@ -69,4 +70,6 @@
 58.trouser['trauzә]:a. 裤子的 
 59.barrack['bærәk]:n. 兵舍, 军营 vt. 使驻兵营内 
 60.chip[tʃip]:n. 屑片, 薄片, 碎片 vt. 削, 切, 削成碎片, 使摔倒, 凿 vi. 削下屑片 [计] 孔屑; 组件; 晶片; 芯片 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -8,6 +8,7 @@
 Trade was trickier. Mr Trump promised a “phenomenal” post-Brexit deal that would double or even triple bilateral trade. But he also echoed his ambassador by saying that everything should be on the table. That includes not just farm products but access to the NHS. When most Tory leadership candidates instantly said the health service was not for sale, Mr Trump backtracked. But his own trade negotiating documents make clear that America will look for more NHS contracts and higher drug prices. What’s more, Congress has said it will not ratify any trade deal if Brexit is seen to threaten peace in Northern Ireland. A bilateral deal looks both hard and far off. 
 The British managed to get in a few subtle digs of their own, with the queen and Mrs May going out of their way to praise the role of international institutions, which Mr Trump has criticised or in some cases abandoned. The prime minister openly admitted to differences on climate change and Iran, and she used this week’s D-Day commemoration to remind the president of the value of NATO in upholding the global order. Mr Trump’s response was to repeat his demand that NATO allies spend more on defence. 
 Besides praising Mr Johnson, with whom he spoke by phone, Mr Trump sought meetings with Jeremy Hunt, the foreign secretary, who he said would make a good prime minister, and with Michael Gove, the environment secretary, whom he claimed not to know. The White House has clearly decided these are the three strongest candidates to succeed Mrs May. It is not obvious that Mr Trump’s support will prove helpful, any more than did Barack Obama’s backing for the Remain campaign in 2016. Yet it could weigh with some Tory party members. Certainly Mr Hunt and Mr Gove seemed pleased. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -64,4 +65,6 @@
 52.michael['maikl]:n. 迈克尔（男子名） 
 53.gove[]: [人名] 戈夫; [地名] [澳大利亚、美国] 戈夫 
 54.barack[bɑ:'ræk]:n. 巴拉克（男子名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 There is more. As they will remain safe and snug inside a vertical farm, long-forgotten varieties of fruit and vegetables can stage a comeback. Most of these old-timers have been passed over by varieties bred to withstand the rigours of intensive farming systems. A cornucopia of unfamiliar shapes, colours and flavours could arrive on the dinner table. 
 This glimpse of Eden is still some way off. The electricity bill remains high, principally because of the cost of powering the huge number of LEDs required to simulate sunlight. That means vertical farming can, for the time being, be profitable only for high-value, perishable produce, such as salad leaves and fancy herbs. But research is set to bring the bill down and the costs of renewable energy are falling, too. In a hot climate such as Dubai’s extensive solar power could make vertical farms a valuable food resource, particularly where water is scarce. In a cold climate thermal, wind or hydroelectric power could play a similar role. 
 Some field crops, including staples such as rice and wheat, are unlikely ever to be suitable for growing in vast stacks. But as its costs fall thanks to further research, vertical farming will compete more keenly with old-fashioned greenhouses and conventional, horizontal farms where crops grow in the earth. As an extra form of food production, vertical farming deserves to be welcomed, especially by the people whose impulse is to turn their back on the future. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.horticulture[.hɒ:ti'kʌltʃә]:n. 园艺 
@@ -71,4 +72,6 @@
 58.staple['steipl]:n. 主要产物, 常用品, 主要要素, 原料, 订书钉, 钩环 a. 主要的, 重要的 vt. 分级, 钉住 
 59.keenly['ki:nli]:adv. 锐利地, 敏捷地, 激烈地 
 60.impulse['impʌls]:n. 冲动, 驱使, 刺激, 推动, 冲力, 建议, 脉冲 vt. 推动 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

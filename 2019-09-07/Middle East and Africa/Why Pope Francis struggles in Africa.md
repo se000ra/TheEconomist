@@ -15,6 +15,7 @@
 Even leaving aside the sensitive ideological questions that divide conservatives from relative liberals like Francis, the sheer size of the African Catholic church makes it difficult for anyone to control. Take a recent clerical dispute in Nigeria. Francis tried in 2017 to use the might of his office to force priests in the diocese of Ahiara to submit to a bishop who was not a member of their cultural and linguistic group. The clerics were told to write personal letters of apology for their reluctance to accept the unpopular prelate. Some letters were penned, but the Vatican blinked first: the bishop stepped aside. 
 Elizabeth Foster of Tufts University, who has just written a book called “African Catholic”, says today’s lively, stubborn church is in some measure a by-product of French colonial policies. During the final decade or so of colonial rule, the French state overcame its secular principles and helped the church in a burst of missionary zeal, building schools and dispensaries which spread the faith. This produced a generation of well-educated and articulate Francophone clerics, but they did not always take the line that was expected by the church or state in Paris. 
 Little wonder that Francis finds Africa uncomfortable. But his successor, whoever he is, will at the very least have to focus more on it. He may even be African.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.pope[pәup]:n. 罗马教皇, 主教 
@@ -145,4 +146,6 @@
 126.articulate[ɑ:'tikjulit]:a. 发音清晰的, 口才好的 vt. 明白地说, 以关节连接, 使成为系统的整体 
 127.francophone['fræŋkәufәun]:n. (尤指在使用两种或多种语言国度里的)操法语者,讲法语的(当地)人 
 128.successor[sәk'sesә]:n. 继承者, 接任者 [计] 后继 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

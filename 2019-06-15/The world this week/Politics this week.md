@@ -24,6 +24,7 @@
 Ten candidates jostled to become leader of Britain’s Conservative Party, and thus the country’s next prime minister. Boris Johnson is the bookies’ favourite, but not Europe’s. See article. 
 The British government amended the Climate Change Act to set a target of eliminating Britain’s net emissions of greenhouse gases by 2050. The “net zero” target is the first in any G7 country. There are two wrinkles: it is unclear whether the target will include emissions from aviation and shipping; and policies adopted to reach the target may make use of international offsets. 
 Norway’s parliament voted to require the country’s sovereign-wealth fund, the world’s largest, to divest from fossil-fuel companies. Energy giants that have invested heavily in renewables, such as BP and Shell, are excluded. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.V[vi:]:[计] 溢出, 变量, 向量, 检验, 虚拟, 垂直 [医] 钒(23号元素) 
@@ -128,4 +129,6 @@
 100.divest[dai'vest]:vt. 使摆脱, 使脱去, 夺去 [经] 取消权力 
 101.renewable[ri'nju(:)әbl]:a. 可更新的, 可恢复的, 可继续的, 可换新的, 可重复的, 可重说的 [计] 可更新, 可再生的 
 102.bp[]:[化] 碱基对 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

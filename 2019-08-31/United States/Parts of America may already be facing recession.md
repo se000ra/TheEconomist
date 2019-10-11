@@ -14,6 +14,7 @@
 ![image](images/20190831_USM973.png) 
 Even if America avoids a recession, the present slowdown may prove politically consequential. Weakness in some sectors, like retail, is spread fairly evenly across the country. But in others, like construction or, especially, manufacturing, the nagging pain of the moment is more concentrated (see map). Indiana lost over 100,000 manufacturing jobs in the last downturn, equal to nearly 4% of statewide employment. It is now among a modest but growing number of states experiencing falling employment: a list which also includes Ohio, Pennsylvania and Michigan. 
 Those four states, part of America’s manufacturing heartland, suffered both early and deeply during the Great Recession. In 2016 all delivered their electoral-college votes to Mr Trump, handing him the presidency. The president’s trade war might have been expected to play well in such places. But if the economic woe continues, voters’ faith in Mr Trump is anything but assured. Choked states might well turn Democrat-blue.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.recession[ri'seʃәn]:n. 后退, 凹处, 衰退, 归还 [医] 退缩 
@@ -93,4 +94,6 @@
 75.heartland['hɑ:tlænd]:n. 心脏地区, 中心地带 
 76.presidency['prezidәnsi]:n. 总统职权, 总裁职位 
 77.woe[wәu]:n. 悲哀, 悲痛, 苦痛 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

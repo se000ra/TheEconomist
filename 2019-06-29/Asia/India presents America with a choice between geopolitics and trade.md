@@ -11,6 +11,7 @@
 Both sides would prefer to avoid a full-blown conflict. Since 2002, when America’s ambassador to India called Indo-American trade and investment “as flat as a chapati”, it has grown rapidly (see chart), making America India’s biggest export market. Moreover, India’s economy is slowing, which will presumably make the government even warier than it otherwise would be of a trade war. 
 Although India accounts for only a small fraction of America’s trade, there are plenty of big American firms that would lobby against tit-for-tat tariffs. And hawkish American trade officials have their talons full at the moment. The fact that it was Mr Pompeo who visited, rather than Robert Lighthizer, America’s top trade negotiator, suggests that the administration’s geopoliticians have the upper hand for now. 
 Yet both countries have leaders with protectionist instincts. India also has a growing trade surplus with America—not something that will endear it to Mr Trump. He has called India the “tariff king” and often cites its 50% duty on Harley-Davidson motorbikes as a textbook example of the unfair treatment of American exports. Mr Pompeo and his Indian counterpart, Subrahmanyam Jaishankar, insist that the two countries will find a way to resolve their differences—but it is not up to them. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ally['ælai. ә'lai]:n. 同盟者, 同盟国, 助手 vt. 使联盟, 使联合, 使有关系 vi. 结盟 
@@ -76,4 +77,6 @@
 61.cite[sait]:vt. 引用, 引证, 表彰 [建] 引证, 指引 
 62.counterpart['kauntәpɑ:t]:n. 副本, 复本, 配对物, 相应物 [经] 副本, 正副二份中之一 
 63.subrahmanyam[]:[网络] 布拉曼亚母 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

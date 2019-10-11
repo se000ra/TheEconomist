@@ -35,6 +35,7 @@
 Regime change sounds easier than occupation; but it has not proved a very productive strategy in recent years. And if the new regime inherits a nuclear programme, even a degraded one, any relief might prove short-lived. 
 Neither side is eager for war; but Iran is definitely eager to see sanctions relaxed, and has few ways of achieving that end which do not look warlike. What is more, ratcheting down is harder than ratcheting up. And if North Korea is indeed the template, it is not a terribly encouraging one. Yes, Mr Trump and Mr Kim are again exchanging warm letters. But Mr Kim shows no sign of being willing to denuclearise in the way America wants him to, and continues to churn out fissile material for bombs. 
 There is a deeper difference. With North Korea Mr Trump appeared to defuse, or at least defer, a serious crisis that predated him. With Iran, he faces an unnecessary crisis of his own making. That sad fact of authorship may make it harder for him even to appear to come out ahead.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.ratchet['rætʃit]:n. 棘轮, 棘爪 [机] 棘轮, 棘齿轮 
@@ -263,4 +264,6 @@
 224.defer[di'fә:]:vi. 推迟, 延期, 听从 vt. 使推迟, 使延期 
 225.predate['pri:'deit]:vt. 倒填...的日期, 把...的日期填早, 在日期上早于, 在日期上先于 [经] 提前日期 
 226.authorship['ɔ:θәʃip]:n. 原作者, 根源, 原创造者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

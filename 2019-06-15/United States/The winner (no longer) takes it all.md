@@ -10,6 +10,7 @@
 For lefties on both sides of the Atlantic, this is part of the plan. American thinkers hoping to shove the Democratic Party further left can point to Britain as a laboratory of left-wing ideas. Meanwhile British politicos, whose bookshelves bulge with biographies of dead American presidents and boxsets of “The West Wing”, crave American approval. An idea backed by a presidential candidate seems less outlandish. 
 How far the proposal will go under Mr Sanders has yet to be decided. It is flexible. In effect the policy creates a knob, which can be twiddled between a redistribution of capital and control, all the way to handing the means of production to workers wholesale (as was Mr Meidner’s original intention, until ABBA intervened). 
 Polling for Democracy Collaborative indicates that people like the idea: about 55% of American voters support putting up to half of a company’s shares in a trust for workers. Even 50% of Republicans support such a scheme, with only 30% opposed. An idea that was rejected as too left-wing in 1980s Sweden is being revived in the twin engines of the Anglo-Saxon economy. Nevertheless, with ABBA on tour again in America this summer, maybe Mr Sanders should watch out.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -74,4 +75,6 @@
 60.voter['vәutә]:n. 选民, 投票人 [法] 选民, 选举人, 投票人 
 61.Sweden['swi:dn]:n. 瑞典 
 62.revive[ri'vaiv]:vt. 使苏醒, 使复兴, 使振奋, 回想起, 重播 vi. 苏醒, 复活, 复兴, 恢复精神 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

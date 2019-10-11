@@ -12,6 +12,7 @@
 Then there are Malaysia’s racial politics. The government was forced to abandon plans to ratify the International Convention on the Elimination of All Forms of Racial Discrimination, a UN-sponsored treaty, after objections from Malays, the country’s biggest ethnic group, who feared this might threaten the many affirmative-action schemes that favour them and discriminate against other groups. The opposition has painted many of the government’s reforms as harmful to Malays or contrary to Islam (the religion of most Malays)—charges fledgling ministers, many of whom are neither Malay nor Muslim, lack the confidence to rebut forcefully. 
 Perhaps the biggest problem is that voters, and thus the government, are more interested in other subjects, most notably the economy. Repealing a hated goods-and-services tax was among PH’s first moves upon taking power. “I don’t think human rights is a real top priority,” admits one activist working with the government. 
 As voters tire of the government, however, reforms will become harder to enact. “If you don’t do it off the bat when you come into power I’m not sure it will ever get done,” says Ambiga Sreenevasan, a prominent lawyer investigated for sedition by Mr Najib’s government. Malaysians voted for a coalition that loudly and explicitly espoused liberal values—but that may not have been why they voted for it. In the meantime, the state retains the power to repress their views. One of Zunar’s drawings captures the situation well. In it the stripes of Malaysia’s flag become bars behind which its people are imprisoned. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.callow['kælәu]:a. 年轻而无经验的, (鸟)羽毛未丰的 [机] 无羽毛的 
@@ -110,4 +111,6 @@
 94.explicitly[]:adv. 明确地；明白地 
 95.espouse[i'spauz]:vt. 支持, 赞成, 嫁, 娶 [法] 娶, 出嫁, 信奉 
 96.repress[ri'pres]:vt. 镇压, 抑制, 压制 vi. 压制 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

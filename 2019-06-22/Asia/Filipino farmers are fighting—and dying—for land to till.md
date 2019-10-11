@@ -12,6 +12,7 @@
 Other counter-poverty schemes, however, are more effective. When it comes to improving the wellbeing of the rural poor, “conditional cash transfers blow all other programmes away,” says Roehlano Briones of the Philippine Institute for Development Studies. And land reforms seem to foment conflict. The authorities contend that the activists who campaign for it are closet communists who recruit farmers to the New People’s Army (NPA), a 50-year-old insurgent group which America labels as terrorist. One activist admits: “There’s some crossover.” There are perhaps 300-400 NPA guerrillas on Negros, ranged against some 2,000 soldiers. 
 The president has started a campaign to pacify the island. “It’s much, much worse under Duterte,” says the former head of a farming co-operative near the town of Toboso, describing a recent spate of night raids by soldiers on his hamlet. On-again-off-again peace talks with NPA leaders have not stemmed the fighting. 
 Through locked gates in Bacolod, the biggest city on Negros, an activist says that he and his family have talked about how likely he is to be killed. He expresses optimism, however, that whenever his murder comes, it will at least serve to inspire other campaigners. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Filipino[.fili'pi:nәu]:n. 菲律宾人 
@@ -82,4 +83,6 @@
 66.Bacolod[bɑ:'kəulɔd]:n. 巴科洛德（菲律宾港市） 
 67.optimism['ɒptimizm]:n. 乐观主义, 乐观, 乐天 [医] 乐观主义, 乐观 
 68.campaigner[kæm'peinә]:n. 从军者, 老兵, 竞选者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

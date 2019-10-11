@@ -14,6 +14,7 @@
 A lot of this is found at one of the most hazardous industrial sites in Europe, Sellafield, also in north-west England. Sellafield began producing plutonium for bombs in 1947. In 1956 the world’s first commercial-sized civil nuclear power station opened there. The site went on to become a centre for reprocessing nuclear fuel. Cleaning up Sellafield’s decaying buildings and nuclear-waste storage facilities will take decades. Robots with autonomous abilities would greatly hurry that process along. 
 Nor is it just inside buildings that robots can help. This April Dr Scott and his colleagues at Bristol completed an aerial survey of the Red Forest in the Chernobyl exclusion zone in Ukraine using robotic drones. Even 33 years after the accident at the site’s number four reactor, they found previously undetected radiation hotspots. 
 Unlike a neat and tidy factory, where robots can be programmed to undertake repetitive tasks without any surprises, decontaminating an old nuclear site requires the ability to operate in an unstructured environment. In some cases, operators may not even know what they might find inside a building. Devising artificial intelligence clever enough to deal with all this will be tricky. But if Dr Stolkin and his colleagues succeed, their efforts are likely to have a wider impact, stretching even into the world of jobs that people are, at the moment at least, content to do themselves.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -88,4 +89,6 @@
 70.repetitive[ri'petitiv]:a. 重复的, 反复性的 
 71.decontaminate[.di:kәn'tæmineit]:vt. 净化, 排除污染 
 72.unstructured[.ʌn'strʌktʃәd]:a. 无特定结构的, 非系统组成的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -8,6 +8,7 @@
 In all cases, the priority is to access treatment. Nina White, whose seven-year-old daughter has cystic fibrosis and is a member of the buyers club, currently pays Vertex’s list price. The treatment has made a big difference. Her daughter has more of an appetite and is no longer so tired that she has to skip friends’ parties. “If I had to sell my house [to buy the drug], I would sell my house,” she says. Those with hepatitis C would sometimes travel to India to get access to sofosbuvir before it became more readily available on the NHS. “People are creative, aren’t they?” says Rachel Halford of the Hepatitis C Trust. “You could get your assessment done and have a mini break.” 
 Pharmaceutical firms have warned that the trend weakens the incentive to invest in research; Vertex says it has invested $7bn in developing medicines for cystic fibrosis. Just Treatment is now urging the government to use a “crown use” licence to override Vertex’s patent. The government has so far resisted, partly because of the signal it would send about the security of patents in Britain. There would also be practical issues which could slow the roll-out, such as the likelihood of litigation, says Charles Clift of Chatham House, a think-tank. 
 But in a debate in Parliament on June 10th Seema Kennedy, a health minister, said that because of the length of negotiations she had a “moral obligation” to consider such a move. “Vertex has had a strong negotiating position precisely because of their monopoly,” notes Suerie Moon of the Graduate Institute of Geneva, meaning the firm now has a much greater incentive to cut its price. Thanks to the buyers club the cost of treatment has already fallen significantly. With any luck, it will now drop further still. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.buyer['baiә]:n. 买主, 买方 [经] 买主, 买方, 买手 
@@ -57,4 +58,6 @@
 45.monopoly[mә'nɒpәli]:n. 垄断, 专卖权, 独占事业 [经] 垄断, 专利品, 垄断(权)独占 
 46.Geneva[dʒi'ni:vә]:n. 日内瓦, (荷兰)杜松子酒 
 47.significantly[]:adv. 值得注目地；意味深长地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

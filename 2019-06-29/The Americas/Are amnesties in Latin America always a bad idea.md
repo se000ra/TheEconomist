@@ -14,6 +14,7 @@
 There are other reasons why undoing amnesties might be bad. Although El Salvador’s peace process was successful, the country has not been. Like much of Central America, it suffers from criminal violence. Some citizens might argue that establishing the rule of law in the present should be the priority. 
 That some countries have torn up amnesties may make achieving peace or democracy harder in others. In Venezuela the opposition has offered amnesty to generals who turn against the dictatorship of Nicolás Maduro. But “most high-ranking officers…don’t believe in the amnesty,” according to Caracas Chronicles Political Risk Report, a newsletter. 
 Political debate in Latin America is too often focused on the past. A region that has fallen behind the rest of the world economically and technologically can ill afford that luxury. None of this is an argument against applying justice where possible. It is to recognise that it carries risks.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bello[]:n. 贝罗（姓氏） 
@@ -85,4 +86,6 @@
 67.newsletter['nju:z.letә]:n. 时事通讯, 业务通讯, 时事传报 [法] 时事通讯, 时事信札 
 68.economically[i:kә'nɔmikәli]:adv. 节约地, 不浪费地, 节省地, 节俭地, 在经济上, 在经济学上 
 69.technologically[teknә'lɔdʒikәli]:adv. 技术上地；科技地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

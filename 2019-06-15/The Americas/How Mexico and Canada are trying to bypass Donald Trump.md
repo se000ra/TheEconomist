@@ -11,6 +11,7 @@
 In Washington, the Canadian and Mexican embassies trade tips on which American senators are pliable and which are tepid on trade (both worry about the trade-scepticism of newly-arrived Democrats). And each has painstakingly collected state- and even county-level economic data to be presented in one-on-one meetings. They pounce when lawmakers leave the capital for their home states, where their schedules tend to be emptier. “If there is a barbecue, we’ll go there,” says one official. Most American lawmakers are said to be surprised when told how much trade their district does across the Mexican and Canadian borders. 
 What is the effect of all this? One diplomat jokes that it is like advertising. It gets through half the time, but no one knows which half: “You know that speaking to 20 influential people at a time, something will work.” Canada and Mexico both share borders with important states that helped Mr Trump win the presidency. Along the Mexican border, where there are large Mexican-American populations, not everyone shares Mr Trump’s antipathy to their southern neighbour. Mexico’s new ambassador to the United States, Martha Bárcena Coqui, has visited four states won by Mr Trump in her first five months. 
 The aim for now is to ensure that Congress will be quick to approve the United States-Mexico-Canada Agreement, Mr Trump’s revamp of NAFTA. And perhaps some lobbying will also work its way up the chain to Mr Trump. But even if it does not change his mind, this new diplomacy could also outlast the president. Efforts by North America’s regions to build links across borders have been “accelerated by our national leadership”, says Eric Garcetti, the Spanish-speaking mayor of Los Angeles, who will host the mayors’ summit next year. Those links will last. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bypass['baipɑ:s]:n. 旁路 vt. 省略, 绕过, 忽视, 回避 
@@ -65,4 +66,6 @@
 50.eric['erik]:abbr. 科教资源信息中心（Educational Resources Information Center）；电子遥控与独立控制（Electronic Remote and Independent Control） 
 51.garcetti[]:[网络] 市议员伽西提 
 52.angeles[]:n. 安杰利斯（姓氏）；天使城（菲律宾地名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

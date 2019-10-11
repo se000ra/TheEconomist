@@ -11,6 +11,7 @@
 She could draw and paint wherever she was, and did so whenever she could. Her Indian ink got spilt on various floors, and her best presents (as for Anna, her persona in “Pink Rabbit”), were paintboxes and crayons, especially bright-blue-purply ones. Once in England, doing odd small jobs, she went to art evening classes and got a scholarship to the Central School of Arts and Crafts. Meanwhile she sketched everything she saw, especially people in motion or asleep. She sold her first painting for 3/6 to a man in a Lyons tea shop, and then sold more. By the 1950s she thought she could make a modest living at it, and after a break to have the children she turned to the drawing of picture books again. 
 Over years of cosy bedtime stories with Tacy and Matthew, she had watched their faces closely to see how they reacted. Her iron rule was never to describe what they could tell from the picture, and to use as few words as possible. But she liked to challenge children, too. She knew, from “Pink Rabbit”, how to touch deftly on terrifying things, and that book had become a set text in German schools. So in “Mog in the Dark”, Mog “sat in the dark and thought dark thoughts” of what else might be lurking there. And in “Goodbye Mog” in 2002 Mog died, though “a little bit of her stayed awake to see what would happen next.” Many small readers were upset, and her chronicler was sorry. But she was a little tired of drawing all those stripes, and she also thought it an important book to write. 
 Even more important was to live life as she did, with joy and energy and the odd tot of whisky, and not to waste one day of it. Though she thought she was such an ordinary person, who often wore the wrong clothes and was a useless cook, her luck in life had been extraordinary. She had made a wonderful marriage; and she had escaped horrors. Her autobiography was dedicated to “the one and a half million Jewish children who didn’t have my luck, and all the pictures they might have painted.” Of tigers, too.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.judith['dʒu:diθ]:n. 朱迪思（女子名） 
@@ -69,4 +70,6 @@
 54.chronicler['krɔniklә(r)]:n. 年代史编者, 记录者 
 55.tot[tɒt]:n. 小孩, 少量, 合计 vi. 合计, 总计为 vt. 加 [计] 全体, 总数, 传送开销时间 
 56.dedicate['dedikeit]:vt. 献出, 贡献 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

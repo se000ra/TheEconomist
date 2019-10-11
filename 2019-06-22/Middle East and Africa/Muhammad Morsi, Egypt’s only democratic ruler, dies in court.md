@@ -13,6 +13,7 @@
 Three hours after Mr Morsi died, Egypt’s public prosecutor published a report on his death. Unsurprisingly, it found no signs of mistreatment, and so no reason to blame the state. But Mr Morsi’s family had long worried about his health. He was held in solitary confinement in Tora prison, notorious for its grim conditions. Human Rights Watch, a pressure group, alleges that the diabetic ex-president received inadequate medical care. During a court session he hinted that guards were trying to poison his food. Amr Darrag, a former minister in Mr Morsi’s government, calls his death “tantamount to state-sponsored murder”. 
 Mr Morsi’s treatment contrasts sharply with that of his predecessor, a man who misruled Egypt for 30 years. Mr Mubarak too faced trial after the revolution. He was held not in Tora prison but in a military hospital in a pleasant Cairo suburb. With the cases against him dismissed, he is enjoying a peaceful retirement. The armed forces look after their own. 
 Mr Morsi was a poor president. But he was the only popularly elected one in Egypt’s long history. It is a tragic coda for the revolution that he spent his final years rotting alone in a cell. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.epilogue['epilɒg]:n. 结语, 尾声, 收场白 [计] 收尾程序 
@@ -101,4 +102,6 @@
 84.popularly['pɒpjulәli]:adv. 通俗地, 平易地, 通过民众 
 85.tragic['trædʒik]:a. 悲惨的, 悲剧的 
 86.coda['kәudә]:n. 尾音, 乐章结尾部, 结尾段 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

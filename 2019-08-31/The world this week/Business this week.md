@@ -15,6 +15,7 @@
 Boeing faced its first lawsuit from a customer over the grounding of its 737  max fleet following two fatal crashes. Avia, a Russian firm that leases aircraft, wants to cancel its order for the 737 MAX, arguing that Boeing misrepresented the safety design of the plane. 
 Philip Morris International confirmed it was holding merger talks with Altria, which, if successful, would create a behemoth in the tobacco industry. See article. 
 Tributes were paid to Ferdinand Piëch, who died aged 82. Mr Piëch ran Volkswagen during its transformation into one of the world’s biggest car companies, heading the supervisory board until his departure in 2015 amid the dieselgate scandal. Mr Piëch was a brilliant engineer. His achievements included the Porsche 917, the most influential racing car of its time, and the Quattro, a four-wheel-drive sports car that turned Audi into a rival to BMW and Mercedes. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Populism['pɒpjulizm]:n. 平民主义, 民粹主义 
@@ -100,4 +101,6 @@
 81.audi[]:n. 奥迪公司；奥迪汽车 
 82.bmw[]:abbr. 德国宝马汽车公司（Bavarian Motor Works） 
 83.mercedes['mә:sidi:z]:n. 梅塞德斯（人名）；梅赛德斯（公司名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

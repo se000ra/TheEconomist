@@ -11,6 +11,7 @@
 Gabon was never free of corruption, but it has reached levels that threaten the viability of foreign businesses. Some say they will leave soon. The deterioration seems linked to Mr Bongo’s stroke. Many Gabonese suspect that the president, who is 60 years old, will never be well enough to resume full-time work. Officials are trying to extort cash while they can, out of fear that they may eventually lose their jobs. 
 Gabon’s neighbours, Congo-Brazzaville and Cameroon, are also former French colonies with plenty of oil. And both have ageing leaders who are rarely seen in public. Paul Biya, Cameroon’s 86-year-old president, spends much of his time in a suite at the InterContinental Hotel in Geneva. In his absence, protests in the English-speaking north of the country have turned into a civil war. Denis Sassou Nguesso, 76, has ruled Congo-Brazzaville for all but five of the past 40 years. On August 6th his son was accused by Global Witness, a watchdog, of stealing $50m of state funds. 
 Since independence in 1960, Gabon has avoided civil war and coups. It maintains close relations with France. Yet it is becoming inhospitable for foreign businesses. Mr Bongo, for all his flaws, knew not to kill the golden goose. Some of his officials seem not to have learned the lesson. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.scam[skæm]:n. 骗局, 诡计；故事 
@@ -59,4 +60,6 @@
 44.watchdog['wɒtʃdɒg]:n. 看门狗, 监察人 [化] 监控设备; 监视器 
 45.inhospitable[in'hɒspitәbl]:a. 冷淡的, 不适于居住的, 不相容的 
 46.flaw[flɒ:]:n. 缺点, 裂纹, 瑕疵, 一阵狂风 [化] 划痕; 裂缝; 裂纹 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

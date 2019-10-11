@@ -9,6 +9,7 @@
 Interestingly, only about 60% of the genetic variants identified in the study were shared by both sexes. Most behaviours show more overlap between the sexes than this, intimating that male and female homosexuality, or at least sexual adventures, may be quite different. David Curtis of University College London notes that what overlap there is “suggests that there could be specific factors affecting same-sex attraction rather than simply being attracted to males versus being attracted to females.” 
 Conscious of the tricky subject matter, the scientists are at pains to anticipate any misunderstandings or backlash. They collaborated with LGBT advocacy groups throughout the study. 
 Yet the research only scrapes the surface of the mysterious depths of human sexuality. Unravelling these riddles will be difficult and will inevitably beget misconception and controversy. But at least this study should add weight to the view that non-heterosexual behaviour is firmly within the normal, natural spectrum of human diversity and provide a firm foundation for future work.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.sexuality[.sekʃu'æliti]:n. 性征, 性行为, 性欲 [医] 性别, 性欲 
@@ -63,4 +64,6 @@
 50.controversy['kɒntrәvә:si]:n. 论争, 辩论, 论战, 争论 [法] 论战, 争论, 争吵 
 51.spectrum['spektrәm]:n. 光谱, 范围, 系列 [化] 光谱 
 52.diversity[dai'vә:siti]:n. 差异, 多样性 [化] 多样性 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

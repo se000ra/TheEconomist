@@ -10,6 +10,7 @@
 Who could rescue language, ensure it stayed supple, strong and alive? That it was un-arrogant, and would keep reaching towards the ineffable? Women could. Black women could. In her novels it was inevitably mothers, grandmothers, aunts, sisters who kept families and communities together with that mesh of loving bossiness: pull up your socks, comb your head, do your chores, hush your mouth. (She’d done the same, raising two sons, fitting her writing into chinks in the endless round of work and domestication.) In kitchens across the land black women stitched grey cotton, or poured soda into the crease of a palm to make biscuits. They brought order out of chaos, as her writing did. Women told the stories, superstitious, chill-inducing, full of myth and colour, that preserved links with dead generations. They made Memory sit down at the table with them. She had dismissed those tales for years before finding, especially in “Song of Solomon”, deep grist for the worlds she had to recreate. She learned to watch for shadowy figures by the water at her Hudson river place and to listen for their whispers. 
 In particular she felt a reverence for old women, sometimes half-crazed, who nonetheless seemed to have a lock on wisdom. Her own great-grandmother, for one, for whom all the males in the family stood up without urging. Or Baby Suggs in “Beloved”, who preached to her people in the woods that if they, the whites yonder, “do not love your neck unnoosed and straight…You got to love it… put a hand on it, grace it, stroke it and hold it up.” Or the old woman she evoked in her lecture when she received the Nobel, who reminded her young interrogators that the future of language, a bird fluttering between life and death, was in their hands. 
 She gave lectures and advice when she was asked. Her post at Princeton required it from time to time. But writing fiction was her true freedom. She did it in the hours when no one had a claim on her. She owned it, and the characters were hers to control. If she wanted the hero of “Song of Solomon” to lift his beautiful black ass up in the sky and fly, he would. Shut up, she would tell him. I’m doing this. Steadily, morning by morning, she would get up in the dark and make a mug of coffee, drinking it as the light gathered. When it came, full-bore, enabling, she did not look away. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.magnificence[mæg'nifisns]:n. 富丽堂皇, 华丽, 宏大 
@@ -106,4 +107,6 @@
 92.flutter['flʌtә]:n. 摆动, 鼓翼, 烦扰 vi. 摆动, 鼓翼, 烦扰 vt. 拍(翅), 使焦急 [计] 颤动 
 93.Princeton['prinstәn]:n. 普林斯顿 
 94.ass[æs]:n. 驴, 傻瓜, 笨蛋, 屁股 [计] 模拟仿真系统 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

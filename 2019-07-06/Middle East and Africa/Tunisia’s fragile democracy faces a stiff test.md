@@ -9,6 +9,7 @@
 The elections present an opportunity for political outsiders. A recent survey by Sigma Conseil, a pollster, was grim reading for established politicians. Leading the pack in presidential and parliamentary elections was Nabil Karoui, a media mogul, even though he has not formed a party. The survey had Ennahda winning just 17% of the vote in parliamentary elections, down from the 28% it won in 2014. Mr Chahed and his party polled in single digits. 
 Rather than face up to fresh competition, lawmakers have tried to block newcomers. In June they amended the electoral law to bar candidates who are philanthropists or receive foreign funding. Mr Karoui believes the changes target him personally. He runs a large charitable foundation. Its activities are widely covered on a television channel, which also happens to belong to him and is critical of the government. Another provision of the law bars candidates who criticise the revolution of 2011 or back the old regime. That would impinge on Abir Moussi, a lawyer who thinks the revolt was a foreign conspiracy and wants to exclude Islamists from politics. 
 None of this ought to pass muster with Tunisia’s new constitutional court. There is one problem, though: the court has no judges and thus cannot rule on anything. Indeed, if Mr Essebsi had died, Tunisia might have been unable to install an interim president, as that too requires the court’s assent. Parliament has repeatedly failed to agree on the names of the 12 judges needed to fill the bench. That political neophytes like Mr Karoui are soaring in the polls is a sign that voters are getting tired of the squabbling. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -68,4 +69,6 @@
 55.soar[sɒ:]:n. 高扬, 翱翔 vi. 往上飞舞, 高耸, 翱翔 
 56.voter['vәutә]:n. 选民, 投票人 [法] 选民, 选举人, 投票人 
 57.squabble['skwɒbl]:vi. 争吵, 口角 n. 争吵, 口角 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

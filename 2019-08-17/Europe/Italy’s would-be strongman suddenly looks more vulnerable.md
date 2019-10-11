@@ -12,6 +12,7 @@
 His offer did allow him to rebut claims by the M5S that he wants a return to the polls solely to pre-empt the reform of parliament and enable his lawmakers to keep their seats. But his surprise move could also be seen as a first step towards building a ladder down which he can retreat from the chaos he has prompted. The vote on August 13th was not the only setback Mr Salvini has endured recently. 
 Expecting an election, he has taken bare-chested to the beaches to consolidate his lead in the polls. Mobbed by adoring fans in the north, Mr Salvini has run into heckling and demonstrations since taking his campaign to the south, where people still remember the snooty contempt for southerners that he and his party once openly expressed. 
 Recent polls give the League 36-37% of the vote. To control parliament, however, Mr Salvini needs around 40%. He can probably count on a small party of former neo-fascists for the extra votes. But to be surer of victory he also needs a deal with Mr Berlusconi’s much-depleted Forza Italia movement. The two leaders were to have met before the Senate vote. But then it emerged that Mr Salvini’s plan was, in effect, to take over Forza Italia, and the meeting did not take place. For a politician often depicted as Italy’s strongman-in-waiting, Mr Salvini suddenly looks vulnerable. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.salvini[]:[网络] 索氏丽体鱼；萨尔维尼 
@@ -79,4 +80,6 @@
 63.forza[]:n. 力量；（意）加油 
 64.italia[i'tɑ:ljɑ:]:n. 意大利 
 65.depict[di'pikt]:vt. 描述, 描写 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

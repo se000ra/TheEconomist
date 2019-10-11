@@ -9,6 +9,7 @@
 Though many countries welcome new migrants with fiscal incentives, attempts to lure back leavers tend to be limited to those with large diasporas. China, Malaysia and Israel offer tax incentives for returners; Spain and Ireland offer help navigating bureaucracy and modest funding for those wanting to set up a business. 
 Portugal’s scheme has already piqued some interest. Miguel Nuno Cardiga of BDO, a tax-advisory firm, says he has received a few inquiries from clients (including from a football player who is not eligible for the existing tax breaks). Mr Cabrita says 1,800 people from 72 countries have signed up to the job-search portal. 
 But the decision to move country depends on more than tax breaks. Average yearly earnings in Portugal were a paltry €12,000 in 2018, less than half the euro-area average. White-collar workers at multinationals might hesitate to move back to Portugal if there are no comparable jobs, says Mr Nuno Cardiga. That may be changing. Google and BMW have opened tech-support centres, in Lisbon and Porto. The more good jobs, the better: most migrants know that it’s a material world.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.handshake['hændʃeik]:n. 握手 
@@ -54,4 +55,6 @@
 41.google[]:谷歌；搜索引擎技术；谷歌公司 
 42.bmw[]:abbr. 德国宝马汽车公司（Bavarian Motor Works） 
 43.porto['pɔ:tu]:n. 波尔图（葡萄牙港口） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

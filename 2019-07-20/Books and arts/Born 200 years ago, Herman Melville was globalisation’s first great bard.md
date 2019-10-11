@@ -13,6 +13,7 @@
 If differences are respected in Melville’s globalised world, commonalities emerge, too. Sailors learn each other’s languages and develop hybrid dialects. In moments of leisure, the crew of the Pequod lie in the forecastle swapping tales of women and wandering, singing shanties and dancing jigs. Prejudice and nationalism are too ingrained to vanish entirely; but, through mutual dependence on the high seas, interracial bonds are forged. “You sink your clan; down goes your nation; you speak a world’s language, jovially jabbering in the Lingua-Franca of the forecastle.” 
 After “Moby Dick”, a succession of Melville’s novels failed. Many contemporaries were surprised to learn he had died in 1891: they assumed he was dead already. But since its rediscovery in the early 20th century, the tale of Ahab’s hubristic vendetta against the whale has become an all-purpose political fable. In the 1950s C.L.R. James, a Trinidadian writer, described the book as “the biography of the last days of Adolf Hitler.” It has been deployed to decry the Vietnam war, George W. Bush’s crusade against the “axis of evil”, Osama bin Laden’s jihad against the West, Vladimir Putin’s hatred of NATO, Donald Trump’s pursuit of a border wall and Theresa May’s quest for a Brexit withdrawal agreement. 
 Today the white whale spouts across the globe. In Arabic the famous first line is “Call me Isma’il”; in Japanese it is “Call me Ishumeeru”. Melville’s leviathan has become a mirror for preoccupations everywhere. Iranian scholars debate the book’s Zoroastrian and Islamic elements; Melville, some argue, believed fate trumped morality as the ancient Sasanians did. During the Cultural Revolution Chinese pedagogues claimed Melville was a rare anti-capitalist American author. Germans note the influence of Goethe; Japanese academics think Ahab’s harpooner, the mysterious Fedallah, is one of their own. On the Antarctic Peninsula, meanwhile, huddle Mount Ahab, Tashtego Point and a glacier named Pequod. Two centuries after his birth, Melville continues to federate the world along one keel. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Ishmael['iʃmeil]:以实玛利(<<圣经>>故事人物), 被唾弃的人, 社会公敌 
@@ -158,4 +159,6 @@
 141.ahab['eihæb]:n. 亚哈（以色列国王） 
 142.tashtego[]:[网络] 正像昆克奇将塔斯特戈 
 143.glacier['gleiʃә]:n. 冰川 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

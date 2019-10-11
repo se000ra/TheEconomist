@@ -11,6 +11,7 @@
 In an interview in 2001, on the eve of AK’s formal launch, Mr Erdogan promised there would be no room in his new party for autocrats: “The leader will not overshadow the party.” At first he seemed to live up to his word, and AK accommodated some degree of debate. But over the past decade, Mr Erdogan has transformed it into a personal vehicle. Members of the old guard have been pushed out. Haunted by an abortive coup in 2016 (after which the government arrested some 60,000 people), the president has surrounded himself with yes-men and family members. Loyalty trumps everything else. The old AK is no more, says Ibrahim Turhan, a former parliamentarian: “This is now Erdogan’s party.” 
 How much backing the schismatics might have among AK voters is unclear. Dissatisfaction with the country’s direction is growing, but few analysts expect a new conservative party to shave off more than a fraction of AK’s support. Secular critics scoff that Mr Erdogan’s former enablers will need quite a makeover before marketing themselves as his opponents. 
 Mr Erdogan has fended off many threats to his rule, often ruthlessly enough to dissuade anyone from trying again. He may nip this one in the bud. But if it materialises, it would be the most serious challenge he has faced from within. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.AK[]:[计] 确认, 肯定, 收悉 
@@ -79,4 +80,6 @@
 64.dissuade[di'sweid]:vt. 劝阻 [法] 劝阻, 劝止 
 65.nip[nip]:n. 捏, 夹, 寒冷, 尖刻话 vt. 捏, 夹, 钳, 剪断, 损伤, 冻伤, 一小口 vi. 夹, 捏, 刺骨, 快走, 一小口一小口地抿(酒) [计] 核心程序的初始程序 
 66.materialise[mә'tiәriәlaiz]:vi.vt. (使)物质化, (使)具体化, (使)追求物质利益, (使)显形, 成为事实, 实现 vi. 突然出现 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

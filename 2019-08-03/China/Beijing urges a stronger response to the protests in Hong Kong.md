@@ -10,6 +10,7 @@
 The obvious and perhaps only way to resolve the crisis would be for China to keep its promise to let the people of Hong Kong choose their own leaders. Dream on. The radicalisation of the protests is, in part, a consequence of China’s strategy of persecuting more moderate opposition leaders trying to work within the system. 
 For now, China is out to define its enemies in Hong Kong and delegitimise them. In the propaganda, Hong Kong’s quest for genuine self-rule is being portrayed as on a par with “splittists” elsewhere on China’s fringes, in Tibet or Xinjiang. It is in this nationalist context that students from the mainland have recently clashed with ones from Hong Kong on campuses in America, Australia, Canada and New Zealand. 
 Back in Hong Kong, China can always resort to the ultimate sanction: deploying the local garrison of the People’s Liberation Army (PLA). That prospect was highlighted by Mrs Lam’s predecessor as chief executive, Leung Chun-ying, long close to the Communist Party. In a letter to the Financial Times last month he insisted that the PLA’s presence in Hong Kong is “not meant to be token, ceremonial or symbolic” but rather to help maintain public order. Yet deploying the PLA to crush largely peaceful protests would only deepen the government’s illegitimacy in locals’ eyes, while attracting enormous international opprobrium. That it is even being discussed is a sign of how bad things have become. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.hong[hɔŋ]:n. （中国、日本的）行, 商行 
@@ -71,4 +72,6 @@
 57.symbolic[sim'bɒlik]:a. 象征的, 符号的 [电] 符号化 
 58.illegitimacy[.ili'dʒitimәsi]:n. 不法, 私生, 不规则性, 不合逻辑 [医] 私生, 违法 
 59.opprobrium[ә'prәubriәm]:n. 污名, 耻辱, 咒骂 [法] 轻蔑, 责骂, 不名誉 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

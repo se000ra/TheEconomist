@@ -12,6 +12,7 @@
 It was also a period of sexual experimentation, liberation—and infection. The population of London’s prostitutes rose to an estimated 50,000; rates of disease soared accordingly. Regency rakes such as Byron were not only “mad, bad and dangerous to know”, they were even more dangerous to sleep with. Syphilis attacked without regard for rank or privilege. If you think the Elgin Marbles, snatched from Athens at this time, look dilapidated, that is nothing to the state of Lord Elgin himself. Shortly after selling the marbles to the British Museum, and with his nose viciously consumed by the disease, he retired from public life. 
 This era also saw the birth of that most modern spectacle, the political sex scandal. In November 1815 the “most infamous Regency flagellant” (this being an age that offered competition for such a title), an MP named Sir Eyre Coote, entered Christ’s Hospital mathematical school, sent away the younger boys and paid the older ones for a bout of mutual flogging. The school nurse arrived to find him buttoning his breeches; England’s satirical press had come of age in time to make the very most of such a moment. Coote endured a cartoon by George Cruikshank, a vaunted caricaturist, and national humiliation. 
 The Regency period lasted for less than a decade but, as Mr Morrison argues, “its many legacies are still all around us.” It was also, as this book amply proves, marvellously entertaining. It deserves to find itself a little more famous than it has been. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.charmless['tʃɑ:mlis]:a. 无魅力的, 无吸引力的, 不美的 
@@ -96,4 +97,6 @@
 80.legacy['legәsi]:n. 祖先传下来之物, 遗赠物 [经] 遗产, 遗赠物 
 81.amply['æmpli]:adv. 充足地, 充裕地 
 82.marvellously['mɑ:vələslɪ]:adv. 绝妙地, 惊奇地, 不可思议地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

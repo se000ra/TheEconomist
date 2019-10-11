@@ -14,6 +14,7 @@
 History offers insights into today’s online Chinese nationalism, with its complicated blend of assertiveness and insecurity. Arguably China’s first modern consumer boycott began in 1905, targeting American goods. It was launched by Shanghai merchants in protest at the (very real) mistreatment of Chinese immigrants in America. The first law against Chinese immigration was passed in 1882. But as Wong Sin Kiong of the National University of Singapore has documented, the boycott took off only after American immigration officers began humiliating educated Chinese as well as labourers. America, in effect, provoked a test of national dignity involving many social classes. Newfangled technology also helped. The telegraph, the WeChat of its day, allowed far-flung Chinese to share tales of outrage and to organise. 
 One more parallel is important. Patriotic pride back in 1905 was mingled with shame, and soul-searching questions about why the Chinese were too dazzled by foreign goods to resist them for very long. Jump to 2019 and not much has changed. A popular comment on Stylist Zoe’s poll laments that Chinese fashion-lovers are too quick to forgive brands that insult the country. 
 A big difference is that the boycott in 1905 had a moral argument at its core, and hurt Chinese merchants as much as American ones. Today’s campaigns often turn on trivialities and are painless or even profitable for their promoters. Propagandists have done their work well. They have made indignation an industry.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.online[]:[计] 联机 
@@ -118,4 +119,6 @@
 100.triviality[.trivi'æliti]:n. 琐事, 平凡, 浅薄 
 101.painless['peinlis]:a. 无痛的, 不痛的 [医] 无痛的 
 102.promoter[prә'mәutә]:n. 促进者, 助长者 [化] 助催化剂 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

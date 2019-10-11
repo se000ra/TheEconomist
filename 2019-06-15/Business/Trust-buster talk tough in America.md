@@ -9,6 +9,7 @@
 Critics of big tech shouldn’t get their hopes up. Mr Delrahim stopped short of pointing to any specific case of how the big platforms may have run afoul of antitrust law, nor what he would do about it. And he seems intent to stay within established limits. Not only does he think that the law as it stands is fit for purpose, but he did not mention the role of data, which underpins much of the power of the tech titans. 
 Rather than the start of a big antitrust push, the speech can be read as a reaction to mounting pressure to rein in big tech. Democrat politicians who want to be their party’s presidential candidate have found calls for breaking up the firms to be popular but Mr Delrahim’s speech is more likely a response to Republicans. They are increasingly worried that the growing efforts of platforms to moderate content produced by users limit free speech, particularly conservative voices. 
 Then again, Mr Delrahim has the courage to act. In 2017 he went to court to block the megamerger of AT&T with Time Warner, though he lost the case on appeal. But if the Microsoft antitrust case is any guide, it will take years before a final decision in any potential case is handed down. America’s antitrust machine is revving loudly but it is unclear whether it will ultimately produce anything more than noise.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -63,4 +64,6 @@
 50.warner['wɔ:nә]:n. 警告者, 告诫者, 预告者 [化] 报警器 
 51.rev[rev]:n. 一次回转 v. 加快转速 [计] 反转, 周, 转数 
 52.unclear[.ʌn'kliә]:a. 不易了解的, 不清楚的, 含混的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

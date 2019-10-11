@@ -8,6 +8,7 @@
 Whatever the committee’s officials do, it must be important, since each governor makes a tidy 138m won ($120,000) a year, plus 20m won to cover unspecified expenses. Each has two secretaries as well as a car and driver. The committee as a whole has an annual budget of 10bn won ($8.5m). 
 A website lists the committee’s activities as nurturing exchange among North Korean refugees in the South and elsewhere (and, ideally, their families in the North), researching the North’s history and preserving “traditional” (meaning pre-Kim-dynasty) North Korean culture. However, an inquisitive MP recently found no evidence that any research is being conducted. The only obvious sign of exchange with the North is a letter box in the lobby of the committee’s offices with a slit for each of the wayward provinces—although it is not clear whether letters placed in it would ever arrive. 
 The preservation of old culture, at least, seems to be going strong. A museum on the ground floor of the building displays several old-looking masks alongside more contemporary North Korean artefacts such as shoes and cosmetics. During a recent ceremony to celebrate the committee’s 70th birthday, the minister for gender equality and family (deputising for the minister of the interior, who was otherwise engaged) stood on a patch of lawn shovelling soil on the roots of a “peace tree” with a gold-effect spade as dignitaries in dark suits looked on. The group soon retired to a banqueting hall on the fifth floor, where they sat at long tables decked with kimchi and makgeolli (rice wine). They watched a performance by women in colourful hanbok (a traditional dress) wielding masks much like those displayed in the museum downstairs. The room filled up noticeably as lunch was served. Pretending to govern North Korea is much nicer than living there. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.sinecure['saini.kjuә]:n. 闲职 [经] 领干俸的职位 
@@ -52,4 +53,6 @@
 40.hanbok[]:[网络] 韩服；传统韩服；韩袍 
 41.wield[wi:ld]:vt. 挥舞, 运用 
 42.noticeably[]:adv. 显而易见, 值得注意, 重要, 显著 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

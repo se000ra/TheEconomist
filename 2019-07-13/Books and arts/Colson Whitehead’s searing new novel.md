@@ -9,6 +9,7 @@
 The dead become trouble when their graves are discovered. Survival, though, is hard. A character makes it to New York—exactly how is integral to the plot—where, years later, he remembers nights on which “the only sounds were tears and insects”. Yet it is the incidental, half-told tales that lend this book its slow-burn power. Jaimie the Mexican, for example, “had an uncle with a quick hand”; he bounces between the white and black campuses, too dark for one, too light for the other. There is a grotesque boxing match that recalls Ralph Ellison’s “Invisible Man”. “Pain rolled off him like rain from a slate roof,” Mr Whitehead writes of a fabled champ. 
 In his previous novel, “The Underground Railroad”, which won a Pulitzer and a National Book Award, the escape route of the title magically becomes an actual railway; what begins as an unblinking depiction of slavery morphs into a phantasmagoric allegory of African-American history as a whole. “The Nickel Boys” is a simpler story (albeit with a late twist), inspired by a real episode in Marianna, Florida (see picture). Still, in the dialogue between Elwood and Turner it frames some perennial arguments over how to respond to injustice. “You can change the law,” Turner reckons fatalistically, rejecting his friend’s idealism, “but you can’t change people and how they treat each other.” 
 Quietly, meanwhile, Mr Whitehead insists that this tragic past is far from dead and buried. “The iron is still there,” he says of that punishment tree. “Testifying to anyone who cares to listen.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Colson[]:科尔森（人名） 
@@ -69,4 +70,6 @@
 56.quietly['kwaiәtli]:adv. 安静地, 沉着地, 秘密地 
 57.tragic['trædʒik]:a. 悲惨的, 悲剧的 
 58.testify['testifai]:v. 证明, 作证, 声明, 表明 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

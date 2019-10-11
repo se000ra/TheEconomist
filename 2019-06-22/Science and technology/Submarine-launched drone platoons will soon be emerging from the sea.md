@@ -7,6 +7,7 @@
 HCUS will also be capable of what are described as “limited offensive effects”. Small drones like BlackWing can be fitted with warheads powerful enough to destroy an SUV or a pickup truck. Such drones are already used to assassinate the leaders of enemy forces. They might be deployed against fuel and ammunition stores, too. 
 A week-long demonstration of HCUS is planned for later this year. It will test covert deployment, the transfer of data, automatic recharging and the placing of ground sensors. It will culminate in a “remote operator on-demand offensive attack on a simulated target”. 
 Unmanned systems such as HCUS thus promise greatly to expand the scope of submarine-based spying and special operations. Drones are cheap, expendable and can be deployed with no risk of loss of personnel. They are also “deniable”. Even when a spy drone is captured it is hard to prove where it came from. Teams of robot spies and saboteurs launched from submarines, both manned and unmanned, could thus become an important feature of the black-ops of 21st-century warfare.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.clandestine[klæn'destin]:a. 偷偷摸摸的 [法] 秘密的, 暗中的 
@@ -51,4 +52,6 @@
 40.expendable[iks'pendәbl]:a. 可消费的, 消耗性的, 可牺牲的, 值得消耗的, 可消耗的 n. 消耗物, 可牺牲的人, 可牺牲的物 
 41.deniable[di'naiәbl]:a. 可否认的, 可否定的, 可拒绝的 
 42.saboteur[.sæbә'tә:]:n. 从事破坏活动者, 阴谋破坏者 [法] 破坏者, 破坏份子, 怠工者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

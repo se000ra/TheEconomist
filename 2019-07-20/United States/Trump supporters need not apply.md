@@ -8,6 +8,7 @@
 The results were striking. Among the 40-odd attributes included in Mr Shafranek’s survey, partisan affiliation—specifically, whether a potential roommate was a member of another party—had the biggest effect, reducing ratings by 0.56 points (see chart). This was true even after controlling for traits normally associated with support for the two political parties. Other undesirable characteristics proved less influential. 
 Subjects who described themselves as “not at all clean and tidy”, for example, were rated 0.46 points lower. Those who said they preferred going to bed early were downgraded 0.24 points. To ensure his results were robust, Mr Shafranek estimated how a match with a potential roommate on a given characteristic affected their rating. Using this approach party political affiliation once again came out on top. A match on cleanliness boosted scores by only half as much. Jewish sports fans who listen to hip-hop are the Platonic ideal of a flatmate. 
 Does this study say anything broader about American politics? The temptation is to conclude that Americans like living with those who are politically like-minded. In fact it is more that they dislike living with those who think about politics differently. In an illustration of a phenomenon political scientists call “negative partisanship”—the tendency for voters to be defined more by their hatred of the other side than love for their own—the desire not to live with someone who votes for the other party is much greater than the desire to live with a fellow Democrat or Republican. Indeed, according to Mr Shafranek’s estimates, it is about seven times as large. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bedfellow['bed.felәu]:n. 同床者, 伙伴 
@@ -61,4 +62,6 @@
 49.differently['difrentli]:adv. 差异, 不同, 各别, 各种 
 50.voter['vәutә]:n. 选民, 投票人 [法] 选民, 选举人, 投票人 
 51.democrat['demәkræt]:n. 民主人士, 民主主义者, 民主党党员 [经] 民主党 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

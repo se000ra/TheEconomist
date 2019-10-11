@@ -11,6 +11,7 @@
 If the investiture fails this month, in theory Mr Sánchez could try again in September. But it would be no easier then. His bet is that Mr Iglesias will come back to the table rather than risk another election. In April Podemos lost 29 seats and over a quarter of its vote, mainly to the Socialists. Polls suggest it would now do even worse. But another election is risky for the prime minister too. Voters might blame him for political paralysis. So the betting in Madrid is that a deal will be struck for a low-level coalition. Mr Sánchez is “a good negotiator” and he has the initiative, says Eduardo Serra, a former minister. After ousting Mr Rajoy in a censure motion in June 2018, he managed to govern for 11 months with just 84 seats. 
 To consolidate Spain’s slowly fading economic recovery, tackle the social scars of its previous slump and contain Catalan separatism will be hard. It would require reforms of the labour market, education and training and regional financing, as well as deficit-cutting. The first task is to approve a budget. Mr Sánchez envisages some tax increases but also the gradual implementation of a public-spending review. On many of these issues Podemos would be an awkward partner. 
 Spain’s politicians are still struggling to adapt to change. Since democracy was restored in 1977 it has never had a coalition government. But under the strain of slump and separatism, the old two-party system has splintered. The top dogs are all young and inexperienced; at 47, Mr Sánchez is the oldest of the national leaders. Nevertheless, Spaniards will be fed up if they fail to give the country a government before they head for the beaches next month. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Iberian[ai'biәriәn]:a. 伊比利亚的, 伊比利亚语的 n. 伊比利亚人, 伊比利亚语 
@@ -79,4 +80,6 @@
 64.implementation[.implimen'teiʃәn]:n. 安装启用, 实行, 履行 [计] 实施; 实现 
 65.splinter['splintә]:n. 碎片, 尖片, 分裂出来的小派别, 微小的东西 v. 使分裂, (使)破裂 
 66.inexperience[.inik'spiәriәns]:n. 无经验, 不熟练 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

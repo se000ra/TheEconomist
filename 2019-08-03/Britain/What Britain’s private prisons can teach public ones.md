@@ -11,6 +11,7 @@
 Managers at Altcourse attribute much of the prison’s success to stability. Five of the eight senior managers joined the prison on its first day and have worked their way up from the lowest rank. And about a quarter of the original intake of warders are still at work. In the public sector, churn is high. About half of the warders in state-run jails have three years’ experience or less. The continuity appears to have kept staff morale at Altcourse relatively high. Sick days are well below the public-sector average. Andrew Neilson of the Howard League for Penal Reform, a charity, says private prisons do a better job at retaining senior staff. “Whenever someone is good [in the public sector], they get moved to another prison to deal with problems there.” 
 The second lesson is the power of decentralisation. Private prisons find it easier to innovate than public ones, which are often constrained by the need for clearance from Whitehall, says Rupert Soames, boss of Serco, which runs five jails in England. Altcourse was one of the first prisons to buy a full-body scanner to detect hidden drugs and knives. Serco installed computers in cells long before the prison service. Prisoners use them to arrange family visits, freeing warders from menial tasks to spend more time with prisoners. They also help occupy inmates. “You keep prisoners busy or they will keep you busy,” says Mr Soames. 
 At Altcourse managers try all kinds of wheezes. Depressed or anxious lags can spend time handling birds of prey to gain confidence. Prisoners spend more time out of their cells than at many comparable jails. Some keep bees and make their own honey (“so good, it’s criminal,” the labels boast). Others work 40-hour weeks in a welding workshop, making skips and table legs. “You forget you’re in jail sometimes, when you’re a bit busy,” says one con, measuring up the latest creations. If only more inmates could say the same. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.plc[]:[计] 可编程逻辑控制器 
@@ -76,4 +77,6 @@
 61.prey[prei]:n. 被掠食者, 牺牲者 vi. 捕食 
 62.con[kɒn]:vt. 精读, 仔细研究, 默记 adv. 反面地, 从反面 a. 欺诈的 n. 反对者, 反对票, 肺结核 [计] 控制台 
 63.creation[kri:'eiʃәn]:n. 创造, 创作物, 发明 [化] 产生 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

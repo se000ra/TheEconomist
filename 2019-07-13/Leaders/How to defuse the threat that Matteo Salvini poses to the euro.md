@@ -12,6 +12,7 @@
 Many of the reasons for Italy’s bleak growth prospects date back decades. Courts operate at a glacial pace; bureaucracy is labyrinthine. The services sector is sheltered from competition. Countrywide pay agreements keep wages too high in the south, discouraging formal employment there. Far from tackling these ingrained problems, the government has ignored them and instead undone unpopular but necessary reforms to the pensions system. In light of all this, last-minute concessions to the EU’s fiscal rules solve nothing. Confrontation is merely deferred until the next time the commission reviews Italy’s books. The threat of an accidental bond crisis never fully recedes. 
 Instead of haggling over tenths of a percentage point, the commission should enter negotiations over next year’s budget aiming for a more ambitious agreement. It should be flexible over public spending, on the condition that Italy enacts growth-enhancing reforms. Those reforms are more likely to work if their implementation is supported by fiscal easing. The public-debt ratio would then fall more quickly. 
 Such a deal offers something to both sides. Italy’s populists may ignore reprimands from Eurocrats, but they do worry about the markets. If they were to accept some curbs on their spending, they would regain some of their credibility with investors, and bank the electoral benefits of higher economic growth to boot. For Brussels, a deal along these lines would defuse the long-term threat that Italy poses to European financial stability. Eurocrats should remember that, as Italy falls further behind, the resentment that has fuelled Mr Salvini’s alarming rise will only grow. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.defuse[.di:'fju:z]:vt. 去掉...的引信, 平息 
@@ -88,4 +89,6 @@
 72.investor[in'vestә]:n. 投资者 [经] 投资者 
 73.electoral[i'lektәrәl]:a. 选举人的, 选举的, (有关)选举的 [法] 选举的, 选举人的, 由选举人组成的 
 74.resentment[ri'zentmәnt]:n. 怨恨, 愤恨 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

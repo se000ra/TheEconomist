@@ -17,6 +17,7 @@
 There are, though, differences between the two masterworks. Unlike “Life and Fate”, written after Stalin’s death in the hope of greater freedom, Grossman drafted parts of the earlier book under duress. Some chapters of heroic labour in the fields or mines echo Socialist Realist doctrine. A very few pages parrot the sloganeering uplift of party orthodoxy. 
 Grossman still finds ways to spotlight the Holocaust—even though, as Ms Popoff notes, he completed the book as “Stalin’s campaign against ‘rootless cosmopolitans’ was picking up steam”. German officers mutter about “a real factory for processing Jews”. Above all, his characters witness, suffer and reflect with a hyper-real intensity. It illuminates nearly every page like the hellish glow that lights up the night sky over Stalingrad. With the German axe “raised high in the air”, the city becomes a second Troy, and Grossman its bard. 
 “What on earth’s the ‘Iliad’ got to do with it?” asks one of Alexandra’s daughters after a doomed friend refers to a captive Trojan princess. Simple: few works of literature since Homer can match the piercing, unshakably humane gaze that Grossman turns on the haggard face of war. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.VASILY[]:n. (Vasily)人名；(俄)瓦西里 
@@ -139,4 +140,6 @@
 118.unshakably[ʌn'ʃeɪkəblɪ]:adv. 不可动摇地, 坚定不移地 
 119.humane[hju:'mein]:a. 有人情的, 人道的, 仁慈的 
 120.haggard['hægәd]:n. 野鹰 a. 憔悴的, 形容枯槁的, 野性的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

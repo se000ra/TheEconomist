@@ -12,6 +12,7 @@
 As he became more famous and popular the critics increasingly sniped. They wanted art-house films, ugly dark elitist stuff, and mocked his work as reactionary. He knew what these people were, disrupters used by the Kremlin; he had watched communists at work as a child, but had never drunk that poisoned milk. He was a true socialist, whose duty was to move and delight the people, to make them dream. When critics panned “The Champ”, about a failed boxer, for being sentimental, or “Endless Love”, another tale of teenage lovers, as soft porn, the public still poured in. 
 It was perhaps inevitable, given his loathing of the left, that he should try politics eventually. He was no right-wing extremist, having fought bravely with the partisans against the fascists in the war; really he was an old-fashioned Catholic, the Vatican’s favourite director for its own events, who accepted that his way of life was sinful but trusted in forgiveness. He was also friends with Silvio Berlusconi, who paid for his villa in Rome. (He could no longer bear to live in Florence, full of stupidity and vulgarity.) So in 1994 he became a mostly absent senator for Mr Berlusconi’s party. 
 The place he represented was Catania in Sicily, where he and Luchino had shot “La Terra Trema” so many years before. He had hoped to help that poor and Mafia-ridden town. But his legacy, of course, was not political. It was in the spreading of beauty that he knew he would find that little breeze of immortality. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.franco['fræŋkәu]:a. 免费的 [经] 全部费用在内价, 运费准免的 
@@ -138,4 +139,6 @@
 122.sicily[]:n. 西西里岛（意大利一岛名） 
 123.legacy['legәsi]:n. 祖先传下来之物, 遗赠物 [经] 遗产, 遗赠物 
 124.immortality[.imɒ:'tæliti]:n. 不朽, 不灭的声望 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

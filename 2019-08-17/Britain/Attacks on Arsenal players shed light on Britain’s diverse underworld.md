@@ -9,6 +9,7 @@
 Crooks of the same nationality often stick together. A shared language and culture can be important in forging trust when setting up a criminal network, says Anna Sergi of Essex University. They also benefit from a ready-made international network through connections in their home country and diaspora. 
 Geography often plays a big part in the types of crime such groups specialise in, says Mr Saggers. For instance, Turkish and Pakistani gangsters are overrepresented in Britain’s heroin trade, thanks to the countries’ proximity to Afghanistan, where most opium is grown. People-traffickers are most often Albanian, Romanian, Vietnamese and Chinese as well as British, since they have ready access to people keen for work. Their victims are forced to pick pockets, steal from shops or farm cannabis in Britain. 
 Yet gangs united by ethnicity tend to specialise in low-level crime, points out Ms Sergi. The more lucrative or sophisticated the crime, the more necessary it is to recruit locals who can readily launder money through legitimate businesses or corrupt officials. In fact, she says, acquisitive crime such as the attempted robbery of the Arsenal players tends to be the domain of the most recently arrived crooks, who need cash to start up their network. Messrs Ozil and Kolasinac ought to take some comfort, then. They are probably not up against crime’s premier league. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.goon[gu:n]:n. 受雇暴徒, 愚笨者, 呆子 
@@ -81,4 +82,6 @@
 68.acquisitive[ә'kwizitiv]:a. 渴望获得的, 贪婪的 [法] 取得的, 获得的, 贪得无厌的 
 69.domain[dәu'mein]:n. 领域, 领土, 产业, 范围 [计] 域, 区域, 支配命令 
 70.Messrs['mesәz]:[法][pl. ](=Messieurs)各位(先生) 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

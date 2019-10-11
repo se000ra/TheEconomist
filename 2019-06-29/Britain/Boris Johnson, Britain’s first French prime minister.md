@@ -8,6 +8,7 @@
 It made for a chaotic start to the leadership race by Mr Johnson, who nonetheless remains the favourite. While noisily stating that he would not comment on Mr Johnson’s private life, Jeremy Hunt, the foreign secretary, who is running against him, labelled his opponent a coward for ducking out of a head-to-head debate. Mr Johnson’s team had attempted to launch a “submarine” assault on Downing Street, in which their gaffe-prone candidate would surface only occasionally. But following criticism of his invisibility Mr Johnson changed tactics, giving a flurry of interviews in which he discussed everything from his plan to leave the EU by October 31st (“come what may, do or die”) to his hobby of painting buses on old wine boxes—anything other than his love life. 
 Yet the topic may re-emerge in the remaining month of the contest. Basic questions about Mr Johnson, such as how many children he has, are unanswered. Judges have, in general, upheld the right of journalists to stick their beaks in. When in 2013 the mother of one of Mr Johnson’s children tried to stop newspapers from naming him as the father, the courts ruled against her, declaring that it was “a public interest matter which the electorate was entitled to know when considering [Mr Johnson’s] fitness for high public office”. 
 Following the latest fireworks, one poll suggested that Mr Johnson had lost his lead to Mr Hunt among the general public. His victory looks a little less certain than a week ago. But Conservative voters still prefer him—and the decision lies with party members, who are particularly enthusiastic backers of his hard line on Brexit. A majority say they would be willing to seriously damage the economy or even lose Scotland in order to leave the EU (see Bagehot). Just as Brexit has superseded the party’s attitudes to business and the union, so too it may override its attitude to family values. Mr Johnson’s team is banking on the hope that Conservative Party members will greet any topic other than Brexit with a Gallic “Et alors?” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Monsieur[mә'sjә:]:n. 先生, 绅士 
@@ -51,4 +52,6 @@
 39.override[.әuvә'raid]:vt. 推翻, 无视, 对...有最后发言权, 制服, 践踏, 奔越过 [经] 代理佣金, 代销佣金 
 40.gallic['gælik]:a. 瘿的, 镓的 
 41.Et['i:ti:]:[化] 乙基 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

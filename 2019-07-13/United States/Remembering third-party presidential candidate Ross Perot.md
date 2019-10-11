@@ -13,6 +13,7 @@
 Mr Perot’s success, unlike Mr Trump’s, was based on appealing across the parties (a myth on the right that he cost Bush the election has been serially debunked). That reflected the many more independent voters who were then available; by contrast, the only way a charismatic independent could hope to win power in 2016 was by capturing one of the party’s nominations, as Mr Trump did. Mr Perot therefore pitched for votes in the centre. When not grandstanding on trade, he offered heterodox and mostly worthy ideas: he backed higher spending on education, abortion rights and modest gun control; as well deregulation and a strong defence. 
 This made him influential in both parties. Before the advent of Mr Trump, his most enduring effect was to have pushed the Democrats—under Mr Clinton then Barack Obama—to embrace fiscal restraint. Indeed, it might not be obvious, given that the national debt has almost doubled as a share of output since 1992, but they overlearned that lesson. The Obama administration’s failure to apply a bigger stimulus in the depths of 2009 reflected its caution as well as Republican opposition. That should now serve as a warning to both parties as, in an effort to assuage the populist passions Mr Trump has aroused, they rush to embrace Mr Perot’s other, more damaging, big idea: protectionism. 
 The anti-establishment tendency in American politics, its so-called “paranoid style”, which Mr Perot and Mr Trump represent, is rooted in subversive sentiment, not policy ideas. More spasmodic than linear, it has always been hard to manage, but mostly short-lived—as, with cooler heads in both parties the current outbreak could be. If only it could expire as graciously as Mr Perot. Asked in his last interview what he wanted to be remembered for, he said: “Aw, I don’t worry about that.” His political legacy is a mixed bag. Yet his record of good-humoured public service was great. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.outsider[' aut'saidә]:n. 外人, 局外人, 非会员, 外行, 门外汉, 比赛中获胜可能性不大的选手 [经] 外船公司 
@@ -126,4 +127,6 @@
 109.graciously[]:adv. 和蔼地；仁慈地；雅致地 
 110.aw[ɔ:]:int. 哦！噢！（表示抗议, 厌恶, 讨厌等） 
 111.legacy['legәsi]:n. 祖先传下来之物, 遗赠物 [经] 遗产, 遗赠物 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

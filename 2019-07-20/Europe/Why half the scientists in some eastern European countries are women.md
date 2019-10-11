@@ -7,6 +7,7 @@
 In Europe today, campaigners to get more women into top boffin jobs complain of a “leaky pipeline”: many women end their involvement with STEM subjects (science, technology, engineering and maths) after finishing college. However, a study by Microsoft finds that female role models strongly increase girls’ interest in these subjects. 
 According to the European Institute for Gender Equality, closing the gap between men and women in STEM would lead to an increase in the EU’s GDP per capita by at least 3% by 2050 and create over 1.2m jobs. Over the past decade, employment in Europe’s tech sector has grown four times faster than overall employment. But the European Commission predicts that by 2020, the region’s growth could be hampered by a shortage of 500,000 information and communications technology (ICT) workers. 
 In 2017 more than half of EU businesses that tried to recruit ICT specialists had trouble filling the vacancies. Lithuania, which has Europe’s narrowest employment gap between the sexes, and Bulgaria, which has the highest proportion of women in ICT specialised jobs in the region, found it easier.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -44,4 +45,6 @@
 33.ict[]:abbr. 结缔组织炎症（Inflammation of Connective Tissue）；粘土工艺学会（Ins-tit 
 34.vacancy['veikәnsi]:n. 空, 空白, 空缺, 空虚, 空闲 [化] 空位 
 35.specialise['speʃә,laiz]:vt. 特加指明, 列举, 使专门化, 限定...的范围 vt.vi. (使)特化, (使)专化 vi. 成为专家, 专务, 专攻, 专门研究, 逐条详述 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

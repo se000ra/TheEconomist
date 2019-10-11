@@ -9,6 +9,7 @@
 Indeed, when the park was first created, local opposition groups were vocal. There were (unfounded) fears, recalls one local resident, that it would mean an end to hunting and would bring stricter environmental rules. An association calling itself “Free Baronnies, No Park” denounced a “steamroller” approach to its creation. It took nearly two decades of planning to set up the park and, even then, 44 of the 130 communes that lie within its boundaries initially refused to join in. A dozen or so have since changed their minds. 
 Managing the forest is complex. The park covers a web of local governments. Most of the trees grow on private land, beyond the reach of rangers, and are therefore usually left untended. Competing demands, between those seeking to protect nature at all costs and others with jobs in logging or related industries, are not easy to reconcile. Paradoxically, France is a net importer of wood, something the French government wants to change. Yet last October employees of France’s National Forestry Office marched in the nearby town of Valence to protest against the increasing commercial exploitation of forests, as well as job and budget cuts. 
 The French have a long and ambiguous link to their forests, a source of conflict during the revolution in the eighteenth century between nobles and peasants seeking firewood and land for grazing. The first serious attempt to protect them, a decree passed in 1669 under the ancien régime, was in reality designed to secure timber for Louis XIV’s naval ships. Then, as now, those with a long-term interest in exploiting forests have a powerful incentive to conserve and replenish them. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.gallic['gælik]:a. 瘿的, 镓的 
@@ -69,4 +70,6 @@
 56.louis['lu(:)i, 'lu(:)is]:n. 路易斯（男子名） 
 57.incentive[in'sentiv]:n. 动机 a. 激励的 
 58.replenish[ri'pleniʃ]:vt. 把...重新补足, 把...再装满 vi. 被再装满, 充满 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

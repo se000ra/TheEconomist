@@ -9,6 +9,7 @@
 The second is queuing. Except on the final four days, 500 tickets for the top courts are sold every day to those first in line. And every day thousands more ground tickets are available for £8-25; these allow access to all other courts. The tickets of those leaving early are also resold for just £10-15. 
 With so many rationing methods, fans must be tactical. Scoring a ticket to Centre Court generally means turning up a day in advance; a ground ticket merely requires getting up at the crack of dawn. 
 Your correspondent favours a more relaxed approach. Avoid the first few days, when the top seeds dispatch their opponents in short order—and the last few, when there are fewer matches. In between are plenty of contests, many of them close-fought and therefore long. Maximise your tennis-watching and minimise your queuing by joining the resale line in the early afternoon—thereby enjoying the perfect match. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Wimbledon['wimbldәn]:温布尔登[英国英格兰东南部城市](位于伦敦附近, 是著名的国际网球比赛地) 
@@ -29,4 +30,6 @@
 16.dispatch[dis'pætʃ]:vt. 派遣 n. 派遣, 急件 [计] 调度 
 17.maximise['mæksimaiz]:vt. 把...增加到最大限度, 把...扩大到最大限度, 充分重视, 找出...的最高值 
 18.minimise[]:vt. 使减到最少/最小, 使降到最低限度, 使缩到最小, 极度轻视 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

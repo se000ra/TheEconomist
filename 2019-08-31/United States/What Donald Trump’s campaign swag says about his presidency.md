@@ -8,6 +8,7 @@
 The straws are not just straws. They express the sort of cultural grievance that has defined Mr Trump’s presidency. “Liberals want to ban us,” the straws say to his supporters, “but we work better than the politically correct alternative. You like us and using us lets you show your support while triggering the libs.” Mr Trump’s party has followed suit: a few days after Mr Trump baffled the world by musing about buying Greenland, the National Republican Congressional Committee began flogging T-shirts depicting the island as part of America. 
 His campaign also sells material such as “Pencil-Neck Adam Schiff” T-shirts, which depict the chairman of the House Intelligence Committee as a clown, and “Fredo Unhinged” shirts, which show Chris Cuomo, a television anchor, mid-meltdown. Campaigns usually leave such mean stuff, such as Bill Clinton corkscrews (you can guess where the screw protrudes) or Hillary Clinton nutcrackers, to third parties. 
 Mr Trump’s campaign is nimble. The Cuomo shirts were on sale a day after the anchor threatened to shove someone down a flight of stairs for calling him Fredo, the weak brother in the Godfather films. Politico, which covers Washington politics, reported that the campaign manager’s straw broke as he was boarding a flight. By the time he landed, the campaign was already advertising the Trump straws. They were not focus-grouped or run through committees, just made and sold. That works for trinkets. It may be less effective for policy.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.swag[swæg]:n. 摇晃, 赃物, 洼地, 珍贵物, 垂花饰 vi. 摇晃, 垂下 
@@ -66,4 +67,6 @@
 54.advertising['ædvәtaiziŋ]:n. 广告业, 广告 a. 广告的 [计] 发广告 
 55.trinket['triŋkit]:n. 小件饰物, 无价值的琐碎东西, 小玩意儿 
 56.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

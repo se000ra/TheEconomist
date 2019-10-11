@@ -18,6 +18,7 @@
 Jesús Santrich, a former commander in the FARC, a Colombian guerrilla group, who had become a politician, disappeared. He has reportedly fled to Venezuela, throwing Colombia’s peace deal into disarray. See article. 
 Donald Trump met Kim Jong Un, North Korea’s dictator, for the third time. The two agreed to restart talks about ending the North’s nuclear-weapons programme; the talks had stalled since the failure of their previous summit in February. The latest meeting took place in the demilitarised zone that divides the two Koreas. Mr Trump briefly crossed the demarcation line and entered the North, becoming the first serving American president to set foot in the country. See article. 
 America’s Department of Homeland Security said that it will investigate revelations that Border Patrol agents traded offensive content in a private Facebook group. ProPublica, an investigative service, revealed that border agents had mocked dead migrants, made jokes about throwing burritos at visiting Latino members of Congress, and faked sexual images of Alexandria Ocasio-Cortez, a Hispanic Democrat who has criticised the Trump administration’s border policies. See article. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -133,4 +134,6 @@
 111.Hispanic[his'pænik]:a. 西班牙的 
 112.democrat['demәkræt]:n. 民主人士, 民主主义者, 民主党党员 [经] 民主党 
 113.criticise['kritisaiz]:v. 批评, 吹毛求疵, 非难 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

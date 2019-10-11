@@ -12,6 +12,7 @@
 Because of this, he thinks that business schools need to change. What they tend to do at the moment is encapsulate the best practices of current businesses, codify them and pass them on. But the real challenge that business-school graduates will face is dealing with the unexpected. That cannot be taught in the classroom but needs to be experienced in the outside world. So students should spend time at small businesses or community projects, and then write a report on how they coped. 
 Furthermore, if these students aspire to be leaders, they need the ability to tell stories and create a culture. That requires broader knowledge than studying only balance-sheets and sales projections. 
 Appropriately enough, Mr Handy has hopes of writing yet another book, based on the Bible, which he says is an excellent case study of storytelling. Clearly, he refuses to let illness hold him back. Looking back over his career, he believes that teaching and writing is all about creating the “Aha!” moment. That occurs when people realise that an idea the teacher or writer has advanced is both useful and something they already knew but had not articulated. Bartleby hopes that Mr Handy’s readers will be saying “Aha!” for some time to come.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bartleby[]:[网络] 巴特比；巴特白；老板是空气 
@@ -46,4 +47,6 @@
 30.appropriately[]:adv. 适当的, 恰如其分的, 恰当的, 合适的 
 31.storytelling['stɒ:riteliŋ]:n. 说故事, 说谎话 
 32.articulate[ɑ:'tikjulit]:a. 发音清晰的, 口才好的 vt. 明白地说, 以关节连接, 使成为系统的整体 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

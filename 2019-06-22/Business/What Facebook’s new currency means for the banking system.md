@@ -10,6 +10,7 @@
 Third, Facebook could yet decide to become a fully fledged bank itself. The firm says this is not in its plans, but the temptation will surely grow if Libra takes off. Facebook’s data already have immense potential to help with lending decisions. Although the Libra Reserve will be mostly independent of Facebook, the firm will offer its own digital wallet, Calibra, for consumers who want to hand over the key to their digital currency for safekeeping—and with it, their personal financial data. 
 Individual Libra-holders face other risks. One is currency fluctuations. If, say, the yen rises against the basket to which Libra is pegged, Japanese holders of Libra will lose out. The new currency will not yield interest (though neither do many bank deposits nowadays). Shops may welcome a shift away from card payments, which often levy high fees on transactions. Consumers, who enjoy perks that often come with credit cards, may not. There will be no government-provided deposit insurance for Libra. Lastly, the public might shun Libra for non-financial reasons such as privacy, which Facebook has repeatedly failed to safeguard. 
 Still, the strength of Facebook’s existing platform, and the incentives that will be on offer to encourage Libra’s use, could be enough for the currency to thrive. If it does, banks might eventually want to hold Libras themselves, and perhaps to run digital wallets to compete with Calibra. In any case, Facebook is likely to develop a suite of financial services, much as WeChat and Alibaba, two Chinese internet giants, have done in China. Both banks and regulators had better watch closely. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jun[dʒʌn]:六月 
@@ -48,4 +49,6 @@
 34.WeChat[]:[网络] 微信；微讯；腾讯微信 
 35.alibaba[]:n. 阿里巴巴（公司名） 
 36.regulator['regjuleitә]:n. 调整者, 校准者, 校准器, 调整器, 标准钟 [化] 调节剂; 调节器 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

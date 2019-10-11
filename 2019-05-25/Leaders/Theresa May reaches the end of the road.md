@@ -8,6 +8,7 @@
 This polarisation is Mrs May’s legacy—and it will bedevil her successor. In the aftermath of the referendum, nearly three years ago, many Brexiteers might have accepted a deal in which Britain left the single market and ended free movement, with temporary membership of the customs union as the only tie. Most now see such an outcome as an intolerable betrayal (never mind that some of them still seem unsure what a customs union actually is). In the same way, Remainers might once also have been satisfied by the prospect of a customs union, so long as it was tied to a vote in Parliament on whether to hold a second referendum. But when Mrs May belatedly offered such things this week, it was dismissed by all sides as inadequate. The scope for compromise has drastically narrowed from where it stood in 2016. Talks with the Labour opposition and indicative votes among MPs on possible Brexit options have gone nowhere, in large part because they were initiated so late in the day. Mrs May inherited a divided country which urgently needed to be coaxed back together. Her approach has driven its two tribes still further apart. 
 She has no cards left to play. A change of leader might give new momentum to talks in Westminster, which have stalled in the past few weeks, despite the EU’s urging of Britain to get on with it. Boris Johnson, the favourite among the Conservative Party members who will choose the next leader, represents a dangerous gamble for the country (see Bagehot). But he may be more capable than Mrs May of the political and ideological flexibility that will be required to get Britain out of the trap in which it has placed itself. 
 No one should assume that Mrs May’s exit will solve Britain’s Brexit problems. Mr Johnson proposes to renegotiate the withdrawal agreement, but the EU is sure to refuse him. At home, most Leave-voters detest the current deal so vehemently that they would rather quit with no deal at all (another dreadful legacy of Mrs May, who spent two years saying Britain could prosper with no deal, before admitting that she was wrong). Upstart parties on both the Leave and Remain sides are tugging Labour and the Tories towards the extremes. The possibility of cross-party agreement seems more remote than ever. And as the chances of no deal edge up, the pound is sliding. Mrs May has had a wretched time in office. Her successor will find it no easier. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Brexit[]:[网络] 英国退出欧盟 
@@ -76,4 +77,6 @@
 64.tug[tʌg]:n. 用力拉, 拖曳, 苦干, 挣扎, 绳索 v. 用力拉 
 65.Tory['tɒ:ri]:n. 托利党党员, 保守党员, 亲英分子 a. 保守分子的 
 66.wretched['retʃid]:a. 可怜的, 不幸的, 卑鄙的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

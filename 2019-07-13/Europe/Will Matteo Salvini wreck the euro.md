@@ -32,6 +32,7 @@
 The next few months will reveal if the coalition prizes its credibility with investors. Financial markets have been relatively calm this year, with investors pricing in compromise, not confrontation, with Brussels. But spreads could quickly widen if the coalition does not restrain its budget plans. The banking system too is vulnerable: holdings of Italian sovereign debt account for a tenth of Italian lenders’ assets, well above the euro-area average. Part of that portfolio would be repriced as bond prices fall, eroding banks’ ability to withstand losses. A hit to the economy would close the “doom loop”, where weak sovereigns and banks drag each other down. 
 Past experience, in 1992 and in 2011, shows that governments tend to buckle under pressure from the markets. So far this coalition has been no different. And the elements of a compromise do exist. Mr Salvini could further moderate his programme of tax cuts. A small increase in VAT might help plug the gap, and have the virtue of signalling a commitment to fiscal discipline. Meanwhile Brussels may be content to accept a slightly higher deficit, provided it does not breach the 3% threshold. 
 But Mr Salvini may decide otherwise. He may stick to his guns; or he may surrender. He may force an early election; he may not. The troubling fact for Europe is that no one knows what this meteor that has flashed across Italy’s skies will do next. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.IL[]:[计] 指令表, 中间语言, 解释语言 [医] 钷(61号元素) 
@@ -248,4 +249,6 @@
 212.breach[bri:tʃ]:n. 裂口, 违背, 破坏, 违反, 突破, 破裂 vt. 攻破, 突破 vi. 跳出水面 
 213.threshold['θreʃәuld]:n. 门槛, 入口, 开端, 阈 [计] 阈; 阈值 
 214.meteor['mi:tiә]:n. 流星, 大气现象 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

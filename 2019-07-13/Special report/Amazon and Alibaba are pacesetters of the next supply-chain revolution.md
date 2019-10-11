@@ -26,6 +26,7 @@
 Hema has invested in the technologies needed to combine online and offline shopping. In-store shoppers can pay using facial-recognition (young people favour this, whereas oldies tend to pay by traditional means). The flying groceries go to an army of waiting couriers, who deliver online orders free within a 3km radius within 30 minutes. 
 Cainiao, Alibaba’s logistics platform, is investing 100bn yuan ($14.5bn) upgrading logistics to ensure next-day delivery in China and three-day delivery worldwide. “Our warehouse system is the most heavily used in the world,” says Ben Wang of Cainiao. Last year, on November 11th, a shopping extravaganza known as Singles Day, the firm sold $30bn-worth of goods. Shoppers wearing virtual-reality goggles could buy stuff with a flick of the head. Cainiao delivered the first 100m parcels (of 1bn orders) within 2.6 days, better than 2.8 days a year earlier. 
 Amazon is looking seriously at drones and autonomous robots for the last mile, which it considers the choke point for fast delivery. In June it unveiled its Prime Air drone, a hybrid aircraft which is to start making deliveries in “the coming months”. Ask Mr Madan to look five years ahead and he predicts that product selection will grow and delivery will get even faster. How fast? “Thirty minutes,” he says confidently. Then, after reflection, he adds with a mischievous smile, “Maybe 15.” How can the rest of the industry keep pace with supercharged superstars like Amazon and Alibaba? The only hope is for them to make their supply chains smarter. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.amazon['æmәzɒn]:n. 亚马孙河 [医] 无乳腺者 
@@ -158,4 +159,6 @@
 128.confidently[]:adv. 自信地；安心地 
 129.mischievous['mistʃivәs]:a. 淘气的, 有害的, 恶作剧的, 胡搅的 
 130.superstar['sju:pәstɑ:]:n. 超级明星 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

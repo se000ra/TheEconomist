@@ -22,6 +22,7 @@
 Mr Schwarzman welcomes the competition. “Capital should be drawn to sources of higher performance,” he declares. Traditional asset managers’ have had mixed success in the PE realm. Despite its lower fees, BlackRock’s PE venture did not manage to close its fund last year, as planned. Expertise in private markets takes time to build, says Jon Gray, Blackstone’s president. So does firepower. Blackstone has managed to raise $238bn over the past two years—almost doubling its assets under management. It has $133bn in cash ready to spend. This much “dry powder” is useful when markets tumble—as sooner or later they will—and cheap assets abound but new money to buy them does not. 
 Whether Mr Schwarzman joins the likes of John Pierpont Morgan, Marcus Goldman or Samuel Sachs in the Wall Street pantheon will be determined by how he handles two transitions. The first is the imminent one from partnership to corporation. This will require the financier to relax his lockjaw on the company, now that the firm will be held by a wider range of shareholders—while maintaining the discipline that has prevented Blackstone from blowing its money at the top of the cycle. 
 The second transition will be from Mr Schwarzman to his successor, probably Mr Gray. Mr Schwarzman says he has no plans to retire anytime soon. But the longer he stays in charge, the louder the question of whether his firm’s success can outlive him. Mr Gray says that Mr Schwarzman has built an investment firm that rivals Wall Street greats. When the time comes, Mr Schwarzman would be wise to let him prove it.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.stephen['sti:vn]:n. 斯蒂芬（男子名） 
@@ -121,4 +122,6 @@
 95.successor[sәk'sesә]:n. 继承者, 接任者 [计] 后继 
 96.anytime['enitaim]:adv. 任何时候；无例外地 
 97.outlive[aut'liv]:vt. 比...经久, 比...活得长, 度过(风暴)而健在 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

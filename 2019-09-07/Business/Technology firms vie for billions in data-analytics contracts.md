@@ -17,6 +17,7 @@
 Though C3’s and Databricks’ niches do not overlap much at the moment, they may do in the future. Their approaches differ, too, reflecting their roots. Databricks, born of abstruse computer science, helps clients deploy open-source tools effectively. Like most enterprise-software firms, C3 sells proprietary applications. 
 It is unclear which one will prevail; at the moment the two firms are neck-and-neck. In the near term, the market is big enough for both—and more. In the longer run, someone will come up with AI-assisted data analytics that are no more taxing than using a spreadsheet. It could be C3 or Databricks, or smaller rivals like Dataiku from New York or Domino Data Lab in San Francisco, which are also busily erecting AI platforms. The field’s other unicorns are unlikely to give up trying. And incumbent tech titans like Amazon, Google and Microsoft want to dominate all sorts of software, including advanced data analytics. 
 Mr Siebel would be the first to admit that this scramble is likely to claim victims. But it certainly bodes well for buyers of data-analytics software, which is likely to become as familiar to corporate IT departments in the 2020s as customer-relations programs are today. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.vie[vai]:vi. 争, 竞争, 争胜 vt. 提出...来竞争, 以...作较量 
@@ -135,4 +136,6 @@
 114.scramble['skræmbl]:n. 攀缘, 爬行, 抢夺, 混乱, 紧急起飞 vi. 攀缘, 杂乱蔓延, 争夺, 拼凑, 匆忙 vt. 攀登, 扰乱, 使混杂 
 115.bode[bәud]:v. 预示 bide的过去式 
 116.buyer['baiә]:n. 买主, 买方 [经] 买主, 买方, 买手 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

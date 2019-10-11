@@ -11,6 +11,7 @@
 First, America’s glossy corporate champions have unfamiliar vulnerabilities. Although fewer make physical goods, most rely on global production chains that are being shaken by the trade war (see article). This is depressing investment and could yet produce a shock—imagine if Apple was cut off from its factories in China. Tech firms, meanwhile, now account for a third of all investment by listed firms, including intellectual property. Other businesses outsource their need for IT services to a few giants. One of them, Alphabet, spent $45bn in the past year, five times more than Ford. But 85% of its sales come from advertising, which has been cyclical in the past. It and other tech firms also face a regulatory storm. 
 The second risk is financial. Although house prices and the banks have been tamed, total private debts remain high by historical standards, at 250% of GDP. An edifice of asset prices and borrowing rests on the assumption of permanently low and stable interest rates, making it more fragile than it looks. If rates rise there will be distress among some firms, and trouble in debt markets—there was a sell-off in late 2018. If, by contrast, the Fed has to cut rates to near zero for a prolonged period to sustain growth, it could weaken the banks, as Europe has found. 
 The last danger is politics. As the economy has trodden a narrow path, the boundaries of economic policy have been blown wide apart, partly out of frustration at a decade of sluggish wages. President Donald Trump has tried to gin up growth, by cutting taxes and attacking the Fed. Most Democrats are keen to let rip on government spending. More extreme policies hover in the wings. On the left, modern monetary theory (a kind of money printing) and massive state intervention are popular. One of Mr Trump’s new nominees to the Fed board supports a gold standard. The greatest threat to America’s long and placid expansion is that a new era of wild policy may be just beginning. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -98,4 +99,6 @@
 83.monetary['mʌnitәri]:a. 货币的, 金钱的 [经] 货币的, 金融的 
 84.intervention[.intә'venʃәn]:n. 插入, 介入, 调停 [经] 干预 
 85.nominee[.nɒmi'ni:]:n. 被提名者, 被任命者 [经] 被指定人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

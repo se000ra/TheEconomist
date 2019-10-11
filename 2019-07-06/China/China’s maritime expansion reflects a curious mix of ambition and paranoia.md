@@ -12,6 +12,7 @@
 Chinese strategists urge Westerners to understand that their country’s maritime rise is also guided by deep insecurity. They call China not so much blessed by geography, as cursed. They have a point. In “Red Star over the Pacific”, an influential book on China’s maritime ambitions, Toshi Yoshihara and James Holmes, two naval scholars, note that President Dwight Eisenhower saw the first island chain as a means for America and allies to hem China in, a view shared by Chinese admirals. The book quotes a Chinese military strategist who calls Taiwan, at the chain’s centre, “a lock around the neck of a great dragon”. It describes the claustrophobia of Chinese planners when they contemplate paths to the ocean that run through narrow choke-points between South Korea, Japan, Taiwan and the Philippines, or through the Strait of Malacca near Singapore. China has 14 land neighbours. America is envied for having two, friendly ones, and vast oceans to each side. 
 America’s geography is even luckier below the waves, argues Owen Cote of the Massachusetts Institute of Technology, in a new study in the Bulletin of the Atomic Scientists. Since the cold war, he writes, America has successfully tracked foreign submarines with acoustic arrays placed where continental shelves end and deep oceans begin. Asian allies host American arrays to detect Chinese submarines heading for the ocean past Japan, Taiwan or the Philippines. Geographical constraints—such as the shallowness of Chinese inner seas—make it hard for China to build similar arrays. 
 Hu Bo, a prominent naval strategist at Peking University, suggests that China may need perhaps two more overseas military bases between Djibouti and the South China Sea, because Djibouti would be too far from home “once we are in an emergency, say on the brink of war”. Whereas America gained many bases by fighting world wars, China must seek bases through discreet negotiations. Some might be primarily commercial in peacetime, he suggests. Increasingly, China has “huge interests overseas”. That offers avenues for co-operation with other countries, but also vulnerabilities. Mr Hu says it would be a “suicide mission” for China to take any actions that might provoke a blockade in its near seas—whether by America or other sea-powers. That is an oddly reassuring argument, at least for the rest of the world. In geopolitics, if not geography, a sense of vulnerability can be a stroke of luck.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.maritime['mæritaim]:a. 海的, 海上的, 海事的, 沿海的, 海员的 [经] 海事的, 海上的, 海员的 
@@ -101,4 +102,6 @@
 85.oddly['ɒdli]:adv. 奇怪地 
 86.reassure[.ri:ә'ʃuә]:vt. 使...安心, 向...再保证 [法] 重新保证, 再保险, 使清除疑虑 
 87.geopolitic[,dʒi:әjpә'litik]:a. 地理政治学的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

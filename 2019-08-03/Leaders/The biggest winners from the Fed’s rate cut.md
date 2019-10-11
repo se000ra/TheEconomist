@@ -10,6 +10,7 @@
 Sadly the pace of convergence between poor countries and rich has slowed and its scope has narrowed (see Free exchange). It appears those barnstorming growth rates relied heavily on China’s transformation into the workshop of the world, a feat that will not be repeated. Meanwhile there have been several bouts of market jitters: the taper tantrum in 2013, the commodity-price collapse in 2014, China’s devaluation in 2015, the Fed’s interest-rate rises in 2018, financial carnage in Turkey and Argentina, and the uncertainties of the trade war this year. 
 That is where monetary policy comes in. In America the central bank can ease policy to offset threats to growth. But many emerging economies felt unable to cut interest rates last year, because the Fed was doing the opposite. Tighter American monetary policy tends to spoil investors’ appetite for risky emerging-market assets. To stabilise their currencies, policymakers in many places found themselves tightening into a slowdown. Indonesia’s central bank, for example, raised rates by 1.75 percentage points in 2018, even though inflation remained below 3.5%. Central banks in Russia and India also turned hawkish, and Brazil had to stop its easing cycle. 
 The Fed’s doveish turn has changed that. Emerging economies now feel able to ease, too. South Korea has just lowered its benchmark rate for the first time in three years. Brazil cut rates to record lows this week. South Africa and Indonesia have loosened. Mexico is expected to ease soon. Easier money will help revive growth. But to sustain it much more is required. Emerging economies must use benign times to prepare for bad ones by, for instance, reducing short-term, foreign-currency debt. And to exploit catch-up growth, they must make themselves hospitable to global manufacturing, emulating China rather than riding on its coat-tails. The euphoria of the BRICs era may never return. But the Fed’s cut creates a moment of opportunity. Emerging markets should use it.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -63,4 +64,6 @@
 49.manufacturing[.mænju'fæktʃәriŋ]:n. 制造业 a. 制造业的 
 50.emulate['emjuleit]:vt. 效法, 尽力赶上, 同...竞争 [计] 仿真 
 51.euphoria[ju:'fɒ:riә]:n. 兴奋, 陶醉, 陶醉感 [医] 精神愉快, 欣快 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

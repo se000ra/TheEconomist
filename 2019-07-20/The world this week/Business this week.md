@@ -14,6 +14,7 @@
 The new governor of Turkey’s central bank suggested that there was now “room to manoeuvre” on cutting interest rates, given a fall in inflation to 15.7%. Murat Uysal was appointed to the job when his predecessor was ousted in a row over monetary policy with the government. Recep Tayyip Erdogan, the country’s president, said recently that he expects a “serious” reduction in the 24% benchmark rate. 
 Anheuser-Busch InBev scrapped a sale of shares in its Asian business, blaming market conditions. The brewer had hoped to raise $9.8bn on the Hong Kong stock exchange, which would have made it the world’s biggest IPO this year, ahead of Uber. 
 AG Barr, the maker of IRN-BRU, a soft drink that holds a special place in the Scottish psyche, issued a profit warning, blaming a “disappointing” summer in Scotland for a drop in sales. The company, which counts Tizer and Big Willie ginger beer among its brands, has also had to reduce the amount of sugar in its drinks to comply with a sugar tax. IRN-BRU’s distinct fluorescent orange colour (and its unique taste, a product of 32 flavouring agents) evokes such passion that a butcher in Fife once produced IRN-BRU infused sausages. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -104,4 +105,6 @@
 86.evoke[i'vәuk]:vt. 唤起, 引起, 召(魂) [法] 提审, 移送 
 87.fife[faif]:n. 横笛, 吹横笛 v. 吹横笛 
 88.infuse[in'fju:z]:vt. 注入, 使充满, 泡制, 鼓舞 vi. 泡 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -11,6 +11,7 @@
 Moreover, some keywords did suggest bias—in both directions. Just as PJ Media charged, the New York Times was over-represented on searches for “Trump”. However, searches for “crime” leaned right: Fox News got far more links than expected. 
 This implies that Google’s main form of favouritism is to boost viral articles. The most incendiary stories about Mr Trump come from leftist sources. Gory crime coverage is more prevalent on right-leaning sites. Readers will keep clicking on both. ◼ 
 Sources: Google; Adfontesmedia.com; Mediabiasfactcheck.com; YouGov; Meltwater; SimilarWeb; Pulitzer.org; Facebook 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.google[]:谷歌；搜索引擎技术；谷歌公司 
@@ -73,4 +74,6 @@
 58.coverage['kʌvәridʒ]:n. 覆盖的范围, 保险总额, 新闻报导 [化] 可达范围; 覆盖度 
 59.prevalent['prevәlәnt]:a. 普遍的, 流行的 
 60.facebook[]:n. 脸谱网 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

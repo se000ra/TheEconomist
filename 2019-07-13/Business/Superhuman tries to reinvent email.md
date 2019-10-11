@@ -8,6 +8,7 @@
 Superhuman is not invincible. Last week it faced the first backlash when it emerged that senders can track when and even where emails have been opened. The problem has since been fixed but others may prove harder to solve. One is that once taught Superhuman tricks, users could easily replicate them in Gmail and other free services. A bigger one is that by focusing on power users it may become a niche offering. This would limit the scope for fulfilling Silicon Valley’s number-one desire—for growth. 
 Mr Vohra argues that serving one group of customers well is the first step. With confidence typical of a startup founder he believes growth opportunities will present themselves later. Recipients could, for instance, have the service charge some senders for postage. 
 Superhuman can probably afford to bide its time. With a steady revenue from subscriptions and, for the time being, no cash-hungry customer-acquisition costs to speak of, it has a good shot at making money soon. If it manages to grow and make money at once, that would, in a world of perennially lossmaking startups, be a superhuman feat indeed. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.superhuman[.sju:pә'hju:mәn]:a. 超人的, 人类能力所不能及的 
@@ -61,4 +62,6 @@
 49.lossmaking['lɔs,meikiŋ;'lɔ:s-]:a. <英>老是亏损的 
 50.superhuman[.sju:pә'hju:mәn]:a. 超人的, 人类能力所不能及的 
 51.feat[fi:t]:n. 壮举, 功绩, 技艺表演 a. 灵巧的, 合适的, 整洁的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

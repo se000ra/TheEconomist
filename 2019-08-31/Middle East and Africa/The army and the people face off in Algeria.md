@@ -10,6 +10,7 @@
 The current political turmoil is not helping. The economy, which grew by a modest 2.3% in 2018, will probably slow down this year. Rounding up Mr Bouteflika’s corrupt allies was the right thing to do, but it also brought short-term pain. Fertial, a fertiliser company linked to Mr Haddad, is struggling to pay wages. Sonatrach, a state energy giant, had been in talks with foreign oil majors to attract new investment. With the government unable to pass a necessary energy law, though, those talks are on hold. 
 Algeria has not seen the kind of violence that followed Sudan’s recent uprising, to say nothing of the horrors in Libya or Syria. But it looks stuck at a difficult impasse. The opposition wants a freely elected government that does not include the army. The army, which long feared that Mr Bouteflika was trying to sideline it, has power again and does not wish to relinquish it. 
 General Salah occasionally slips into the familiar language of autocrats, slandering the opposition as “traitors” bent on undermining the state. The latter part is true: Algerians want to tear down a repressive state that failed to govern well for decades. The general can either go along with them, or go the way of other strongmen. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Algeria[æl'dʒiәriә]:n. 阿尔及利亚 
@@ -78,4 +79,6 @@
 64.undermine[.ʌndә'main]:vt. 在...下面挖, 渐渐破坏, 暗地里破坏 [法] 暗中破坏, 以阴谋中伤伤害 
 65.repressive[ri'presiv]:a. 压抑的, 抑制的, 镇压的 
 66.strongman[ˈstrɒŋmæn]:n. 大力士 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

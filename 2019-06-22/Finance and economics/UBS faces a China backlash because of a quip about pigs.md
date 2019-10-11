@@ -8,6 +8,7 @@
 Some observers saw the reaction as a sign of rising anti-foreign sentiment as China’s rift with America over trade deepens. Others spied a conspiracy. UBS has been one of the most successful foreign financial firms in China and is set to play a bigger role, having won approval to take majority control of its onshore securities unit. Chinese rivals might like to take it down a peg or two. 
 Yet at least some of the outrage was genuine. Calling someone a pig in China is deeply offensive. In context, it is clear that Mr Donovan meant actual hogs, not people. But his meaning was lost in translation and distorted on social media. Had he referred to “pigs in China”, the controversy could have been averted. As Bloomberg, a news agency, put it, the result was a “costly language lesson”. 
 For those who know Mr Donovan, the injustice is obvious. He is a consummate professional, popular with colleagues—and an expert on inflation, having written a book on the topic in 2015. If UBS ends up firing him, it will have made a pig’s ear of the whole thing. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.UB[]:[计] 上限 
@@ -52,4 +53,6 @@
 40.injustice[in'dʒʌstis]:n. 不公平, 非正义的行为 [法] 不公正, 不公平, 权利侵害 
 41.consummate['kɒnsәmeit]:vt. 完成, 使完美 a. 无上的, 至上的, 完美的 
 42.inflation[in'fleiʃәn]:n. 胀大, 夸张, 通货膨胀 [化] 充气吹胀; 膨胀 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

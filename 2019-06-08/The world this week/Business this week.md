@@ -13,6 +13,7 @@
 Apple said it will shut down its iTunes music service, replacing it with its Music, TV and Podcasts apps. The decision to phase out the software was announced at the firm’s annual developer conference. The change will be rolled out later this year with its latest operating system, macOS Catalina. 
 Fiat Chrysler withdrew its $35bn proposal to merge with Renault. The tie-up, which would have created the world’s third-biggest carmaker, was abandoned by the Italian-American firm shortly after midnight on June 5th when the French government, Renault’s largest shareholder, requested a delay to a final decision on the merger. Fiat Chrysler blamed “political conditions in France” for the deal’s collapse. See article. 
 A social-media campaign calling for a ban on office dress codes that require women to wear high heels went viral in Japan. The effort spread under the hashtag #KuToo, which plays on the Japanese words for shoe (kutsu) and pain (kutsuu). Asked to comment on the online campaign, Japan’s health minister said that such workplace rules are “necessary and appropriate”. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.disruption[dis'rʌpʃәn]:n. 分裂, 崩溃, 瓦解 
@@ -82,4 +83,6 @@
 65.viral['vairәl]:a. 病毒的, 病毒引起的 [医] 病毒的 
 66.hashtag['hæʃtæg]:n. 井号(#)标签（微博twitter中用来标注线索主题的标签） 
 67.online[]:[计] 联机 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

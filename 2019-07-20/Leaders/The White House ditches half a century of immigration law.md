@@ -9,6 +9,7 @@
 First, principle. The idea that a refugee should be protected, regardless of which countries he might have traipsed through beforehand, is worth defending. It is already dying in Australia and Europe. The European Union outsources much of its asylum policy to Turkey and Libya, for example, or to member states on its fringes; thousands of people languish in crowded camps in Greece. But for America to abandon this norm sends an even more disturbing signal. The land of the free has a proud history of resettling refugees from far-off places, rehousing many more than any other country. 
 Second, pragmatism. Mr Trump has already used threats on trade to persuade Mexico to host more asylum applicants on its side of the border while they await news of their claims. Unable to build his oft-promised wall, his administration has tried to deter migrants by other means, including separating children from their parents at the border. Migration numbers are volatile, and tend to decline in the hot summer months, but so far none of these things has cut the numbers enough for Mr Trump. Clamping down even harder will not alter the incentives to leave El Salvador, Honduras and Guatemala, where most asylum-seekers come from, in search of a better life. It simply makes it more likely that migrants will rely on traffickers rather than the legal system to cross into America. 
 There is a better way. The first step would be to increase the number of judges, to clear the backlog of immigration cases. There are currently not far off a million cases pending; the waiting time to hear them can be as long as three years. Many asylum-seekers disappear into the grey labour market as they wait for their cases to be adjudicated, joining the ranks of America’s 10.5m unlawful migrants; the Department of Justice says almost half do not show up for court hearings. The next step would be to allow the immigration and citizenship service to decide asylum applications at the border. Finally, the federal government could provide more aid to improve conditions in Central America. When Mexico’s economy improved and the fertility rate fell, the number of Mexicans migrating north slowed to a trickle. A different president, with a more expansive view of American greatness, would enforce rules and change incentives, not abrogate rights. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tweet[twi:t]:vi. 啁啾 n. 小鸟叫声 
@@ -62,4 +63,6 @@
 49.expansive[ik'spænsiv]:a. 扩张性的, 使扩大的, 广阔的 [化] 膨胀的; 可以膨胀的 
 50.greatness['greitnis]:n. 大, 巨大, 广大 
 51.abrogate['æbrәgeit]:vt. 废除, 取消 [经] 取消, 废除, 不生效(的法令) 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

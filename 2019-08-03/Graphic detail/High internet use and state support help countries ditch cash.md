@@ -7,6 +7,7 @@
 Public policy also makes a difference. Some cities, such as London and Amsterdam, have banned on-board cash payments on public buses. Estonia—the birthplace of Skype, an internet-telephony app—has been a leader in digitising public services, such as filing taxes and voting. Its residents are comfortable using new technology and sharing data, and often snub cash. Japan, in contrast, uses more cash than its internet usage would indicate. Historically, it had a sleepy credit-card monopoly entrenched by regulation, which discouraged foreign firms from investing. 
 So far, cash has proved stubbornly difficult to stamp out completely. Even in Sweden, a front-runner, one in four transactions involves it. But a tipping-point may loom. Handling cash is expensive. Studies estimate its overall cost to society at 0.5% of GDP. As more payments become digital, this burden will fall on ever fewer stores, shoppers and banks. If cash-withdrawal fees rise to $10 a time, even technophobes and older shoppers may start paying for those truffle fries with their phones. ■ 
 Sources: Bank of England; World Bank 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.graphic['græfik]:a. 生动的, 轮廓分明的, 绘画似的, 图解的 [计] 图形的 
@@ -55,4 +56,6 @@
 44.shopper['ʃɒpә]:n. 购物者 [经] 顾客, 购物的人 
 45.technophobe[ˈteknəʊfəʊb]:n. 科技产品排斥者, 技术恐惧者（指不喜欢新科技的人） 
 46.truffle['trʌfl]:n. 块菌 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

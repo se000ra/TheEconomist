@@ -9,6 +9,7 @@
 Dr Dynes and his team therefore compared three conventional arrangements of eight hives with three others in which the hives were painted in different colours and arrayed in circles, with each hive ten metres from its nearest neighbours. The entrances of these hives faced outward from the circle and each bore a symbol, different from any of the others, to increase its visual distinctiveness. As a final touch, the hives were also raised to various heights above the ground. 
 To understand better what was happening, Dr Dynes and his colleagues marked a representative sample of the workers in each hive with individually numbered tags. The result was a clean sweep for the new arrangements. Their bees drifted less between hives, supported fewer mites, produced more honey and survived the winter better than their conventionally housed counterparts. 
 How easy it will be to translate Dr Dynes’s insights into the world of commercial beekeeping remains to be seen. Apiarists maintain hives at high density for good reason—they may have to manage hundreds in a limited area. But even if they cannot compromise on density, there is nothing to stop them painting their hives different colours, randomising hive’s heights and the orientations of their entrances, and marking them with symbols. If that helps defeat mites, the effort involved will surely have been worthwhile.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.beekeeping['bi:,ki:piŋ]:n. 养蜂 
@@ -49,4 +50,6 @@
 36.cannot['kænɒt]:aux. 无法, 不能 
 37.randomising[]:[网络] 随机 
 38.orientation[.ɒ:rien'teiʃәn]:n. 定方位, 适应, 向东方 n. 方向 [计] 方向 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

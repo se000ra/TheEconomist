@@ -15,6 +15,7 @@
 While defending immigration, Mr Scheer hinted that Canada could become a bit less welcoming. As prime minister he would “set immigration levels consistent with what is in Canada’s best interests”. If anyone detects a dogwhistle, a Conservative will set them straight. The Conservatives are “one of few right-of-centre parties that is strongly pro-immigration”, says Michelle Rempel, an MP from Alberta. 
 In effect, Conservatives are betting on the robustness of Canada’s liberal antibodies and their own. Mr Scheer’s election pitch, which includes undoing gun controls brought in by the Liberals, cutting tax and ending national carbon pricing, may seem to have a whiff of Trumpism. Yet Canadian populism “is not the kind of divisive demagogic variety we’ve seen in Europe”, says Jason Kenney, who was Mr Harper’s minister for immigration and for multiculturalism and citizenship before becoming Alberta’s premier. The day after uttering those words he spoke in what sounded like creditable Punjabi to thousands of Sikhs at a parade in Calgary—not something Mr Trump or Marine Le Pen could be imagined doing. 
 Both sides are bracing for a bitter election. The clash between Mr Trudeau’s new-age liberalism and Mr Scheer’s conservatism may test Canada’s defences against immoderation, but they should hold. Canadian liberalism is so deep-rooted that it does not depend on a Liberal Party victory. If Mr Trudeau loses, the world will no longer be looking to him, as Mr Biden prophesied back in 2016. But liberals will still look to Canada. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -121,4 +122,6 @@
 102.immoderation[i.mɒdә'reiʃәn]:n. 无节制, 过度 
 103.biden[baidən]: [人名] 拜登 
 104.prophesy['prɒfәsai]:v. 预言, 预报 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

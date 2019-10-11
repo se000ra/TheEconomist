@@ -9,6 +9,7 @@
 This helps the males whose advances are rejected by fussy females, so would not otherwise procreate. It also allows researchers to identify useful genetic traits. One male, Gulliver, was found to haveunique disease-resistant genes. Andrew Digby, the programme’s scientist, thinks it “could hold the survival of the species”. 
 A bias towards male chicks has been corrected with a blunter tool: dieting. Fat females seem to produce more male offspring, so each bird’s transmitter is used to unlock hoppers that dish out strictly calorie-controlled meals. Once laid, some eggs are sent away for incubation and replaced by smart fakes, which wiggle and cheep so that the mother is primed for her hatchling’s return. Sickly babies are reared for months by hand. 
 All these efforts cost almost NZ$2m ($1.3m) this breeding season. Yet the kakapo’s future still looks precarious. Earlier this year a fungal disease tore through the population. And tiny as the number of kakapos is, space is running out on the two islands where most of them live. New predator-free havens must soon be found. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.cheep[tʃi:p]:n. 吱吱的叫声 v. 吱吱地叫 
@@ -66,4 +67,6 @@
 53.precarious[pri'kєәriәs]:a. 不稳定的, 不安的, 危险的 
 54.fungal['fʌŋ^әl]:a. 真菌, 突然发生而迅速生长的东西, 真菌类植物, 海绵肿, 真菌类病害 [医] 真菌的, 霉菌的 
 55.haven['heivn]:n. 港, 避难所, 安息所 vt. 安置...于港中, 庇护, 入港 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

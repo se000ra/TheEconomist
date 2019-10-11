@@ -8,6 +8,7 @@
 Mr Shanahan, who was in Seattle at the time working for Boeing, flew to Florida where the assault occurred and tried to provide a legal defence for his son to spare him jail time. In the immediate aftermath of the assault he wrote a memo claiming that his son had “acted in self-defence”. He told the Washington Post that the characterisation was made before he had all the facts, and that he was wrong to write it. When it became clear that the news would break, Mr Shanahan travelled to the Oval Office to withdraw his nomination. 
 Mr Shanahan’s predicament appears agonising. His difficulties do not elicit the same moral outrage as some of Mr Trump’s other nominations did. Yet they do illuminate the problem of a patchy vetting process and an impetuous chief executive who sometimes picks people simply because they look the part. Of the 713 top posts in the government which require the affirmation of the Senate, only 455 are filled by confirmed appointees. 
 The Department of Defence is perhaps America’s most important ministry, particularly now tensions with Iran are high—1,000 more troops have just been dispatched to the Middle East. The temporary replacement to the previous temporary replacement is Mark Esper, a West Point classmate of Mike Pompeo, the hawkish secretary of state. Mr Esper is a supporter of dispatching troops to the southern border, which allows Mr Trump to portray illegal immigration as an invasion. If the polls are tight next autumn, expect to see Mr Esper deploy more soldiers to guard the Rio Grande. Supposing he lasts that long. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.patrick['pætrik]:n. 帕特里克（男子名） 
@@ -78,4 +79,6 @@
 66.deploy[di'plɒi]:v. 展开, 配置 
 67.rio[]:n. 里约（巴西共和国的旧首都） 
 68.grande[^rɑ:nd]:a. 重大的, 显要的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

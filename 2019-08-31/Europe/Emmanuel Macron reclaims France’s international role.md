@@ -13,6 +13,7 @@
 A second is the leadership gap in Europe. America has grown used to looking to Mrs Merkel. Yet the chancellor has been weakened by her party’s electoral difficulties, along with the prospect of recession in Germany. Brexit, meanwhile, is occupying all of Britain’s diplomatic bandwidth. Mr Macron, who keeps a copy of Charles de Gaulle’s memoirs on his desk, is eager to occupy the space. To that end, he has helped manoeuvre France-friendly nominees into top European jobs, including Ursula von der Leyen, the incoming European Commission president, and Christine Lagarde at the European Central Bank. 
 A final factor is France’s relative economic resilience. French GDP is expected to grow by 1.3% this year, compared with 0.5% in Germany. Unemployment is still 8.5%, but that is its lowest level in a decade. France is less export-dependent than Germany and so less vulnerable to trade turbulence. And it has benefited from the fiscal boost Mr Macron injected late last year in response to the gilets jaunes protests. The president’s poll ratings have now recovered to where they were a year ago. 
 The French, with their universalist aspirations, are unusually sensitive to how well their leaders do abroad. Mr Macron’s G7 performance was roundly applauded at home. The summit, wrote Le Monde, was an “unquestionable success”. Deals may yet come unstuck. Talks may not materialise. Disappointments are inevitable. But Biarritz suggested that Mr Macron is growing into a role as a European leader who is prepared to take risks, push new ideas, and try to use the multilateral system to ease tensions and defend the liberal order.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.emmanuel[i'mænjuәl]:n. 以马内利（耶稣基督的别称）；伊曼纽尔（男子名, 等于Immanuel） 
@@ -117,4 +118,6 @@
 100.unstuck[.ʌn'stʌk]:a. 松开的, 紊乱的 unstick的过去式和过去分词 
 101.materialise[mә'tiәriәlaiz]:vi.vt. (使)物质化, (使)具体化, (使)追求物质利益, (使)显形, 成为事实, 实现 vi. 突然出现 
 102.multilateral[.mʌlti'lætәrәl]:a. 多边的, 多国的 [经] 多边的, 涉及多方的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

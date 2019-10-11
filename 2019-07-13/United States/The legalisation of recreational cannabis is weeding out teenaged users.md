@@ -9,6 +9,7 @@
 Across the country cannabis remains a big, and flourishing, business worth nearly $10bn last year, and projected to rise to nearly $45bn by 2024. Yet California has become the first state to shrink its legal market after legalisation. Its value went from $3bn in 2017 to just $2.5bn last year, according to Arcview Market Research and BDS Analytics. 
 The finding on teenaged use will put wind into the sails of advocates for liberalisation. Most of the public across many demographic groups supports legalising marijuana. At the same time, business growth is turning the pot industry into a force in the lobbies of Washington and of state capitols. Witness the Damascene conversion of John Boehner. The former House speaker, cannabis opponent and member of the Republican Party is now a board member and shareholder of New York-based cannabis firm Acreage Holdings. 
 Earlier this year, Mr Boehner launched a new industry-funded lobbying group promoting “common-sense federal regulation”. Were federal law to shift to make cannabis legal, his firm Acreage could complete a lucrative sale to Canopy Growth, a big Canadian cannabis firm. On July 10th a Congressional committee held a hearing on “the need for reform”. With the promise of real jobs and investment that could come from federal legalisation, it could even become a vote-winner.  
+<<<<<<< HEAD
 -- 
  单词注释:
 1.unintended['ʌnin'tendid]:a. 不是存心的, 无心的, 非故意的 
@@ -57,4 +58,6 @@
 44.lucrative['lu:krәtiv]:a. 有利益的, 获利的, 合算的 
 45.canopy['kænәpi]:n. 天篷, 遮篷, 苍穹 vt. 用天蓬遮盖 
 46.congressional[kәn'greʃәnl]:a. 会议的, 议会的, 国会的 [法] 代表大会的, 大会的, 议会的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

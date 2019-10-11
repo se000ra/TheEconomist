@@ -11,6 +11,7 @@
 Sometimes they succeed. In 2012 Julia Gillard, Australia’s prime minister, gave her renowned “misogyny speech”, lambasting her rival Tony Abbott for referring to Ms Gillard “making an honest woman of herself”, and for posing by a sign reading “ditch the witch”. Traditionalists pounced; Mr Abbott didn’t hate all women, they said, so Ms Gillard obviously didn’t know what misogyny meant. In response, Macquarie, an Australian dictionary publisher, expanded its definition of the word to include “entrenched prejudice against women”. 
 There are other ways to wage a social struggle on the lexical front. Inventing a word is one; Ms Manne has written about “himpathy”, which she uses to describe outbreaks of disproportionate concern for the future of a man accused of harassment, rape or other violence towards women. The term is pointed and memorable, and is spreading online. 
 Repurposing an existing word is harder; the inertia of the older meaning must be overcome. But this can be done, as (more intentionally than Ms Gillard) theorists and activists managed with “queer”. Whether inventing or repurposing words, in refusing to kowtow to inherited concepts Ms Manne is emulating Friedrich Nietzsche, who said that philosophers “must no longer accept concepts as a gift, nor merely purify and polish them, but first make and create them, present them and make them convincing”. Sound argument is needed to persuade other philosophers of such intellectual leaps; to enlist the wider world, a compelling vocabulary is vital. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.johnson['dʒɔnsn]:n. 约翰逊（姓氏） 
@@ -89,4 +90,6 @@
 74.Friedrich[]:n. 弗里德里希（人名） 
 75.Nietzsche['ni:tʃә]:a. 尼采的 
 76.enlist[in'list]:vt. 征募, 参与, 谋取 vi. 从军, 应募, 赞助 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

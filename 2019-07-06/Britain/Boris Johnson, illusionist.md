@@ -12,6 +12,7 @@
 But there are limits to how far this model can be applied to a job that has been likened to drinking from a fire-hose. The prime minister personally has to make decisions about an extraordinarily wide range of questions—including matters of national security—that require a close command of detail. What’s more, the Conservative Party is at war with itself over fundamental ideological questions, from the size of the state to Britain’s place in the world. Its various factions will treat the prime minister’s desire to delegate as an opportunity to advance their causes. 
 What of Mr Johnson’s rival? Mr Hunt is certainly a less entertaining figure. But then the candidates are auditioning for the job of prime minister rather than a place on “Love Island”. Like Mr Johnson, Mr Hunt has pandered to the right of his party by talking up the possibility of a no-deal Brexit. But that is the inevitable result of giving a rump of party members the final say. Mr Hunt possesses lots of conventional strengths: his long career in government, for instance, suggests that he would preside over a well-run and efficient Downing Street operation. And many of his supposed weaknesses are as illusory as Mr Johnson’s supposed strengths. The fact that Mr Hunt held one of the most difficult jobs in British politics, that of health secretary, and faced down a furious strike by doctors, suggests that he is a much tougher figure than his rival. 
 Johnsonites may yet be proved right that their man has the charisma to change the rules of the political game. But at the very least, the evidence regarding how the rest of the country sees him suggests that Tory members need to think very carefully about their decision. If they land the country with its second dud prime minister in a row, their party may never recover. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Bagehot[ˈbædʒət]:白芝浩；巴杰特（人名） 
@@ -99,4 +100,6 @@
 83.charisma[kә'rizmә]:n. 非凡的领导力, 神秘的个人魅力, 神授的能力 
 84.carefully['kєәfuli]:adv. 小心地, 谨慎地 
 85.dud[dʌd]:n. 衣服, 哑弹, 无用物 a. 无用的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

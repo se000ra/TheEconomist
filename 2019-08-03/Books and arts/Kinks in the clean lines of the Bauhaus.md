@@ -16,6 +16,7 @@
 Yet there were always kinks. The retrospective in Berlin will document the school’s close links to other artistic movements, such as the anti-establishment provocations of Dadaism. It will expose the bickering and glitches beneath the myth, noting, for instance, that one design now widely considered a Bauhaus classic, Maria Brandt’s geometrical tea-infuser of 1924 (pictured*), never made it beyond the prototype stage. For its part, the Ilse house demonstrates that the Bauhaus could inspire mash-ups as well as doctrinal purity. 
 After all, short-lived as it was, the school involved 1,400 people. Like most human endeavours of that size, and most artistic trends, “it was not a monolith,” Ms Wiedemeyer says. Her exhibition will include some of the Bauhaus’s greatest hits; “but it will also say, ‘Wait, there’s more…’” ■  
 *Bauhaus Archive Berlin © VG Bild-Kunst Bonn 2019 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.kink[kiŋk]:n. 扭结, 蜷缩 v. (使)扭结, (使)绞缠 
@@ -131,4 +132,6 @@
 111.monolith['mɒnәuliθ]:n. 巨型独石, 大独石碑 
 112.vg[]:abbr. 音频段（Voice Grade）；电压增益（Voltage Gain）；很好（Very Good）；代理监督（Vicar General） 
 113.Bonn[bɒn]:n. 波恩 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

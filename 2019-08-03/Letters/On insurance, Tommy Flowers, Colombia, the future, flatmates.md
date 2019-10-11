@@ -27,6 +27,7 @@
 The parents of the students who refused to take Trump supporters as roommates should be asking for their tuition back (“Strange bedfellows”, July 20th). The core skill of an educated person is to be able to listen to an opposing view, engage with it, find common ground if possible, learn from it and respect it. By rejecting Trump supporters, these students mimic his behaviour by gleefully rejecting anyone who disagrees with them. 
 My second thought after reading the article, is where can I find an apartment for $625 a month? 
 PEGGY TROUPINNew York 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tommy['tɒmi]:n. 配给面包, 实物工资制 [经] 实物工资制 
@@ -127,4 +128,6 @@
 96.gleefully['ɡli:fəlɪ]:adv. 高兴地 
 97.peggy['pe^i]:n. 佩吉（女子名） 
 98.york[jɔ:k]:n. 约克郡；约克王朝 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

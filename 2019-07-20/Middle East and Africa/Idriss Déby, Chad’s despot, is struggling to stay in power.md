@@ -13,6 +13,7 @@
 But today Mr Déby’s army is overstretched. A new wave of attacks by Boko Haram and Islamic State of West Africa (a Boko Haram offshoot) has hit the Lake Chad Basin. Analysts say the new attackers are better trained and better armed than they were in the past. And while the Chadian army is good at fighting outside the country, inside it is less effective. According to Ms Debos, the need for France’s intervention showed that some high-ranking officers were unwilling to fight their kith and kin among the rebels. 
 Relations with neighbouring Sudan are also a problem. Mr Déby backed fighters in Sudan’s rebellious Darfur region. In response the government in Khartoum sponsored Chadian opponents who almost killed the president in 2008. Now that his rival dictator in Sudan, Omar al-Bashir, has been ousted Mr Déby will fear meeting the same fate. Chad does not have a professional middle class like the one that spearheaded Sudan’s revolution, but protests erupted last year at Mr Déby’s promotion of a law that could allow him to stay as president until 2033, when he will be 81. In response the government banned social media for over a year, only reallowing it on July 14th. 
 France and America have several thousand troops between them stationed in N’Djamena. These soldiers give the president no small amount of comfort. But Mr Déby’s foreign patrons cannot protect him from everything.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Chad[tʃæd]:n. 乍得 [计] 孔屑 
@@ -79,4 +80,6 @@
 62.reallowing[]:[网络] 现在 
 63.patron['peitrәn]:n. 赞助人, 顾客, 保护人 [法] 保护人, 庇护人, 赞助人 
 64.cannot['kænɒt]:aux. 无法, 不能 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

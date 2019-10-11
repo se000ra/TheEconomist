@@ -11,6 +11,7 @@
 Some motives to have more foreign cases heard in mainland China may be relatively benign. For instance, autocratic Chinese business bosses, notably from state-owned enterprises, loathe being cross-examined in foreign commercial courts or arbitration tribunals, and often do badly there. Other possible motives are more worrying. Too many belt-and-road contracts are secretive, unequal and reward local power-brokers in opaque ways, reflecting deep cynicism about global norms. Some experts wonder if China secretly envies the ability of American judges in civil suits to demand the seizure of assets on the other side of the world. Though Chinese officials denounce America as a bully with a long reach, some scholars wonder whether China might one day begin issuing more extraterritorial judgments of its own. 
 International lawyers expect rich-world parties to be wary of the tribunals, for now. They predict that foreign firms will prefer to take disputes involving Chinese partners to such compromise locations as Hong Kong, a Chinese city with its own legal system, complete with foreign judges. The opening case in Xi’an concerned a shareholding dispute involving Red Bull, an energy drink from Thailand. The case was passed to the tribunal by the supreme court. “Where you go to resolve a dispute is more or less a question of your bargaining power,” says a lawyer with years of China experience. Smaller firms from poorer nations have fewer choices. 
 In the law courts of Communist China, power and political control count for more than fairness. The tribunals could one day matter a lot, should they be used to export a vision of international law that reflects that same, bleak worldview. At the moment, an obsession with power and order is hobbling the new tribunals. But that could change: China’s autocrats may not be as clumsy for ever. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.tribunal[trai'bju:nl]:n. 法庭, 法官席, 裁决 [法] 法庭, 裁判所, 裁判 
@@ -94,4 +95,6 @@
 79.obsession[әb'seʃәn]:n. 困扰, 困扰人的情绪 [医] 强迫观念 
 80.hobble['hɒbl]:vi. 蹒跚 vt. 使跛行, 阻碍 n. 跛行 
 81.autocrat['ɒ:tәkræt]:n. 独裁者 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -10,6 +10,7 @@
 Even that narrow relief will leave trade between the United States and its North American neighbours less free than before. The deal between the United States, Canada and Mexico allows for tariffs to be reimposed without notice if imports of a particular product surge. And it includes new, as yet unspecified, enforcement provisions, intended to ensure that metal from other countries does not sneak into the United States. That is meant to address concerns about Chinese exports depressing American prices through the back door. 
 But it is better for Canada and Mexico than the quotas the Trump administration had been demanding. Those could have blocked trade altogether, even if American supply had fallen short. And the deal’s political significance goes well beyond the limited quantities of metal imports it covers. Mr Trudeau called it a “big step forward” towards ratifying the USMCA, the deal between the United States, Canada and Mexico negotiated to replace NAFTA. Though Democrats in Congress are likely to demand further changes first, its chances should be helped by the silencing of Canadian and Mexican complaints. 
 The news does not mean that Mr Trump is no longer, as he put it, a “tariff man”. On May 17th a presidential proclamation gave Japan and the European Union up to six months to negotiate away the (imaginary) threat posed by their cars and car parts to America’s national security. On May 10th American tariffs on $200bn of Chinese imports increased from 10% to 25%. All this means Mr Knott’s luck has turned. As he points out, all tariffs are “an exploitation of the consumer”. But now it is not his firm that is feeling the worst of the squeeze. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.importer[im'pɒ:tә]:n. 输入者, 进口商 [法] 进口商, 输入者 
@@ -44,4 +45,6 @@
 30.presidential[.prezi'denʃәl]:a. 总统制的, 总统的, 首长的, 统辖的 [法] 总统的, 议长的, 总经理的 
 31.proclamation[.prɒklә'meiʃәn]:n. 宣言, 公布, 布告, 公告 [法] 宣告, 宣布, 布告 
 32.exploitation[.eksplɒi'teiʃәn]:n. 开发, 开采, 剥削 [经] 开发, 剥削, 宜传 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

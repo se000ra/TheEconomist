@@ -15,6 +15,7 @@
 How might Democrats respond? Heidi Heitkamp, a senator in North Dakota until this year, is leading a national effort called “One Country” to persuade rural voters that Democrats have their interests at heart. She cites the Iron Range as typical of where the party must pay more attention. “Democrats failed to show up and listen to legitimate concerns” in such places, she says. The party should offer a message of infrastructure investment and of tapping rural labour for white-collar jobs, she says, even if it won’t commit to reviving mining. 
 Ms Heitkamp also wants Democrats to change their tone when addressing voters in towns like Eveleth. “I think miners want to hear the truth. Right now rural America depends on trade aid, but there is a real high bullshit factor,” she says, meaning politicians have not been straight when explaining that a changing economy requires government help in retraining for new jobs. Mr Trump may make simple vows to restore old mining work, but Democrats could explain how tourism, technology, engineering, health care and other industries can bring economic revival. 
 Such messages won’t win over all rural voters, she admits, but they are better than silence. “Rural America is movable,” she argues, pointing to the appeal of Laura Kelly, the Democratic governor of Kansas, in suburbs, small towns and cities. Similar successes may only be replicated if candidates show up in places like Eveleth. “It is a game of inches, not yards,” says Ms Heitkamp. If Democrats fail to play, Republicans will make the running on the Range. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -113,4 +114,6 @@
 94.Kelly['keli]:n. 凯利（男子名）；[古]战士 
 95.kansa[]:n. （日语）监察；堪萨人（旧时居住在美国堪萨斯州一带的印第安人） 
 96.replicate['replikeit]:vt. 折叠, 折转, 复制 n. 复现试验, 复制品, 高八度音 a. 复现的, 复制的, 折转的, 弯回的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

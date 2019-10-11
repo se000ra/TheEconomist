@@ -12,6 +12,7 @@
 Flat lenses still need development before they can truly replace their glass counterparts. In current designs, only around half of the light falling on a flat lens triplet makes it through to the other side. The rest is reflected or absorbed by the material. In a typical glass lens, by contrast, at least 90% of the light passes through. However, the researchers hope that, by tweaking the shapes and positions of the antennae, they will be able to improve on this. 
 In theory, there is no limit to the size of a lens that could be made using Dr Yu’s techniques. But there are practical challenges in making ever-larger lenses that would work well in full colour. In particular, the bigger the lens, the more challenging it becomes to design the correct shape and distribution of antennae. 
 These technical obstacles will no doubt be overcome—and probably quite quickly, given the interest the project has attracted from America’s armed forces. Meanwhile, flat lenses for smaller applications are already on course to become the biggest innovation for manipulating rays of light since someone, thousands of years ago, first ground a piece of transparent crystal into the shape of a leguminous seed.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.len[]:n. 伦恩（男子名） 
@@ -45,4 +46,6 @@
 29.quickly['kwikli]:adv. 很快地 
 30.innovation[.inәu'veiʃәn]:n. 改革, 创新 [法] 创新, 改革, 刷新 
 31.manipulate[mә'nipjuleit]:vt. 操纵, 利用, 操作, 巧妙地处理, 假造 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

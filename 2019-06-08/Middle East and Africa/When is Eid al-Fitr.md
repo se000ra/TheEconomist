@@ -8,6 +8,7 @@
 This year was unusually absurd. War-torn Syria and Yemen had two Eids, one for government-controlled lands, the other for rebel-held pockets. Watchers in Libya could not find the moon on June 3rd but adopted the Saudi date anyway. Wags wondered if some countries were making political statements. For the first time in recent memory, Jordan and Palestine broke with Saudi Arabia. Both are unhappy with the kingdom over its support for Donald Trump and his Middle East peace plan. 
 Along with Eid greetings, Arabs swapped Eid jokes. One widely shared video from a Kuwaiti YouTube channel showed Sunni and Shia clerics playing tug-of-war with the lunar crescent. But the confusion is a real annoyance. Muslims in the West groan about having to ask their bosses for a day off—without knowing in advance which day it will be. 
 Other calendars that fix their months by the moon use mathematical formulas: Rosh Hashanah or the Chinese new year are predicted scientifically. Some Muslim jurists say their faith permits the same. Enthusiasts have designed websites and apps that show when and where the crescent will be visible. Their work suggests that the hilal should not have appeared in the eastern hemisphere until June 4th. No one tell the Saudis—or Mali, which somehow spotted it on the 2nd. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.eid[]:abbr. Expression Interactive Designer；Epson Imaging Devices；Emerging Infectious Diseases；eTrust Intrusion Detection 
@@ -59,4 +60,6 @@
 47.APP[]:[计] 应用, 应用程序; 相联并行处理器 
 48.hemisphere['hemisfiә]:n. 半球, 地球的半面, 大脑半球 [医] 半球 
 49.Mali['mɑ:li]:n. 马里 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

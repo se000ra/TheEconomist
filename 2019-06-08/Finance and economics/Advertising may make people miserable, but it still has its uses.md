@@ -10,6 +10,7 @@
 The priciest cars may offer more nifty features and a smoother ride than a cheaper marque, but the vast difference in price is not primarily down to such advantages. Rather, the buyer is paying for such cars’ value as a status symbol, which derives from the fact that very few people can afford one. (Following his insight, economists use the name “Veblen good” for items for which demand rises with price, though it is not the high price itself that generates the increased demand but rather the exclusivity that the high price confers.) These luxury items defy normal economic logic. In the mass market, productivity-boosting innovations that allow firms to sell better products at lower prices are a route to success. For producers of conspicuous-consumption items, such cost-cutting does not conquer the market but destroys it. 
 The notion that people might buy high-cost items in preference to serviceable alternatives simply to set themselves apart from the less well-off would seem absurd, were the economy not chock-a-block with examples, from designer handbags to silver cutlery to oxygenated energy drinks. Advertising enables the process. For goods to grant high status, there must be consumers who want but cannot have them. Ad campaigns featuring sleek cars bedecked with oversized bows add to the value of luxury brands by informing the masses of how desirable they are—and how inaccessible. 
 Veblen, though, saw the rich as a largely unproductive class of capital-owning moochers, who profited off the useful labour of working people (hence the “leisure class”). In recent decades, however, the share of Americans working long hours has grown, and has risen fastest among those earning the highest wages—an odd exception to the global norm that working time declines with income. The status envy induced by conspicuous consumption may play a role. In rich countries, most people’s basic needs have long since been met. To keep workers striving—those on higher incomes especially—there must always be more desirable consumer goods and services just out of reach. Perpetual dissatisfaction may well boost economic growth by keeping highly productive workers who might otherwise enjoy more time with their families chained to their desks. But it is a funny sort of prosperity that depends on people never being satisfied with their lot. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.advertising['ædvәtaiziŋ]:n. 广告业, 广告 a. 广告的 [计] 发广告 
@@ -84,4 +85,6 @@
 70.alway['ɔ:lwei]:adv. 永远；总是（等于always） 
 71.perpetual[pә'petʃuәl]:a. 永久的, 不断的, 无期限的, 没完没了的, 四季开花的 [经] 永远的, 终身的, 持续的 
 72.dissatisfaction['dis.sætis'fækʃәn]:n. 不满, 不平 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

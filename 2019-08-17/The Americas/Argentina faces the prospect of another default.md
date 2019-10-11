@@ -13,6 +13,7 @@
 A weaker currency will push up the prices of imported goods, causing inflation to rise even further. It also has adverse implications for the country’s bonds. Argentina has defaulted on its sovereign debt eight times since independence in 1816, most recently in 2014 when Ms Fernández clashed with hedge funds. Government debt in Argentina is currently worth 88% of GDP. Three-quarters of it is denominated in foreign currency. A falling peso will push up the burden of servicing it. Economists at Bank of America now think the probability of a restructuring next year is high, and that the recovery value of Argentina’s debt could be as low as 40%. 
 Could the markets’ collapse persuade Argentines to change their minds by October? Some voters surely took the chance to punish Mr Macri in the primary vote, and will come back to him in the real thing. But few think it will be enough. Eduardo D’Alessio, of D’Alessio/Berensztein, a polling firm, says it would take “a huge, obvious mistake” by los Fernández before October to keep Mr Macri in office. Inside the president’s camp, the mood was doom-laden. “This is a catastrophe,” said one of his advisers. “It’s almost impossible to come back from this.” 
 Mr Macri has vowed to fight back. On August 14th he told voters: “I understand the anger.” He has introduced a $740m stimulus package of tax cuts, price freezes and higher benefit payments. Maybe it will help him claw back some votes. But whoever gets the job after the vote in October, it has just become much harder.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Argentina[.ɑ:dʒәn'ti:nә]:n. 阿根廷 
@@ -88,4 +89,6 @@
 71.los[lɔ:s]:abbr. 月球轨道航天器（Lunar Orbiter Spacecraft）；视线（Line of Sight） 
 72.vow[vau]:n. 誓约, 誓言, 许愿 vi. 起誓, 发誓, 郑重宣言 vt. 立誓, 起誓要, 郑重地宣布 
 73.stimulus['stimjulәs]:n. 刺激, 激励, 刺激品 [医] 刺激特, 刺激 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

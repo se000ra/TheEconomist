@@ -12,6 +12,7 @@
 The prime minister nonetheless promises that Greece will stick to a harsh budget target this year and next. This target has already been agreed with its creditors: a primary surplus (before debt-servicing costs) of 3.5% of GDP. The Syriza government of Alexis Tsipras, Mr Mitsotakis’s predecessor, exceeded this target last year by raising taxes and cutting the public-investment budget. Creditors were impressed by Syriza’s rigour, but growth was subdued. This year’s forecast is around 2%, well below the 3.5-4% needed to make up for the recession quickly. Greek GDP is still about 25% below its pre-crisis peak. 
 The new government hopes that political stability (thanks to its majority in parliament) and business-friendly reforms (cutting red tape as well as taxes) will attract foreign investment. “Greece will be a totally new country for business,” promises Adonis Georgiadis, the minister for development and investment. As a sign of seriousness, he is leading a push to make sure the long-stalled privatisation of Hellinikon, a prime site that used to be Athens’s airport, gets under way this year. 
 The government will present a draft budget in September. Although Greece is no longer in an official rescue programme, the budget must be approved by the creditors under the terms of a post-bail-out “surveillance” agreement. He is betting on drastic cost-cutting at government ministries to offset immediate revenue reductions from tax cuts. Good luck with that. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -58,4 +59,6 @@
 42.surveillance[sә:'veilәns]:n. 监视, 监督 [电] 侦测 
 43.drastic['dræstik]:a. 激烈的 [医] 峻泻药, 剧烈的 
 44.offset['ɒ:fset]:n. 抵消, 把...并列, 旁系, 支管, 用胶印法印 vt. 弥补, 抵消, 胶印 vi. 装支管 n. 偏移量 [计] 偏移量 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -19,6 +19,7 @@
 The result of that may be more late abortions. Data are limited, but research by Daniel Grossman, a professor of gynaecology and reproductive sciences at the University of California, San Francisco, found that abortion restrictions introduced in Texas in 2013 led to a 27% increase in second-trimester abortions the following year. 
 America’s abortion war has curtailed access to abortion in other ways, too. Since 1976 the Hyde Amendment has forbidden the use of federal funds for abortion. Some women may have to delay abortions while they raise cash to pay for it. Dr Carhart, meanwhile, says he has performed abortions late in pregnancy because pro-life doctors have chosen not to tell their patients the fetus they are carrying has an anomaly—and then a few weeks before the due date warn them about the condition. 
 He says that women often ask for tips on how to disguise their abortions from their doctors for fear they refuse to see them again. “I say to them, why the hell do you want to see that doctor anyway?” He advises those women to find a doctor who shares their beliefs. Even the medical profession is polarised. The only thing that could end America’s destructive abortion war is a political consensus. That, unfortunately, is unimaginable.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -130,4 +131,6 @@
 107.hyde[haid]:n. 海德 
 108.amendment[ә'mendmәnt]:n. 修订, 改善, 改良, 改正 [化] 调理剂; 修正 
 109.polarise['pәjlәraiz]:vi.vt. (使)极化, (使)偏振, (使)两极分化 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

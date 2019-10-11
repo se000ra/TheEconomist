@@ -11,6 +11,7 @@
 Reporting on what is really going on in Kashmir is hard. Foreign journalists are hindered from going there. The Kashmiri press is stymied from getting its story out. This month Delhi’s Press Club of India succumbed to pressure not to show a documentary, “Kashmir Caged”, that carried testimony of Kashmiris’ treatment at the hands of the security forces. It is only thanks to brave Kashmiri and other Indian journalists filing for foreign news outlets that any picture at all of the benighted region is possible. 
 In truth, the press’s current sycophancy rises from a hinterland of intimidation, trimming and currying favour dating back to Mr Modi’s rise to national power in 2014. Government ads are pulled in retaliation against newspapers that have been critical of the BJP, such as the Hindu and the Telegraph. Meanwhile, businessmen are shyer of voicing criticism in public. Ramachandra Guha, a historian, talks of the “silence of the successful”. Back in 1992 several industrialists put their name to a full-page ad decrying the destruction by a Hindu mob of the Babri Masjid mosque. Today’s generation of businessmen, Mr Guha says, would be too scared to sign a similar ad over Kashmir. Meanwhile, lack of scruple rules: Mr Goswami’s original backer, one of a new breed of Modi-supporting industrialists and a member of the upper house of parliament, profits through arms sales from the militarism Mr Goswami extols on air. 
 Back in 2015 Mr Advani, no fan of Mr Modi, said that he wouldn’t be surprised if, sooner rather than later, another emergency was declared. That remains wild conjecture. But one thing is for sure: the press will be ready. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.banyan['bænjәn]:n. 印度榕树 [医] 榕树, 孟加拉榕 
@@ -98,4 +99,6 @@
 83.extol[ik'stәul]:vt. 颂扬, 称赞, 吹捧 
 84.advani[]:n. (Advani)人名；(印)阿德瓦尼 
 85.conjecture[kәn'dʒektʃә]:n. 推测, 猜想, 揣摩 v. 推测, 猜想, 揣摩 [计] 推测; 猜测 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 There is no denying that China has manipulated its exchange rate in the past. But today a different dynamic is playing out around the world. Mr Trump wants a booming economy, protected by tariffs and boosted by a cheap dollar, and when he doesn’t get them he lashes out. But economic reality makes these three objectives hard to reconcile. Tariffs hurt foreign exporters and dampen growth beyond America’s borders; weaker growth in turn leads to weaker currencies, as business becomes cautious and central banks ease policy in response. The effect is particularly pronounced when America is growing faster than other rich countries, as it has recently. The dollar’s enduring strength is a result, in part, of Mr Trump’s policies, not of a global conspiracy. 
 Unless this fact sinks in soon, real harm will be done to the global economy. Faced with the uncertainty created by a vicious superpower brawl, firms in America and elsewhere are cutting investment, hurting growth further. Lower interest rates are making Europe’s rickety banks even more fragile. China could face a destabilising flood of money trying to leave its borders, as happened in 2015. And further escalation is possible as both sides reach for economic weapons that were considered unthinkable a few years ago. America could intervene to weaken the dollar, undermining its reputation for unfettered capital markets. China or America could impose sanctions on more of each other’s multinational firms, in the same way that America has blacklisted Huawei, or suspend the licences of banks that operate in both countries, causing havoc. 
 As it pursues an ever more reckless trade confrontation, the White House may imagine that the Federal Reserve can ride to the rescue by cutting rates again. But that misunderstands the depth of unease now felt in factories, boardrooms and trading floors around the world. In September talks between America and China are set to resume. It is time for a settlement. The world economy cannot stand much more of this.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.miscalculation[]:n. 算错, 失算, 估计错误 [计] 计算错误, 算错 
@@ -69,4 +70,6 @@
 56.reckless['reklis]:a. 不介意的, 大意的, 鲁莽的, 不顾后果的 [法] 不注意的, 粗心大意的, 鲁莽的 
 57.unease[.ʌn'i:z]:n. 不安 
 58.boardroom['bɒ:drum]:n. 会议室, 证券交换场所 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

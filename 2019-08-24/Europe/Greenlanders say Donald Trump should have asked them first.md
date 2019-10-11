@@ -10,6 +10,7 @@
 Aqqaluk Lynge, a veteran leftist, said the spat with Mr Trump might make Danes and Greenlanders appreciate one another more. It might, for example, remind Danes who moan about subsidising their Arctic cousins not to take them for granted. 
 Today Greenland exports mostly seafood. When Mr Trump joked that he did not want to build a skyscraper with his name on it in Greenland, he was surely telling the truth. The real economic opportunity is that vanishing glaciers are opening up its mineral resources, including rare earths and possibly oil and gas. Minik Rosing, a Greenland-born geologist, noted the irony in a man who once called global warming a “hoax” coveting territory that owes its rising value to melting snows. Yet he also thinks a more tactful American leader might persuade Greenlanders to upgrade their links with the United States at the expense of their Danish ones. 
 Perhaps. But were they ever to decide to become part of America, which for now seems highly unlikely, they would get a culture shock. Not only do Greenlanders have Nordic ideas about social welfare; they also ban private ownership of land. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.antic['æntik]:n. 滑稽动作 a. 古怪的 
@@ -60,4 +61,6 @@
 46.hoax[hәuks]:vt. 欺骗, 哄骗, 愚弄 n. 愚弄人, 恶作剧 
 47.tactful['tæktful]:a. 机智的, 老练的 
 48.Nordic['nɒ:dik]:n. 北欧人, 日耳曼民族, 北欧两项滑雪 a. 北欧人的, 日耳曼民族的, 北欧两项滑雪的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

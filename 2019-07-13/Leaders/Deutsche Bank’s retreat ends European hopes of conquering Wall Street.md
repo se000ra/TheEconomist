@@ -9,6 +9,7 @@
 But the Europeans would have been hamstrung even if they had avoided such mistakes. Their ambitions are built on a less solid foundation: American banks enjoy a giant, homogeneous home market, whereas Europe’s remains fragmented. America’s economy has grown faster than anaemic Europe. Regulatory fragmentation has taken a toll, too. American firms were forced to face up to their problems quickly, in 2008, taking government money and recognising losses under the TARP programme. With no central authority willing or able to impose it, competitors across the pond received no such tough love. Slow to react to the crash of 2008, European policymakers have since been slow to agree on financial fixes. 
 America’s trouncing of Europe in securities sales, trading and dealmaking has a clear benefit: greater efficiency. Wall Street’s homegrown giants are leaner, better managed and able to spend more on technology. But a reduction in competition is to be lamented, especially since advisory and underwriting fees remain fat. The most likely source of competition in the long term is China. Its big banks have zoomed up the league tables in Asia, and their ambitions stretch far beyond the region. Still, managing giant egos and pay packets is not easy. This year CITIC Securities, the biggest mainland firm, has faced an exodus of top staff from its international arm. In the meantime, the Americans can savour their defeat of the European upstarts. 
 Yet victory has a sting in the tail. The share prices of most of the big American banks have lagged the stockmarket since 2008—none too impressive for masters of the universe. It is worth remembering that, even as thousands of Deutsche bankers are shown the door, the big winners of the past quarter-century have been the industry’s employees, not its shareholders. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.nightmare['naitmєә]:n. 梦魇, 恶梦, 可怕的事物(或情景、人物) [医] 梦魇, 恶梦 
@@ -80,4 +81,6 @@
 67.upstart['ʌpstɑ:t]:n. 新贵, 暴发户, 自命不凡者 a. 暴富的 
 68.stockmarket[s'tɒkmɑ:kɪt]: 证券市场; 证券交易所; 证券行情 
 69.shareholder['ʃєә.hәuldә]:n. 股东 [法] 股东, 股票持有人 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

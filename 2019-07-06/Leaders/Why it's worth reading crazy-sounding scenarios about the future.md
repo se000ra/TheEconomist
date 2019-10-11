@@ -7,6 +7,7 @@
 Science fiction, a second realm of speculation, is perhaps a more familiar beach read. It is wrong to see sci-fi as chiefly predictive, however. Its contemplation of the future is often a commentary on the present: many sci-fi authors take current concerns, from robots to climate chaos to gender politics, to the logical extremes and consider their implications. As a result, sci-fi can play a useful role as a forward-scanning radar for technological, social and political trends. But sci-fi does directly shape the future in one concrete way: the tech industry is full of people trying to make it come true. Amazon’s Alexa voice-assistant is the talking computer from “Star Trek”; SpaceX lands its rockets on drone ships whose names are borrowed from Iain M. Banks’s “Culture” novels; an entire industry is trying to bring to life the virtual world of Neal Stephenson’s “Snow Crash”. Beyond these familiar tropes, Chinese sci-fi and Afrofuturism offer refreshingly different perspectives and possibilities. 
 The last speculative category is corporate anthropology and trendspotting. Many large companies employ roving anthropologists to seek out “edge cases”: examples of emerging technologies and behaviour that have yet to become widely adopted, but have the potential to go global. As the sci-fi novelist William Gibson once put it, “the future is already here—it’s just unevenly distributed.” Two decades ago, Japanese schoolgirls led the way with modern smartphones, capable of taking pictures and downloading apps; we are all Japanese schoolgirls now. What’s next: the death of cash? Clothes made of mushrooms? Artificial meat? Trendspotters often get it wrong. But it is worth paying attention to what they think might be coming, just in case they are right. 
 Pierre Wack, one of the gurus of scenario planning at Shell, once likened dealing with the future to shooting the rapids in a boat. You know the general direction of travel, but not the exact path, and the trick is to be able to respond quickly. Reading about possible futures can shift your perception of the present and help you understand what might be around the corner. It can also be fun. So why not give it a try, starting with the speculative scenarios in this issue: who knows what might happen? ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.futurology[.fju:tʃә'rɒlәdʒi]:n. 未来学 [法] 未来学 
@@ -67,4 +68,6 @@
 56.guru['guru:]:n. 古鲁(印度教导师) [医] 柯拉子 
 57.liken['laikәn]:vt. 比喻, 比拟 
 58.perception[pә'sepʃәn]:n. 知觉, 感觉, 领悟力, 获取 [医] 知觉 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

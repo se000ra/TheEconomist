@@ -11,6 +11,7 @@
 Like Janus, his government faces two ways on this issue. Brazilian diplomats abroad present their country as committed to halting deforestation. At home, the president winks at those who practise it. That is why it is important to hold his government to its word. 
 “The main issue is how to get to a rational discussion about what’s happening,” says Marcos Jank of the Centre for Global Agribusiness at Insper, a university in São Paulo. That is something Brazil’s modern farmers want. They persuaded Mr Bolsonaro not to pull out of the Paris agreement on climate change, or abolish the environment ministry. They fear consumer boycotts and the EU pulling out of a recently concluded trade agreement, as Mr Macron threatened. In fact, both would have limited effect. Mr Jank notes that 95% of Brazil’s $102bn-worth of agricultural exports are commodities that don’t go directly to consumers; 60% go to Asia. But Brand Brazil has certainly been damaged. 
 Politically, too, Mr Bolsonaro is on treacherous ground. Although Brazilian nationalism should not be under-estimated, most Brazilians worry about climate change. As the president spoke on television on August 23rd about the fires, there were pot-banging protests in prosperous parts of cities, which helped to elect him. But halting his scorched-earth practices will require organised political action as well as protest. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bello[]:n. 贝罗（姓氏） 
@@ -80,4 +81,6 @@
 65.commodity[kә'mɒditi]:n. 农产品, 商品, 有用的物品 [经] 商品, 货物, 日用品 
 66.politically[]:adv. 政治上 
 67.treacherous['tretʃәrәs]:a. 不可信任的, 危险的, 背叛的, 不可靠的 [法] 奸诈的, 背叛的, 背信弃义的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

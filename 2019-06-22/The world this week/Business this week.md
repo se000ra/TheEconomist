@@ -15,6 +15,7 @@
 The race among drug companies to acquire firms developing new cancer treatments produced another takeover, as Pfizer agreed to buy Array BioPharma in an $11.4bn transaction. 
 San Francisco looked set to become the first big American city to prohibit the sale of electronic cigarettes, after the board of supervisors voted unanimously to ban the product (a second vote is needed). Juul, which dominates the e-cigarette market, is based in San Francisco; it is mustering a campaign against the decision. 
 A few days after new rules came into force in Britain that ban “harmful gender stereotypes” in advertising, a women’s sex-toy startup in New York launched a lawsuit against the city’s transport authority for refusing to carry its ads. Dame Products points to the fact that the subway displays ads for a wide-range of sex-related products, including one for erectile dysfunction treatment that features a phallic-shaped cactus. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Texas['teksәs]:n. 德克萨斯 
@@ -104,4 +105,6 @@
 85.erectile[i'rektil]:a. 可直立的, 能勃起的 [医] 能勃起的, 能竖立的 
 86.dysfunction[dis'fʌŋkʃәn]:n. 机能不良, 机能障碍 [医] 机能障碍, 机能不良 
 87.cactus['kæktәs]:n. 仙人掌 [医] 仙人掌属 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

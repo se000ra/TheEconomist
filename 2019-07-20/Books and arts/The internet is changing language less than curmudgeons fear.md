@@ -10,6 +10,7 @@
 Other online “innovations” are not really new, either. Philosophers have previously tried to invent a marker for irony—a backwards question-mark or an upside-down exclamation point, for example—before online types succeeded with the sarcastic ~tilde~. The first use of OMG long preceded computers. Those who worry about teens speaking “hashtag” aloud (“Good for you—hashtag sarcasm!”) might consider the last time they punctuated an utterance by saying “full stop” or “period”. 
 In the end, Ms McCulloch’s book is about the birth of a new medium rather than a new language. For millennia, speech was all there was. For most of “recorded” history, nearly everyone was illiterate. Then, in the age of the printing press and mass literacy, writing acquired a kind of primacy, seen as prestigious, a standard to be learned and imitated (often even in speech). 
 Future historians may regard that epoch of reverence as unusual. Mass reading has now been joined by mass writing: frequent, error-filled and evanescent—like speech. Little surprise that internet users have created tools to give their writing the gesture, playfulness and even meaninglessness of chitchat. Mistaking it for the downfall of “real” writing is a category error. Anything that helps people enjoy each other’s company can only be a good thing. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.johnson['dʒɔnsn]:n. 约翰逊（姓氏） 
@@ -87,4 +88,6 @@
 73.meaninglessness['mi:niŋlisnis]:n. 无意义；无道理 
 74.chitchat['tʃittʃæt]:n. 闲谈, 聊天 
 75.downfall['daunfɒ:l]:n. 衰败, 大雨 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

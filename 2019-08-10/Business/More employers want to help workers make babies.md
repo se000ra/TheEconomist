@@ -7,6 +7,7 @@
 Most American states still do not require insurers to cover infertility treatment. So companies use the benefits to differentiate themselves. This helps recruit and retain staff, says Jake Anderson-Bialis of Fertility IQ. It found that 62% of workers whose employer had paid in full for IVF said they were more likely to stay in their job. Firms keen to promote “diversity and inclusion” see health plans with IVF or surrogacy as a way to attract LGBT employees. 
 Some companies insist that workers try the natural way for a year before they qualify for treatment (to the exclusion of anyone who isn’t a heterosexual in a stable relationship). Others appear to adopt fertility benefits in response to harassment scandals. Under Armour, Uber and Vice added family-friendly policies, including generous fertility perks, following such controversies. 
 A lot of this is welcome. But advocates of gender equality are right to point out that some benefits—egg-freezing in particular—look like a distraction. And it is no substitute for eliminating the motherhood-penalty in the workplace.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.fert['fɜ:t]: [医]fertilized 受精的 
@@ -51,4 +52,6 @@
 40.controversy['kɒntrәvә:si]:n. 论争, 辩论, 论战, 争论 [法] 论战, 争论, 争吵 
 41.gender['dʒendә]:n. 性 vt. 产生 
 42.distraction[dis'trækʃәn]:n. 娱乐, 分心的事物, 分心 [医] 注意力分散, 内脱位, 牙弓过宽 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

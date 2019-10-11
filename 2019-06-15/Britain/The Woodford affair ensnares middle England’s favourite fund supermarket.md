@@ -11,6 +11,7 @@
 ![image](images/20190615_BRC258.png) 
 For a firm that under Messrs Hargreaves and Lansdown prided itself on slick marketing, its crisis-handling has been cack-handed. It does not look good that Mr Dampier and his wife sold £5.6m of HL shares in May. Another poor bit of timing was sending customers out-of-date marketing material this weekend praising Mr Woodford with no mention of the WEIF suspension. 
 It will probably take more than that to drive lots of customers away. Mr Hill has explained HL’s rapid growth (see chart) as down to the fact that as people take on managing money for retirement, they lack the knowledge, confidence and ability to do it easily. HL’s customer service is trusted—humans rather than automated systems answer the phone. Rival retail investment firms may now snap up some market share. But with its juicy profit margin HL can afford to lose some disgruntled investors and motor on. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Woodford[]:n. (Woodford)人名；(英)伍德福德 
@@ -59,4 +60,6 @@
 44.retirement[ri'taiәmәnt]:n. 退休, 隐居, 撤退 [经] 退休, 退股, (固定资产)报废 
 45.automate['ɔ:tәmeit]:vt.vi. (使)自动化 [计] 自动化 
 46.disgruntle[dis'grʌntl]:vt. 使不高兴 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

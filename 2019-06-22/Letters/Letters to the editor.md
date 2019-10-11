@@ -32,6 +32,7 @@
 A man steps up to bat, alone and self-reliant, the essence of meritocracy. He uses his judgment, not trying to hit every ball, but is tolerated a couple of mistakes (three strikes). Once on first base, he has proved his worth and is no longer alone; now the team works for him. And he is engaged in the community’s objectives. Stealing a base is praised, because it shows daring and risk taking. Hitting a home run results in excellence rewarded. 
 The pitcher too behaves in ways we approve. He uses skill, imagination and strategy. He is forgiven three balls, because we are human after all. 
 ALEXANDER KUGUSHEVMenlo Park, California 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.concorde[kɔn'kɔ:d]:n. 协和式超音速喷射客机 
@@ -145,4 +146,6 @@
 109.pitcher['pitʃә]:n. 有把的大罐, 瓶状体, 投手, 摊贩 
 110.alexander[,æli^'zɑ:ndә]:n. 亚历山大（男子名） 
 111.California[.kæli'fɒ:njә]:n. 加利福尼亚 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

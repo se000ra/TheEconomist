@@ -8,6 +8,7 @@
 The retreats are organised around a “ceremony”, in which participants, lying on mattresses, drink a tea made from truffles. While they trip for five or six hours, four facilitators stay with them, to hold their hands if they get scared or listen to their babblings. The rest of the time is taken up with exercise, dance and “group work” (on, for instance, lowering emotional defences). Lode Lhamo, a French facilitator who adopted a Tibetan name after becoming a Buddhist in India, says the whole team is motivated by “the level of wounding and pain that people carry. We can’t really transform society unless people heal themselves.”  
 Competition is growing. Synthesis Retreats started last year and expects 600-700 clients in 2019 and twice as many next year. Martijn Schirp, a founder, thinks about 20 firms offer a similar service in the Netherlands. There are others in Mexico, where possession has been decriminalised, and Jamaica, where mushrooms are legal. “This whole space is buzzing. There are converging trends: the psychedelic renaissance, wellness, and people looking to buy experiences rather than things,” says Mr Schirp.  
 A few weeks on, Guy does not think his life has been transformed, but he is grateful for the experience and things are going a little better with his ex. “I had a conversation with her, about things like money, schedules and holidays. The kind of conversation that would normally be difficult. But when things escalated, I was able to pull back a bit.” He feels things have somehow shifted. “I don’t want to make out this is a broken-heart medicine, but even if it’s a trick of the mind, it kind of worked.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bliss[blis]:n. 福佑, 天赐的福 [计] 实现系统软件的基本语言 
@@ -52,4 +53,6 @@
 40.wellness['welnis]:n. 健康 
 41.ex[eks]:n. 已离婚的配偶 [经] 不附资本增殖, (在船边码头)交货, 无(红利)...之外 
 42.escalate['eskәleit]:vi. 逐步扩大, 逐步升高, 逐步增强 vt. 使逐步上升 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

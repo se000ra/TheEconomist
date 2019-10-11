@@ -5,6 +5,7 @@
 A  HAPPY CUSTOMER is a repeat customer, or so the saying goes. But how can a business keep clients satisfied? The answer, according to a recent study, is to treat employees well. Glassdoor, a website which let workers assess employers, looked back over the records of 293 companies across 13 industries between 2008 and 2018. It then studied the link between employee satisfaction, based on its own ratings, and the American Customer Satisfaction Index, a benchmark gauge of shoppers’ sentiment. 
 A one-point improvement in Glassdoor’s rating (on a five-point scale) translated into a statistically significant 1.3-point increase in customer satisfaction (rated from zero to 100). As might be expected, the link was strongest in industries where workers have the most direct contact with customers, such as retail, restaurants and tourism. In such trades, a one-point gain in employee satisfaction rating raised that of customers by 3.2 points (see charts). Companies with high scores for both employee and customer satisfaction include Southwest Airlines, Trader Joe’s, a grocer, and Hilton Hotels. The link is less strong among manufacturing and energy firms. 
 More pertinent to bosses, Glassdoor also cites a study showing that higher customer satisfaction leads to higher market value. So here is a tip for chief executives: be nice to the front-line staff and your bonus might be bigger.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -20,4 +21,6 @@
 11.manufacturing[.mænju'fæktʃәriŋ]:n. 制造业 a. 制造业的 
 12.pertinent['pә:tinәnt]:a. 相关的, 中肯的, 切题的 [法] 恰当的, 有关的 
 13.cite[sait]:vt. 引用, 引证, 表彰 [建] 引证, 指引 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

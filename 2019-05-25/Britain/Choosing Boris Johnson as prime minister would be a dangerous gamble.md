@@ -12,6 +12,7 @@
 Second: can Mr Johnson run a government? The Conservatives will be electing not just a party leader but a sitting prime minister. The fate of a country of 66m people, in the middle of one of its most difficult passages since the second world war, will be determined by 124,000 party members. Mr Johnson’s record is not encouraging. He was a reasonably popular mayor but a dreadful foreign secretary. Although he is given to bumbling chaos, he does have a talent for delegation. A new girlfriend has helped to clean up his act: he has cut his hair, lost weight and taken up yoga. But Mr Johnson has never shown any sign that he is capable of dealing with the two things that define modern government: a relentless torrent of work and a demand to make complicated trade-offs. 
 Third: can he hold the United Kingdom together? The link with Scotland is already looser than it has been for decades. There are very few Scots in the upper ranks of Britain’s two main parties. England and Scotland backed opposing sides in the Brexit referendum. A Prime Minister Johnson might snap the link entirely, with his air of Eton-Balliol-Telegraph entitlement and his Bertie Woosterish mannerisms. Among Scottish voters he is even less popular than the hapless Mrs May. 
 Perhaps Mr Johnson is exactly the lightning-in-a-bottle that the Conservative Party needs to restore its fortunes as both a campaigning machine and a governing force. But the price of getting things wrong would be extraordinarily steep. A no-deal Brexit, the break-up of the UK, a Marxist in Downing Street—it is a long time indeed since the stakes have been so high and the chances of getting it right so low. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Bagehot[ˈbædʒət]:白芝浩；巴杰特（人名） 
@@ -108,4 +109,6 @@
 92.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
 93.hapless['hæplis]:a. 倒霉的, 不幸的 
 94.extraordinarily[ik'strɔ:dθnәrili]:adv. 非凡, 破例, 特别, 非常, 离奇, 使人惊奇, 惊人, 特命, 特派 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

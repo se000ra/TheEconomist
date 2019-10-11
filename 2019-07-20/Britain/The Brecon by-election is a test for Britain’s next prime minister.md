@@ -9,6 +9,7 @@
 Even so, Remainers should not get too excited if the Lib Dems win. Since just over half of voters in the constituency backed Brexit in the referendum, Ms Dodds has not made her pro-Remain stance the centrepiece of her campaign. “Westminster couldn’t be further away,” she says, over an ice-cream in a lavender field. Instead she stresses “community issues”, like better broadband and keeping banks and libraries open. Though Ms Dodds praises the courage of the parties who stood aside for her, the pact is unlikely to make much difference: Plaid Cymru won only 3% of the vote in 2017 and the Greens did not stand. 
 Tories hope that, in a place where locals cherish generations-old family ties, voters will judge Mr Davies on more than his recent conviction. Some seem willing to accept that he made a mistake. “It’s much ado about nothing,” says one. “I’ve met him a few times and he seems a tidy chap.” At the hustings, a woman struggles to ask a question as a male-voice choir begins a rehearsal upstairs. If the candidates were animals, she asks, what would they be? Mr Davies plumps for a local ram, from “quality stock”. If he defies the bookies’ odds and his barrister’s prediction, he would surely more closely resemble a phoenix. ■ 
 Vacancy: The Economist is looking to hire a staff writer to cover British economics. Journalistic experience is not necessary; the ability to write clearly and entertainingly is. For details of how to apply, visit economist.com/britainjob2019. The deadline is August 4th. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.beacon['bi:kn]:n. 烽火, 灯塔 v. 照亮 
@@ -86,4 +87,6 @@
 73.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
 74.journalistic[,dʒ\\: nә'listik]:a. 新闻业的, 新闻工作者的, 报刊特有的, 新闻工作的 
 75.entertainingly[,entə'teiniŋli]:adv. 有趣地；使人愉快地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

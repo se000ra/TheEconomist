@@ -8,6 +8,7 @@
 According to the authors, the 50 biggest recipients now have debts with China worth about 17% of their GDP on average (see map), up from 1% in 2005. Strikingly, many were granted debt relief by wealthy creditors in the early 2000s after a wave of defaults. But thanks to China’s largesse they are now on track to reach the same level of debt that they had before the crisis. 
 Whereas the norm for other official creditors is to lend at concessional terms, about 60% of Chinese loans are extended at higher interest rates and shorter maturities. They often have commodity revenues as collateral. China has started to talk about making its loans more sustainable, but there is little evidence of that so far. 
 Though China is often depicted as an unforgiving lender, the study finds that it has engaged in at least 140 restructurings and write-offs of external debt since 2000. Moreover, the boom could soon tail off. Chinese economic growth and capital outflows are closely correlated. As China slows its lending floodwaters might recede. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.lender['lendә]:n. 出借人, 贷方 [经] 出借者, 贷方, 贷款人 
@@ -61,4 +62,6 @@
 49.correlate['kɒrәleit]:n. 有相互关系的东西, 相关物 vt. 使有相互关系 vi. 相关 
 50.floodwater['flʌdwɒ:tә]:n. 洪水 
 51.recede[ri'si:d]:vi. 向后退, 退却, 收回, 降低, 减弱 [医] 退缩 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

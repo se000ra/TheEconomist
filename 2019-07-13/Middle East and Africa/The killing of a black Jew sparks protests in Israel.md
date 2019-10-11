@@ -11,6 +11,7 @@
 Unlike most previous waves of immigrants to Israel, who often arrived well-schooled and credentialled, most Ethiopian Jews had been subsistence farmers. Few arrived with the skills to thrive in a high-tech economy. 
 It is taking time for them to catch up. Among the younger generation of black Jews, most were born in Israel or have spent most of their lives there. In the past decade only 22% who left high school went on to higher education, half the national average. That is progress, of course. Children raised in families with little tradition of literacy seldom do as well as those from more bookish backgrounds. But many would like to see them catch up faster. 
 A classic Israeli comedy sketch shows each wave of Jewish immigrants over the past century or so—from Russia, Poland, Yemen, Germany and Morocco—arriving on the promised land’s shore and immediately joining those already on the beach to hurl abuse at the next wave. The most recent wave, from Ethiopia, faces tougher obstacles than most. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jew[dʒu:]:n. 犹太人, 守财奴, 犹太教信徒 vt. 欺骗, 杀价 
@@ -61,4 +62,6 @@
 46.Poland['pәulәnd]:n. 波兰 
 47.yeman[]:[网络] 也门；叶门；园艺业的普及则始于也门 
 48.hurl[hә:l]:n. 用力的投掷 vt. 用力投掷, 发射, 愤慨地说出, 丢下 vi. 猛投, 猛掷 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

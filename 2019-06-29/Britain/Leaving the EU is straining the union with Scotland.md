@@ -10,6 +10,7 @@
 The Conservatives are set on crowning Boris Johnson as prime minister. Yet north of the border, Mr Johnson is kryptonite: a bumbling Bertie Wooster who takes his privileges for granted and expects other people to clean up his messes and darn his socks. The Scottish Tories are so worried about the damage he will do to their brand that they organised a stop-Boris plot, code-named Operation Arse (“We called it that so we’d all be clear who we were talking about,” one reportedly said). It is a measure of how desperate they are that they are pinning their hopes on Jeremy Hunt, a man who only has an approval rating of minus 24 in Scotland, compared with Mr Johnson’s minus 37. 
 Both Boris and do-or-die Brexit can be explained by something deeper: the rise of English nationalism. The Conservative Party is on its way to becoming an English nationalist party rather than a unionist one. A recent YouGov poll showed that 63% of Tory members would rather see Scotland independent than lose Brexit. Mr Johnson is surrounded by a clique of people such as Jacob Rees-Mogg and Iain Duncan Smith who exude Englishness and talk blithely about turning Britain into “Singapore-on-Thames”. The party is now more worried about losing voters to another English nationalist outfit—Nigel Farage’s Brexit Party—than it is about keeping the country in one piece. 
 The economic cost of a Brexit-induced break-up of Britain would be big enough. But Mr Brown is right that the cultural cost would be even bigger. British nationalism is a peculiarly capacious sort of nationalism that makes it easier for people from all sorts of backgrounds to identify as British. English nationalism, by contrast, has a tinge of narrowness about it that excludes not only the Welsh, Scottish and Northern Irish, but also English people from ethnic minorities. Mr Johnson’s reckless approach to Brexit risks not just precipitating a no-deal exit from the EU, but also wrecking one of the most creative fudges in the history of nation-making. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Bagehot[ˈbædʒət]:白芝浩；巴杰特（人名） 
@@ -106,4 +107,6 @@
 92.reckless['reklis]:a. 不介意的, 大意的, 鲁莽的, 不顾后果的 [法] 不注意的, 粗心大意的, 鲁莽的 
 93.precipitate[pri'sipiteit]:n. 沉淀物, 凝结物, 结果 vt. 猛抛, 使陷入, 促成, 使沉淀 vi. 猛地落下 a. 突然的, 猛地落下的, 轻率的 
 94.fudge[fʌdʒ]:n. 虚构的故事, 谎言, 胡说 interj. 胡说八道 vi. 蒙混, 做傻事 vt. 粗制滥造, 捏造, 逃避职责 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 Changes in population always cause “stomach aches” for the welfare state, notes David Coleman of the University of Oxford. Predicting exactly when birth rates will pick up or slow down is difficult, because it depends on a range of factors from house prices to cultural expectations. But governments, both local and national, are forced to guess, since it takes years to build, say, a school. Another dilemma, notes Piers Elias, a consultant who advises councils on demography, is that local authorities must decide whether to prepare for the peak population, which is more expensive and may later result in empty buildings, or the average, which will lead to a squeeze during the busiest years. 
 Maternity services were the first to be put under pressure—initially by the rise in the number of births, then by the increasing age of mothers, which results in more complications. The average class size in primary schools has since risen to 27.1, up from 26.4 in 2010. And a bumper crop of 11-year-olds is now heading into secondary schools, which tend to struggle with higher numbers more than primary schools because of the difficulty of attracting specialist teachers, particularly in subjects like maths and physics, says Jon Andrews of the Education Policy Institute (EPI), a think-tank. In a spending statement on September 4th the government confirmed that it would give schools another £4.6bn ($5.6bn) by 2022-23, a 10% increase. According to the EPI’s estimates, nearly £1bn of that will be sucked up by the extra pupils. 
 Being part of a boom generation is something of a curse. Resources are spread more thinly and competition for them is more intense. This year secondary schools are likelier to be oversubscribed than in past years, because of the abundance of 11-year-olds. In contrast, universities are currently going to desperate lengths to attract students, owing to a shortage of 18-year-olds. By the time the Olympic generation come to apply, in a decade or so, it will probably be harder to get in. And things will not get any easier after that. When they head into the workplace they will face a truly Olympian task: supporting the even bigger generation of boomers who will be enjoying retirement. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Sep[]:九月 
@@ -53,4 +54,6 @@
 40.olympian[әu'limpiәn]:a. 威严的；奥林匹克竞赛的；奥林匹斯山的 
 41.boomer['bu:mә]:n. 往来无定的临时工 
 42.retirement[ri'taiәmәnt]:n. 退休, 隐居, 撤退 [经] 退休, 退股, (固定资产)报废 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

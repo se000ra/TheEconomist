@@ -10,6 +10,7 @@
 One of them is a lighthouse on top of a worryingly blustery hill on the tiny Norwegian island of Utsira. A weather station has operated there since the 1860s, after the telegraph made it possible to track weather patterns across long distances. A wide-reaching observation network was the first step toward weather prediction; the next was to input the data into a mathematical model of the atmosphere to produce short-term forecasts. But calculating future atmospheric conditions proved quite a practical challenge in the pre-digital age. Lewis Fry Richardson, an English physicist, estimated in 1922 that a global forecasting office would require 64,000 “computers”—that is, humans working with pencil and paper. “The scheme is complicated because the atmosphere is complicated,” Richardson admitted. 
 The European Centre for Medium-Range Weather Forecasts has developed a more streamlined system. It maintains two supercomputers that together carry out 90trn calculations per second. Visiting the centre’s modernist compound in Reading, England, Mr Blum watches one of these machines run a weather model from start to finish, spitting out a ten-day forecast in just over two hours. In 2012 the centre predicted Hurricane Sandy eight days in advance; by 2025 it aims to forecast such high-impact weather events with as much as two weeks’ warning. 
 Mr Blum runs through the early history of weather prediction before embarking on a grand tour of forecasting institutions across Europe and America. He is a sharp analyst and engaging guide, adept at translating difficult concepts in meteorology and computer science for the uninitiated. He compellingly emphasises the forecast’s diplomatic foundations. Weather prediction represents “a last bastion of international co-operation”, a global effort to warn of natural disasters that ravage crops and displace communities. As extreme weather events become more common, the weather report—a daily marvel on which lives and livelihoods depend—should not be taken for granted. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Jul[]:七月 
@@ -70,4 +71,6 @@
 56.displace[dis'pleis]:vt. 移置, 替换, 转移 
 57.marvel['mɑ:vl]:n. 奇异事物, 罕见例子 vt. 惊异于 vi. 惊异 
 58.livelihood['laivlihud]:n. 生计, 营生, 生活 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -14,6 +14,7 @@
 What does this framework imply for rich and poor? Mr Auclert presents some evidence that Americans who are older, or whose incomes are higher, tend to be on the losing end of asset-price effects when rates fall. But he says it is hard to measure the effect precisely. A recent working paper by Panagiota Tzamourani of the Bundesbank finds that within the euro area, average unhedged interest exposure varies a lot between countries, seemingly in line with the prevalence of floating-rate mortgages. But Ms Tzamourani also finds that younger households and those with low net wealth benefit from lower rates almost everywhere. 
 That seems to turn conventional wisdom on its head. Far from helping the well-heeled, the changes to financial markets induced by low rates could be hurting them, just as Keynes argued. Some might object that they do not deserve the hit: surely those who save in cash for future consumption are more responsible than those who wish to borrow and spend? Keynes would have retorted that in a world awash with capital, extra saving does not benefit society. In a slump it is harmful. In any case, if fiscal stimulus is preferred to low interest rates, taxpayers would end up with debts instead. 
 Monetary stimulus may not help the poor as much as deficit-financed welfare or progressive tax cuts. Structural problems in the economy, such as market power, may allow the rich to earn high returns even as rates fall. But egalitarians—and those without wealth—probably need not fear doveish central banks. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.egalitarian[i.gæli'tєәriәn]:a. 平等主义的 n. 平等主义 
@@ -82,4 +83,6 @@
 64.taxpayer['tækspeiә]:n. 纳税人 [法] 纳税人, 纳税义务人 
 65.monetary['mʌnitәri]:a. 货币的, 金钱的 [经] 货币的, 金融的 
 66.doveish[]:[网络] 鸽子 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

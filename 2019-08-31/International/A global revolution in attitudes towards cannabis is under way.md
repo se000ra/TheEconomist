@@ -22,6 +22,7 @@
 It could withdraw from the convention. But the Canadian government has already ruled this out. When Bolivia wanted to legalise the chewing of coca leaves, it withdrew from the convention and rejoined with a “reservation”. A possibility that intrigues international-policy wonks is for Canada and other law-breakers to form an “inter se” (between themselves) agreement, allowing them to modify existing drug-treaty provisions. For this to be an option, Canada will probably want to wait until the club of outlaws is bigger. 
 In Britain medicinal cannabis is legal but still very hard to get without an expensive private prescription. (Alfie was lucky.) The dilemma is that cannabis sits in an unusual medical no-man’s-land: neither licensed for most of the uses for which people want it, nor tested to the standards that patients usually expect from medicines. Despite this, many countries are finding ways to push forward. France, for example, is moving ahead with a large-scale clinical trial of the medical uses of cannabis. 
 The drug’s ambiguous legal status as a medicine will persist for years. A long history of prejudice has thwarted research and deprived millions of patients access to therapies that might help them. The work of creating regulated and approved medicines should be well advanced, but is only just beginning. Ironically, it may be that only when cannabis is legal for recreational use will a fuller picture emerge of the benefits it offers and the risks it poses. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.cannabis['kænәbis]:n. 大麻 [化] 大麻 
@@ -168,4 +169,6 @@
 142.deprive[di'praiv]:vt. 剥夺, 使丧失 [法] 剥夺, 剥夺, 夺去 
 143.therapy['θerәpi]:n. 治疗 [医] 疗法, 治疗 
 144.ironically[]:adv. 冷嘲地, 挖苦地, 讽刺地, 令人啼笑皆非地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

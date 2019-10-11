@@ -20,6 +20,7 @@
 Countries opposed to the idea might respond by developing counter-geoengineering programmes. They could either shoot down geoengineering planes or, more tactfully, build a second fleet to deliver a separate stratospheric payload to neutralise the sunshade (either by reacting with the SO2 to break it down, or by making the sulphate particles clump together and rain out faster). The development of counter-geoengineering tools might provide a deterrent against the unilateral deployment of a sunshade. 
 With or without counter-geoengineering, the global climate blame-game would undoubtedly become even more heated if a sunshade were deployed. One problem would be distinguishing its cooling effect amid natural variability. The cooling would take effect gradually, and global average temperatures would continue to rise in the early years of its deployment. Eventually, a slowdown in the rate of warming would become apparent in global data sets. But because temperatures vary naturally from one year to the next, reliably identifying a sunshade signal within the data would be tricky. And even before its effect became apparent, the sunshade would start to influence the weather, and the frequency of droughts, floods and tropical cyclones. Teasing apart the relative influences of global warming and natural variability on an extreme weather event is devilishly complicated today. Add a sunshade into the mix and fingers will be pointing in all directions, which will make international climate talks even more difficult. 
 But if a sulphate-based sunshade was successfully deployed and was shown to work, it might then be time for phase two. David Keith, who runs Harvard University’s solar-geoengineering research programme, has suggested that it might be possible, perhaps even preferable, to design synthetic particles that are more efficient at reflecting the sun’s radiation, or can stay suspended in the stratosphere for longer than sulphate particles can. And perhaps, having failed to reach international agreement on geoengineering in the 2020s, the United Nations might try again, with a new treaty being signed in Kyoto in 2047, 50 years after the original Kyoto Protocol. Kyoto 2 would concede that efforts to tackle climate change had fallen short, and would endorse the use of a sunshade as a way to give countries more time to reduce their emissions. In the worst case, the unilateral deployment of a sunshade could lead to conflict. But in the best case, it might provide a pathway to a lasting solution to the climate problem. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.geoengineering[]:地质工程 岩土工程 
@@ -138,4 +139,6 @@
 114.tackle['tækl]:n. 工具, 复滑车, 滑车, 装备, 扭倒 vt. 固定, 处理, 抓住 vi. 扭倒 
 115.endorse[in'dɒ:s]:vt. 支持, 赞同, 背书于, 签署 [经] 赞成, 背书 
 116.pathway['pɑ:θwei]:n. 路径, 途径 [医] 路径, 道 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

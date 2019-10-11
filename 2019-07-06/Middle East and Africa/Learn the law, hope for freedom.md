@@ -12,6 +12,7 @@
 So a vital facet of the APP has been to teach prisoners how to launch appeals and to argue for them in court. The prisoners pursuing London University courses stress that their aim is to help fellow inmates who were unable, for lack of education or money, to defend themselves effectively. 
 While the APP is sensitive to the charge of paternalistic interference in Kenya’s judicial system, the Kenyan government and especially its prison service have been happy to co-operate with it. The organisation has sought to improve both prison conditions and the justice system. One effect has been to enhance relations between prisoners and guards. Another has been to reduce reoffending: according to the APP, none of its graduates, once freed, has slipped up. 
 Above all, it has given prisoners hope. “APP has inspired us,” says William, a death-row prisoner who, after ten years inside, has both a poetic and lawyerly turn of phrase. “It has turned people from being unreasonable into being reasonable. Inasmuch as our bodies are in prison, our minds are free.” ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.kenyan['kenjәn]:n. 肯尼亚人 
@@ -75,4 +76,6 @@
 59.lawyerly['lɔ:jәli]:a. (=laywerlike) 如律师的, 适合于律师的 
 60.unreasonable[.ʌn'ri:znәbl]:a. 不合理的, 过度的, 不切实际的 [法] 不讲道理的, 非理智的, 不合理的 
 61.inasmuch[.inәz'mʌtʃ]:adv. 因...之故, 在...范围内 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

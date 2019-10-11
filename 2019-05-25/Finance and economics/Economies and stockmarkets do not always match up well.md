@@ -10,6 +10,7 @@
 Take South Korea, for instance. Decades of sustained growth turned it into a rich country, with GDP per person of $31,000 at current exchange rates. Yet its currency can be bought and sold only in Korea, and only during local market hours. It cannot be traded offshore. That may seem like a minor matter. But index funds that move vast sums to and fro quickly like to do their currency trades in one go. Developed stockmarkets are defined by the absence of such frictions, says Sebastien Lieblich, of MSCI. Though Taiwan is richer than Portugal, and Korea’s GDP is bigger, they are both classified by MSCI as emerging markets. Together they account for a quarter of the index. Add in the 33% weight for Chinese stocks and its constituents lean heavily towards “Factory Asia”. 
 A stock index measures what is investable. If you are seeking exposure to broad-based economic development, you need to be creative. That means looking at smaller, less liquid stocks outside the index, or perhaps the shares of rich-world firms that earn the bulk of their revenue in developing countries. The alternative is to drop down a level in terms of liquidity and openness to “frontier markets”, which include fast-growing economies in Asia, such as Bangladesh and Vietnam, but also in Africa. This is a much smaller universe of stocks. The market capitalisation of MSCI’s frontier-market index is around $120bn, compared with around $5trn for its emerging-market index. And it is also dominated by a few countries. Stocks listed in Kuwait, Vietnam and Argentina account for more than half of it. 
 Economies and stockmarkets do not match up well, even in rich countries. America accounts for 55% of MSCI’s world index but a much smaller share of the world economy. The size of its equity market relative to GDP is at one extreme (along with Britain and Switzerland), notes Victor Haghani of Elm Partners, with Germany and Italy at the other. The best reason for investing across borders is not to plug into faster GDP growth (for which you may overpay), but for diversification. By owning a broad range of stocks, investors leave themselves less exposed to specific company, industry or country risks. The best thing about indices of big, liquid stocks is that buying and selling them is cheaper. For the only thing that grates more than Parmesan is high-cost investing. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.buttonwood['bʌtnwʊd]: 美洲悬铃木 
@@ -62,4 +63,6 @@
 48.diversification[daivә:sifi'keiʃәn]:n. 变化, 多样化 [经] 分散 
 49.grate[^reit]:n. 炉格, 炉篦, 炉栅, 火炉, 壁炉, 格栅 vt. 装格栅于, 磨擦, 轧碎, 磨碎, 使焦急, 触怒, 使人烦躁, 刺激, 激怒 vt.vi. 擦响, 发出刺耳的尖厉声 
 50.Parmesan['pɑ:mizæn]:n. 帕尔马干酪(意大利产) 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

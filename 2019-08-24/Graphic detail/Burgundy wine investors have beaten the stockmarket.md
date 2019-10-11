@@ -12,6 +12,7 @@
 It is hard to fathom how Burgundy can maintain such appreciation. Many people can buy a $300 bottle. But at $3,000, the market depends on the whims of the rich. 
 Even if prices keep rising, the best-performing stocks tend to beat their vinous peers. For example, Kering and LVMH—luxury conglomerates whose owners have bought Burgundy vineyards—returned 958% in 2003-18. And with dividend yields over 2% in recent years, they have paid enough income for a grand cru bottle, too. The best way to make money in Burgundy is probably making wine, not buying it. ■ 
 Sources: WineBid; The Economist 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Burgundy['bә:gәndi]:n. 勃艮第(法国一地区), 勃艮第葡萄酒 
@@ -81,4 +82,6 @@
 65.dividend['dividend]:n. 被除数, 股利 [计] 被除数 
 66.cru[kru:]:n. 酒的度数；（法国的）葡萄园 
 67.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -10,6 +10,7 @@
 This effect varied by industry. The wokest health-care companies (such as Cigna, an insurer) gave Democrats half of their donations, compared with just a third for the least woke (like Universal Health Services, a hospital manager). The gap was smaller in industries affected by environmental regulation, such as chemicals. The wokest of these firms gave about 30% of their money to Democrats, and the least woke 25%. 
 However, CSR sceptics will note that even the wokest companies give priority to profits. Firms in the top quarter of our index gave 58% of their money to Republicans. Liberals can denounce Alphabet, an advocate of gay marriage, for donating to politicians who oppose it. But if Google’s parent company were less woke, it might have given even more to Republicans. ■ 
 Sources: Centre for Responsive Politics; JUST Capital; employersforpayequity.com; Federal Election Commission; SEC; The Economist 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.socially['sәuʃәli]:adv. 在社会上, 在社交上, 以社会生活方式 
@@ -52,4 +53,6 @@
 38.les[lei]:abbr. 发射脱离系统（Launch Escape System） 
 39.SEC[sek]:[计] 秒, 辅助 [化] 尺寸排阻色谱法 
 40.economist[i:'kɒnәmist]:n. 经济学者, 经济家 [经] 经济学家 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

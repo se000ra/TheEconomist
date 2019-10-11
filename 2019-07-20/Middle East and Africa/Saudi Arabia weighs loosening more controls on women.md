@@ -10,6 +10,7 @@
 Prince Muhammad has not yet had much luck overhauling the Saudi economy. Unemployment remains high and the private sector is not creating jobs. His cultural changes have gone further, but they too have been uneven. In June a firm based in the United Arab Emirates tried to open an alcohol-free nightclub in Jeddah, the most cosmopolitan Saudi city. Officials shut it down on opening night, though it has since reopened as a “lounge” (same venue, less dancing). 
 Or there is the case of Ms Minaj, who was due to perform at a music festival in Jeddah this month. She seemed an odd fit for a puritanical theocracy, given her raunchy outfits and lyrics. (“He toss my salad like his name Romaine” is one of her milder lines.) Days before the concert she backed out. Hoping to save face, the Saudis claimed it was in fact they who disinvited her. The episode provoked wry commentary on social media. In one widely shared video, a young Saudi woman asked why she had to wear an abaya while Ms Minaj was free to come “shake her ass”. 
 It is a fair question. The prince’s behaviour is idiosyncratic: he jails reformers even as he decrees reforms. He justifies some social reforms as economic necessities (if Saudis can go to concerts at home, they won’t spend their money abroad). The public have no say. Some young Saudis are enjoying this moment of relative openness; others flee into exile, for reasons both personal and political. Ironically, by letting women travel, Prince Muhammad may allow some to leave and never return.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.saudi['sajdi]:a. 沙乌地阿拉伯（人或语）的 
@@ -72,4 +73,6 @@
 58.openness['әupәnnis]:n. 公开；宽阔；率真 
 59.exile['eksail]:n. 放逐, 流放, 被放逐者 vt. 放逐, 流放, 使背井离乡 
 60.ironically[]:adv. 冷嘲地, 挖苦地, 讽刺地, 令人啼笑皆非地 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

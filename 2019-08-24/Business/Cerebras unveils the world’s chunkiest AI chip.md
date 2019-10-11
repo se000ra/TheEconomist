@@ -11,6 +11,7 @@
 One question is whether other firms that have a huge demand for computing power, including banks and oil giants, will buy such AI supercomputers, instead of having their data crunched in a cloud. And Mr Feldman has yet to convince big providers of cloud computing, such as Amazon Web Services, Microsoft Azure and Google Cloud, that Cerebras’s superior performance relative to machines packed with Nvidia chips outweighs the extra costs, for instance in higher power consumption. 
 Though the name Cerebras is meant to echo cerebrum, the largest part of the human brain, it also bears a resemblance to Cerberus, the giant three-headed dog guarding the entrance to Hades. The industry’s more fearsome beasts, whether chipmakers or computer manufacturers, may need little convincing to gobble it up while it is still a puppy, as they have done with other AI-chip pioneers before it.■ 
 Correction (August 22nd 2019): In an earlier version of this article we said that Cerebras's chip had 57m as many transistors as Nvidia's biggest chip. We were off by six orders of magnitude. The correct figure is 57. Sorry. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.smartly['smɑ:ti]:adv. 潇洒地, 火辣辣地, 刺痛地 
@@ -72,4 +73,6 @@
 57.gobble['gɒbl]:n. 火鸡叫声 vt. 狼吞虎咽 vi. 贪食, 咯咯叫 
 58.puppy['pʌpi]:n. 小狗, 小动物, 自负的年轻人 
 59.magnitude['mægnitju:d]:n. 巨大, 重大, 重要, 大小, 数量, 星等(指星的亮度) [计] 大小; 值 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

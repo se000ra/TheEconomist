@@ -20,6 +20,7 @@
 As fires raged in the Brazilian Amazon, the presidents of Brazil and France directed insults at each other. Emmanuel Macron, the French leader, accused Jair Bolsonaro, his Brazilian counterpart, of lying when he promised to help protect the climate and biodiversity. Mr Bolsonaro decried Mr Macron’s “colonialist stance”. G7 countries offered Brazil $22m to fight the fires. Mr Bolsonaro said he would reject it unless Mr Macron apologised, though he accepted $12m in aid from Britain and sent the armed forces to help fight the blazes. See article. 
 Ecuador imposed a visa requirement on Venezuelans fleeing the chaos in their country. Migrants now need to carry a passport and show they do not have a criminal record. Chile and Peru have imposed similar restrictions. Thousands of Venezuelans rushed to cross the Ecuadorean border before the rule took effect. 
 At least 26 people died in a fire at a bar in Coatzacoalcos, a port city on Mexico’s east coast. Armed men shut the exits and set fire to the entrance hall. The country’s president, Andrés Manuel López Obrador, suggested that the authorities may have colluded. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Populism['pɒpjulizm]:n. 平民主义, 民粹主义 
@@ -156,4 +157,6 @@
 132.López[]:[地名] 洛佩斯 ( 阿根、厄 ) 
 133.obrador[]:[网络] 布拉多 
 134.collude[kә'lu:d]:vi. 共谋, 串通, 勾结 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

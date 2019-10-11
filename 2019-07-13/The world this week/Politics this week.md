@@ -21,6 +21,7 @@
 A UN report accused Venezuela’s security forces of killing almost 7,000 people between January 2018 and May this year. It singles out the country’s special forces for carrying out most of the killings and manipulating the crime scenes to suggest that the victims were shot for resisting arrest. It came out days after a reserve captain in the country’s navy died in custody, apparently after being tortured. See article. 
 The lower house of Brazil’s congress approved a reform of the country’s unsustainably generous pension system by a vote of 379 to 131. The measure would save taxpayers 900bn reais ($240bn) over ten years. 
 João Gilberto, the man who sang “The Girl from Ipanema”, died aged 88 in Rio de Janeiro. Mr Gilberto was a star of bossa nova, a musical style that fuses jazz and samba. See article. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.politic['pɒlitik]:a. 精明的, 明智的, 策略的 
@@ -134,4 +135,6 @@
 109.nova['nәuvә]:n. 新星 [计] 诺瓦计算机 
 110.fuse[fju:z]:n. 保险丝, 导火线 v. 熔化, 融合 
 111.samba['sæmbә]:n. 桑巴舞 vi. 跳桑巴舞 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

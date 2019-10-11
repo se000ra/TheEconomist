@@ -8,6 +8,7 @@
 Misunderstandings between investors, who believed they were guaranteed a certain return, and founders, who remembered things differently, occur more regularly than either group cares to admit. Employees are promised shares that may not exist. Founders forget that when their firms issue convertible debt it may one day need to be converted to equity. 
 Add in errors, which can be introduced into spreadsheets through forgetfulness or fat fingers, and you have a recipe for lawsuits. Mr Strebulaev, who has served as an expert witness in startup litigation, has seen many mistakes over the years. In 2014 shareholders in TIBCO, a software firm, were shortchanged by around $100m on its sale to Vista Equity Partners, a private-equity firm, after some shares were accidentally miscounted. Two years or so later TIBCO, Vista and Goldman Sachs—the deal’s advisory bank—agreed to pay some $30m to settle with the investors. 
 In the wake of such snafus ever more investors encourage startups to employ equity managers. This in turn is attracting investments into firms offering such services. Ledgy has received backing from European venture capitalists. In May Carta secured $300m in a funding round led by Andreessen Horowitz, a storied venture-capital firm. This values the company at $1.7bn, itself in unicorn territory. Every cent of that is no doubt properly attributed to all of Carta’s 650 or so shareholders. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.unicorn['ju:nikɔ:n]:n. 似马的独角兽 [医] 单角的 
@@ -49,4 +50,6 @@
 37.andreessen[]:[网络] 安德里森；安德鲁森 
 38.Horowitz[]:霍罗威茨 
 39.storied['stɒ:rid]:a. 传说上有名的, 以历史画装饰的, 分层的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

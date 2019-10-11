@@ -8,6 +8,7 @@
 The Uptis uses an integrated wheel and tyre that comes in one piece. The wheel part consists of an aluminium assembly in the centre, from which emerge spokes made from a new composite material described as “resin-embedded fibreglass”. The spokes are fitted to a conventional-looking tread around the outside of the wheel. Michelin has filed some 50 patents on the technology. 
 The company reckons that as 200m tyres have to be scrapped worldwide every year because of punctures or the uneven wear caused by incorrect air-pressure, the Uptis will be more environmentally sustainable than standard tyres. It would also save weight, as vehicles will no longer have to carry a spare wheel, a jack, a puncture-repair kit or need to be fitted with a tyre-pressure monitoring system. 
 But an Uptis will still wear out, like a conventional tyre. When that happens it will need a new tread—one way Michelin and GM hope to do that is using a 3D printer to create a new outer shell for the tyre. That could open up new motoring possibilities, including having seasonal treads printed on your wheels: a summer one for faster roads and a winter tread for increased grip in the wet and snow. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.airless['єәlis]:a. 无空气的, 不通风的 [机] 无气, 无气式 
@@ -46,4 +47,6 @@
 34.kit[kit]:n. 装备, 工具箱, 成套工具 [计] 成套部件; 成套零件 
 35.motoring['mәutәriŋ]:n. 驾车, 乘汽车 
 36.seasonal['si:znәl]:a. 季节的, 依照季节的, 周期性的 [经] 季节性的, 季节的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

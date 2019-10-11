@@ -16,6 +16,7 @@
 Prominent politicians have said the same thing. Steve King, a congressman from Iowa, infamously wrote that “we can’t restore our civilisation with somebody else’s babies.” On the House floor Ted Yoho and Louie Gohmert, both Republican congressmen, have compared immigrants to invaders. During a trip to Europe in 2018, Donald Trump said that immigration has “changed the fabric of Europe”, and told a British tabloid, “I think you are losing your culture. Look around.” More recently, his Facebook campaign ads have warned, “We have an INVASION…It’s CRITICAL that we STOP THE INVASION.” Take this literally and violence becomes a defensive measure. 
 Correlation is not causation, but FBI data show a recent uptick in reported hate crimes. Men who killed Jews in synagogues in California and Pittsburgh blamed Jews for immigrant “invaders” and the “genocide of the european race”. Despite the president’s occasional disavowals, these people really like him. The Christchurch shooter called Mr Trump “a symbol of renewed white identity and common purpose”. One researcher who attends extremist rallies (in disguise) reports “unanimous support for Trump…These folks rallied around him. They saw large parts of their messaging getting into the mainstream.” 
 To his credit, in a speech on August 5th Mr Trump denounced “racism, bigotry and white supremacy”. He also advocated making it easier to commit the mentally ill to hospital, “stop[ping] the glorification of violence in our society” and develop “tools that can detect mass-shooters before they strike”. Missing from the list was a commitment to moderate his own speech, or anything that would make it substantially harder for angry young men to obtain semi-automatic weapons.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.insanity[in'sæniti]:n. 疯狂, 愚顽, 精神错乱 [医] 精神病 
@@ -159,4 +160,6 @@
 139.supremacy[sju'premәsi]:n. 至高无上, 霸权地位, 优势, 至上 [法] 至高权力, 无上权力, 霸权 
 140.glorification[.glɒ:rifi'keiʃәn]:n. 美化了的东西 
 141.substantially[sәb'stænʃәli]:adv. 实质上, 本质上, 大体上 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

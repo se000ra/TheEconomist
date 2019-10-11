@@ -11,6 +11,7 @@
 Most worrying, China’s rulers are betraying a bleak and cynical worldview in which might is right and the big always dominate the small. To them, it is not conceivable that 7.3m Hong Kongers could believe that their individual, universal rights trump the will of 1.4bn compatriots. If tiny Hong Kong is defying its mighty Motherland, another great power must be egging it on. 
 When the British government defends Hong Kong’s freedoms, Chinese officials are sure that Britain is still sulking about its loss of empire—and will pipe down once Brexit renders it friendless. Other Western envoys in Beijing have been lectured that their support for Hong Kong must be part of a concerted push by American hawks to hurt China. Suggest that Western countries might occasionally be guided by principle and Chinese officials scoff. 
 Their cynicism is self-serving, of course, as it handily shifts blame for the mistrust the party inspires in Hong Kong. But it also clouds China’s vision of the world at a perilous moment. Some propaganda is laughable and tragic at the same time. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.hong[hɔŋ]:n. （中国、日本的）行, 商行 
@@ -112,4 +113,6 @@
 97.propaganda[.prɒpә'gændә]:n. 宣传, 宣传活动 [医] 宣传 
 98.laughable['lɑ:fәbl]:a. 可笑的, 有趣的 
 99.tragic['trædʒik]:a. 悲惨的, 悲剧的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

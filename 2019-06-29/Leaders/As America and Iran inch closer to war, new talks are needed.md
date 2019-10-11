@@ -14,6 +14,7 @@
 But optimists will remember similar clashes between America’s president and Kim Jong Un, North Korea’s despot, before they met in Singapore and “fell in love”, as Mr Trump put it. When he is not threatening to annihilate the mullahs, Mr Trump is offering to talk without preconditions and to “make Iran great again”. He does not want the prospect of war in the Middle East looming over his re-election campaign. Likewise, in Iran the economy is shrinking, prices are rising and people are becoming fed up. Pressure is growing on Mr Khamenei to justify his intransigence. Love could yet bloom. 
 America might coax Iran back to the table with a gesture of good faith, such as reinstating waivers that let some countries buy Iranian oil. Iran, in turn, could promise to comply with the nuclear deal again. Behind the scenes, its leaders have expressed a willingness to sign something like the old agreement with additions—such as extending parts of the deal beyond 2030. Negotiations would never be easy; the Iranians are infuriating to deal with. But that would let the president claim victory, as he did with the United States-Mexico-Canada Agreement, which his administration signed last year and which looks a lot like its predecessor, the North American Free Trade Agreement. 
 What of a deal that also curbs Iran’s missile programme and restrains it in the region? As Mr Trump seems to realise, biting everything off in one go is unrealistic. A new deal cannot solve all the problems posed by Iran or normalise ties with America after decades of enmity. It may not even lift all America’s sanctions. Neither did the first agreement. But, if done right, a deal would put Iran’s nuclear programme back in a box, making it easier to tackle all those other problems without causing a war. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Iran[i'rɑ:n]:n. 伊朗 
@@ -104,4 +105,6 @@
 86.normalise['nɔ:mәlaiz]:vt.vi. 使正常化, 恢复友好状态, 使标准化 
 87.enmity['enmәti]:n. 敌意, 憎恨 
 88.tackle['tækl]:n. 工具, 复滑车, 滑车, 装备, 扭倒 vt. 固定, 处理, 抓住 vi. 扭倒 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

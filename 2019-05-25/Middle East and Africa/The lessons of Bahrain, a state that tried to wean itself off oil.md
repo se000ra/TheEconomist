@@ -12,6 +12,7 @@
 State jobs still pay 70% more than those in the private sector, a figure that has grown over the past decade as the monarchy doled out increases and stipends to buy political calm. The gap fuels unrest in a country where the Shia majority is often frozen out of state jobs. Flexible work permits might slowly drive up wages in migrant-heavy sectors—but unhappy employers are trying to kill the programme. 
 Oil still accounts for more than half of exports. Sameer Abdulla Nass, the head of the chamber of commerce, complains that 100% foreign ownership has brought only “retail and restaurants”, not industry. Bankers talk giddily about fintech as a growth industry. In a venture-capital firm overlooking the Gulf, though, investors complain that universities do not produce enough entrepreneurs. Nor do they provide the sort of training that might help graduates land well-paid technical jobs. 
 Bahrain has done well at convincing its citizens to try the private sector instead of counting on cushy state gigs. But it has not upended the social contract, whereby oil pays the bills and foreigners do the manual labour. Some day, it will have to, says Mr Nass. “We have no choice.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Bahrain[]:n. 巴林岛 
@@ -67,4 +68,6 @@
 51.gig[gig]:n. 旋转物, 轻便双轮马车, 赛艇, 鱼叉, 记过, 爵士乐演奏会 vi. 乘轻便双轮马车, 乘快艇, (用鱼叉)叉鱼 vt. (用鱼叉)叉, 刺激, 记过 
 52.upend[ʌp'end]:v. 颠倒, 倒放 
 53.whereby[(h)weә'bai]:adv. 靠什么, 如何, 为何, 靠那个, 因此, 由此 [法] 因此, 由是 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

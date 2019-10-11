@@ -12,6 +12,7 @@
 Plenty miss out. At the Rapid Lake reserve, a settlement of Algonquins in Quebec 270km north of Ottawa, almost the only source of income for the 300-400 people who live there is social assistance. 
 Mr Harper apologised for the horrors of the residential-school system. A truth and reconciliation commission heard testimony from thousands of witnesses. The Trudeau government is striving to raise living standards. The number of indigenous reserves where drinking water was deemed unsafe dropped from 105 in November 2015 to 58 by July of this year. 
 Indigenous leaders think progress has been too slow. “You can’t talk about reconciliation where basic human rights and equity are not achieved,” says Tanya Talaga, an indigenous journalist. The first Canadians are still too often the last. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.indigenous[in'didʒinәs]:a. 本土的, 国产的, 固有的 [医] 原产的, 本土的 
@@ -59,4 +60,6 @@
 43.equity['ekwiti]:n. 公平, 公正 [经] 权益, 产权 
 44.tanya['tænjә]:n. 塔尼娅（女子名） 
 45.Talaga[]:[地名] 塔拉加 ( 菲、印尼 ) 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

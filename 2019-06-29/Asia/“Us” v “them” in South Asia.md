@@ -8,6 +8,7 @@
 This is compounded by a school system that perpetuates division. Most Christians and Muslims go to “their” schools, while Tamils and Sinhalese are naturally separated by the language of instruction. Sinhalese students learn that the great warrior-king Dutugemunu defeated a foreign ruler, Elara, protecting Buddhism and uniting the country. Tamil students read instead that Ellalan—as he is known in Tamil—was a wise and just king who ruled Sri Lanka from 205BC to 161BC. As a result, the inhabitants of a rather small island grow up knowing surprisingly little about their own neighbours. It is not just Muslims; there are many versions of “them”. 
 The same may be said of Sri Lanka’s immensely bigger, kaleidoscopically more diverse northern neighbour, India. Decades after establishing a secular constitution and abolishing caste—and with it such categories as the “criminal tribes” and “martial races” beloved of the British Raj, India remains addicted to its habit of othering others. A simple glance at recent headlines is revealing. A hit-and-run driver ploughs into a family at high speed when they stop him from dragging their daughter into his car. Surprise! They are Dalits, formerly known as untouchables. Five men are freed after spending 13 years on death row for murders they did not commit. Surprise! They belong to a nomadic group once categorised as a “criminal tribe”. Villagers tie a suspected motorbike thief to a pole and beat him to a pulp as they force him to shout “Jai Sri Ram”, a Hindu chant. The villagers film it all. He later dies. Surprise! The man is a Muslim, one of several score of “them” that similar mobs have lynched in recent years. 
 And as in Sri Lanka it is not just ignorant people who partition “us” from “them.” When India’s freshly elected parliament convened in mid-June, and one of its handful of Muslim MPs stood to take his oath, taunting cries of “Jai Sri Ram” rose from the ruling party’s benches. Eroding the secular basis of citizenship, the government plans to speed the naturalisation of Hindu, Buddhist, Sikh, Jain and Christian refugees, but not Muslims. It also proposes prison terms for Muslim men who practise “triple talaq”, a kind of instant divorce that the courts have banned. Lawyers argue that such cases represent a tiny fraction of the more than 2m Indian women—mostly Hindus—who have been abandoned by husbands without support. So why not a law to protect all Indian women, rather than to punish a few Muslim men? The answer, never stated, is that it is not a law for us, it is for them.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.banyan['bænjәn]:n. 印度榕树 [医] 榕树, 孟加拉榕 
@@ -87,4 +88,6 @@
 75.refugee[.refju'dʒi:]:n. 难民, 流亡者 [法] 避难者, 流亡者, 难民 
 76.triple['tripl]:n. 三倍数, 三个一组 a. 三倍的 vt. 使增至三倍 vi. 增至三倍 
 77.talaq[]:[网络] 离婚；塔拉克 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

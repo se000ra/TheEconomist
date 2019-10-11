@@ -10,6 +10,7 @@
 Mr Trump is not a leader in thrall to principles. That is why the Chinese side hopes, in essence, that he could accept a trade deal which breaks Mr Lighthizer’s heart, and a North Korean pact that leaves Mr Bolton miserable, as long as those deals bring him applause from voters. Mr Xi, it is said, believes that Mr Trump does not want to decouple America’s economy from China’s—except in the production of some sensitive technology. But Mr Xi does worry that America’s president could be hijacked by hardline advisers. If no reasonable deal can be struck, Chinese hosts tell Americans, Mr Xi will wait for the election in November 2020 to produce a different president. They express confidence that relief will come sooner, because Mr Trump needs votes from farm states hurt by the tariff wars, and is desperate to keep the stockmarket roaring. 
 Doubts lurk amid the bluster. In public Chinese officials say that Mr Trump needs a deal to win in 2020. In private they ask whether, perhaps, American voters might prefer to see him fight on. They admit to bafflement over some of Mr Trump’s sallies, such as when he told Fox News that he could not accept a “50-50 deal” with China, but had to come out ahead. To Chinese ears, that was fantastically unhelpful. It recalled the “unequal treaties” imposed by 19th-century powers which every Chinese schoolchild is taught to hate. Mr Trump has said that he will not let China become the world’s largest economy in his lifetime. Does he mean these things, Chinese hosts ask, or is this all domestic politics? 
 Doubts have consequences. To prepare Chinese public opinion for a long trade stand-off, propaganda chiefs have abandoned months of restraint and told state media to start thundering about American bullying. Stoking nationalism is a familiar Chinese ploy. But it has real-world effects, too. As China reduces its own room for manoeuvre, it risks forcing Mr Trump to concede ground to China to secure a deal. Meanwhile his chaotic style is straining China’s system to its limits. The mood in Beijing is anxious, with reason. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bigwig['bigwig]:n. 要人, 大亨 
@@ -89,4 +90,6 @@
 75.ploy[plɒi]:n. 手段, 活动, 玩乐 
 76.manoeuvre[mә'nu:vә]:n. 调遣, 演习, 策略 vi. 调动, 演习, 用策略 vt. 调动, 操纵 
 77.chaotic[kei'ɒtik]:a. 混乱的, 无秩序的 [法] 混乱的, 混沌的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

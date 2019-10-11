@@ -10,6 +10,7 @@
 In his bid to join the American pantheon, Kipling pored over the work of Twain, Emerson and Henry Wadsworth Longfellow. He befriended Theodore Roosevelt, then an ambitious civil-service commissioner, with whom he visited the National Zoo in Washington. Roosevelt, a champion of big-stick diplomacy, admired the mighty bears. Kipling, who believed in imperial duty, preferred the diligent beavers. 
 Mr Benfey does not gloss over Kipling’s faith in colonialism. He considers the flagrant racism of “The White Man’s Burden”, a notorious call for America to occupy the Philippines, alongside denunciations of Western hubris in lesser-known texts such as “Recessional”. Long after Kipling’s death in 1936 reactions to his writing reflected these contradictions. During the Vietnam war CIA operatives read “Kim” for its lessons in international espionage, while film-makers such as Francis Ford Coppola and John Huston drew from Kipling’s work to critique imperial overreach. 
 Kipling’s hold on American culture has endured. He popularised themes—such as the virtues of an education in the wilderness—that pervaded American literature of his age; today his characters live on in Hollywood. But the Kiplings themselves reluctantly quit Vermont for England in 1896, when a row with Carrie’s ne’er-do-well brother became a media scandal (leaving was the most difficult decision of his life, Kipling said). Once again, the Indian-cum-Englishman-turned-American would have to find his place in the world. “Like all men, Rudyard Kipling was many men,” Jorge Luis Borges wrote in 1941, “but none with more conviction than the artificer.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.huck[hʌk]:n. 一种粗麻布 
@@ -104,4 +105,6 @@
 90.borge[]: [人名] 博奇 
 91.conviction[kәn'vikʃәn]:n. 定罪, 信服, 坚信 [法] 定罪, 证明有罪, 判罪 
 92.artificer[ɑ:'tifisә]:n. 技工, 发明者 [医] 牙技工 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -8,6 +8,7 @@
 According to Ms Weisshaar’s study, Americans see opting out to care for children as a sign of lower commitment to work and even flakiness. Employers are least likely to hire fathers who are caring for children when the job market is competitive. In less competitive markets, 7% of these fictitious stay-at-home dads got interviews. In more competitive ones, fathers received only one-third as many callbacks. By comparison, 5% of mothers received callbacks, and the rate was not affected by how competitive the market was. 
 Whereas mothers who take time off to rear offspring face difficulties when returning to work, opt-out fathers may fare worse, says Scott Behson, author of a book called “The Working Dad’s Survival Guide: How to Succeed at Work and at Home”. America has a workaholic culture, he says. Mothers who put their families first eschew that culture, resulting in costs to their careers. But fathers who do so are violating both the workaholic culture and traditional gender norms. 
 According to the Pew Research Centre, women are the sole or primary breadwinners in 40% of American households, and 15% of mothers with children younger than 18 earn more than their husbands. In heterosexual unions, families often decide that a father should stay at home because he has been laid off from work or the mother has a higher-earning career, says Brad Harrington of the Boston College Centre for Work and Family. In 2016, 6% of fathers were stay-at-home. That number is likely to grow as women achieve higher levels of education than men, and American jobs shift away from male-dominated professions to female-dominated ones. Unless norms about who should be responsible for what change, the opt-out penalty will become a bigger problem as more fathers make the choice to stay at home. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.daddy['dædi]:n. 爸爸 
@@ -47,4 +48,6 @@
 35.brad[bræd]:n. 角钉, 曲头钉 
 36.Harrington[]:n. 哈林顿（姓；人名） n. 哈灵顿（澳大利亚等国家的地名） 
 37.Boston['bɒstәn]:n. 波士顿 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

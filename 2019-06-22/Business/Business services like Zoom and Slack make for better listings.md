@@ -12,6 +12,7 @@
 ![image](images/20190622_wbc278.png) 
 Admittedly, Slack and the others have so far had an easy ride. They have, in effect, outsourced marketing and sales to tech-obsessed early adopters who proselytise in their workplace until management too becomes a convert and signs a deal. That explains why Slack is hugely popular among startups but not yet among bigger firms. Attracting them requires costly investment in marketing and a proper sales force. The company lost $32m in the first quarter, 28% more than the year before, mainly trying to do just that. 
 To be sure, business-facing startups are less prone than an Uber to burn cash in a single-minded quest for scale. But if investors see hints of Uberification in Slack’s earnings reports, its listing too could disappoint. That in turn may give pause to other startups preparing to go public, including WeWork, an office-rental company seeking a $47bn valuation despite recently posting a quarterly loss of $264m. Today’s dotcom boom may fizzle before it bursts.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.slack[slæk]:n. 松弛, 松懈, 淡季, 闲散, 家常裤 a. 松弛的, 不流畅的, 疏忽的, 无力的, 呆滞的, 软弱的, 漏水的 adv. 马虎地, 缓慢地 vt. 放松, 使缓慢 vi. 松懈, 减弱, 松弛 
@@ -82,4 +83,6 @@
 66.prone[prәun]:a. 俯伏的, 面向下的, 有...倾向的 [医] 旋前的, 伏的, 俯的 
 67.quest[kwest]:n. 探索, 寻求, 调查 v. 寻找, 找, 追寻猎物 
 68.fizzle['fizl]:n. 嘶嘶声, 失败 vi. 发嘶嘶声, 失败 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

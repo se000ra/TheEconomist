@@ -10,6 +10,7 @@
 Officials have long recognised the tourism potential of the colonial-style buildings on Guangzhou’s Shamian island and a nearby river front close to which foreigners first began trading in the 18th century. They are realising that other old districts—foreign-connected or not—have value, too. Xiguan, a residential area that was home to wealthy merchants before the foreigners arrived, now has several local-history museums. Many of its buildings have been listed as protected. Nearby, a stretch of distinctive colonnaded “shop houses”, built in the late 19th and early 20th centuries, is being refurbished. It includes a network of alleyways, known as Yongqing Fang, which has been turned into a leisure zone. One popular attraction is a museum devoted to the late martial-arts actor Bruce Lee in a house where his family lived in the 1940s. It is a sign of growing interest in pre-Communist history. Last year China’s leader, Xi Jinping, toured the area. 
 Some redevelopments cause problems for residents. Many people in Yongqing Fang were moved to make way for the new zone. Some buildings were demolished. The same happened in Shanghai’s Xintiandi district—a pioneer of such redevelopment. That area, which includes the site of the party’s first meeting in 1921, is now ultra-trendy. Shanghai has recently pledged to preserve 90% of its (few) surviving 1920s and 1930s residential lanes. While some areas have been revived, “demolition continues apace”, says Patrick Cranley of Historic Shanghai, a heritage group. 
 Enthusiasm for old districts has been fuelled by television dramas set in the years before the Communists seized power in 1949. Young people like to take selfies in front of buildings redolent of that era. But Ying Zhou of the University of Hong Kong says local officials do not always recognise the importance of authenticity or retaining original features. “Often the bricks are new fakes, the history is concocted,” she says. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.chic[ʃi:k]:n. 漂亮, 别致的款式 a. 漂亮的, 别致的 
@@ -67,4 +68,6 @@
 53.authenticity[.ɒ:θen'tisiti]:n. 可靠性, 真实性 [经] 确实性, 真实性 
 54.fake[feik]:n. 假货, 欺骗, 诡计 a. 假的 vt. 假造, 仿造 vi. 伪装 
 55.concoct[kәn'kɒkt]:vt. 调合, 捏造, 编造 [建] 调制, 混合 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

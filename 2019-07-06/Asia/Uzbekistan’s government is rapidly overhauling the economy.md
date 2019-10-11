@@ -14,6 +14,7 @@
 “They are pushing reforms faster than many of us think possible,” says one Western diplomat. To foster this ambition, Mr Mirziyoyev has drafted experienced émigrés, such as the former investment banker who now heads the stockmarket regulator and the ex-director of the European Bank for Reconstruction and Development who is now minister of trade and investment. It is also relying heavily on the expertise of the IMF, the World Bank and the Asian Development Bank, especially to help pave the way for a crowd of privatisations. 
 “Everything should go through them. They provide transparency and expertise, which we might lack, and have no interest in cheating us,” says Mr Kuchkarov. In the end, it does not matter who owns what as long as everything is above board, he says: “I love the principle of an American supermarket, where every buyer is equal.” 
 But some question how committed the government really is to equality. Kristian Lasslett of Ulster University, in Britain, points out that the mayor of Tashkent is overseeing a big new residential and office development, which firms with ties to him are helping build. Alisher Usmanov, a metals magnate who has become involved in Uzbekistan’s copper and steel industries, recently flew Mr Mirziyoyev on his private jet to meet Vladimir Putin, Russia’s president. A good way to put Uzbeks off Mr Mirziyoyev’s reforms is to give them the impression that changes are being made for the benefit not of the many, but the few. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.overhaul[.әuvә'hɒ:l]:vt. 分解检查, 翻修, 精细检查, 彻底革新 n. 分解检查, 精细检查, 大检修 
@@ -96,4 +97,6 @@
 78.magnate['mægneit]:n. 大官, 巨头 [法] 大官, 权贵, 大资本家 
 79.Vladimir[vlɑ'dimɪr]:n. 弗拉基米尔（古罗斯弗拉基米尔-苏兹达里公国的古都） 
 80.putin['putin]:n. 普京（人名） 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

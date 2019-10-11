@@ -10,6 +10,7 @@
 Conviction rates tell the tale. Whereas in most rich countries 80% or more of those charged with crimes are found guilty, in India the rate is between 40% and 50%—and for cases involving politicians just 6%. In December the Supreme Court was moved by the plight of witnesses for the prosecution of a cult leader accused of rape and murder, who were dropping like flies. It found “the conditions of witnesses in the Indian legal system can be termed ‘pathetic’.” As a stopgap, the court ordered that a witness-protection scheme devised by the home ministry be put into effect in all India’s states within a year. 
 Shiv Singh, a lawyer in Delhi, says the main principle of the scheme, that “protection measures shall be proportionate to the threat” against the witness, is correct. But few states will meet the deadline. Moreover, money for witness-protection can be sent to a place like Unnao, but the chances that local officials will put together a watertight system are very small indeed. Another advocate practising in Delhi, Abhinav Sekhri, recommends normalising an existing procedure whereby magistrates sometimes record witnesses’ initial statements, although this would not necessarily stop them from abjuring these accounts later on. In small towns, time is not on the side of justice. 
 Public outrage also helps. The details of the Unnao case grew so grotesque and the uproar in the media so loud that this month the BJP at last distanced itself from Mr Sengar, saying that he had been expelled from the party. He has been charged not only with rape, but also with orchestrating the arrest of the victim’s father. He and his brother have been charged with the murder of the victim’s father, too. The greater the public indignation and scrutiny, the unlikelier it is that all the witnesses to these alleged crimes will suddenly change their tune or fall under a bus. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Aug[]:abbr. 八月（August） 
@@ -86,4 +87,6 @@
 72.indignation[.indig'neiʃәn]:n. 愤怒, 愤慨, 义愤 
 73.scrutiny['skru:tini]:n. 细看, 仔细检查, 监视, 选票检查 [经] 复查, 评核, 仔细检查 
 74.allege[ә'ledʒ]:vt. 宣称, 主张, 提出, 断言 [法] 断言, 指称, 指证 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

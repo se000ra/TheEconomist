@@ -12,6 +12,7 @@
 Despite this, Mr Frej, a member of a predominantly Jewish left-wing party, Meretz, insists that “to serve the interests of the Arab community, we need to be in coalitions and government. I’m prepared to sit with anyone, except outright racists, to achieve that.” However, Mr Netanyahu’s propaganda works. Even Benny Gantz, leader of Blue and White, the main opposition party, will not say in public that he is prepared to include Arab parties in his coalition if he wins. 
 “How can we endorse as prime minister someone who won’t even talk to us?” asks Ayman Odeh, Israel’s most prominent Arab politician and leader of the Joint List, an electoral alliance of four Arab parties. Nonetheless, in an interview less than four weeks before the election, Mr Odeh said he would be prepared under certain conditions to join a government under Mr Gantz. That suggestion did not go down well. Blue and White, anxious not to anger its Jewish voters, gave Mr Odeh the cold shoulder. Some of his more nationalist Arab colleagues huffily insisted that he was speaking only for himself. 
 In this year’s first election in April the turnout of Arab voters plunged to 49%, from 64% in 2015. This has been ascribed partly to a feeling among Arabs that their votes have no influence, partly to Arab politicians’ focus on nationalist issues at the expense of their constituents’ domestic concerns, and partly to Jewish hostility. Attitudes on the Arab side are beginning to change. But the Jewish side, including most of the centre-left opposition, is still loth to accept Arabs as equal citizens. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Israeli[iz'reili]:a. 以色列的, 以色列人(语)的 n. 以色列人 
@@ -76,4 +77,6 @@
 60.turnout['tә:naut]:n. 聚集的人群, 出席者, 产量 [化] 输出; 产额 
 61.hostility[hɒs'tiliti]:n. 敌意, 敌对, 反对 
 62.loth[lәuθ]:a. 不愿意的, 厌恶的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

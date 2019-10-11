@@ -8,6 +8,7 @@
 On top of this federal taxes must still be paid, even though the product remains illegal under federal law. The federal government declines to allow firms to make deductions for running costs. Cannabis firms are thus taxed on gross profits. The upshot is that legal weed is expensive. Andrew Berman, boss of Harbourside, says your correspondent (should she want to) could get an ounce of cannabis delivered outside his store for $150. In his shop the same product, legally bought, would cost $400. 
 These factors go a long way to explaining California’s incredible shrinking legal cannabis market. Another hindrance is that most cities across the state have decided, initially, not to allow recreational sales. Some cities, like Los Angeles, have allowed shops but have been slow to issue licences. 
 Other states planning to legalise cannabis seem likely to learn from this experience. In June Illinois became the 11th state to legalise recreational use—the law comes into effect at the start of 2020. Despite the problems in the country’s largest legal cannabis market, pot continues to gain acceptance around the country. Lisa Hurwitz, of Grassroots Cannabis, a retailer, says purchases are increasing fastest among the boomer-and-older generations. “They are either rediscovering it or using it for a variety of ailments that they face in older age,” she says. The plant, she says, is useful for everything, from pain to poor sleep to anxiety. It seems that cannabis is moving from the black market to the grey one.■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.cannabis['kænәbis]:n. 大麻 [化] 大麻 
@@ -60,4 +61,6 @@
 48.retailer['ri:teilә]:n. 零售商人, 传播的人 [经] 零售商 
 49.rediscover[.ri:dis'kʌvә]:vt. 重新发现 
 50.ailment['eilmәnt]:n. 病痛, 疾病 [医] 疾病 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

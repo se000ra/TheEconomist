@@ -9,6 +9,7 @@
 Apart from the Litvinenkos, the main character is Mr Putin, who emerges as a kind of sinister ringmaster. His creepy persona reflects the winking mendacity and distracting stunts that typify his real-life rule. Stagecraft mimics statecraft—which is itself a distorted form of entertainment. In a bold scene, the Putin of the play recounts the theatre siege in Moscow in 2002 in which 130 hostages died. “As soon as anyone starts telling a story,” he warns, “they start telling a lie.” The role is “an expression of how easy it is to manipulate and control a population,” says Ms Prebble. “In this case, an audience.” 
 It was over nine years before a judge in the eventual public inquiry found that Mr Putin had “probably” approved Litvinenko’s murder. As Luke Harding, a journalist who wrote the gripping book on which the play is based, says, there is no prospect that the assassins will be extradited from Russia (where one is an MP). But art, he thinks, offers its own form of justice. 
 If so, the reckoning will continue next year, when an opera about the case opens at Grange Park Opera in Surrey. It will allude to Tchaikovsky and Russian football chants, says Wasfi Kani, the company’s boss. And, like the play, it will invoke the “love and betrayal and jeopardy” that all drama craves—and that make Litvinenko’s story enduringly tragic. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.alexander[,æli^'zɑ:ndә]:n. 亚历山大（男子名） 
@@ -107,4 +108,6 @@
 94.jeopardy['dʒepәdi]:n. 危难, 危险 [法] 危险, 危难, 危险处境 
 95.enduringly[ɪn'djʊərɪŋlɪ]:adv. 耐久地, 永久地 
 96.tragic['trædʒik]:a. 悲惨的, 悲剧的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

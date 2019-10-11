@@ -16,6 +16,7 @@
 The primary job of any manager is to help people be more effective in their job. One benefit should be that workers will stay with the company; the main reason they change jobs, according to what they tell Gallup, is for “career growth opportunities”. Workers should get regular feedback from their managers—daily if possible, surveys show. An annual performance review is of little use. 
 But this approach will only work if it comes from the top down. Middle managers tend to emulate their superiors and to respond to incentives; they will coach underlings if this behaviour is reinforced and rewarded. 
 Of course, even the best coaches and managers have to give their employees scope to find their own way, and make their own mistakes. As Yogi Berra put it, “I’m not going to buy my kids an encyclopedia. Let them walk to school like I did.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.bartleby[]:[网络] 巴特比；巴特白；老板是空气 
@@ -76,4 +77,6 @@
 56.underling['ʌndәliŋ]:n. 部下, 下手, 下属 
 57.yogi['jәu^i]:n. 瑜伽派教师, 教瑜伽功者 
 58.encyclopedia[in.saiklәu'pi:diә]:n. 百科全书 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

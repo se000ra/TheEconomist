@@ -11,6 +11,7 @@
 History suggests such dire measures are not generally successful. Governments are tempted to over-issue scrip, as in 18th-century America. As they are less trusted and less liquid than official currency, their value slumps. In California banks eventually refused to accept IOUs. Argentines hoarded pesos, spending scrip as fast as possible (an illustration of Gresham’s law, that bad money drives out good). If much of their income becomes denominated in scrip, the government and private sector would struggle to pay back debt, which is still denominated in the official currency. 
 The danger is compounded by Italy’s membership of a currency union. If mini-BOTs’ sole purpose were to pay off arrears, investors would worry that the true intention was to leave the euro overnight. On June 6th Moody’s, a credit-rating agency, said it would consider them as the first step towards preparing for an exit; even Mr Varoufakis concurs. Investors would sell off government bonds and residents would pull their euros out of banks, destabilising the public finances and banking system. 
 That explains why the technocratic Mr Tria wants to squash the idea, and opposition lawmakers say they would not support it. But Mr Salvini is reluctant to take it off the table just yet. A confrontation with the European Commission over Italy’s public debt is looming. He might hope that considering mini-BOTs signals the country’s willingness to take drastic steps to introduce fiscal stimulus. If it is a threat, the gun is pointing the wrong way. ◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.resurface[ri:'sә:fis]:vi. 重铺路面 vi. 重新露面 
@@ -74,4 +75,6 @@
 59.drastic['dræstik]:a. 激烈的 [医] 峻泻药, 剧烈的 
 60.fiscal['fiskәl]:a. 财政的, 国库的 [经] 财政上的, 会计的, 国库的 
 61.stimulus['stimjulәs]:n. 刺激, 激励, 刺激品 [医] 刺激特, 刺激 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

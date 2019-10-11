@@ -6,6 +6,7 @@
 One evening in June Mr Burnashev called “action” on a Setteekh Sir sequel. These days the film industry is booming in Sakha, which is five times the size of France but has only 1m people. Half of all Russian movies made outside Moscow and St Petersburg are from there. At cinemas in the capital, Yakutsk, local productions often outgross Hollywood blockbusters. In recent years, Yakut directors have been featured at festivals from Berlin to Seoul. 
 This is all the more remarkable given the challenges filmmakers face. First, budgets. Mr Burnashev’s previous film, about a zombie apocalypse triggered by a virus released from melting permafrost, had a budget of just 3.4m roubles ($53,000). Then there are the elements. “The hardest thing to negotiate is nature,” says Anastasia Pitel, an assistant director on Mr Burnashev’s film. Winter temperatures can dip below –50ºC. Camera batteries run out rapidly. In the summer, swarms of mosquitoes emerge from the swampy earth. “When one buzzes in front of the lens, it looks like a horse is galloping across the frame,” Ms Pitel says. Operators must spray rings of bug repellent around their cameras. 
 Yakut identity holds clues to the films’ success. Many are shot in the Yakut language, a Turkic tongue with little resemblance to Russian. Scripts draw heavily on Yakut folklore, a tradition rich with fantasy, mysticism and otherworldly realms. Beat that, Hollywood. 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.zombie['zɔmbi]:n. 蛇神, 起死回生的魔力, 僵尸, 回魂尸, (美)鸡尾酒, 木鸡, 讨厌的家伙 [计] 僵尸 
@@ -48,4 +49,6 @@
 38.folklore['fәuklɒ:]:n. 民俗学, 民间风俗, 民间传说 
 39.mysticism['mistisizm]:n. 神秘, 神秘教, 模糊思想 
 40.otherworldly['ʌðә'wә:ldli]:a. 来世的, 阴间的, 空想的, 超自然的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

@@ -9,6 +9,7 @@
 The latest outbreak of this row is especially worrying because it is infecting areas that had previously been immune to it. South Korea’s willingness to curb intelligence-sharing is unnerving, given the gravity and immediacy of the threat from North Korea in particular. But equally troubling is the alacrity with which Japan imposed trade sanctions. South Korean chipmakers have not had any trouble getting hold of the chemicals they need so far but, by imposing export restrictions, Japan seems to be signalling that it could at any moment cripple South Korea’s biggest industry—a wildly aggressive, disproportionate threat. 
 Japan and South Korea need to wake up to their real interests, but Mr Trump also has a duty to help. He is partly to blame for this mess. His enthusiasm for using tariffs and other trade restrictions to compel governments to bow to his will has established a dangerous pattern of behaviour, which Shinzo Abe seems all too happy to follow. Neither has Mr Trump been prepared to take on the role America used to play in Asian rows, of knocking heads together. “How many things do I have to get involved in?” he moaned, when asked whether he was prepared to mediate. 
 The network of alliances that America has built up in Asia to counter not just North Korea, but also China, has been hugely valuable to regional and global stability. Without careful maintenance, it risks disintegrating. If Mr Trump really wants to persuade North Korea and China to behave well, he should start by getting his allies to respect each other. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Korea[kә'riә]:n. 朝鲜, 韩国 
@@ -62,4 +63,6 @@
 49.regional['ri:dʒәnәl]:a. 地方的, 地域性的 [医] 区的, 部位的 
 50.disintegrate[dis'intigreit]:vt. (使)分解, (使)碎裂 [医] 分解, 分裂, 蜕变 
 51.ally['ælai. ә'lai]:n. 同盟者, 同盟国, 助手 vt. 使联盟, 使联合, 使有关系 vi. 结盟 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

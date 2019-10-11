@@ -9,6 +9,7 @@
 Providing the education, infrastructure and social safety net that support a prosperous middle class requires substantial tax revenue. For the system to hold a third pillar is needed: large firms that are not very mobile. Before recent rapid globalisation that was no problem. Yet even now firms are more rooted than commonly thought. Though multinationals are adept at shifting production and profits around the world, in a knowledge economy leading firms cannot break their connections to networks of skilled individuals like those in London, New York or Silicon Valley. Their complex business plans and frontier technologies require the know-how developed and dispersed through these local networks. That increases the power of the state relative to firms, and allows it to tax and spend. 
 Quibble with the details, but the overarching story—immobile companies giving governments a degree of sovereignty, which they self-interestedly use to boost the middle classes—seems a plausible account of the stability of advanced capitalist democracies. It leaves plenty to be concerned about, however. It hinges on the middle classes feeling confident about the economy. A sharp slowdown in growth in real median incomes, as in America and Britain in recent years, might not send voters rushing to the barricades, but could strengthen the appeal of movements that threaten to disturb the status quo. Governments, too, are becoming less responsive to middle-class priorities. America’s is too dysfunctional, and Britain’s too distracted by Brexit, to focus on improving education, infrastructure and the competitiveness of markets. 
 Demographic change might also take a toll: older and whiter generations may not much care whether a would-be middle class that does not look like them has opportunities to advance or not. Then, too, the authors may have underestimated the corrosive effect of inequality. Threatening to leave is not the only way the rich can wield power. They control mass media, fund think-tanks and spend on or become political candidates. Proud democracies may well survive this period of turmoil. But it would be a mistake to assume survival is foreordained.◼ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.compatible[kәm'pætәbl]:a. 能共处的, 可并立的, 适合的 [计] 相容的; 兼容的 
@@ -99,4 +100,6 @@
 86.corrosive[kә'rәusiv]:a. 腐蚀的, 腐蚀性的, 有害的 n. 腐蚀物, 腐蚀剂 
 87.wield[wi:ld]:vt. 挥舞, 运用 
 88.turmoil['tә:mɒil]:n. 骚动, 混乱 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

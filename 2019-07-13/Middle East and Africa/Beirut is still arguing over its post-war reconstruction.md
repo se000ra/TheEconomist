@@ -7,6 +7,7 @@
 For the project’s supporters, it is enough that Beirut has revived at all. The war had left Lebanon bankrupt. So a building magnate, Rafik Hariri, was elected its prime minister. He let Solidere, a new company in which he was a shareholder, requisition chunks of land in the centre. But before he was assassinated in 2005, he equipped the city centre with its own electricity and fibre-optic network, while the rest of Beirut suffered blackouts and a snail-paced internet. Hariri built tunnels en route to the airport, avoiding hellish traffic jams. Devastated churches and mosques rose up again. The Place de l’Etoile, a star-shaped plaza with a clock-tower in the middle, resurfaced as if the war had never happened. “Solidere brought Beirut back from the dead,” says Jamal Saghir, a Lebanese former bigwig at the World Bank. 
 But critics say Solidere ousted ordinary folk—and destroyed more houses than the war had done. It aimed to attract a new class of people with the new, pricey buildings. Glitzy stores selling Gucci bags pushed out local schools and old shops. Politicians, including Hariri’s son Saad, Lebanon’s present prime minister, took up residence behind barricades guarded by private-security firms. “But you have to imagine how keen Lebanese were to get on with things and erase the memory of the war,” explains one of its planners. 
 Still, Place de l’Etoile feels as empty as it once did when it was a no-man’s-land that people scuttled across for fear of snipers. It serves as a buffer between the Christian, Sunni and Shia zones into which the war divided the city. “Reconstruction destroyed downtown as a space for mixing,” says Mona Fawaz, a professor of urban planning at the American University in Beirut. “It finished the work of the war.” 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.Lebanon['lebәnәn]:n. 黎巴嫩 
@@ -71,4 +72,6 @@
 60.reconstruction[.ri:kәn'strʌkʃәn]:n. 改造, 再建 [医] 改建, 改造, 翻造 
 61.mona['mәjnә,'mɔ:nɑ:]:n. [动]白腹长尾猴；莫娜（女子名） 
 62.fawaz[]:n. (Fawaz)人名；(阿拉伯)法瓦兹 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

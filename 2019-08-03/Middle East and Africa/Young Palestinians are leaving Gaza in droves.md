@@ -10,6 +10,7 @@
 Emigration has long carried a stigma among some Palestinians, a people who have fought for generations to stay on their land. Hamas does not release statistics on emigration, lest they highlight how bad life in Gaza has become during its rule. But those leaving seem to be mostly recent university graduates. Youth unemployment is thought to be about 70%. Earlier this year the education ministry advertised 300 new teaching positions. It received 43,000 applications. Those who do find work are often stuck in dead-end jobs. “I’ve been at the same company for eight years and I only earn $250 a month,” says Alaa Abu Aqleh, a business graduate also waiting to board a bus. That is half of what a low-wage job in Ramallah would pay, to say nothing of work in the Gulf. 
 Not surprisingly, doctors in Gaza say dozens of their colleagues have left in recent months. Apart from low pay, medical staff must cope with daily blackouts and routine shortages of everything from baby formula to cancer drugs. Worried about a shortage of doctors, Hamas has stopped issuing them with travel permits. A poll in December found that 48% of Gaza residents want to emigrate, compared with 22% in the West Bank. “Pessimism is spreading over every corner of this place,” says Sameer Abu Mudallala, an economics professor at Al-Azhar University in Gaza. 
 Egypt still caps the number of daily travellers at around 300. A waiting list runs to more than 10,000 people. Young men in particular struggle to obtain permits because of security concerns on the Egyptian side. To jump the queue Gazans pay the tanseeq, or “co-ordination”, a polite euphemism for a bribe. Brokers in Gaza collect it and distribute the money to officers in Egypt. (Hamas is also thought to take a cut, though it denies this.) Prices start at $1,000, almost triple the average monthly wage. Families sell land or gold to get their sons across. “It’s ironic. The main issue, for a long time, was for Palestinians to return home. It was a dream,” says Mr Abu Mudallala. “Now we’re paying money to leave.” ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.exodus['eksәdәs]:n. 大批的离去 [法] 退出, 大批离去, 成一外出 
@@ -51,4 +52,6 @@
 37.broker['brәukә]:n. 掮客, 经纪人 [经] 经纪人, 掮客 
 38.triple['tripl]:n. 三倍数, 三个一组 a. 三倍的 vt. 使增至三倍 vi. 增至三倍 
 39.ironic[aiә'rɔnik]:a. 冷嘲的, 挖苦的, 反话的, 讽刺的, 令人啼笑皆非的, 出乎意料的 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 

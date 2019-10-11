@@ -10,6 +10,7 @@
 Despite that, Hitler’s stuttering war machine was repeatedly halted, bloodied and on occasion even defeated by the Polish defenders. The myth of invincible Blitzkrieg was burnished, self-interestedly, by the Nazis themselves. For their part, the Western allies, Britain and France, portrayed Poland as a hopeless cause to justify their defence of their ally “using vowels and consonants alone”. One of many striking anecdotes on this score concerns Britain’s reluctance to bomb Germany—on the ground (seriously) that it risked damaging private property. 
 Kremlin self-interest skewed the story, too. Stalin’s march into eastern Poland, under a secret deal with Hitler, was justified on the (fictitious) basis that the Polish state had already ceased to exist, and that only Soviet intervention could restore order. In fact, the savagery of the Soviet occupiers matched, and sometimes even exceeded, that of the Nazis. Both invaders, writes Mr Moorhouse, applied a “brutal, binary, totalitarian logic: a racist binary in the German case, a class binary in the Soviet.” In the eyes of the Nazis, a circumcised penis justified execution. For the Soviets, a soft, uncallused palm signalled an intellectual who ought to be eliminated. In all, 5.5m Polish citizens (including 3m Jews), or a fifth of the entire pre-war population, would perish. 
 The surrender of Poland’s regular forces on October 6th did not mark the end of the fighting. A well-organised underground army, reporting to the government-in-exile in London, continued the struggle until the further and final betrayal of Poland’s interests by the Western allies at Yalta. It all deserves more than the simplistic but widespread caricature of a country which met the invading tanks with a cavalry charge. As Mr Moorhouse admirably explains, Poland’s cavalry was in fact remarkably effective. The blame for defeat, and for the subsequent distortion and neglect of Poland’s story, lies elsewhere. ■ 
+<<<<<<< HEAD
 -- 
  单词注释:
 1.heroism['herәuizm]:n. 英勇, 勇敢事迹, 豪侠行为 
@@ -94,4 +95,6 @@
 80.admirably['ædmәrәbli]:adv. 极好地, 美好地 
 81.remarkably[ri'mɑ:kәbli]:adv. 显著地, 引人注目地, 非常地 
 82.distortion[dis'tɒ:ʃәn]:n. 扭曲, 变形, 曲解 [计] 畸变; 失真 
+=======
+>>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
 
