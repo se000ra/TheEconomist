@@ -1,0 +1,12 @@
+###### Field notes
+# Finland’s basic-income trial did not much affect work incentives 
+##### But it made participants happier 
+![image](images/20190216_fnp503.jpg) 
+> Feb 14th 2019 
+ 
+AMONG THE adherents of universal basic income (UBI) are the Italian government, India’s opposition party and Alexandria Ocasio-Cortez, a Democratic congresswoman in America. Boosters argue that a minimum income would be a safety-net for people in precarious jobs—eg, those at risk of being displaced by automation. Others see a way of eliminating complex, even corrupt, social-security bureaucracies. 
+Naysayers, horrified by the potential cost of UBI, fret that state handouts will put recipients off work. Early results from Finland’s basic-income experiment, released on February 8th, suggest that such fears are overdone, but don’t resolve much else. 
+Researchers randomly chose 2,000 people on the dole to receive for two years a monthly payment of €560 ($634) instead, whether or not they sought or started work. After a year, recipients were no less likely to be working than those on the dole. On average, both groups worked nearly 50 days a year and earned around €4,250. 
+Some UBI supporters may be disappointed that the scheme did not increase time worked. Unlike other benefits, which are withdrawn as claimants find work and so tend to discourage them from accepting a job offer, the basic income creates no such disincentive, because it is paid even after claimants take up work. But most proponents do not see employment as UBI’s primary goal. They will be cheered by the fact that the participants reported being happier. 
+There are limits to the lessons from the experiment. The results only assess its first year. Even the trial’s full two-year duration—a time period settled on because of a lack of resources, and ministerial impatience—may not be enough to observe changes to behaviour, says Minna Ylikännö, a researcher on the project. The scheme was also restricted to the unemployed. Other pilots, such as that funded by Y Combinator, a startup accelerator, in America, will also shed light on how low earners might respond if they are paid a basic income. Evidence so far is scant. But that has not stopped Italy, which begins its “citizens’ income” scheme—a variant paying €780 a month to those living below the poverty line—in the spring. True believers need no proof. 
+

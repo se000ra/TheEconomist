@@ -1,0 +1,12 @@
+###### America’s House of Representatives
+# The failure of gerrymandering 
+##### How educated, suburban whites ended the over-representation of Republicans 
+> Jan 5th 2019 
+EVER SINCE district borders in America’s House of Representatives were redrawn in 2011, Republicans’ share of seats has exceeded their proportion of the vote. In 2012 Democrats won 51% of the two-party vote but just 46% of seats. 
+The Congress that began on January 3rd, however, has no such imbalance. Democrats won 54% of the total two-party vote—and also 54% of House seats. Whatever became of the vaunted pro-Republican bias? 
+America’s political geography is shaped by education. In presidential contests the most influential voters are whites without college degrees, who cluster in “swing” states. By contrast, in House elections, white college graduates are unusually valuable, congregating in suburban districts where both parties are competitive. 
+Donald Trump has rearranged American politics, by courting working-class whites and alienating educated ones. That helped Republicans win the presidency. It should have hurt them in the House. But in 2016 the party got the best of both worlds, because many conservative whites with degrees split their tickets. In states whose presidential winner was never in doubt, they chose Hillary Clinton. But perhaps because they expected her to win and wanted a check on her power, they backed House Republicans in narrowly decided districts. 
+That changed in 2018, when educated whites abandoned Republican House candidates. Because Democrats were already competitive in suburbs, they needed only small swings. They won 13 of the 15 Republican-held districts where a majority of white voters have college degrees. That made the Democratic vote more efficient. In 2016 the party won 17 seats by single-digit margins; this time they took 40. 
+And what about gerrymandering, widely thought to protect incumbents? Republicans did draw the borders of more districts than Democrats did. But they only ran the process in 37% of seats. Of the 42 seats the party lost, it had gerrymandered just nine. 
+Those nine seats, however, show that extreme gerrymandering is risky. Many Republican mapmakers tried to neutralise Democratic voters by burying them in suburban districts full of educated whites. They never imagined that this ruse would backfire, but Mr Trump drove these once-loyal Republicans into Democrats’ arms. 
+
