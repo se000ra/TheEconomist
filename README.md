@@ -1,6 +1,6 @@
 # TheEconomist
 
-经济学人MarkDown版文章2019
+经济学人MarkDown版文章2019-10
 
 欢迎关注公众号：
 
